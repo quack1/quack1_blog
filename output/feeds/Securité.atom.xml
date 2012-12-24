@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Quack1@Blog</title><link href="http://quack1.no-ip.org/" rel="alternate"></link><link href="http://quack1.no-ip.org/feeds/Securit%C3%A9.atom.xml" rel="self"></link><id>http://quack1.no-ip.org/</id><updated>2012-03-01T23:58:00+01:00</updated><entry><title>Analyser ses mails pour se désabonner des spams et newsletter</title><link href="http://quack1.no-ip.org/analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html" rel="alternate"></link><updated>2012-03-01T23:58:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-01:analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html</id><summary type="html">&lt;p&gt;&lt;img alt="Unsubscribr Results" src="static/upload/unsubscribr-results.png" title="Unsubscribr Results" /&gt;&lt;/p&gt;
+&lt;p&gt;Marre d'avoir sa boite mail pleine de mails de newsletter ou de spam ?&lt;/p&gt;
+&lt;p&gt;Voici &lt;a href="https://unsubscribr.com/" title="https://unsubscribr.com/"&gt;Unsubscribr.com&lt;/a&gt;, un petit service online qui va analyser vos
+mails et en retirez tous les expéditeurs de newsletters ou de spams, et
+qui va vous fournir automatiquement les liens de désabonnement.&lt;/p&gt;
+&lt;p&gt;Ce service existe en deux versions. L'une, gratuite, qui analyse
+seulement votre inbox sur les 5 derniers jours. La seconde version coûte
+(seulement) 2€, et permet d'analyser sur les 30 derniers jours tous vos
+dossiers de mail.&lt;/p&gt;
+&lt;p&gt;Pour ceci, cliquez &lt;a href="https://unsubscribr.com/" title="https://unsubscribr.com/"&gt;ici&lt;/a&gt;, entrez votre adresse mail,
+donnez l'autorisation au site d'accéder à vos mails, puis patientez
+quelques secondes pour obtenir les liens de désabonnement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;L'accès aux mails est sécurisé par la technologie &lt;a href="http://en.wikipedia.org/wiki/OAuth" title="http://en.wikipedia.org/wiki/OAuth"&gt;OAuth&lt;/a&gt;. Vous ne
+donnez pas votre mot de passe au site, seulement un accès aux mails si
+le serveur de mail supporte cette méthode&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lifehacker.com/5889577/unsubscribr-crawls-through-your-email-and-provides-a-one-click-unsubscribe-button" title="http://lifehacker.com/5889577/unsubscribr-crawls-through-your-email-and-provides-a-one-click-unsubscribe-button"&gt;Source&lt;/a&gt; et &lt;a href="http://main.makeuseoflimited.netdna-cdn.com/wp-content/static/uploads/2012/02/unsubscribr-results.png?323f2c" title="http://main.makeuseoflimited.netdna-cdn.com/wp-content/static/uploads/2012/02/unsubscribr-results.png?323f2c"&gt;Image&lt;/a&gt;&lt;/p&gt;</summary><category term="desabonnement"></category><category term="mail"></category><category term="newsletter"></category><category term="spam"></category><category term="unsubscribr.com"></category></entry><entry><title>Vérifier la sécurité de vos mots de passe</title><link href="http://quack1.no-ip.org/verifier-la-securite-de-vos-mots-de-passe.html" rel="alternate"></link><updated>2012-02-15T23:56:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:verifier-la-securite-de-vos-mots-de-passe.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/pass.png"&gt;&lt;img src="upload/pass.png" width="300" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+Ce soir, deux petits liens pour tester la sécurité de vos mots de passe,
+pierre angulaire de toute la sécurité en informatique.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="http://www.passwordmeter.com/" title="PasswordMeter"&gt;PasswordMeter&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Le premier &lt;a href="http://www.passwordmeter.com/" title="PasswordMeter"&gt;lien&lt;/a&gt; est un site qui évalue la qualité de
+votre mot de passe suivant plusieurs critères, comme sa longueur, la
+présence de chiffres, majuscules, symboles, les suites de caractères,
+les suites de chiffres, etc...&lt;/p&gt;
+&lt;p&gt;La sécurité du mot de passe est donné sous la forme d'un pourcentage de
+sécurisation. Attention, ce n'est pas parce que vous avez obtenu 100%
+que votre mot de passe ne pourra pas être cassé, cela signifie qu'il y a
+potentiellement moins de chances pour qu'il puisse être trouvé...&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/password-reuse-visualizer/" title="Password Reuse Visualizer"&gt;Password Reuse Visualizer&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Ce second &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/password-reuse-visualizer/" title="Password Reuse Visualizer"&gt;lien&lt;/a&gt; est une add-on qui analyse
+tous les mots de passe enregistrés dans Firefox. Il est recommandé de ne
+pas utiliser le même mot de passe sur plusieurs sites, afin de limiter
+les risques.&lt;/p&gt;
+&lt;p&gt;C'est là tout le travail de ce plugin. Il analyse tous les mots de passe
+que vous avez stocké dans Firefox, puis produit une carte comme celle-ci
+dessous avec le résultat. Chaque point vert représente un mot de passe,
+les points bleus sont les sites web qui utilisent les dits-mots de
+passe. Des liaisons orange existent entre deux mots de passe quand ils
+sont très similaires.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/password_reuse.png"&gt;&lt;img src="upload/password_reuse.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;En théorie, il faudrait avoir un seul point bleu relié à chaque point
+vert. En pratique, c'est souvent compliqué de se souvenir de plusieurs
+dizaines, voire de plusieurs centaines de mots de passe. Évitez au moins
+de ne pas utiliser le même mot de passe sur le site de votre banque et
+sur des sites sur lesquels vous partagez des fichiers avec vos amis....&lt;/p&gt;
+&lt;p&gt;Pour installer l'add-on, cliquez sur le lien plus haut, puis sur &lt;em&gt;Add to
+Firefox&lt;/em&gt;. Une fois l'installation terminée, un petit cadenas bleu sera
+apparu en bas à droite de Firefox. Cliquez une fois dessus, et votre
+&lt;em&gt;Password-Map&lt;/em&gt; apparaîtra comme par magie :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.crazyws.fr/mozilla/une-extension-qui-illustre-la-reutilisation-de-mots-de-passe-UNGW3.html" title="Crazy WS - Reutilisation des mots de passe"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="firefox"></category><category term="mot de passe"></category><category term="Password Reuse Visualizer"></category><category term="passwordmeter"></category></entry><entry><title>Ma clé publique PGP</title><link href="http://quack1.no-ip.org/ma-cle-publique-pgp.html" rel="alternate"></link><updated>2012-01-25T16:43:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-01-25:ma-cle-publique-pgp.html</id><summary type="html">&lt;p&gt;Pour ceux qui souhaitent des contacts chiffrés avec moi, voici ma clé
+publique PGP (générée avec GnuPG) pour des échanges de mails ou fichiers
+sécurisés ;)&lt;/p&gt;
+&lt;pre&gt;
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+mQENBE8gLxEBCADobELi4fqF2grFJRr1sdTpYzPJ/xWLjpHip65ai/rQ3HAve/al
+yto/5uyPXZ6fzkl5ym1bYadlLt4j6UtDXic0RQ26Vnt+N8LKLfbVBQPqwCcw6sC4
+J2Wknb8McBJxBNRXGE9xl9b3SDNPpxz4q0LmxpdKbxtKJP+iA0HrezMTqtDhxVje
+f01HCm5qDVxeXtxt4puTW0se+EeHX0MoxKaDLzEuHoPB7IWqYKlz0yaDMhwx5OXr
+GXEHNAKEWPLwYuN5lX1PSnPCG5L5zUmSU5gIwI+Wm1HRMMiiaoX8Uc5iaopDZK96
+EBzF8Jl5PZzBlaKIaG78zQ2URAOrVhCcwqXLABEBAAG0LUFsZXhhbmRyZSBERUxP
+VVAgPGFsZXhhbmRyZS5kZWxvdXBAZ21haWwuY29tPokBOAQTAQIAIgUCTyAvEQIb
+AwYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQC09QfKJrlc3L/wf+MTr3N25q
+BV2/KUXaiGZaYPsPtC1mulXNXTkKdC5afAiqyGLWDHMtBaml/x3b62VB4o9gGOVX
+kuPBMdzEyCJ5kvBTnmCHgqk9tDVozwa90KEb3R9YAD4fcRvVn8MZYHZSyrCWfzfC
+FSgRPhPQ2Ngzy4+rKiiAoNuFZlyShyNZtZUrtyoZ3zsKeU7lFnQJ4aG1xd9j92Aa
+xL4Zxltj46qTXxG6Ql+0HQt/OdUGTpesoB2nlinZRPij2zRruiJFimmuEKEJkzvN
+82pdqZKnYIIHSE+tEcOgvkj8lM96xPFj1Dfx4cHkZa7wk7KB71b5ZMMurnPVYz1z
+/lYNNFFb7DygQbkBDQRPIC8RAQgAsY2dODg5EK7g6KlPjWxo4Nqy3KLFj4p6qFw8
+f8XaFjWp0jj/4f/gY7XAh6tgPSdlUPRTY6zjYHeEZLJEv+rxekvVUG7TcwpiTwDR
+AKHYb1svAL1ZZe+yB3ob+5+yahf+4QWoeTyaSwmMu5du0l19luNA35w86J24TQVJ
+zqPtBEqZPCTjsPDknxQd7Ikd+h16zUD86obhicCHAHlNo1R09StiGg69aCoVC+7g
+gf9wstkQvXULWoaaByEwYVbpjaK0TMJnwTFcpDnvoKXcrt0rv8zZAwrNXdr7nPoP
+TrFTl8mG6AxNQ8Ab2MoPRLt1he7NdAgZJ/c/SxOgSfvEOU6C5QARAQABiQEfBBgB
+AgAJBQJPIC8RAhsMAAoJEAtPUHyia5XNFjkH/3KRMlBS3IiO2gW4A2qqn0FGKwyn
+Yif5r1hdZjVywo/qn5ofSCOlUOmXfbsd3ctJw4ArvFhUjJtfgl3P9hmSNyyF5zrn
+AqF/vkfEZb9JQs71P/DovY6hjSrx9KbKemFD/lQJtXgGcGq2zZNgPiLosB3XyF4n
+iU+4pMLWBWZQ6/H3v+jDZ27IVmP5K0AQjGug10oUTDGkGIHj3CLIp7jfWcLVS0gp
+Kz7OtgeuSj8Ak2PV7t7rcrOSRuuM7wVtXXFTe+a9VAB5yuW+L3VxYATMs5lFe29U
+BcURtCKDKIj5qUEn7PPF0GNDuYR+UW9uCzCOPbZfShVs+gh5JP18cHD880I=
+=2Slw
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/pre&gt;</summary><category term="chiffrement"></category><category term="clé"></category><category term="gpg"></category></entry></feed>

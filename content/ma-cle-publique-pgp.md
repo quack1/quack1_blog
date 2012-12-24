@@ -1,0 +1,42 @@
+Title: Ma clé publique PGP
+Date: 2012-01-25 16:43
+Author: Quack1
+Category: Securité
+Tags: chiffrement, clé, gpg
+
+Pour ceux qui souhaitent des contacts chiffrés avec moi, voici ma clé
+publique PGP (générée avec GnuPG) pour des échanges de mails ou fichiers
+sécurisés ;)
+
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+mQENBE8gLxEBCADobELi4fqF2grFJRr1sdTpYzPJ/xWLjpHip65ai/rQ3HAve/al
+yto/5uyPXZ6fzkl5ym1bYadlLt4j6UtDXic0RQ26Vnt+N8LKLfbVBQPqwCcw6sC4
+J2Wknb8McBJxBNRXGE9xl9b3SDNPpxz4q0LmxpdKbxtKJP+iA0HrezMTqtDhxVje
+f01HCm5qDVxeXtxt4puTW0se+EeHX0MoxKaDLzEuHoPB7IWqYKlz0yaDMhwx5OXr
+GXEHNAKEWPLwYuN5lX1PSnPCG5L5zUmSU5gIwI+Wm1HRMMiiaoX8Uc5iaopDZK96
+EBzF8Jl5PZzBlaKIaG78zQ2URAOrVhCcwqXLABEBAAG0LUFsZXhhbmRyZSBERUxP
+VVAgPGFsZXhhbmRyZS5kZWxvdXBAZ21haWwuY29tPokBOAQTAQIAIgUCTyAvEQIb
+AwYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQC09QfKJrlc3L/wf+MTr3N25q
+BV2/KUXaiGZaYPsPtC1mulXNXTkKdC5afAiqyGLWDHMtBaml/x3b62VB4o9gGOVX
+kuPBMdzEyCJ5kvBTnmCHgqk9tDVozwa90KEb3R9YAD4fcRvVn8MZYHZSyrCWfzfC
+FSgRPhPQ2Ngzy4+rKiiAoNuFZlyShyNZtZUrtyoZ3zsKeU7lFnQJ4aG1xd9j92Aa
+xL4Zxltj46qTXxG6Ql+0HQt/OdUGTpesoB2nlinZRPij2zRruiJFimmuEKEJkzvN
+82pdqZKnYIIHSE+tEcOgvkj8lM96xPFj1Dfx4cHkZa7wk7KB71b5ZMMurnPVYz1z
+/lYNNFFb7DygQbkBDQRPIC8RAQgAsY2dODg5EK7g6KlPjWxo4Nqy3KLFj4p6qFw8
+f8XaFjWp0jj/4f/gY7XAh6tgPSdlUPRTY6zjYHeEZLJEv+rxekvVUG7TcwpiTwDR
+AKHYb1svAL1ZZe+yB3ob+5+yahf+4QWoeTyaSwmMu5du0l19luNA35w86J24TQVJ
+zqPtBEqZPCTjsPDknxQd7Ikd+h16zUD86obhicCHAHlNo1R09StiGg69aCoVC+7g
+gf9wstkQvXULWoaaByEwYVbpjaK0TMJnwTFcpDnvoKXcrt0rv8zZAwrNXdr7nPoP
+TrFTl8mG6AxNQ8Ab2MoPRLt1he7NdAgZJ/c/SxOgSfvEOU6C5QARAQABiQEfBBgB
+AgAJBQJPIC8RAhsMAAoJEAtPUHyia5XNFjkH/3KRMlBS3IiO2gW4A2qqn0FGKwyn
+Yif5r1hdZjVywo/qn5ofSCOlUOmXfbsd3ctJw4ArvFhUjJtfgl3P9hmSNyyF5zrn
+AqF/vkfEZb9JQs71P/DovY6hjSrx9KbKemFD/lQJtXgGcGq2zZNgPiLosB3XyF4n
+iU+4pMLWBWZQ6/H3v+jDZ27IVmP5K0AQjGug10oUTDGkGIHj3CLIp7jfWcLVS0gp
+Kz7OtgeuSj8Ak2PV7t7rcrOSRuuM7wVtXXFTe+a9VAB5yuW+L3VxYATMs5lFe29U
+BcURtCKDKIj5qUEn7PPF0GNDuYR+UW9uCzCOPbZfShVs+gh5JP18cHD880I=
+=2Slw
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>

@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Quack1@Blog</title><link href="http://quack1.no-ip.org/" rel="alternate"></link><link href="http://quack1.no-ip.org/feeds/all-fr.atom.xml" rel="self"></link><id>http://quack1.no-ip.org/</id><updated>2012-12-18T00:16:00+01:00</updated><entry><title>Pentest #1 - La préparation de l'audit</title><link href="http://quack1.no-ip.org/pentest-1-la-preparation-de-laudit.html" rel="alternate"></link><updated>2012-12-18T00:16:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-12-18:pentest-1-la-preparation-de-laudit.html</id><summary type="html">&lt;div align=center&gt;&lt;img src="./static/upload/shaking_hands.png" width="600" align=center /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Premier article de ma série consacrée aux "audits de la sécurité d'un système d'information" ou, terme plus courant, &lt;a href="./tag/serie_pentest.html" title="Tag : serie_pentest"&gt;tests d'intrusion&lt;/a&gt;. :-)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;La préparation d'un test d'intrusion est sûrement une des plus importantes de l'audit, et cela pour une raison simple : c'est à ce moment là que l'on rencontre le(s) client(s).&lt;/p&gt;
+&lt;p&gt;La rencontre avec le client est nécéssaire pour 2 raisons simples : &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Premièrement, il doit nous expliquer ce qu'il veut que l'entreprise audite, dans quelles conditions, et quels résultats il attend ; &lt;/li&gt;
+&lt;li&gt;Ensuite, vient une raison plus terre-à-terre : comme dans &lt;del&gt;toutes&lt;/del&gt; la plupart des entreprises, on ne travaille pas simplement parce que l'on veut travailler, sans ce soucier de l'argent qui rentre dans les caisses. On cherche un minimum à faire gagner de l'argent à notre société. On ne peut donc pas auditer le SI d'une société sans définir le prix (souvent au forfait /jour) de l'audit.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dans ce chapitre, je n'aborderai pas le second point (je ne suis pas auditeur professionnel, et n'ai donc aucune idée de la moyenne des tarifs pratiqués par les sociétés d'audit). Je rentrerai simplement dans les détails de &lt;strong&gt;la préparation de l'audit&lt;/strong&gt;, au moyen des diverses réunions avec le client. Enfin, j'aborderais *&lt;em&gt;les contrats, documents et démarches&lt;/em&gt; qu'il est nécéssaire d'entreprendre afin de pratiquer l'audit dans un cadre légal bien défini.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Se faire auditer : pourquoi ?&lt;/h2&gt;
+&lt;p&gt;À l'heure de l'"hyper-informatisation", je pense qu'il n'y a pas (ou &lt;em&gt;très peu&lt;/em&gt;) d'entreprises qui ne possèdent aucune donnée stockée informatiquement. Toutes ses données, en rapport avec la société, sont ce que l'on nomme, dans le milieu du management de la sécurité, des &lt;strong&gt;biens&lt;/strong&gt;. Dans beaucoup d'entreprises, généralement les petites et moyennes entreprises, on consacre très peu de temps et de personnels à la sécurisation de ces biens, pour la raison simple que cela coûte de l'argent et qu'il faut que tout soit fonctionnel le plus vite possible pour obtenir des bénéfices. &lt;/p&gt;
+&lt;p&gt;Cependant, on oublie également souvent que ces données sont essentielles pour la société. En effet, la recette secrête de la dernière boisson à la mode, le process de fabrication d'un nouveau produit sur un quelconque marché, ou tout autre type de données peut permettre à une entreprise concurrente, si elle venait à entrer en possession de cette information, de nous passer devant en vendant le même produit que nous sans avoir eu à le développer. &lt;/p&gt;
+&lt;p&gt;On se rend bien compte qu'une telle situation pourrait porter préjudice à la chère petite entreprise que M. Michu (oui, le mari de la Mme. du même nom ;-) ) a porté sur ses épaules toutes ses années...&lt;/p&gt;
+&lt;p&gt;On voudrait donc que les biens de cette entreprise soient &lt;strong&gt;sécurisés&lt;/strong&gt;. Mais, question également très importante, que signifie le fait que des données soient &lt;em&gt;sécurisées&lt;/em&gt; ?&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Au niveau de la RSSI, ou &lt;em&gt;Responsabilité de la Sécurité des Systèmes d'Information&lt;/em&gt;, assurer la sécurité des données consiste à garantir 3 propriétés pour nos informations : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Intégrité&lt;/strong&gt; : Les données ne peuvent être modifiées que par des utilisateurs autorisés ;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Confidentialité&lt;/strong&gt; : Les données ne peuvent être lues que par des utilisateurs autorisés ;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disponibilité&lt;/strong&gt; : Les données doivent à tout moment être accessibles pour les utilisateurs autorisés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si, à un moment ou à un autre, vous perdez une de ces 3 caractéristiques, alors vous pouvez affirmer que votre sécurité est compromise. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Cependant, c'est quand même un peu con de devoir attendre de se faire attaquer pour se rendre compte que la sécurité de son SI laisse à désirer. C'est pour cette raison simple qu'il est important de procéder à des tests d'intrusion. De cette façon, des &lt;strong&gt;auditeurs&lt;/strong&gt; réaliseront dans des conditions &lt;strong&gt;très précises&lt;/strong&gt; (voir plus bas) au &lt;strong&gt;état des lieux&lt;/strong&gt; des &lt;strong&gt;faiblesses&lt;/strong&gt; de votre système d'information. Les auditeurs vont pendant un laps de temps donné tenter d'attaquer le système afin de trouver les failles qui pourraient s'y trouver afin de permettre aux administrateurs et développeurs de les combler pour que des attaquant mal intentionnés ne puissent les utiliser.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Il faut en revanche garder une bonne chose en tête : un audit ne sera en aucun cas totalement exhaustif. L'audit ne durant qu'un &lt;strong&gt;temps limité&lt;/strong&gt;, il sera &lt;strong&gt;impossible&lt;/strong&gt; de couvrir la totalité du SI dans l'audit.&lt;/p&gt;
+&lt;p&gt;Il faudra donc, avant le début de l'audit, que les auditeurs et la société auditée se mettent d'accord sur la durée de l'audit et sur ce qui sera audité.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Auditer, oui, mais auditer quoi ?&lt;/h2&gt;
+&lt;p&gt;Comme je vous l'ai dit précédemment, il est très important pour l'entreprise et les auditeurs de se mettre d'accord à l'avance sur plusieurs points : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qu'est ce que&lt;/strong&gt; l'entreprise veut auditer ? (Site, réseau, système, ...)&lt;/li&gt;
+&lt;li&gt;Quel est le &lt;strong&gt;périmètre&lt;/strong&gt; à auditer ? (urls, machines, adresses IP, ...)&lt;/li&gt;
+&lt;li&gt;Quelle est la &lt;strong&gt;durée&lt;/strong&gt; de l'audit ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;La portée de l'audit&lt;/h3&gt;
+&lt;p&gt;Il est primordial pour la société qui se fait auditer de préciser à la société auditrice ce qu'elle veut faire certifier. En effet, il est possible de n'auditer que la dernière application Web que l'on a sorti, ou bien de ne vouloir obtenir que le niveau de sécurité des ordinateurs portables Windows de nos commerciaux. Pour des raisons, souvent de temps ou d'argent, une entreprise pourra préférer réaliser un audit &lt;strong&gt;en plusieurs temps&lt;/strong&gt;, en séparant à chaque fois chaque secteur du système d'information, à savoir les applications Web, puis les serveurs ou le réseau et enfin les postes clients des utilisateurs.&lt;/p&gt;
+&lt;p&gt;Cependant, je pense que cette façon de faire &lt;strong&gt;n&lt;/strong&gt;'est &lt;strong&gt;pas&lt;/strong&gt; la meilleure : les failles sont souvent dûes aux &lt;strong&gt;interactions entre les différentes parties du système&lt;/strong&gt;. Pour preuve, une base de données, si elle est configurée pour n'être accessible que depuis des adresses IP des serveurs connus (typiquement, l'interface locale (127.0.0.1) et l'adresse IP du serveur Web) ne pourra pas être compromise (puisque non accessible) via Internet. &lt;/p&gt;
+&lt;p&gt;De la même façon, une SQL Injection sur une application Web n'a aucun intêret. L'objectif est de compromettre la base de données et/ou de récupérer des informations depuis la BDD via l'application Web.&lt;/p&gt;
+&lt;p&gt;On se rend compte que n'auditer &lt;strong&gt;qu'une partie restreinte&lt;/strong&gt; du Système d'Information (exemple : la sécurité des serveurs de données, non connectés à Internet) peut vite être &lt;strong&gt;inutile&lt;/strong&gt; puisqu'on aboutira à un système sécurisé, alors qu'un autre audit (par exemple, la sécurité physique des installations) pourra &lt;strong&gt;mettre à mal toute la sécurité&lt;/strong&gt; précdemment affirmée.&lt;/p&gt;
+&lt;h3&gt;Le périmètre de l'audit&lt;/h3&gt;
+&lt;p&gt;Cette partie est &lt;strong&gt;très&lt;/strong&gt; importante, puisqu'elle est liée à la législation et aux droits et devoirs des auditeurs. &lt;/p&gt;
+&lt;p&gt;Il faut, dès le début, que les deux acteurs en place délimitent &lt;strong&gt;très clairement&lt;/strong&gt; les parties du système sur lesquelles la société auditrice pourra lancer des attaques. Dans le désordre, et de façon non exhaustive, les choses à définir sont : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour une application Web : Les urls, à quelles parties du SGBD peut-on toucher (Tables, Bases de données, Logiciel), doit-on auditer la configuration du serveur Web et de l'OS de la machine ?&lt;/li&gt;
+&lt;li&gt;Pour un système "complet" : Adresses IP des machines, OS, postes clients et/ou serveurs, configuration des logiciels.&lt;/li&gt;
+&lt;li&gt;Pour un réseau : Points d'accès, méthodes d'authentification, firewalls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dans chacun des cas, on veillera à prévoir si un audit "physique" (accès physique aux machines/données et social engineering) doit/peut être effectué ou non.&lt;/p&gt;
+&lt;p&gt;Je viens de vous affirmer en début de cette partie que définir le périmètre etait très important, mais je ne vous ait pas dit pourquoi. Et bien il faudra attendre encore un peu!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WAIT ! WHAT ?!?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bon, puisque vous insistez, je vais vous le dire tout de suite! ;-) Tout ceci est lié aux droits et aux devoirs des pentesteurs. Lors de l'audit, de très nombreuses attaques vont être menées sur le système audité. Comme vous le verrez dans la dernière partie de cet article, il existe en France plusieurs &lt;strong&gt;lois&lt;/strong&gt; qui &lt;strong&gt;régissent et empêchent&lt;/strong&gt; les attaques contre des systèmes informatiques.&lt;/p&gt;
+&lt;p&gt;Définir un périmètre permet de protéger les auditeurs face à des attaques en justice de la part de la société auditée. Si des attaques sont menées sur des applications/parties citées dans le contrat d'audit, il n'y aura aucun risque de problèmes judiciaires, puisque l'entreprise qui se fera attaquer aura &lt;strong&gt;accepté&lt;/strong&gt; via le contrat de subir des attaques dans le cadre d'un audit. &lt;/p&gt;
+&lt;p&gt;En revanche, toute attaque dans une partie du système qui n'a pas été clairement spécifiée pourra faire l'objet d'une plainte/procès pour cause d'Intrusion dans un Système Informatique.&lt;/p&gt;
+&lt;p&gt;_Notez qu'il faudra également déterminer dans le contrat d'audit quelles seront les adresses IP utilisées lors des attaques afin de séparer les attaques "autorisées" des "véritables" attaques.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Quels droits et quels devoirs pour chacun ?&lt;/h2&gt;
+&lt;p&gt;Comme j'ai commencé à vous le dire dans les 2 parties précédentes, les auditeurs ont des droits et des devoirs précis pour mener à bien l'audit.&lt;/p&gt;
+&lt;p&gt;La rédaction d'un contrat d'audit est indispensable et permet de définir de façon claire ce qui pourra ou non être fait par les différentes parties. N'étant absolument pas expert dans ce domaine, je préfère &lt;a href="http://www.hackersrepublic.org/cultureduhacking/protection-du-pentesteur-contrat" title="Article sur les contrats de pentest d' @Tris_Acatrinei"&gt;vous renvoyer au bon article&lt;/a&gt; d' &lt;a href="http://twitter.com/Tris_Acatrinei" title="@Tris_Acatrinei"&gt;@Tris_Acatrinei&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Concernant la législation en vigueur au niveau des attaques, il est peut-être intéressant de lire les articles &lt;a href="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006418316&amp;amp;cidTexte=LEGITEXT000006070719" title="323-1"&gt;323-1&lt;/a&gt;, &lt;a href="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025585005&amp;amp;cidTexte=LEGITEXT000006070719&amp;amp;dateTexte=20121218&amp;amp;oldAction=rechCodeArticle," title="323-2"&gt;323-2&lt;/a&gt;, &lt;a href="http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=152E1F41773996A15A9697BDF646911C.tpdjo03v_1?idArticle=LEGIARTI000025585002&amp;amp;cidTexte=LEGITEXT000006070719&amp;amp;dateTexte=20121218&amp;amp;categorieLien=id" title="323-3"&gt;323-3&lt;/a&gt; et &lt;a href="http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=152E1F41773996A15A9697BDF646911C.tpdjo03v_1?idArticle=LEGIARTI000006418323&amp;amp;cidTexte=LEGITEXT000006070719&amp;amp;dateTexte=20121218&amp;amp;categorieLien=id" title="323-3-1"&gt;323-3-1&lt;/a&gt; du Codé Pénal. Cependant, si vos audits sont réalisés dans les règles, vous ne devriez pas souffrir de ces articles :-)&lt;/p&gt;
+&lt;p&gt;Je n'ai pas énormément plus d'informations à ce sujet, puisque si vous avez un contrat qui définit clairement ce qui est autorisé ou non, et que vous le respectez à la lettre, vous n'aurez aucun souci à vous faire!&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ceci signe la fin de cet article sur les test d'intrusions, et j'espère que j'aurai abordé tous les points qui touchent à la préparation de l'audit d'un Système d'Information. Si vous souhaitez obtenir plus d'informations, n'hésitez pas à me contacter via &lt;a href="http://twitter.com/_Quack1" title="Twitter @_Quack1"&gt;twitter&lt;/a&gt; ou par &lt;a href="mailto:alexandre.deloup@gmail.com?subject=%5bBlog%5dPentest%201%20Préparation%20de%20l%27audit" title="Mail"&gt;mail&lt;/a&gt;, au besoin en utilisant &lt;a href="./ma-cle-publique-pgp.html" title="Clé GPG"&gt;GPG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On se retrouve pour de nouvelles aventures sur le pentest avec un nouvel article sur la reconnaissance passive des cibles, j'espère avant 2013 ;-)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.plaxo.com/wp-content/static/uploads/2012/04/Shaking_Hands1.jpg" title="Source de l'image d'en-tête"&gt;Image d'en-tête&lt;/a&gt;&lt;/p&gt;</summary><category term="préparation"></category><category term="pentest"></category><category term="serie_pentest"></category></entry><entry><title>Histoires de langues : les Vers Holorimes</title><link href="http://quack1.no-ip.org/histoires-de-langues-les-vers-holorimes.html" rel="alternate"></link><updated>2012-11-27T15:27:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-11-27:histoires-de-langues-les-vers-holorimes.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/holorime_le_chat.png"&gt;&lt;img src="upload/holorime_le_chat.png" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Qui a dit que les matheux ne connaissaient rien à la littérature et aux magnificences de la langue française (et oui, même les geeks utilisent parfois des mots tordus ;-) ) ?&lt;/p&gt;
+&lt;p&gt;En tout cas, je ne le dirais plus, puisqu'en début de semaine, un de mes profs de mathématiques/cryptographie nous a fait la démonstration des &lt;strong&gt;vers holorimes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mais que sont-ce ces choses là ?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Et bien ce sont simplement des vers &lt;strong&gt;homophones&lt;/strong&gt;, qui se prononcent de la même façon, tout en ayant des sens différents. La rime n'est donc plus constituée que d'une ou deux syllabes, mais par la totalité du vers lui même.&lt;/p&gt;
+&lt;p&gt;Son exemple était celui-ci, de Marc Monnier :&lt;/p&gt;
+&lt;pre&gt;
+Gal, amant de la Reine alla, tour magnanime
+galamment de l'arène à la tour Magne à Nimes.
+&lt;/pre&gt;
+
+&lt;p&gt;Je trouvais ça plutôt classe, et même si cela n'a absolument rien à voir avec l'informatique (quoi que, vous verrez plus bas) j'avais bien envie d'en parler ici, au moins pour pouvoir m'en souvenir moi même! :-D&lt;/p&gt;
+&lt;p&gt;Si vous voulez plus d'exemples, vous pouvez jeter un oeil à la page de &lt;a href="https://fr.wikipedia.org/wiki/Vers_holorimes" title="Vers holorimes sur Wikipedia"&gt;Wikipédia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;PS : Si vous voulez connaitre le lien que cela a avec l'informatique, et
+bien sachez que mon prof nous a parlé de ça après avoir écrit la formule
+suivante au tableau :&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/formuleHolorime.png"&gt;&lt;img src="upload/formuleHolorime.png" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;En effet, cette formule est également holorime elle même, puisque les
+deux termes à gauche et à droite de 'a' sont homophones tout en étant
+différents!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://a392.idata.over-blog.com/0/51/39/34/ma-femme.jpg" title="Source Image"&gt;Source Image&lt;/a&gt;&lt;/p&gt;</summary><category term="formule"></category><category term="holorime"></category><category term="marc monnier"></category><category term="victor hugo"></category></entry><entry><title>Pentest #0 - Introduction</title><link href="http://quack1.no-ip.org/pentest-0-introduction.html" rel="alternate"></link><updated>2012-11-09T10:04:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-11-09:pentest-0-introduction.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/pentest_licensed.png"&gt;&lt;img src="upload/pentest_licensed.png" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Il semblerait qu'aujourd'hui le grand sujet à la mode en informatique soit la sécurité. En particulier l'audit et les tests d'intrusion.&lt;/p&gt;
+&lt;p&gt;Tout les gentils Kévin veulent pouvoir devenir un "hacker" pour pouvoir rentrer dans le profil Facebook de leur ex pour voir si elle a trouvé un nouveau mec. 
+À un niveau supérieur, les gens qui connaissent à s'intéresser à la sécurité veulent connaitre toutes les attaques permettant de s'introduire dans un système informatique de manière non-autorisée.&lt;/p&gt;
+&lt;p&gt;À force de creuser le sujet, on se rend compte que l'on peut très facilement trouver à peu près toutes les pistes concernant des outils, ou comment développer les notres, afin d'exploiter des failles dans des versions très précises de logiciels rencontrés lors des tests d'intrusion.&lt;/p&gt;
+&lt;p&gt;En revanche, il existe très peu d'articles ou de documents expliquant dans sa globalité le déroulement d'un test d'intrusion, des premières rencontres avec le client jusqu'au rendu du rapport d'audit.&lt;/p&gt;
+&lt;p&gt;C'est pour cette raison simple (et également pour en garder une trace) que j'ai décidé d'écrire une série d'articles présentant la conduite de l'audit d'un système informatique.&lt;/p&gt;
+&lt;p&gt;Cette série d'articles se présentera, à priori, de la façon suivante :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Premiers contacts avec le client, Contrat(s) d'audit&lt;/li&gt;
+&lt;li&gt;Reconnaissance (passive et publique) de la cible&lt;/li&gt;
+&lt;li&gt;Reconnaissance (active) de la cible&lt;/li&gt;
+&lt;li&gt;Gestion des informations récoltées&lt;/li&gt;
+&lt;li&gt;Recherche de vulnérabilités&lt;/li&gt;
+&lt;li&gt;Rapports de failles&lt;/li&gt;
+&lt;li&gt;Rapport d'audit&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Il se peut (très fortement) que ce plan évolue au cours du temps. En effet, je vais écrire ces articles "à la volée", et je vais donc certainement penser à certaines choses pendant que j'écris les articles, ce qui mènera à l'écriture de nouveaux posts non prévus initialement.&lt;/p&gt;
+&lt;p&gt;Enfin, je ne garantis pas la régularité de la publication de tous ces articles. Mon emploi du temps évoluant très souvent et étant un minimum chargé, je ne peux pas écrire autant que je le voudrais. J'essaierais quand même de publier les articles dans un délai raisonnable, si possible un article toutes les 2 à 3 semaines. Ce qui entrainerai la fin de cette série vers février ou mars 2013. J'espère que je pourrais tenir cette cadence ;-)&lt;/p&gt;
+&lt;p&gt;Dans tous les cas, si vous souhaitez recevoir ces articles lors de leur  publication, n'hésitez pas à vous abonner au &lt;a href="http://quack1.no-ip.org/feeds/all.atom.xml" title="Flux RSS blog"&gt;flux RSS du blog&lt;/a&gt; ou à mon &lt;a href="http://twitter.com/_Quack1" title="Twitter _Quack1"&gt;compte Twitter&lt;/a&gt; sur lequel je publie également les liens des articles lors de leur sortie :-)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notez bien que je ne suis pas auditeur en sécurité, et que par conséquent les élements que je présenterais ici pourront parfois être sujets à modification et/ou amélioration. Je vous remercie d'avance de vos retours dans ces cas là.&lt;/em&gt;&lt;/p&gt;</summary><category term="introduction"></category><category term="pentest"></category><category term="serie_pentest"></category></entry><entry><title>Customisation de mon .bashrc</title><link href="http://quack1.no-ip.org/customisation-de-mon-bashrc.html" rel="alternate"></link><updated>2012-10-05T16:52:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-10-05:customisation-de-mon-bashrc.html</id><summary type="html">&lt;p&gt;Petit article pour me souvenir d'un bout de script que j'ai placé à la
+fin de mon fichier .bashrc, qui me permet d'obtenir 2-3 infos sur mon
+système au lancement d'un terminal. Au menu, la date, l'heure, la
+version de l'OS, du noyau, l'uptime et les adresses IP de mes interfaces
+réseaux. Au final, j'obtiens ce rendu :&lt;/p&gt;
+&lt;p&gt;&lt;img src="static/upload/custombash.png" width="600" align="center" /&gt;&lt;/p&gt;
+&lt;p&gt;Première chose que j'ajoute au fichier de configuration de Bash : la
+définition de quelques couleurs. En effet, ça ne se voit pas beaucoup
+ici, mais les infos affichées en haut du terminal sont en gris clair. Je
+peux donc choisir des couleurs différentes pour chaque machine, et
+pouvoir différencier mes terminaux rapidement.&lt;/p&gt;
+&lt;pre&gt;
+black='e[0;30m'
+blue='e[0;34m'
+green='e[0;32m'
+cyan='e[0;36m'
+red='e[0;31m'
+purple='e[0;35m'
+brown='e[0;33m'
+lightgray='e[0;37m'
+darkgray='e[1;30m'
+lightblue='e[1;34m'
+lightgreen='e[1;32m'
+lightcyan='e[1;36m'
+lightred='e[1;31m'
+lightpurple='e[1;35m'
+yellow='e[1;33m'
+white='e[1;37m'
+nc='e[0m'
+&lt;/pre&gt;
+
+&lt;p&gt;Ensuite, j'ai les deux parties les plus longues du script (au passage,
+si quelqu'un voit comment faire mieux, je suis preneur :-) ). J'affiche
+sous les infos mon login et le nom de ma machine, le tout entouré d'une
+ligne. Le problème, c'est que je peux avoir plusieurs tailles de
+fenêtres, et les traits seraient trop petits ou trop grands. J'ai donc
+une boucle pour n'afficher que le bon nombre de tirets :&lt;/p&gt;
+&lt;pre&gt;
+theUser="───────[$USER@$HOSTNAME]"
+lgth=$(($COLUMNS-${#theUser}))
+i=0
+while [[ $i -lt $lgth ]]; do
+  theUser="$theUser─"
+  (( i += 1 ))
+done
+&lt;/pre&gt;
+
+&lt;p&gt;Ensuite, je cherche à récupérer les adresses IP de mes interfaces
+réseaux. Problème : certaines interfaces n'ont pas d'adresses IP
+définies, et d'autres sont inutilisées (adresses virtuelles de
+communication avec mes VM). J'ai donc un bout de script un peu moche
+avec une boucle et des conditions...&lt;/p&gt;
+&lt;pre&gt;
+ip_adress=""
+for if in eth0 wlan0
+do
+    ip=$(ip addr show dev $if | grep "inet "| awk '{print $2}')
+    if [[ "$ip" ]] 
+    then
+    if [[ -z "$ip_adress" ]]
+    then
+        ip_adress="        ${lightgray}$if : $ip" 
+    else
+        ip_adress="$ip_adressn                    ${lightgray}$if : $ip"
+    fi
+    fi
+done
+ip=$(curl -s 'http://canihazip.com/s/')
+if="IP Publique"
+if [[ "$ip" ]]
+    then
+        if [[ -z "$ip_adress" ]]
+        then
+            ip_adress="        ${lightgray}$if : $ip"
+        else
+            ip_adress="$ip_adressn                    ${lightgray}$if : $ip"
+        fi
+    fi
+if [[ -n ip_adress ]]
+then
+    ip_adress="  Network : $ip_adress"
+fi
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Notez que les espaces permettent juste d'avoir un affichage "propre"
+des valeurs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Enfin, je ne fais qu'afficher les données dans mon terminal avec de la
+substitution de commandes pour afficher les infos utiles :&lt;/p&gt;
+&lt;pre&gt;
+clear
+echo -e ""
+echo -e "  ${lightgray}Today   :         `date`"
+echo -e "  ${lightgray}System  :         `lsb_release -i | cut -f 2` - `lsb_release -c | cut -f 2` - `lsb_release
+ -r | cut -f 2`"
+echo -e "  ${lightgray}Kernel  :         `uname -o` `uname -r` - `uname -m`"
+echo -e "  ${lightgray}Uptime  :        `uptime`"
+echo -e "$ip_adress"
+echo -e "${lightgray}$theUser"
+&lt;/pre&gt;
+
+&lt;p&gt;Tous ces petits bouts de codes ne ralentissent pas (pas trop)
+l'ouverture de mon terminal, seul le curl et les boucles sont un peu
+lents, mais ce n'est pas trop gênant!&lt;/p&gt;
+&lt;p&gt;Tout ceci est basé sur un script écrit par &lt;a href="https://twitter.com/VictorBersy/status/233125380423311361" title="@VictorBersy"&gt;@VictorBersy&lt;/a&gt;.&lt;/p&gt;</summary><category term="bash"></category><category term="customisation"></category><category term="linux"></category><category term="trick"></category></entry><entry><title>Les perles de @climagic (et co)</title><link href="http://quack1.no-ip.org/les-perles-de-climagic-et-co.html" rel="alternate"></link><updated>2012-09-25T21:47:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-09-25:les-perles-de-climagic-et-co.html</id><summary type="html">&lt;p&gt;Ça commence à faire un ~~petit~~ bon moment (juste 3 ou 4 mois) que je
+n'ai rien publié sur ce blog. Un retour tout en douceur s'impose donc,
+et pour cela, je vais faire d'une pierre deux coups, puisque je vais
+également vider mes favoris &lt;a href="http://twitter.com/_Quack1" title="@_Quack1"&gt;Twitter&lt;/a&gt; :-)&lt;/p&gt;
+&lt;p&gt;En effet, depuis pas mal de temps, je follow le compte &lt;a href="https://twitter.com/climagic" title="@climagic"&gt;@climagic&lt;/a&gt;,
+qui publie plusieurs fois par jour des commandes bash un peu "tunées"
+qui permettent de réaliser des actions souvent utiles, parfois drôles,et
+de temps en temps totalement inutiles (et de fait, Oh combien
+nécessaires dans les alias de tout bon admin système :D ). Et comme je
+trouve souvent ces commandes plutôt cools, je les mets dans mes favoris
+Twitter pour m'en rappeler et les rajouter dans mes alias par la suite.
+Sauf que, comme tout bon g33k qui se respecte, je n'avais encore jamais
+fait de tri là dedans et je me retrouve avec une liste de favoris énorme
+(CTB, oui, je sais... :P ).&lt;/p&gt;
+&lt;p&gt;J'ai donc testé tout ce que j'avais, pour ne garder que la crème de la
+crème , autant pour vous que pour moi (comme ça, j'en garde une trace!).
+~~Et vu que je suis sympa, je vais vous filer un petit script à la fin
+qui rajoutera tout ces alias à votre &lt;em&gt;.bashrc&lt;/em&gt; :-).~~ EDIT : finalement,
+j'avais trop de commandes, la flemme de faire un script ce soir, je
+verrais plus tard.. :P&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer : Les commandes présentées ici sont toutes, sauf mention
+contraire, l'oeuvre de &lt;a href="https://twitter.com/climagic" title="@climagic"&gt;@climagic&lt;/a&gt; et tous les droits lui reviennent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer 2 : Certaines des commandes présentées ici sont très
+simples et connues de beaucoup de barbus, cependant, elles pourraient
+être utiles à des gens qui débutent sous Unix-GNU/Linux et qui ne
+connaissent pas tous les rouages de la chose :)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;$ mkdir -p maildir/{tmp,cur,new}&lt;/code&gt; : Utilisation des accolades "{", qui
+    permettent d'appeler la commande successivement avec toutes les
+    valeurs entre les accolades, séparées par des virgules. En réalité,
+    la commande équivaut à &lt;code&gt;mkdir -p maildir/tmp; mkdir -p maildir/cur; mkdir -p maildir/new ;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sed '/\^$/d' prog.c &gt;
+    proc-condensed.c&lt;em&gt; &lt;/code&gt;: Récupère toutes les lignes non vides
+    (excodession régulière '\^$/d') du fichier &lt;/em&gt;prog.c&lt;em&gt; et place le
+    résultat dans &lt;/em&gt;prog_condensed.c ;*&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;find . -ls | sort -n -k 7 | tail -5 &lt;/code&gt; : Affiche les 5 plus gros
+    fichiers présents dans l'arborescence ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ EXTIP=$(curl -s
+    "whatismyip.org")&lt;/code&gt; : Défini une variable globale qui
+    contiendra votre adresse IP publique ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ rev \&amp;lt;\&amp;lt;\&amp;lt; "sentence to
+    reverse"&lt;/code&gt; : Inverse le sens des lettres de la phrase ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ exiv2 -k -F rename *.jpg&lt;/code&gt;
+    : Renomme tous les fichiers &lt;em&gt;.jpg&lt;/em&gt; du répertoire courant en leur
+    donnant un nom de la forme "YYYYMMDD_HHmmSS.jpg", en récupérant les
+    informations de date/heure dans les données EXIF de la photo ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ jp2a ubuntu_logo.jpg -b
+    --color&lt;/code&gt; : Converti une image JPEG en ascii art dans votre
+    terminal. L'option '--color' active la couleur, le '-b' dessine une
+    bordure autour de l'image. Exemple dans l'image plus bas
+    :P(nécessite d'avoir activé les dépôts universe (pour Ubuntu et
+    dérivés en tout cas...)) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ dd if=/dev/VG0/var | gzip -c - &gt;
+    /backups/var-image.gz&lt;/code&gt; : Crée un backup du répertoire
+    &lt;em&gt;/dev/VG0/var ;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ acronym(){ elinks -no-numbering
+    -dump "acronymfinder.com/$1.html" |sed -r '/(*{4,}|This
+    definition)/!d'; }&lt;/code&gt; : Fonction utile qui recherche sur le Web
+    la définition d'un acronyme. Exemple :
+    &lt;code&gt;$ acronym HTTP
+    &lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sshfs user@remotehost:/remotedir
+    mydir&lt;/code&gt; : Monte un répertoire distant comme un répertoire
+    local un utilisant FUSE et SSH ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ lsusb -v | egrep
+    "(\^Bus|bcdUSB)"&lt;/code&gt; : Liste les périphériques USB connectés
+    ainsi que la version utilisée (USB2, USB3, ...) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ openssl s_client -crlf -quiet
+    -connect \&amp;lt;hostname&gt;:\&amp;lt;port&gt;&lt;/code&gt; : Démarre une connexion SSL
+    avec la machine donnée sur le port défini, par exemple pour tester
+    des protocoles sécurisés comme HTTPS (équivalent à un
+    &lt;code&gt;nc&lt;/code&gt; mais en sécurisé ;) ) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ gnutls-cli -s --crlf \&amp;lt;hostname&gt;
+    -p \&amp;lt;port&gt;&lt;/code&gt; : Idem que la précédente ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ pdftohtml -stdout my.pdf &gt;
+    my.pdf.html&lt;/code&gt; : Exporte un document PDF vers une page HTML ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ mcd() { [[ -n "$1" ]] &amp;amp;&amp;amp; mkdir -p
+    "$1" &amp;amp;&amp;amp; cd "$1"; }&lt;/code&gt; : Fonction qui crée un répertoire (
+    &lt;code&gt;mkdir&lt;/code&gt; ) puis se déplace (
+    &lt;code&gt;cd&lt;/code&gt; ) dans celui-ci ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ mcd() { mkdir -p "${@}" &amp;amp;&amp;amp; cd
+    "${1}"; }&lt;/code&gt; : Comme la précédente, à la différence que l'on
+    peut créer plusieurs répertoires d'un coup, puis se déplacer dans le
+    codemier d'entre eux ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ netstat -nape --inet&lt;/code&gt; :
+    Affiche la liste des connexions actives ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ netstat -lepunt&lt;/code&gt;: Affiche la liste des ports TCP et
+    UDP qui sont en mode LISTEN et le processus/user associé ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ quvi --exec 'mplayer %u'
+    '\&amp;lt;url&gt;'&lt;/code&gt; : Lit une vidéo YouTube dans mplayer sans passer
+    par Flash. By &lt;a href="http://twitter.com/gordontesos" title="@gordontesos"&gt;@gordontesos&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ getent services
+    \&amp;lt;port_number&gt;&lt;/code&gt; : Cherche dans la table locale des services
+    celui qui est associé au port donné en paramètre ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ \&amp;lt;command&gt; ;xmessage -nearmouse
+    "DONE"&lt;/code&gt; : Après l’exécution de la commande, affiche une boîte
+    de dialogue contenant le texte "DONE" près de la souris ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ \&amp;lt;command&gt; ;zenity --info
+    --text="DONE"&lt;/code&gt; : La même que précédemment, mais en utilisant
+    le programme &lt;code&gt;zenity&lt;/code&gt; (fenêtre
+    GTK+) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ for m in {0..200}; do date -d
+    "2012-07-13 + $m months";done|grep -i \^Ven&lt;/code&gt; : affiche la
+    liste des prochains vendredis 13 dans les 200 prochains mois
+    (dédicace aux superstitieux comme moi ;) ). Si votre système est en
+    anglais, remplacer le "Ven" par "Fri" (pour "Friday") ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ montage -geometry 1280x1024+4+4
+    ubuntu.jpg netbsd.jpg debian.jpg backtrack.jpg -tile x2
+    distros.jpg&lt;/code&gt; : Réalise un montage avec 4 images, de 1280px
+    par 1024px, en réalisant 2 lignes de 2 colonnes. (Exemple plus bas)
+    ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sox song.wav -t wav - pitch 1200 |
+    play -&lt;/code&gt; : Joue la piste audio "song.wav", avec un pitch de
+    1200, soit 12 demi-tons au dessus, ou 1 octave plus haut que le
+    morceau original. (Paquet "sox" dans les dépôts Universe, installer
+    aussi "libsox-fmt-all" pour lire des mp3 ou des ogg) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ pwd -P&lt;/code&gt; : Affiche le
+    répertoire courant, en remplaçant les liens symboliques par le
+    chemin (P)hysique ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ awk '$9 == "404" {print $7}'
+    access.log |sort|uniq -c|sort -rn| head -n 50&lt;/code&gt; : Affiche la
+    liste des 500 urls menant à des erreurs 404 les plus renvoyées par
+    le serveur local Apache (généralement, répertoire
+    '/var/log/apache2'). Via &lt;a href="http://twitter.com/warzauwynn" title="@warzauwynn"&gt;@warzauwynn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ps -e -orss=,pid=,args= | sort -b -k1n | pr -TW$COLUMNS&lt;/code&gt; : Trie les processus les plus gourmands en mémoire. Via &lt;a href="http://twitter.com/albahtaar" title="@Albahtaar"&gt;@Albahtaar&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ touch -r origfile newcopy&lt;/code&gt;
+    : Donne à newcopy le timestamp de origfile ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ aplay /bin/bash&lt;/code&gt; : L'alarme
+    du pauvre. Lit un fichier quelconque comme s'il était un média audio
+    (conseil : baissez le son de votre machine avant de lancer la
+    commande ;-) ) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ trickle -d 50 wget \&amp;lt;url&gt;&lt;/code&gt;
+    : Utilise &lt;code&gt;trickle&lt;/code&gt; pour
+    limiter la bande passante descendante d'une commande à 50 kB/s ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ &gt;file&lt;/code&gt; : Crée, ou supprime
+    son contenu s'il existe déjà, le fichier 'file' ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ scrot* &lt;/code&gt;: Utilitaire
+    permettant de faire des captures d'écrans directement depuis un
+    terminal ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ rename 's/ /_/g' *&lt;/code&gt; :
+    Renomme tous les fichiers du répertoire courant en remplacant les
+    espaces par des underscores '_' ;&lt;/li&gt;
+&lt;li&gt;Sur un "serveur" : &lt;code&gt;$ nc -l 8765 \&amp;lt;
+    video.avi&lt;/code&gt;, et sur un "client" :
+    &lt;code&gt;$ nc server 8765 &gt; mplayer -cache
+    1000 -&lt;/code&gt; : Service de streaming perso. Un serveur streame la
+    vidéo, le client récupère le flux et le fait lire par
+    &lt;code&gt;mplayer&lt;/code&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ awk -F: {'print $1 ":" $2'}
+    messages |uniq -c&lt;/code&gt; : Affiche le nombre de messages syslog par
+    minutes ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ declare -f func_name&lt;/code&gt; :
+    Affiche la définition d'une fonction définie par l'utilisateur ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ for d in {1..5}; do printf
+    ${RANDOM: -1:1}; done; echo&lt;/code&gt; : Génère un code secret
+    "aléatoire" à 5 chiffres ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ find . -empty -type d&lt;/code&gt; :
+    Liste les sous-répertoires vides. Via &lt;a href="http://twitter.com/mariosangiorgio" title="@mariosangiorgio"&gt;@mariosangiorgio&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ps aux | awk '{if ($8=="Z") {
+    print $2 $11}}&lt;/code&gt; : Affiche les PID et nom des processus qui
+    sont dans l'état 'ZOMBIE' ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ debtree coreutils &gt; coreutils.dot
+    &amp;amp;&amp;amp; dot -T png -o coreutils.png coreutils.dot&lt;/code&gt; : Crée une
+    image contenant le graphe des dépendances du paquet 'coreutils'. Via
+    &lt;a href="http://twitter.com/fern4lvarez" title="@fern4lvarez"&gt;@fern4lvarez&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ping -i0.2 \&amp;lt;url&gt;|awk -F[= ]
+    '/time=/{t=$(NF-1);f=3000-14*log(t\^27);c="play -qn synth pl " f "
+    fade 0.1s 1 &amp;amp;";print $0;system(c)}'&lt;/code&gt; : Joue des sons en
+    fonction du temps nécessaire pris par les paquets ping pour revenir
+    à votre machine ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ lsof /dev/video0&lt;/code&gt; : Liste
+    les processus qui utilisent la webcam ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ls -1d \~/.* | grep -v '\~$' |
+    wc -l&lt;/code&gt; : Compte le nombre de 'dot files' dans votre Home
+    Directory. Via &lt;a href="http://twitter.com/bortzmeyer" title="@bortzmeyer"&gt;@bortzmeyer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ last | grep -A1 -m1 "\^$(whoami)
+    "&lt;/code&gt; : Affiche la dernière personne à s'être connectée avant
+    vous sur votre machine ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sort -nt . -k 1,1 -k 2,2 -k 3,3 -k
+    4,4 IPAddresses.txt&lt;/code&gt; : Trie une liste d'adresses IPv4 ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ exif *.JPG | grep "F-Number" |
+    cut -d| -f2 | sort | uniq --count | sort -n&lt;/code&gt; : Affiche la
+    liste des focales les plus utilisées à partir des données EXIF de
+    vos photos. Via [@b_doin][] pour &lt;a href="http://twitter.com/gchampeau" title="@gchampeau"&gt;@gchampeau&lt;/a&gt; ;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Et voilà, je pense avoir fait le tour de la plupart des commandes que
+j'avais en stock, si j'en trouve, je mettrais à jour l'article et
+diffusant la MAJ sur Twitter ;-)&lt;/p&gt;
+&lt;div align=center text-align=center&gt;&lt;a href="static/upload/montage_combined.jpg"&gt;&lt;img src="upload/montage_combined.jpg" width="450" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; $ montage -geometry ...&lt;/div&gt;
+
+&lt;p&gt;&lt;div align=center text-align=center&gt;&lt;a href="static/upload/jp2a.png"&gt;&lt;img src="upload/jp2a.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; $ jp2a &lt;/div&gt; &lt;/p&gt;</summary><category term="admin"></category><category term="bash"></category><category term="cli"></category><category term="climagic"></category><category term="command"></category><category term="fun"></category><category term="scripts"></category><category term="tricsks"></category><category term="usefull"></category></entry><entry><title>Corriger le bug de l'icone de Gimp 2.8 perdue dans le Launcher d'Unity</title><link href="http://quack1.no-ip.org/corriger-le-bug-de-licone-de-gimp-28-perdue-dans-le-launcher-dunity.html" rel="alternate"></link><updated>2012-05-20T22:04:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-20:corriger-le-bug-de-licone-de-gimp-28-perdue-dans-le-launcher-dunity.html</id><summary type="html">&lt;p&gt;&lt;img alt="Gimp" src="static/static/upload/gimp.png" title="Gimp" /&gt;&lt;/p&gt;
+&lt;p&gt;J'ai récemment fait la mise à jour de Gimp 2.8 grâce au PPA des
+développeurs. Je vais faire l'impasse sur les nouveautés de cette
+version, je ne suis pas assez bon graphiste pour voir les différences
+avec l'ancienne ;-)&lt;/p&gt;
+&lt;p&gt;Une des différences que j'ai par contre pu observer, c'est que j'avais
+perdu l'icône de Gimp dans le Launcher d'Unity quand je lançais Gimp. Le
+bug viendrait (semble-t-il) d'un conflit entre les deux versions (2.6 et
+2.8 qui cohabitent sur mon système).&lt;/p&gt;
+&lt;p&gt;Le bug aurait été signalé au développeurs, mais voici quand même une
+solution pour le corriger avant la mise à jour du logiciel.&lt;/p&gt;
+&lt;p&gt;Modifiez le fichier /usr/share/applications/gimp.desktop :&lt;/p&gt;
+&lt;pre&gt;
+    gksudo gedit /usr/share/applications/gimp.desktop
+&lt;/pre&gt;
+
+&lt;p&gt;et remplacez tout son contenu par :&lt;/p&gt;
+&lt;pre&gt;
+     [Desktop Entry] Version=1.0 Type=Application Name=Gimp 2.8 Comment=Create images and edit photographs Exec=/usr/bin/gimp-2.8 %U TryExec=/usr/bin/gimp-2.8 Icon=gimp Terminal=false Categories=Graphics;2DGraphics;RasterGraphics;GTK; X-GNOME-Bugzilla-Bugzilla=GNOME X-GNOME-Bugzilla-Product=GIMP X-GNOME-Bugzilla-Component=General X-GNOME-Bugzilla-Version=2.8.0 X-GNOME-Bugzilla-OtherBinaries=gimp-2.8 MimeType=application/postscript;application/pdf;image/bmp;image/g3fax;image/gif;image/x-fits;image/pcx;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-psd;image/x-sgi;image/x-tga;image/x-xbitmap;image/x-xwindowdump;image/x-xcf;image/x-compressed-xcf;image/x-gimp-gbr;image/x-gimp-pat;image/x-gimp-gih;image/tiff;image/jpeg;image/x-psp;image/png;image/x-icon;image/x-xpixmap;image/svg+xml;application/pdf;image/x-wmf;image/jp2;image/jpeg2000;image/jpx;image/x-xcursor;
+&lt;/pre&gt;
+
+&lt;p&gt;Et normalement, vous retrouverez l'icône dans le dock ;-)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.taltan.fr/post/2012/05/19/Regler-le-bug-de-l-icone-Gimp-invisible-dans-le-lanceur-lateral-sous-Ubuntu-12.04" title="Icone Gimp"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="bug"></category><category term="gimp"></category><category term="icone"></category><category term="ubuntu"></category><category term="unity"></category></entry><entry><title>Tester Linux dans un émulateur javascript</title><link href="http://quack1.no-ip.org/tester-linux-dans-un-emulateur-javascript.html" rel="alternate"></link><updated>2012-05-12T18:45:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-12:tester-linux-dans-un-emulateur-javascript.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/jslinux.png"&gt;&lt;img src="upload/jslinux.png" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Cette info va avoir 1 an dans quelques jours mais j'avais quand même
+envie d'en parler ici.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bellard.org" title="Bellard.org"&gt;Fabrice Bellard&lt;/a&gt; (qui est également à l'origine de &lt;a href="https://quack1.wordpress.com/tag/ffmpeg/" title="FFmpeg"&gt;ffmpeg&lt;/a&gt;) a
+développé un système Linux entièrement en Javascript, basé sur le noyau
+2.6.20, et une machine 32 bits.&lt;/p&gt;
+&lt;p&gt;Il possède donc toutes les commandes Linux, un compilateur tcc (Tiny C
+Compiler, aussi développé par le monsieur, plus rapide que gcc, qui est
+aussi présent), vi, QEmacs (un clone d'Emacs plus léger, aussi l'oeuvre
+de Mr Bellard). Vous pouvez donc compiler vos propres programmes C et
+les tester en ligne. Attention cependant, c'est plutôt long, même avec
+tcc. Ici, un simple "Hello World" a nécéssité 19s de compil avec gcc,
+pour 1 sur ma machine.&lt;/p&gt;
+&lt;p&gt;Bref, je pense pas non plus que vous alliez développer dessus, mais pour
+essayer deux trois commandes Linux et s'y former sans installer de
+système complet, ça peut être intéressant ;-) Vous pouvez le trouver
+&lt;a href="http://bellard.org/jslinux/" title="JsLinux"&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pour info, ce n'est pas un coup d'essai pour le monsieur en terme
+d'émulation, il est aussi le créateur du logiciel d'émulation de
+machines &lt;a href="http://wiki.qemu.org" title="Qemu"&gt;Qemu&lt;/a&gt;!&lt;/p&gt;</summary><category term="emulation"></category><category term="javascript"></category><category term="linux"></category></entry><entry><title>Song of the Day : "Noir(s)" by Les Fatals Picards</title><link href="http://quack1.no-ip.org/song-of-the-day-noirs-by-les-fatals-picards.html" rel="alternate"></link><updated>2012-05-11T05:58:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-11:song-of-the-day-noirs-by-les-fatals-picards.html</id><summary type="html">&lt;p&gt;En ce vendredi d'exams, un peu de rock français!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/CHpqjmz_j_Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Bonne fin de semaine, et profitez du week end ;-)&lt;/p&gt;</summary><category term="les fatals picards"></category><category term="noir(s)"></category><category term="songOfTheDay"></category></entry><entry><title>Jocly : plateforme de jeux en ligne full Html5</title><link href="http://quack1.no-ip.org/jocly-plateforme-de-jeux-en-ligne-full-html5.html" rel="alternate"></link><updated>2012-05-04T13:23:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-04:jocly-plateforme-de-jeux-en-ligne-full-html5.html</id><summary type="html">&lt;div align=center&gt;&lt;img src="static/upload/jocly.png" width="600" align=center /&gt;&lt;/div&gt;
+
+&lt;p&gt;Le collègue breton &lt;a href="http://twitter.com/jcfrog"&gt;@jcfrog&lt;/a&gt; et son chef &lt;a href="http://twitter.com/_mig_" title="@_mig_"&gt;@_mig_&lt;/a&gt; (entre autres
+auteur de l'excellent plugin pour Firefox &lt;a href="https://addons.mozilla.org/fr/firefox/addon/video-downloadhelper/"&gt;Download Helper&lt;/a&gt;) ont
+publié un super site de jeux en ligne, tous développés en full Html5,
+dénommé &lt;a href="http://www.jocly.com"&gt;Jocly&lt;/a&gt;. Tous ces jeux sont donc compatibles avec tous les OS,
+avec les mobiles, etc... bref, ça marche partout!!&lt;/p&gt;
+&lt;p&gt;Les jeux sont tous des jeux de stratégies, jouables à deux joueurs. On
+retrouve des jeux connus, comme les échecs, les dames, mais aussi des
+jeux beaucoup plus anciens mais qui sont sympas à jouer.&lt;/p&gt;
+&lt;p&gt;La première grande nouveauté par rapport aux autres sites de jeux en
+ligne, est que le site est full Html5. Pas de problèmes de compatibilité
+à la c** comme avec Flash, pas besoin de développer des applis
+spécifiques pour mobile, etc...&lt;/p&gt;
+&lt;p&gt;La deuxième innovation est l'ouverture de l'API aux développeurs. Nos
+deux codeurs ont écrit un framework qui permettra bientôt à tous les
+utilisateurs inscrits de créer ses propres jeux. Et encore mieux, seules
+quelques fonctions Javascript seront nécessaires. Toute l'intelligence
+artificielle sera déduite des fonctions du développeur et générée par le
+framework. On pourra donc implémenter plein de jeux, très facilement
+sans y passer des heures! Et en plus, la plupart des sons et des images
+sont sous licence libre pour qu'on puisse les réutiliser dans nos jeux!&lt;/p&gt;
+&lt;p&gt;Jcfrog a publié hier deux vidéos pour présenter deux jeux que j'aime
+beaucoup : &lt;a href="http://www.jocly.com/jocly/hexplode/lab"&gt;Hexplode&lt;/a&gt; (sorte de jeu de dames plus avancé) et
+&lt;a href="http://www.jocly.com/jocly/yohoho/lab"&gt;Yohoho&lt;/a&gt; (dérivé de la bataille navale). Retrouvez tout sur &lt;a href="https://jeromechoain.wordpress.com/2012/05/03/vlog-3-mai-2012-news-corporate/"&gt;son
+blog&lt;/a&gt; ;-)&lt;/p&gt;
+&lt;p&gt;Voilà donc un super site sur lequel vous pouvez vous amuser avant de
+partir en week-end prolongé!!&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;div align=center text-align=center&gt;&lt;a href="static/upload/jocly_hexplode.png"&gt;&lt;img src="upload/jocly_hexplode.png" width="200" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; Hexplode &lt;/div&gt;
+
+&lt;div align=center text-align=center&gt;&lt;a href="static/upload/jocly_yohoho.png"&gt;&lt;img src="upload/jocly_yohoho.png" width="200" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; Yohoho &lt;/div&gt;</summary><category term="games"></category><category term="html5"></category><category term="jcfrog"></category><category term="jeu"></category><category term="jocly"></category></entry><entry><title>Song of the Day : "Beat the Devil's Tattoo" by the Black Rebel Motorcycle Club</title><link href="http://quack1.no-ip.org/song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html" rel="alternate"></link><updated>2012-04-12T07:14:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-04-12:song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html</id><summary type="html">&lt;p&gt;Découverte d'hier, un très bon groupe, &lt;em&gt;Black Rebel Motorcycle Club&lt;/em&gt;, (via &lt;a href="https://twitter.com/#!/bluetouff" title="https://twitter.com/#!/bluetouff"&gt;@bluetouff&lt;/a&gt; sur twitter), et en particulier une très bonne chanson de leur dernier album que j'aime beaucoup : &lt;em&gt;Beat the Devil's Tattoo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Donc je reshare!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/mYkhNWIdra0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Beat the Devil's Tattoo"></category><category term="Black Rebel Motorcycle Club"></category><category term="songOfTheDay"></category></entry><entry><title>Retrouver les icônes des menus sur Unity</title><link href="http://quack1.no-ip.org/retrouver-les-icones-des-menus-sur-unity.html" rel="alternate"></link><updated>2012-04-10T15:21:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-04-10:retrouver-les-icones-des-menus-sur-unity.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/menuicones.png"&gt;&lt;img src="upload/menuicones.png" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;J'avais remarqué depuis que j'avais Unity que je n'avais plus les
+petites icônes dans les menus du clic-droit. Je n'avais jamais vraiment
+cherché comment les retrouver, jusqu'à aujourd'hui où j'ai décidé de
+chercher un peu. Et j'ai trouvé la solution sur &lt;a href="http://askubuntu.com/questions/96776/missing-icons-in-dropdown-menus-in-eclipse" title="http://askubuntu.com/questions/96776/missing-icons-in-dropdown-menus-in-eclipse"&gt;askubuntu.com&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;En fait, Unity semble désactiver par défaut l'affichage de ces icônes.
+Pour les réactiver, on va utiliser l'utilitaire &lt;a href="http://doc.ubuntu-fr.org/ubuntu_tweak" title="http://doc.ubuntu-fr.org/ubuntu_tweak"&gt;Ubuntu Tweak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On va sur l'onglet &lt;strong&gt;Tweaks&lt;/strong&gt;, puis &lt;strong&gt;Miscellaneous&lt;/strong&gt;, et enfin, on
+coche la case &lt;strong&gt;Menus have icons&lt;/strong&gt;. J'ai aussi coché &lt;strong&gt;Buttons have
+icons&lt;/strong&gt;, comme ça on les rajoute partout ;-)&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/icones.png"&gt;&lt;img src="upload/icones.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://askubuntu.com/questions/96776/missing-icons-in-dropdown-menus-in-eclipse" title="http://askubuntu.com/questions/96776/missing-icons-in-dropdown-menus-in-eclipse"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="icones"></category><category term="menus"></category><category term="ubuntu"></category><category term="ubuntu tweak"></category><category term="unity"></category></entry><entry><title>MAO : Monter son (petit) home-studio sous Linux</title><link href="http://quack1.no-ip.org/mao-monter-son-petit-home-studio-sous-linux.html" rel="alternate"></link><updated>2012-04-05T21:18:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-04-05:mao-monter-son-petit-home-studio-sous-linux.html</id><summary type="html">&lt;p&gt;&lt;img alt="Home Studio" src="static/upload/homestudio.png" title="Home Studio" /&gt;&lt;/p&gt;
+&lt;p&gt;Jusqu'alors, le seul moyen pour les musiciens, et en particulier les
+guitaristes, de pouvoir s'enregistrer et rajouter quelques effets sur
+leur son était d'avoir un Mac et de s'acheter un logiciel de MAO très
+couteux, type Cubase, ou autre. Bref, il fallait un assez gros budget,
+et ça pouvait décourager plus d'un musicien amateur qui aurait eu envie
+de se lancer dans la prod'.&lt;/p&gt;
+&lt;p&gt;Et là, MonSeigneur du Logiciel Libre arrive sur son grand cheval blanc,
+et nous donne plusieurs excellent logiciels qui permettent de simuler
+ampli et effets pour sa guitare, pour ensuite l'enregistrer dans un
+éditeur multi-pistes. En plus de ça, on peut rajouter une batterie grâce
+à une boite à rythme, brancher un clavier, bref, faire tout ce qu'on
+fait dans un vrai studio, mais avec un simple ordinateur sur Linux :D&lt;/p&gt;
+&lt;p&gt;Je vais ici vous présenter ma configuration, vous verrez en lisant ceci
+que vous n'aurez aucune limite... Avant de tout détailler, je vais vous
+présenter rapidement les choses, avec un petit schéma pour faire plus
+simple :-)&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/serveurjack.png"&gt;&lt;img src="upload/serveurjack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Votre instrument est branché sur une carte son, elle-même reliée à votre
+machine. Cette carte va envoyer le son qu'elle reçoit à un &lt;em&gt;serveur de
+son&lt;/em&gt; qui va gérer toutes les entrées et sorties de son du système (on
+verra ça en détail plus tard). Ce logiciel va connecter l'entrée
+physique (la guitare) à notre logiciel de simulation d'ampli, connecter
+ce logiciel à celui de simulation d'effets, puis connecter sa sortie à
+la sortie physique, soit nos enceintes.&lt;/p&gt;
+&lt;p&gt;Tout ceci se fera très facilement sous Linux, sans ligne de commande,
+bref, que des choses qui sont à la portée d'un ingé son!!&lt;/p&gt;
+&lt;h2&gt;Pour commencer, il faut du (bon) matos...&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Dans la partie "hardware" de ce tutoriel, il y a essentiellement 2
+choses auxquelles faire attention, les deux &lt;em&gt;bouts&lt;/em&gt; du schéma : la carte
+son en entrée, et les enceintes en sortie. En fait, ça fera 3, si on
+prend en compte la machine en elle même.&lt;/p&gt;
+&lt;p&gt;Ici, je ne pense pas que je pourrais être d'une grande aide pour vous,
+puisque j'utilise simplement mon laptop. Je n'ai pas monté de machine
+uniquement dédiée à la MAO, et je n'ai pas racheté de carte son. Je
+branche ma guitare en direct sur la prise mini-jack de mon pc portable.
+Si vous voulez montez votre machine pour faire principalement de la MAO,
+privilégiez un bon processeur et de la RAM, utile pour gérer le signal
+en temps réel et stocker vos enregistrements. Pour la carte son, et tout
+le reste en général, vous pouvez vous rendre sur &lt;a href="http://linuxmao.org/tikiwiki/tiki-index.php" title="http://linuxmao.org/tikiwiki/tiki-index.php"&gt;linuxMao&lt;/a&gt;, référence
+en matière de MAO sous linux. Il faut bien faire attention d'en choisir
+une qui soit compatible avec les pilotes Linux ainsi qu'avec notre
+serveur de son.&lt;/p&gt;
+&lt;p&gt;Moi, pour l'instant, je ne fais pas beaucoup de musique, et je ne
+cherche pas à avoir un rendu professionnel, donc mon matos est (pour
+l'instant) suffisant.&lt;/p&gt;
+&lt;p&gt;En matière d'enceintes, je pense qu'il faudrait que je commence à
+investir. Je n'ai que des petites enceintes du bureau, et ça devient
+vraiment limite quand je pousse un peu sur les effets. Il me faudrait au
+moins du 5.1, avec un caisson de basses et un peu plus de watts....&lt;/p&gt;
+&lt;p&gt;Donc pour débuter, vous pourrez sûrement faire avec le matériel que vous
+avez déjà!! Il faut juste vérifier que vous recevez bien du son depuis
+votre guitare. Pour se faire, branchez là sur votre ordinateur, puis
+sous Ubuntu lancez le gestionnaire de son (allez dans les paramètres
+systèmes, puis "Son", puis onglet "Entrée"). Montez le volume d'entrée,
+puis grattez les cordes. Vous devriez normalement voir la barre de
+niveau bouger, signe que du son arrive sur la carte.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/param_entree_son.png"&gt;&lt;img src="upload/param_entree_son.png" width="300"/&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Si vous n'avez pas de son, je ne vais pas trop pouvoir vous aider,
+puisque chez moi tout à marché du premier coup... Je pense que le mieux
+sera de mettre à jour vos pilotes, puis d'aller faire un tour sur
+Google.... Sinon, vous pouvez aussi tenter d'avancer dans les étapes
+suivantes. L'installation de logiciels tels que le serveur de son
+pourrait peut être installer d'autres pilotes et composants qui feront
+marcher le bazar.... bref, j'espère que tout aura marché pour vous ;-)&lt;/p&gt;
+&lt;p&gt;Dans tous les cas, remettez le volume d'entrée au minimum, c'est à dire
+au niveau du premier petit trait vertical sur la gauche, pour avoir un
+son "pur", c'est à dire qui ne sera pas modifié par le système.
+L'amplification arrivera par la suite...&lt;/p&gt;
+&lt;h2&gt;Et si on &lt;em&gt;apt-get&lt;/em&gt;-ais un peu ?&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Maintenant que votre matériel est fonctionnel, passons aux logiciels
+nécessaires. Vous avez deux solutions.&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez la solution "clés en main", ou si vous voulez avoir
+une machine et surtout un système qui ne fait que ça, je vous conseille
+d'installer une nouvelle distribution Linux, à savoir &lt;a href="http://ubuntustudio.org/downloads" title="http://ubuntustudio.org/downloads"&gt;Ubuntu Studio&lt;/a&gt;.
+Cette dérivée d'Ubuntu est dédiée à tout ce qui touche aux médias et à
+la création multimédia. Ce système à 4 pré-configurations que vous
+pouvez mixer/installer, à savoir : audio, vidéo, graphisme 2D/3D &amp;amp;
+développement de greffons audios. Dans notre cas, seul le premier nous
+intéresse.&lt;/p&gt;
+&lt;p&gt;Le processus d'installation est très simple et basé sur celui d'Ubuntu.
+Vous devriez facilement pouvoir vous en sortir, la seule différence est
+qu'il n'y a pas d'interface graphique, vous devrez tout faire au clavier
+mais ça reste très simple. Je ne fais pas de tuto, vous en avez un bon
+&lt;a href="https://help.ubuntu.com/community/Ubuntu%20Studio%20Fresh%20Install" title="https://help.ubuntu.com/community/Ubuntu%20Studio%20Fresh%20Install"&gt;ici&lt;/a&gt;.Au moment de l'étape &lt;em&gt;Software Selection&lt;/em&gt;, ne sélectionnez QUE
+&lt;em&gt;Audio Creation and Editing Suite&lt;/em&gt;. Si vous en prenez d'autres, ou pas
+celui-ci, vous n'aurez pas le support du noyau temps-réel. Suite à
+l'installation, vous aurez un système très complet pour faire de la MAO
+sous Linux!&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez garder votre système Linux traditionnel et installer
+en plus les bons logiciels, voici comment faire. Il nous faut 4 choses :
+le serveur de son : &lt;strong&gt;Jackd&lt;/strong&gt;, le simulateur d'ampli : &lt;strong&gt;Guitarix&lt;/strong&gt;,le
+simulateur d'effets : &lt;strong&gt;Rakarrack&lt;/strong&gt; et notre enregistreur multi-pistes :
+&lt;strong&gt;Ardour&lt;/strong&gt;. Normalement, les paquets devraient être présents dans les
+dépôts de votre distribution. Pour Ubuntu, voici la commande pour tout
+installer d'un coup :&lt;/p&gt;
+&lt;pre&gt;
+    sudo apt-get install jackd qjackctl guitarix rakarrack ardour
+&lt;/pre&gt;
+
+&lt;p&gt;Le seul paquet inconnu ici est &lt;em&gt;qjackctl&lt;/em&gt;, qui est une interface
+graphique pour Jackd.&lt;/p&gt;
+&lt;p&gt;Comme je l'ai dit plus haut, les logiciels que nous venons d'installer
+n'aurons pas de priorité temps-réel, puisque nous n'avons pas de noyau
+qui supporte le temps-réel. Vous pouvez suivre &lt;a href="http://doc.ubuntu-fr.org/jackd#activer_la_priorite_temps_reel" title="http://doc.ubuntu-fr.org/jackd#activer_la_priorite_temps_reel"&gt;les explications de la
+doc d'Ubuntu&lt;/a&gt; pour l'installer, puis donner les bonnes priorités aux
+bons utilisateurs. Personnellement, je ne l'ai pas fait. Encore une
+fois, pour ce que je fais, j'ai assez avec mon noyau standard :-P&lt;/p&gt;
+&lt;p&gt;Ces paquets sont le minimum syndical à avoir pour pouvoir commencer à
+bidouiller et s'enregistrer. Notez que si vous avez déjà ampli/effets,
+et un moyen de les brancher à votre ordi, vous devriez pouvoir vous
+passer de guitarix et rakarrack... Cependant, en plus de ceux-ci,
+d'autres petits logiciels peuvent être intéressants à avoir,
+principalement pour les guitaristes. Petite liste (non exhaustive) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audacity : Autre enregistreur et mixeur de son. Je ne suis pas sûr
+    qu'il tourne avec Jack.... Mais peut être utile pour de la post-prod
+    sur un fichier son....&lt;/li&gt;
+&lt;li&gt;Hydrogen : Boite à rythmes, sympa pour rajouter une batterie sur vos
+    compos ;)&lt;/li&gt;
+&lt;li&gt;Lingot : Accordeur&lt;/li&gt;
+&lt;li&gt;TuxGuitar : Éditeur de tablatures, équivalent de GuitarPro 5 en
+    version libre. Indispensable pour les guitaristes :-P&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Au fait, on peut faire quoi avec tout ça ?&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Et bien, on peut faire plein de choses!! Comme je le disais plus haut,
+on va pouvoir simuler notre ampli, notre rack d'effets, puis enregistrer
+le tout.&lt;/p&gt;
+&lt;h3&gt;Le serveur de son : Jackd&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Avant de faire de la MAO sous Linux, il faut une bonne brique de départ.
+Cette brique va recevoir le son, et c'est elle qui va choisir quoi en
+faire. Cette brique, c'est Jackd, notre serveur de son. Nous l'avons
+installé plus haut, ainsi qu'un interface graphique pour le piloter
+(qjackctl). Lancez ce dernier programme (normalement, Applications &gt;
+Multimédia &gt; QJackCtl). Il faudra toujours le lancer avant de faire de
+la MAO. En effet, c'est lui qui gère tout le son qui transitera sur
+votre machine. Sans lui, aucun des logiciels suivants ne fonctionnera.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/jack.png"&gt;&lt;img src="upload/jack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Cette interface est extrêmement simple. On ne se sert que de 4 boutons :
+"Démarrer", "Arrêter", "Connecter" et "Quitter". "Démarrer " va lancer
+le serveur, "Arrêter" va le stopper, "Quitter" quitte l'appli, et
+"Connecter" et bien.... c'est plus complexe ;)&lt;/p&gt;
+&lt;p&gt;Comme son rôle l'indique, Jackd est un &lt;strong&gt;serveur&lt;/strong&gt;. Cela sous-entend
+donc qu'a un moment ou un autre, on aura des &lt;strong&gt;clients&lt;/strong&gt;. Ce sont ses
+clients que l'on va connecter entre eux. Nous aurons deux types de
+clients :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Les clients en lecture (ou ports de sortie) : les clients sur
+    lesquels on va pouvoir lire, ceux qui nous enverrons du son.&lt;/li&gt;
+&lt;li&gt;Les clients en écriture (ou ports d'entrée) : les clients sur
+    lesquels on va écrire, ceux à qui on va envoyer du son.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+Le rôle de notre bouton "Connecter", c'est ça : connecter les sorties
+des uns, sur les entrées des autres. Voici ci dessous la configuration
+que j'utilise le plus souvent. Vous voyez à gauche la colonne des
+clients en lecture et à droite celle des clients en écriture. Vous
+pouvez voir que je connecte la sortie du rack d'effets (rakarrack) sur
+l'entrée d'&lt;em&gt;ardour&lt;/em&gt;, mon enregistreur multi-pistes. Cela signifie que
+tout le son qui aura été traité par rakarrack ira directement en entrée
+d'ardour.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/jack_connexions.png"&gt;&lt;img src="upload/jack_connexions.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Il y a deux clients spéciaux là dedans. &lt;em&gt;system&lt;/em&gt;. Ce sont les clients
+qui représentent votre carte physique. À gauche, l'entrée (ou notre
+guitare) et à droite notre sortie (les enceintes).&lt;/p&gt;
+&lt;h3&gt;Le simulateur d'ampli : Guitarix&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Guitarix est un bon simulateur d'ampli pour Linux. Il est découpé en
+deux parties. La tête, et les effets. Personnellement, j'utilise très
+peu les effets intégrés, je préfère utiliser ceux de Rakarrack.
+L'avantage c'est que ça permet, quand on veux tester deux trois accords,
+de ne pas avoir à lancer notre rakarrack ;-) Les deux parties (tête et
+effets) sont deux clients séparés dans Jack. Le premier sera
+&lt;em&gt;gx_head_amp&lt;/em&gt; et le second &lt;em&gt;gx_head_fx&lt;/em&gt;. Ce que je fais, c'est que
+je connecte tout dans ce sens : &lt;em&gt;system --&gt; gx_head_amp --&gt;
+gx_head_fx --&gt; ...&lt;/em&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/guitarix.png"&gt;&lt;img src="upload/guitarix.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour obtenir la même vue que moi du logiciel, il faut activer la vue des
+plugins (Greffons &gt; Show Plugin Bar), celle du rack d'effets (Greffons
+&gt; Show Rack), puis l'accordeur (Options &gt; Tuner). Les plugins sont
+simplement les effets que vous rajoutez dans le rack. Vous les ajoutez
+en cliquant dessus dans le menu en haut à gauche. Je n'en ai pas ajouté
+beaucoup, juste le "Rack Mono", la "Distorsion Multibande", le
+"Compresseur", l'"Overdrive", le "Rack Stéréo" et l'équaliseur "3 Band
+EQ".&lt;/p&gt;
+&lt;p&gt;C'est une config parmi d'autres. Je ne l'utilise pas beaucoup, c'est
+tout ce que je pourrais vous dire dessus...&lt;/p&gt;
+&lt;h3&gt;Le rack d'effets : Rakarrack&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+C'est là que les choses deviennent drôles.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/rakarrack.png"&gt;&lt;img src="upload/rakarrack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Ce rack d'effets est vraiment très complet. Il dispose de nombreux
+effets que vous pouvez organiser dans des racks. Je n'ai pas encore
+regardé comment tout ça fonctionnait, comment on créait ses propres
+racks en agençant ses effets, et pour cause, le logiciel possède déjà
+une banque de racks (menu "Bank") très très complète, et pour l'instant
+j'ai simplement utilisé ceux-ci, en modifiant deux-trois réglages de
+pédales de temps en temps pour obtenir un truc plus à mon goût.&lt;/p&gt;
+&lt;p&gt;Pour vous donner un petit avant-goût, voici une petite vidéo trouvée sur
+YouTube, où le monsieur présente un peu les possibilités du logiciel :&lt;/p&gt;
+&lt;div align=center&gt;&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/4Jb7BEsHwLc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour les connexions dans Jack : ... --&gt; gx_head_fx --&gt; rakarrack
+--&gt; ...&lt;/p&gt;
+&lt;h3&gt;L'enregistreur : Ardour&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Enfin, Ardour est un enregistreur qui permettra d'enregistrer votre son.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/ardour.png"&gt;&lt;img src="upload/ardour.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Celui là, je ne l'ai quasiment pas utilisé, j'ai juste la base. On crée
+une piste pour la guitare (Clic droit sous la case "Général" &gt; " New
+Track"). Pour la connexion dans Jack, il faut étendre le groupe "Ardour"
+des deux côtés (petites flèches à gauche du nom). On connecte ensuite la
+sortie de Rakarrack vers l'entrée de cette piste dans Jack. Tous les
+clients en sortie d'Ardour doivent être branchés sur "system", pour être
+sûr de tout avoir dans les enceintes. On clique sur record (bouton
+rouge) sur la piste guitare, idem dans la barre du haut. On fait "Play",
+et on joue :-)&lt;/p&gt;
+&lt;p&gt;Si vous n'avez pas de son, allez dans "Options", puis "Ecoute de
+Contrôle", puis sélectionnez "Écoute via Ardour". Normalement ça devrait
+marcher ;)&lt;/p&gt;
+&lt;h2&gt;Enfin...&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+J'espère qu'avec tout ceci, vous aurez les bases pour bricoler un peu de
+MAO sur votre Linux. Encore une fois, ceci n'est pas un tutorial. Juste
+une présentation rapide de ce que j'utilise. Si vous en voulez plus,
+vous pouvez me répondre en commentaire, via &lt;a href="http://twitter.com/_Quack1" title="http://twitter.com/_Quack1"&gt;twitter&lt;/a&gt;, ou jeter un
+coup d'oeil aux quelques liens ci dessous ;) Je vais continuer à jouer
+un peu plus avec tout ça, et je referais des articles plus détaillés
+pour mieux présenter les possibilités de chaque appli :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Enjoy, and keep rockin'...&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;a href="http://linuxmao.org" title="http://linuxmao.org"&gt;LinuxMao.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ubuntustudio.org" title="http://ubuntustudio.org"&gt;UbuntuStudio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.911tabs.com/" title="http://www.911tabs.com/"&gt;911 Tabs&lt;/a&gt; : Moteur de recherche de tablatures&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://secure.flickr.com/photos/25242931@N02/5793015653/" title="https://secure.flickr.com/photos/25242931@N02/5793015653/"&gt;Image originale&lt;/a&gt;&lt;/p&gt;</summary><category term="ardour"></category><category term="guitare"></category><category term="guitarix"></category><category term="home studio"></category><category term="jackd"></category><category term="mao"></category><category term="musique"></category><category term="rakarrack"></category><category term="ubuntu"></category><category term="ubuntu studio"></category></entry><entry><title>Lister les paquets installés sur Ubuntu</title><link href="http://quack1.no-ip.org/lister-les-paquets-installes-sur-ubuntu.html" rel="alternate"></link><updated>2012-03-28T17:18:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-28:lister-les-paquets-installes-sur-ubuntu.html</id><summary type="html">&lt;div align=center&gt;&lt;img src="static/upload/listpackages.png" height="250" align=center /&gt;&lt;/div&gt;
+
+&lt;p&gt;Petite commande utile, pour voir quels sont les packages qui sont
+installés sur votre machine, pour générer un script de réinstall à
+l'arrache par exemple, ou pour avoir une base.&lt;/p&gt;
+&lt;p&gt;On va utiliser la commande &lt;em&gt;dpkg-query&lt;/em&gt;, qui permet d'interroger la base
+de données des paquetages installés.&lt;/p&gt;
+&lt;pre&gt;
+sudo dpkg-query -Wf '${Installed-Size} - ${Package} n' | sort -n
+&lt;/pre&gt;
+
+&lt;p&gt;On prend tous les paquets installés, en filtrant la sortie avec un
+format, qui n'affichera que la taille installée, ainsi que le nom. Le
+&lt;em&gt;sort&lt;/em&gt; permet de trier par ordre croissant de taille.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://thecybergal.blogspot.fr/2012/03/list-installed-packages-in-ubuntu.html?utm_source=twitterfeed&amp;amp;utm_medium=twitter" title="http://thecybergal.blogspot.fr/2012/03/list-installed-packages-in-ubuntu.html?utm_source=twitterfeed&amp;amp;utm_medium=twitter"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="dpkg"></category><category term="installés"></category><category term="lister"></category><category term="packages"></category><category term="ubuntu"></category></entry><entry><title>Installer Banshee 2.4 sur Ubuntu</title><link href="http://quack1.no-ip.org/installer-banshee-24-sur-ubuntu.html" rel="alternate"></link><updated>2012-03-25T11:50:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-25:installer-banshee-24-sur-ubuntu.html</id><summary type="html">&lt;p&gt;&lt;img alt="Banshee" src="static/upload/banshee.png" title="Banshee" /&gt;&lt;/p&gt;
+&lt;p&gt;Alors qu'il sera remplacé par Rhythmbox comme lecteur musical par défaut sur Ubuntu 12.04, la dernière release de Banshee, version 2.4, vient de sortir.&lt;/p&gt;
+&lt;p&gt;Au programme : des corrections de bugs, mais aussi de nouvelles fonctionnalités, comme le support des DVD, la gestion de plateformes musicales en ligne comme Amazon, la synchro des playlists iPod/iPhone, Android....&lt;/p&gt;
+&lt;p&gt;Bref, c'est pour moi le lecteur multimédia le plus complet pour Linux.&lt;/p&gt;
+&lt;p&gt;Pour le mettre à jour, il suffit juste de rajouter le PPA des développeurs :&lt;/p&gt;
+&lt;pre&gt;
+    sudo add-apt-repository ppa:banshee-team/ppa &amp;amp;&amp;amp; sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install banshee
+&lt;/pre&gt;
+
+&lt;p&gt;Enjoy ;)&lt;/p&gt;</summary><category term="banshee"></category><category term="banshee 2.4"></category><category term="linux"></category><category term="ubuntu"></category></entry><entry><title>Song Of The Day : "Serre Moi" by Tryo</title><link href="http://quack1.no-ip.org/song-of-the-day-serre-moi-by-tryo.html" rel="alternate"></link><updated>2012-03-25T09:12:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-25:song-of-the-day-serre-moi-by-tryo.html</id><summary type="html">&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/BghJw84zdN0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="serre moi"></category><category term="songOfTheDay"></category><category term="tryo"></category></entry><entry><title>Song Of The Day : "J'veux qu'on baise sur ma tombe" by Damien Saez</title><link href="http://quack1.no-ip.org/song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html" rel="alternate"></link><updated>2012-03-24T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-24:song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/sjGQ8GLR0-E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="damien saez"></category><category term="j'veux qu'on baise sur ma tombe"></category><category term="songOfTheDay"></category></entry><entry><title>Song Of The Day : "Iron Man" by Black Sabbath</title><link href="http://quack1.no-ip.org/song-of-the-day-iron-man-by-black-sabbath.html" rel="alternate"></link><updated>2012-03-23T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-23:song-of-the-day-iron-man-by-black-sabbath.html</id><summary type="html">&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/YzXzcyZmL_c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="black sabbath"></category><category term="iron man"></category><category term="songOfTheDay"></category></entry><entry><title>The Pirate Bay hébergé dans l'espace...</title><link href="http://quack1.no-ip.org/the-pirate-bay-heberge-dans-lespace.html" rel="alternate"></link><updated>2012-03-18T21:27:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-18:the-pirate-bay-heberge-dans-lespace.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/pirate_bay.jpg"&gt;&lt;img src="upload/pirate_bay.jpg" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Le célèbre site de téléchargement en Peer-To-Peer, &lt;em&gt;The Pirate Bay&lt;/em&gt;, a
+été hors-ligne pendant plusieurs heures cette après midi (dimanche
+18/03). Dans la soirée, les administrateurs ont publié un article sur
+leur blog afin d'expliquer cette déconnexion.&lt;/p&gt;
+&lt;p&gt;Le site a donc du être "débranché" afin de procéder à une mise à jour de
+certains de ses composants en vue d'une avancée majeure dans l'histoire
+du site et même, je pense, dans l'histoire d'Internet.&lt;/p&gt;
+&lt;p&gt;Ces derniers jours (semaines) nous avons vu émerger deux choses
+totalement nouvelles pour le grand public : un ordinateur minuscule, le
+&lt;a href="http://www.raspberrypi.org/" title="http://www.raspberrypi.org/"&gt;Rasberry Pi&lt;/a&gt;, et des tutorials pour construire soi même &lt;a href="http://owni.fr/2012/03/09/drones-dhacktivistes/" title="http://owni.fr/2012/03/09/drones-dhacktivistes/"&gt;son propre
+drone volant&lt;/a&gt;. Et bien The Pirate Bay veut utiliser ses deux concepts
+pour se rendre invulnérable face à des attaques de la police.&lt;/p&gt;
+&lt;p&gt;Ils veulent pour cela héberger le site sur les Rasberry, puis faire
+voler ses ordinateurs à plusieurs kilomètres dans l'atmosphère grâce aux
+drones. Depuis la suppression complète des .torrents pour le passage aux
+liens magnets, le site occupe désormais très peu d'espace disque, et
+peut donc facilement tenir sur ces mini-machines. Enfin, grâce à des
+émetteurs radios, ils espèrent pouvoir transmettre jusqu'à 100Mbps
+jusqu'à 50km. Ils seraient donc en train de ré-ecrire un nouveau système
+de proxy pour gérer ce nouveau système.&lt;/p&gt;
+&lt;p&gt;Comme je le disais plus haut, cela permettrait au site d'être
+invulnérable face à des attaques de police. Les drones pourraient être
+équipés de panneaux solaires, pour pouvoir rester constamment en vol, et
+alimenter le Rasberry. Dans ce cas, le seul moyen de les couper serait
+une attaque physique, ce qui serait totalement disproportionné je pense
+pour couper un site web. De plus, les drones ne seraient physiquement
+sur aucun pays, à quelle juridiction serait-il donc raccroché ?&lt;/p&gt;
+&lt;p&gt;Il resterait donc une seule chose qui aurait besoin d'être hébergée d'un
+endroit fixe et pourrait donc être coupée : le proxy.... Cependant, je
+pense que les développeurs de TPB ont une bonne idée derrière la tête
+pour combler ceci.&lt;/p&gt;
+&lt;p&gt;Avec ses nouveaux systèmes, similaires à un principe de Pirate Box
+interconnectées entre elles, ont se rapproche de plus en plus d'un
+réseau Internet alternatif, auto-porté et séparé de celui que nous
+connaissons aujourd'hui...&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://thepiratebay.se/blog/210"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gamersglobal.de/sites/gamersglobal.de/files/imagecache/news_600fixed/news/teaser/557/pirate_bay.jpg" title="https://www.gamersglobal.de/sites/gamersglobal.de/files/imagecache/news_600fixed/news/teaser/557/pirate_bay.jpg"&gt;Image&lt;/a&gt;&lt;/p&gt;</summary><category term="drones"></category><category term="espace"></category><category term="raspberry"></category><category term="the pirate bay"></category></entry><entry><title>Jouer de la guitare avec une pelle!!</title><link href="http://quack1.no-ip.org/jouer-de-la-guitare-avec-une-pelle.html" rel="alternate"></link><updated>2012-03-16T19:22:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-16:jouer-de-la-guitare-avec-une-pelle.html</id><summary type="html">&lt;div align=center&gt;&lt;img src="static/upload/shovellica.png" width="600" align=center /&gt;&lt;/div&gt;
+
+&lt;p&gt;Autre délire WTF du jour, après &lt;a href="http://quack1.wordpress.com/2012/03/16/10h-de-respiration-de-dark-vador/" title="10h de respiration de Dark Vador"&gt;ça&lt;/a&gt;, voici une guitare réalisée avec
+une pelle. Oui oui, vous avez bien lu, une pelle.&lt;/p&gt;
+&lt;p&gt;Des tarés du rabot électrique ont pris une pelle, on raboté le manche,
+monté un micro et des cordes, et en ont fait une guitare électrique,
+puis une autre, puis une basse, bref, on retrouve plusieurs instruments
+fait de cette façon!!&lt;/p&gt;
+&lt;p&gt;Les mecs ont donc décidé de monter un groupe et de se filmer en jouant
+avec. Vous pouvez retrouver les vidéos sur leur &lt;a href="http://www.shovellica.com/" title="http://www.shovellica.com/"&gt;site officiel&lt;/a&gt;, et
+vous pouvez même acheter des pelles/guitares si vous voulez l'essayer!!!&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/tc6gv-fbUDs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Bon, maintenant, il manque juste un tuto pour la réaliser soi-même! Si
+je récupère des pièces, peut-être que je tenterais un jour ;)&lt;/p&gt;
+&lt;p&gt;Source : &lt;a href="https://twitter.com/#!/alttaborg/status/180714599757258754" title="@alttaborg"&gt;@alttaborg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.shovellica.com/" title="http://www.shovellica.com/"&gt;Site officiel&lt;/a&gt;&lt;/p&gt;</summary><category term="guitare"></category><category term="homemade"></category><category term="pelle"></category><category term="shovellica"></category></entry><entry><title>Tweetter 15000 décimales de PI, en 140 caractères, c'est possible...</title><link href="http://quack1.no-ip.org/tweetter-15000-decimales-de-pi-en-140-caracteres-cest-possible.html" rel="alternate"></link><updated>2012-03-16T00:29:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-16:tweetter-15000-decimales-de-pi-en-140-caracteres-cest-possible.html</id><summary type="html">&lt;p&gt;C'est même faisable en seulement 133 caractères!&lt;/p&gt;
+&lt;p&gt;Il s'agit d'un petit programme C, qui calcule et affiche les 15000 premières décimales de PI.&lt;/p&gt;
+&lt;p&gt;Le programme, condensé, c'est ça :&lt;/p&gt;
+&lt;pre&gt;
+    int a[52514],b,c=52514,d,e,f=1e4,g,h;main() {for(;b=c-=14;h=printf("%04d",e+d/f)) for(e=d%=f;g=--b*2;d/=g)d=d*b+f*(h?a[b]:f/5),a[b]=d%--g;}
+&lt;/pre&gt;
+
+&lt;p&gt;Si vous le lancez, vous obtiendrez ceci :&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;
+31415926535897932384626433832795028841971693993751 05820974944592307816406286208998628034825342117067 98214808651328230664709384460955058223172535940812 84811174502841027019385211055596446229489549303819 64428810975665933446128475648233786783165271201909 14564856692346034861045432664821339360726024914127 37245870066063155881748815209209628292540917153643 67892590360011330530548820466521384146951941511609 43305727036575959195309218611738193261179310511854 80744623799627495673518857527248912279381830119491 29833673362440656643086021394946395224737190702179 86094370277053921717629317675238467481846766940513 20005681271452635608277857713427577896091736371787 21468440901224953430146549585371050792279689258923 54201995611212902196086403441815981362977477130996 05187072113499999983729780499510597317328160963185 95024459455346908302642522308253344685035261931188 17101000313783875288658753320838142061717766914730 35982534904287554687311595628638823537875937519577 81857780532171226806613001927876611195909216420198 93809525720106548586327886593615338182796823030195 20353018529689957736225994138912497217752834791315 15574857242454150695950829533116861727855889075098 38175463746493931925506040092770167113900984882401 28583616035637076601047101819429555961989467678374 49448255379774726847104047534646208046684259069491 29331367702898915210475216205696602405803815019351 12533824300355876402474964732639141992726042699227 96782354781636009341721641219924586315030286182974 55570674983850549458858692699569092721079750930295 53211653449872027559602364806654991198818347977535 66369807426542527862551818417574672890977772793800 08164706001614524919217321721477235014144197356854 81613611573525521334757418494684385233239073941433 34547762416862518983569485562099219222184272550254 25688767179049460165346680498862723279178608578438 38279679766814541009538837863609506800642251252051 17392984896084128488626945604241965285022210661186 30674427862203919494504712371378696095636437191728 74677646575739624138908658326459958133904780275900 99465764078951269468398352595709825822620522489407 72671947826848260147699090264013639443745530506820 34962524517493996514314298091906592509372216964615 15709858387410597885959772975498930161753928468138 26868386894277415599185592524595395943104997252468 08459872736446958486538367362226260991246080512438 84390451244136549762780797715691435997700129616089 44169486855584840635342207222582848864815845602850 60168427394522674676788952521385225499546667278239 86456596116354886230577456498035593634568174324112 51507606947945109659609402522887971089314566913686 72287489405601015033086179286809208747609178249385 89009714909675985261365549781893129784821682998948 72265880485756401427047755513237964145152374623436 45428584447952658678210511413547357395231134271661 02135969536231442952484937187110145765403590279934 40374200731057853906219838744780847848968332144571 38687519435064302184531910484810053706146806749192 78191197939952061419663428754440643745123718192179 99839101591956181467514269123974894090718649423196 15679452080951465502252316038819301420937621378559 56638937787083039069792077346722182562599661501421 50306803844773454920260541466592520149744285073251 86660021324340881907104863317346496514539057962685 61005508106658796998163574736384052571459102897064 14011097120628043903975951567715770042033786993600 72305587631763594218731251471205329281918261861258 67321579198414848829164470609575270695722091756711 67229109816909152801735067127485832228718352093539 65725121083579151369882091444210067510334671103141 26711136990865851639831501970165151168517143765761 83515565088490998985998238734552833163550764791853 58932261854896321329330898570642046752590709154814 16549859461637180270981994309924488957571282890592 32332609729971208443357326548938239119325974636673 05836041428138830320382490375898524374417029132765 61809377344403070746921120191302033038019762110110 04492932151608424448596376698389522868478312355265 82131449576857262433441893039686426243410773226978 02807318915441101044682325271620105265227211166039 66655730925471105578537634668206531098965269186205 64769312570586356620185581007293606598764861179104 53348850346113657686753249441668039626579787718556 08455296541266540853061434443185867697514566140680 07002378776591344017127494704205622305389945613140 71127000407854733269939081454664645880797270826683 06343285878569830523580893306575740679545716377525 42021149557615814002501262285941302164715509792592 30990796547376125517656751357517829666454779174501 12996148903046399471329621073404375189573596145890 19389713111790429782856475032031986915140287080859 90480109412147221317947647772622414254854540332157 18530614228813758504306332175182979866223717215916 07716692547487389866549494501146540628433663937900 39769265672146385306736096571209180763832716641627 48888007869256029022847210403172118608204190004229 66171196377921337575114959501566049631862947265473 64252308177036751590673502350728354056704038674351 36222247715891504953098444893330963408780769325993 97805419341447377441842631298608099888687413260472 15695162396586457302163159819319516735381297416772 94786724229246543668009806769282382806899640048243 54037014163149658979409243237896907069779422362508 22168895738379862300159377647165122893578601588161 75578297352334460428151262720373431465319777741603 19906655418763979293344195215413418994854447345673 83162499341913181480927777103863877343177207545654 53220777092120190516609628049092636019759882816133 23166636528619326686336062735676303544776280350450 77723554710585954870279081435624014517180624643626 79456127531813407833033625423278394497538243720583 53114771199260638133467768796959703098339130771098 70408591337464144282277263465947047458784778720192 77152807317679077071572134447306057007334924369311 38350493163128404251219256517980694113528013147013 04781643788518529092854520116583934196562134914341 59562586586557055269049652098580338507224264829397 28584783163057777560688876446248246857926039535277 34803048029005876075825104747091643961362676044925 62742042083208566119062545433721315359584506877246 02901618766795240616342522577195429162991930645537 79914037340432875262888963995879475729174642635745 52540790914513571113694109119393251910760208252026 18798531887705842972591677813149699009019211697173 72784768472686084900337702424291651300500516832336 43503895170298939223345172201381280696501178440874 51960121228599371623130171144484640903890644954440 06198690754851602632750529834918740786680881833851 02283345085048608250393021332197155184306354550076 68282949304137765527939751754613953984683393638304 74611996653858153842056853386218672523340283087112 32827892125077126294632295639898989358211674562701 02183564622013496715188190973038119800497340723961 03685406643193950979019069963955245300545058068550 19567302292191393391856803449039820595510022635353 61920419947455385938102343955449597783779023742161 72711172364343543947822181852862408514006660443325 88856986705431547069657474585503323233421073015459 40516553790686627333799585115625784322988273723198 98757141595781119635833005940873068121602876496286 74460477464915995054973742562690104903778198683593 81465741268049256487985561453723478673303904688383 43634655379498641927056387293174872332083760112302 99113679386270894387993620162951541337142489283072 20126901475466847653576164773794675200490757155527 81965362132392640616013635815590742202020318727760 52772190055614842555187925303435139844253223415762 33610642506390497500865627109535919465897514131034 82276930624743536325691607815478181152843667957061 10861533150445212747392454494542368288606134084148 63776700961207151249140430272538607648236341433462 35189757664521641376796903149501910857598442391986 29164219399490723623464684411739403265918404437805 13338945257423995082965912285085558215725031071257 01266830240292952522011872676756220415420516184163 48475651699981161410100299607838690929160302884002 69104140792886215078424516709087000699282120660418 37180653556725253256753286129104248776182582976515 79598470356222629348600341587229805349896502262917 48788202734209222245339856264766914905562842503912
+75771028402799806636582548892648802545661017296702 66407655904290994568150652653053718294127033693137 85178609040708667114965583434347693385781711386455 87367812301458768712660348913909562009939361031029 16161528813843790990423174733639480457593149314052 97634757481193567091101377517210080315590248530906 69203767192203322909433467685142214477379393751703 44366199104033751117354719185504644902636551281622 88244625759163330391072253837421821408835086573917 71509682887478265699599574490661758344137522397096 83408005355984917541738188399944697486762655165827 65848358845314277568790029095170283529716344562129 64043523117600665101241200659755851276178583829204 19748442360800719304576189323492292796501987518721 27267507981255470958904556357921221033346697499235 63025494780249011419521238281530911407907386025152 27429958180724716259166854513331239480494707911915 32673430282441860414263639548000448002670496248201 79289647669758318327131425170296923488962766844032 32609275249603579964692565049368183609003238092934 59588970695365349406034021665443755890045632882250 54525564056448246515187547119621844396582533754388 56909411303150952617937800297412076651479394259029 89695946995565761218656196733786236256125216320862 86922210327488921865436480229678070576561514463204 69279068212073883778142335628236089632080682224680 12248261177185896381409183903673672220888321513755 60037279839400415297002878307667094447456013455641 72543709069793961225714298946715435784687886144458 12314593571984922528471605049221242470141214780573 45510500801908699603302763478708108175450119307141 22339086639383395294257869050764310063835198343893 41596131854347546495569781038293097164651438407007 07360411237359984345225161050702705623526601276484 83084076118301305279320542746286540360367453286510 57065874882256981579367897669742205750596834408697 35020141020672358502007245225632651341055924019027 42162484391403599895353945909440704691209140938700 12645600162374288021092764579310657922955249887275 84610126483699989225695968815920560010165525637567 85667227966198857827948488558343975187445455129656 34434803966420557982936804352202770984294232533022 57634180703947699415979159453006975214829336655566 15678736400536665641654732170439035213295435291694 14599041608753201868379370234888689479151071637852 90234529244077365949563051007421087142613497459561 51384987137570471017879573104229690666702144986374 64595280824369445789772330048764765241339075920434 01963403911473202338071509522201068256342747164602 43354400515212669324934196739770415956837535551667 30273900749729736354964533288869844061196496162773 44951827369558822075735517665158985519098666539354 94810688732068599075407923424023009259007017319603 62254756478940647548346647760411463233905651343306 84495397907090302346046147096169688688501408347040 54607429586991382966824681857103188790652870366508 32431974404771855678934823089431068287027228097362 48093996270607472645539925399442808113736943388729 40630792615959954626246297070625948455690347119729 96409089418059534393251236235508134949004364278527 13831591256898929519642728757394691427253436694153 23610045373048819855170659412173524625895487301676 00298865925786628561249665523533829428785425340483 08330701653722856355915253478445981831341129001999 20598135220511733658564078264849427644113763938669 24803118364453698589175442647399882284621844900877 76977631279572267265556259628254276531830013407092 23343657791601280931794017185985999338492354956400 57099558561134980252499066984233017350358044081168 55265311709957089942732870925848789443646005041089 22669178352587078595129834417295351953788553457374 26085902908176515578039059464087350612322611200937 31080485485263572282576820341605048466277504500312 62008007998049254853469414697751649327095049346393 82432227188515974054702148289711177792376122578873 47718819682546298126868581705074027255026332904497 62778944236216741191862694396506715157795867564823 99391760426017633870454990176143641204692182370764 88783419689686118155815873606293860381017121585527 26683008238340465647588040513808016336388742163714 06435495561868964112282140753302655100424104896783 52858829024367090488711819090949453314421828766181 03100735477054981596807720094746961343609286148494 17850171807793068108546900094458995279424398139213 50558642219648349151263901280383200109773868066287 79239718014613432445726400973742570073592100315415 08936793008169980536520276007277496745840028362405 34603726341655425902760183484030681138185510597970 56640075094260878857357960373245141467867036880988 06097164258497595138069309449401515422221943291302 17391253835591503100333032511174915696917450271494 33151558854039221640972291011290355218157628232831 82342548326111912800928252561902052630163911477247 33148573910777587442538761174657867116941477642144 11112635835538713610110232679877564102468240322648 34641766369806637857681349204530224081972785647198 39630878154322116691224641591177673225326433568614 61865452226812688726844596844241610785401676814208 08850280054143613146230821025941737562389942075713 62751674573189189456283525704413354375857534269869 94725470316566139919996826282472706413362221789239 03176085428943733935618891651250424404008952719837 87386480584726895462438823437517885201439560057104 81194988423906061369573423155907967034614914344788 63604103182350736502778590897578272731305048893989 00992391350337325085598265586708924261242947367019 39077271307068691709264625484232407485503660801360 46689511840093668609546325002145852930950000907151 05823626729326453738210493872499669933942468551648 32611341461106802674466373343753407642940266829738 65220935701626384648528514903629320199199688285171 83953669134522244470804592396602817156551565666111 35982311225062890585491450971575539002439315351909 02107119457300243880176615035270862602537881797519 47806101371500448991721002220133501310601639154158 95780371177927752259787428919179155224171895853616 80594741234193398420218745649256443462392531953135 10331147639491199507285843065836193536932969928983 79149419394060857248639688369032655643642166442576 07914710869984315733749648835292769328220762947282 38153740996154559879825989109371712621828302584811 23890119682214294576675807186538065064870261338928 22994972574530332838963818439447707794022843598834 10035838542389735424395647555684095224844554139239 41000162076936368467764130178196593799715574685419 46334893748439129742391433659360410035234377706588 86778113949861647874714079326385873862473288964564 35987746676384794665040741118256583788784548581489 62961273998413442726086061872455452360643153710112 74680977870446409475828034876975894832824123929296 05829486191966709189580898332012103184303401284951 16203534280144127617285830243559830032042024512072 87253558119584014918096925339507577840006746552603 14461670508276827722235341911026341631571474061238 50425845988419907611287258059113935689601431668283 17632356732541707342081733223046298799280490851409 47903688786878949305469557030726190095020764334933 59106024545086453628935456862958531315337183868265 61786227363716975774183023986006591481616404944965 01173213138957470620884748023653710311508984279927
+&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Et puisque je suis gentil, voici une version propre, indentée, et avec les #include qu'il faut!&lt;/p&gt;
+&lt;pre&gt;
+#include &lt;stdio.h&gt;
+
+  int a[52514],b,c=52514,d,e,f=1e4,g,h;
+
+  void main(void){
+    for(;b=c-=14;h=printf("%04d",e+d/f))
+      for(e=d%=f;g=--b*2;d/=g)
+        d=d*b+f*(h?a[b]:f/5),a[b]=d%--g;
+  }
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href="http://drgoulu.com/2004/06/28/pi-en-c/" title="http://drgoulu.com/2004/06/28/pi-en-c/"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="15000"></category><category term="C"></category><category term="décimales"></category><category term="PI"></category><category term="twitter"></category></entry><entry><title>10h de respiration de Dark Vador</title><link href="http://quack1.no-ip.org/10h-de-respiration-de-dark-vador.html" rel="alternate"></link><updated>2012-03-16T00:03:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-16:10h-de-respiration-de-dark-vador.html</id><summary type="html">&lt;p&gt;Comme le dit tonton &lt;a href="http://twitter.com/korben" title="http://twitter.com/#!/korben"&gt;@Korben&lt;/a&gt;, "C'est vendredi, c'est permis".&lt;/p&gt;
+&lt;p&gt;Donc le délire WTF du jour, c'est une vidéo Youtube, de 10h00, qui
+(semble-t-il) ne contient que la respiration de Dark Vador. Ça peut
+faire office de musique d'ambiance je pense, ou ce que vous voulez en
+fait, c'est juste du n'importe quoi, ça sert à rien, mais c'est vendredi
+depuis quelques minutes, donc je partage!!&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/Bc1Zc4qsTQk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Perso, j'ai pas vérifié que la vidéo ne contenait QUE ça, j'ai cliqué un
+peu partout sur la barre de navigation de la vidéo, je tombe toujours
+sur le souffle rauque d'Anakin... (bon, pour les mecs qui ont pas vu la
+pré-logie, je viens de tout vous spoiler....)&lt;/p&gt;
+&lt;p&gt;Mrci au tweet de &lt;a href="https://twitter.com/#!/Laurentec/status/180409138810068993" title="https://twitter.com/#!/Laurentec/status/180409138810068993"&gt;@Laurentec&lt;/a&gt; et au RT de &lt;a href="https://twitter.com/#!/papygeek" title="https://twitter.com/#!/papygeek"&gt;papygeek&lt;/a&gt; pour la
+découverte de cette magnifique vidéo!!&lt;/p&gt;</summary><category term="10h"></category><category term="Dark Vador"></category><category term="respiration"></category><category term="Vendredi c'est permis"></category><category term="WTF"></category></entry><entry><title>Song of the Day : "Cigarettes and Valentines" by Green Day</title><link href="http://quack1.no-ip.org/song-of-the-day-cigarettes-and-valentines-by-green-day.html" rel="alternate"></link><updated>2012-03-07T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-07:song-of-the-day-cigarettes-and-valentines-by-green-day.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/hcOFdZkBZRU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="cigarettes and valentines"></category><category term="green day"></category><category term="songOfTheDay"></category></entry><entry><title>Analyser ses mails pour se désabonner des spams et newsletter</title><link href="http://quack1.no-ip.org/analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html" rel="alternate"></link><updated>2012-03-01T23:58:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-01:analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html</id><summary type="html">&lt;p&gt;&lt;img alt="Unsubscribr Results" src="static/upload/unsubscribr-results.png" title="Unsubscribr Results" /&gt;&lt;/p&gt;
+&lt;p&gt;Marre d'avoir sa boite mail pleine de mails de newsletter ou de spam ?&lt;/p&gt;
+&lt;p&gt;Voici &lt;a href="https://unsubscribr.com/" title="https://unsubscribr.com/"&gt;Unsubscribr.com&lt;/a&gt;, un petit service online qui va analyser vos
+mails et en retirez tous les expéditeurs de newsletters ou de spams, et
+qui va vous fournir automatiquement les liens de désabonnement.&lt;/p&gt;
+&lt;p&gt;Ce service existe en deux versions. L'une, gratuite, qui analyse
+seulement votre inbox sur les 5 derniers jours. La seconde version coûte
+(seulement) 2€, et permet d'analyser sur les 30 derniers jours tous vos
+dossiers de mail.&lt;/p&gt;
+&lt;p&gt;Pour ceci, cliquez &lt;a href="https://unsubscribr.com/" title="https://unsubscribr.com/"&gt;ici&lt;/a&gt;, entrez votre adresse mail,
+donnez l'autorisation au site d'accéder à vos mails, puis patientez
+quelques secondes pour obtenir les liens de désabonnement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;L'accès aux mails est sécurisé par la technologie &lt;a href="http://en.wikipedia.org/wiki/OAuth" title="http://en.wikipedia.org/wiki/OAuth"&gt;OAuth&lt;/a&gt;. Vous ne
+donnez pas votre mot de passe au site, seulement un accès aux mails si
+le serveur de mail supporte cette méthode&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lifehacker.com/5889577/unsubscribr-crawls-through-your-email-and-provides-a-one-click-unsubscribe-button" title="http://lifehacker.com/5889577/unsubscribr-crawls-through-your-email-and-provides-a-one-click-unsubscribe-button"&gt;Source&lt;/a&gt; et &lt;a href="http://main.makeuseoflimited.netdna-cdn.com/wp-content/static/uploads/2012/02/unsubscribr-results.png?323f2c" title="http://main.makeuseoflimited.netdna-cdn.com/wp-content/static/uploads/2012/02/unsubscribr-results.png?323f2c"&gt;Image&lt;/a&gt;&lt;/p&gt;</summary><category term="desabonnement"></category><category term="mail"></category><category term="newsletter"></category><category term="spam"></category><category term="unsubscribr.com"></category></entry><entry><title>Song of the Day : "Je l'aime à mourir" by Francis Cabrel</title><link href="http://quack1.no-ip.org/song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html" rel="alternate"></link><updated>2012-02-29T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-29:song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html</id><summary type="html">&lt;p&gt;Because: j'aime pas la reprise de Shakira et je trouve la chanson
+superbe&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/XHVqKqmbhFA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="francis cabrel"></category><category term="je l'aime a mourir"></category><category term="songOfTheDay"></category></entry><entry><title>Redonner de la luminosité à vos photos</title><link href="http://quack1.no-ip.org/redonner-de-la-luminosite-a-vos-photos.html" rel="alternate"></link><updated>2012-02-28T23:45:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-28:redonner-de-la-luminosite-a-vos-photos.html</id><summary type="html">&lt;p&gt;On a tous déjà fait des photos magnifiques qui sont rendues minables à
+cause d'un contre-jour qui assombrit une partie de l'image.&lt;/p&gt;
+&lt;p&gt;Pour contrer cela, je viens de dégoter une petite astuce sympa qui
+permet de contrer ceci.&lt;/p&gt;
+&lt;p&gt;On utilise donc pour ça n'importe quel éditeur d'image, type Photoshop
+ou Gimp, du moment qu'il supporte les calques, l'inversion de couleurs
+et l'incrustation pour le mode de fusion des calques.&lt;/p&gt;
+&lt;p&gt;Voici le "tuto" pour Photoshop, je vous en ferais un pour Gimp sous peu
+;)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ouvrir la photo, et dupliquer le calque qui la contient&lt;/li&gt;
+&lt;li&gt;Inverser les couleurs du nouveau calque (Ctrl+I)&lt;/li&gt;
+&lt;li&gt;Donner le mode de fusion "Incrustation"&lt;/li&gt;
+&lt;li&gt;Réduire l'opacité pour atteindre l'effet souhaité&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+Et voici le tout illustré en vidéo :&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/UyIHpRjaBic" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://lifehacker.com/5889078/fix-your-photos-exposure-problems-in-seconds-with-this-simple-trick" title="http://lifehacker.com/5889078/fix-your-photos-exposure-problems-in-seconds-with-this-simple-trick"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="gimp"></category><category term="image"></category><category term="luminosité"></category><category term="photo"></category><category term="photoshop"></category><category term="redonner"></category></entry><entry><title>Song of the day : "Consoler of the Lonely" by The Raconteurs</title><link href="http://quack1.no-ip.org/song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html" rel="alternate"></link><updated>2012-02-23T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-23:song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/GZ95o1iQDsY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="consoler of the lonely"></category><category term="songOfTheDay"></category><category term="the raconteurs"></category></entry><entry><title>Ubuntu pour smartphones Android</title><link href="http://quack1.no-ip.org/ubuntu-pour-smartphones-android.html" rel="alternate"></link><updated>2012-02-22T00:20:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-22:ubuntu-pour-smartphones-android.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/ubuntuAndroid.jpg"&gt;&lt;img src="upload/ubuntuAndroid.jpg" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Canonical est en train de vouloir se battre sur tous les terrains. Après avoir annoncé leur envie de &lt;a href="http://www.omgubuntu.co.uk/2012/01/ubuntu-tablet-to-compete-with-android-ios/" title="http://www.omgubuntu.co.uk/2012/01/ubuntu-tablet-to-compete-with-android-ios/"&gt;se déployer sur tablettes&lt;/a&gt; et &lt;a href="http://www.omgubuntu.co.uk/2012/01/ubuntu-tv-unveiled-at-ces/" title="http://www.omgubuntu.co.uk/2012/01/ubuntu-tv-unveiled-at-ces/"&gt;sur télévisions&lt;/a&gt;, Ubuntu revient sur les smartphones Android.&lt;/p&gt;
+&lt;p&gt;Le système tire parti des téléphones multi-coeurs qui existent aujourd'hui, et permet donc de faire tourner une Ubuntu directement sur le smartphone. Pour rappel, Android est basé sur un kernel Linux, le portage ne doit donc pas être si compliqué (enfin, je pense...).&lt;/p&gt;
+&lt;p&gt;Donc, le système est totalement intégré à Android et se comporte de différentes façons suivant la façon dont on le connecte.&lt;/p&gt;
+&lt;p&gt;Quand le téléphone n'est pas connecté, c'est juste un smartphone Android.&lt;/p&gt;
+&lt;p&gt;Si on le connecte à un socle (qui a l'air d'être spécifique au téléphone et à Ubuntu....), lui-même relié à un écran/clavier/sourir, on dispose d'un système Ubuntu complet, qui tourne avec Unity. On a donc accès à toutes les fonctionnalités de l'Ubuntu, avec en plus, le lien avec le système Android. En effet, sur Unity (dans la version 12.04 d'Ubuntu seulement je crois), on peut faire une recherche directement dans le Dash parmi ses contacts, ses following/followers twitter etc... Et bien il sera possible de faire le même genre de recherche directement dans les contacts du téléphone. Les réseaux wifi du système seront gérés par le smartphone et affichés sur le bureau, on accède à ses photos et vidéos, et on a même une notification quand on reçoit des sms!!! Pour y répondre, l'intégration est encore à moitié fonctionnelle. Pour ceci, il y a un logiciel spécial qui permet de contrôler le smartphone directement depuis le Linux.... Si tout ça fonctionne, je pense qu'on aura une intégration complète pour bientôt!!&lt;/p&gt;
+&lt;p&gt;Enfin, on peut accéder à une interface d'Ubuntu TV à partir du smartphone pour visionner des films ou vidéos!&lt;/p&gt;
+&lt;p&gt;Comme ils le disent chez Canonical : &lt;em&gt;“Ubuntu is the &lt;strong&gt;killer app&lt;/strong&gt; for multi-core phones in 2012”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Si l'intégration est parfaite entre les deux systèmes, je pense aussi que ça pourrait décider les gens à n'avoir qu'une seule machine : leur smartphone, et s'en servir comme d'un téléphone et d'un ordinateur.Bref, moi je crois en la chose, je pense que ça peut marcher!&lt;/p&gt;
+&lt;p&gt;Pour voir la chose en action, une petite vidéo de démo (en anglais...)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/iv1Z7bf4jXY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sources : [OmgUbuntu#1][] &amp;amp;&amp;amp; [OmgUbuntu#2][] &amp;amp;&amp;amp; &lt;a href="http://www.ubuntu.com/devices/android" title="http://www.ubuntu.com/devices/android"&gt;Ubuntu.com&lt;/a&gt;&lt;/p&gt;</summary><category term="android"></category><category term="smartphone"></category><category term="ubuntu"></category></entry><entry><title>Song of the day : "Toes" by Zac Brown Band</title><link href="http://quack1.no-ip.org/song-of-the-day-toes-by-zac-brown-band.html" rel="alternate"></link><updated>2012-02-21T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-21:song-of-the-day-toes-by-zac-brown-band.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/lB8Nkn3Xjes" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="songOfTheDay"></category><category term="toes"></category><category term="zac brown band"></category></entry><entry><title>Comparer rapidement (presque) n'importe quoi</title><link href="http://quack1.no-ip.org/comparer-rapidement-presque-nimporte-quoi.html" rel="alternate"></link><updated>2012-02-20T17:37:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-20:comparer-rapidement-presque-nimporte-quoi.html</id><summary type="html">&lt;p&gt;Vous voulez partir en vacances au ski, acheter une voiture ou une
+tablette tactile, ou bien adopter un chien pour les enfants, mais vous
+hésitez encore ? J'ai le site parfait pour vous!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.findthebest.com/" title="http://www.findthebest.com/"&gt;FindTheBest&lt;/a&gt;&lt;/strong&gt;
+va comparer pour vous, suivant de nombreux critères, les articles que
+vous aurez choisis, dans plein (mais alors plein plein plein) de
+catégories. Les voici :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finances et business&lt;/li&gt;
+&lt;li&gt;Éducation&lt;/li&gt;
+&lt;li&gt;High-tech&lt;/li&gt;
+&lt;li&gt;Santé&lt;/li&gt;
+&lt;li&gt;Maison&lt;/li&gt;
+&lt;li&gt;Véhicules&lt;/li&gt;
+&lt;li&gt;Logiciels&lt;/li&gt;
+&lt;li&gt;Sports et distractions&lt;/li&gt;
+&lt;li&gt;Voyages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Et ensuite, dans toutes ses catégories, on a encore des dizaines
+d'autres catégories. Donc, en gros, vous pouvez comparer un peu tout ce
+que vous voulez!!&lt;/p&gt;
+&lt;p&gt;Vous pouvez aussi faire une recherche, en utilisant les critères utilisé
+par la comparaison par le site.&lt;/p&gt;
+&lt;p&gt;Donc, pour faire simple, si vous cherchez un truc, sans arriver à vous
+décider, allez sur ce site!!!!!&lt;/p&gt;
+&lt;p&gt;Voici donc quelques exemples pour vous donner un avant goût!!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Je peux chercher une tablette Android, avec Wifi, entre 8 " et 14", et
+à moins de 630\$....&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="static/upload/findTheBest_tablettes.png"&gt;&lt;img src="upload/findTheBest_tablettes.png" width="600" align="center" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;.... Ou comparer trois races de chiens pour savoir laquelle me
+conviendra le mieux à cause des enfants...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="static/upload/findTheBest_chiens.png"&gt;&lt;img src="upload/findTheBest_chiens.png" width="600" align="center" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;.... Ou encore, chercher un chirurgien plastique qui pratique les
+augmentations mammaires....&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="static/upload/findTheBest_chirurgiens.png"&gt;&lt;img src="upload/findTheBest_chirurgiens.png" width="600" align="center" /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;... Bref, allez y faire un tour, ça peut toujours servir!!&lt;/p&gt;</summary><category term="comparer"></category><category term="find the best"></category><category term="n'importe quoi"></category></entry><entry><title>Le VLC nouveau est arrivé</title><link href="http://quack1.no-ip.org/le-vlc-nouveau-est-arrive.html" rel="alternate"></link><updated>2012-02-19T22:31:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-19:le-vlc-nouveau-est-arrive.html</id><summary type="html">&lt;div align=center&gt;&lt;img src="static/upload/vlc.png" height="250" align=center /&gt;&lt;/div&gt;
+
+&lt;p&gt;La nouvelle version de VLC, la 2.0 (&lt;em&gt;Twoflower&lt;/em&gt;) vient de sortir.&lt;/p&gt;
+&lt;p&gt;C'est une version majeure qui arrive, avec le support de nouveaux
+formats, l'utilisation des multi-coeurs, du GPU et du matériel mobile,
+les Blu-Rays (c'est juste expérimental ça par contre...), des nouveaux
+filtres pour le son ou la vidéo, et une nouvelle interface, plus sobre
+et légère (en tout cas sous Linux).&lt;/p&gt;
+&lt;p&gt;On a donc beaucoup de changements (qui représentent plus de 7000 commits
+pour les connaisseurs...), mais la plupart ne se voient pas.&lt;/p&gt;
+&lt;p&gt;Cette version sera intégrée dans les dépôts de Ubuntu 12.04, pour les
+utilisateurs de la version 11.10 comme moi, rajoutez simplement le PPA
+suivant pour l'installer et la tester!&lt;/p&gt;
+&lt;pre&gt;
+sudo add-apt-repository ppa:n-muench/vlcsudo apt-get update &amp;&amp; sudo apt-get install vlc
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href="http://www.omgubuntu.co.uk/2012/02/how-to-install-vlc-2-0-in-ubuntu-10-04-11-10/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+d0od+%28OMG!+Ubuntu!%29" title="http://www.omgubuntu.co.uk/2012/02/how-to-install-vlc-2-0-in-ubuntu-10-04-11-10/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+d0od+%28OMG!+Ubuntu!%29"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.videolan.org/vlc/releases/2.0.0.html" title="http://www.videolan.org/vlc/releases/2.0.0.html"&gt;Site de VLC&lt;/a&gt;&lt;/p&gt;</summary><category term="linux"></category><category term="twoflower"></category><category term="ubuntu"></category><category term="vlc"></category><category term="vlc 2.0"></category></entry><entry><title>Je suis approximativement le 80 milliardième humain sur Terre, et vous ?</title><link href="http://quack1.no-ip.org/je-suis-approximativement-le-80-milliardieme-humain-sur-terre-et-vous.html" rel="alternate"></link><updated>2012-02-19T21:44:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-19:je-suis-approximativement-le-80-milliardieme-humain-sur-terre-et-vous.html</id><summary type="html">&lt;p&gt;Ça doit être marrant de bosser au service informatique de la BBC, on développe des trucs qui n'ont pas d'intérêt (en tout cas, moi j'en ai pas trouvé...).&lt;/p&gt;
+&lt;p&gt;Aujourd'hui, j'ai découvert (merci &lt;a href="https://twitter.com/#!/Vinvin/status/171294209947611137" title="https://twitter.com/#!/Vinvin/status/171294209947611137"&gt;@Vinvin&lt;/a&gt;) une page qui permet de savoir, en entrant votre date de naissance, de trouver le combien-ième humain vous êtes, d'obtenir le taux de croissance démographique de votre pays (et dire que je me souvient encore de ce terme qui date de mes années lycée...) et d'obtenir l'age moyen en fonction de votre sexe.&lt;/p&gt;
+&lt;p&gt;Enfin bon, c'est inutile, mais ça permet de passer 10 minutes à glander ;-)&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/BBC_Age.png"&gt;&lt;img src="upload/BBC_Age.png" width="300" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div align=center&gt;&lt;a href="static/upload/BBC_Pays.png"&gt;&lt;img src="upload/BBC_Pays.png" width="300" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div align=center&gt;&lt;a href="static/upload/BBC_Sexe.png"&gt;&lt;img src="upload/BBC_Sexe.png" width="300" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;</summary><category term="#whatsyournumber"></category><category term="BBC"></category></entry><entry><title>Dev. Android : Activity en plein écran</title><link href="http://quack1.no-ip.org/dev-android-activity-en-plein-ecran.html" rel="alternate"></link><updated>2012-02-19T19:15:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-19:dev-android-activity-en-plein-ecran.html</id><summary type="html">&lt;p&gt;Ce matin, j'avais besoin pour un projet de développement sur Android de
+mettre une Activity en plein écran, c'est à dire supprimer la barre de
+titre ainsi que la barre d'état du système. Je préfère noter ça ici,
+j'en aurait sûrement besoin une autre fois et au moins je saurais où
+chercher!!&lt;/p&gt;
+&lt;p&gt;Pour ça, j'ai trouvé 2 solutions. La première qui consiste à modifier le
+code java, la deuxième qui se situe dans le AndroidManifest.xml. Perso,
+j'ai utilisé la deuxième solution, mais je vais parler des deux, on sait
+jamais, la première pourra peut être servir un jour ;-)&lt;/p&gt;
+&lt;h3&gt;La méthode Java :&lt;/h3&gt;
+&lt;p&gt;Pour cette méthode on rajoute 2 lignes dans la méthode onCreate() de
+l'Activity. Une ligne pour supprimer la barre de titre, et une autre
+pour la barre d'état.&lt;/p&gt;
+&lt;pre&gt;
+@Overridepublic void onCreate(Bundle savedInstanceState) {
+  super.onCreate(savedInstanceState);
+  // Pour cacher la barre de titre
+  requestWindowFeature(Window.FEATURE_NO_TITLE);
+  setContentView(R.layout.tabs1);
+  // Pour cacher la barre de statut et donc mettre votre application en plein écran
+  getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+}
+
+&lt;/pre&gt;
+
+&lt;h3&gt;La méthode AndroidManifest.xml&lt;/h3&gt;
+&lt;p&gt;Pour la deuxième méthode, on peut rajouter soit ceci pour supprimer la
+barre de titre :&lt;/p&gt;
+&lt;pre&gt;
+    &amp;lt;activity android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar"/&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Soit ceci pour masquer la barre de titre et placer l'application en
+plein écran :
+&lt;pre&gt;
+    &amp;lt;activity  android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/&amp;gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.tutomobile.fr/afficher-son-application-android-en-plein-ecran-tutoriel-android-n%C2%B013/30/07/2010/" title="http://www.tutomobile.fr/afficher-son-application-android-en-plein-ecran-tutoriel-android-n%C2%B013/30/07/2010/"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="activity"></category><category term="android"></category><category term="code java"></category><category term="fullscreen"></category><category term="plein ecran"></category></entry><entry><title>Song of the day : "New Born" by Muse</title><link href="http://quack1.no-ip.org/song-of-the-day-new-born-by-muse.html" rel="alternate"></link><updated>2012-02-18T08:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-18:song-of-the-day-new-born-by-muse.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/SvqMTxpxsN4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="muse"></category><category term="new born"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "I'm Picky" by Shaka Ponk</title><link href="http://quack1.no-ip.org/song-of-the-day-im-picky-by-shaka-ponk.html" rel="alternate"></link><updated>2012-02-17T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-17:song-of-the-day-im-picky-by-shaka-ponk.html</id><summary type="html">&lt;p&gt;On revient aux fondamentaux : le rock!! On ajoute une pincée de trucs électroniques (mais pas trop, on veut pas faire du David Guetta!) et on obtiens du Shaka Ponk, ici en Session "Acoustique"&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/kPRTNQIaVJ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Enjoy ;)&lt;/p&gt;</summary><category term="I'm picky"></category><category term="Shaka Ponk"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "I'll be your man" by James Blunt</title><link href="http://quack1.no-ip.org/song-of-the-day-ill-be-your-man-by-james-blunt.html" rel="alternate"></link><updated>2012-02-16T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-16:song-of-the-day-ill-be-your-man-by-james-blunt.html</id><summary type="html">&lt;p&gt;Ça change de Green Day et Jack White, mais j'adore cette chanson :-)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/IUkLOUNxP8A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="I'll be your man"></category><category term="james blunt"></category><category term="songOfTheDay"></category></entry><entry><title>Vérifier la sécurité de vos mots de passe</title><link href="http://quack1.no-ip.org/verifier-la-securite-de-vos-mots-de-passe.html" rel="alternate"></link><updated>2012-02-15T23:56:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:verifier-la-securite-de-vos-mots-de-passe.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/pass.png"&gt;&lt;img src="upload/pass.png" width="300" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+Ce soir, deux petits liens pour tester la sécurité de vos mots de passe,
+pierre angulaire de toute la sécurité en informatique.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="http://www.passwordmeter.com/" title="PasswordMeter"&gt;PasswordMeter&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Le premier &lt;a href="http://www.passwordmeter.com/" title="PasswordMeter"&gt;lien&lt;/a&gt; est un site qui évalue la qualité de
+votre mot de passe suivant plusieurs critères, comme sa longueur, la
+présence de chiffres, majuscules, symboles, les suites de caractères,
+les suites de chiffres, etc...&lt;/p&gt;
+&lt;p&gt;La sécurité du mot de passe est donné sous la forme d'un pourcentage de
+sécurisation. Attention, ce n'est pas parce que vous avez obtenu 100%
+que votre mot de passe ne pourra pas être cassé, cela signifie qu'il y a
+potentiellement moins de chances pour qu'il puisse être trouvé...&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/password-reuse-visualizer/" title="Password Reuse Visualizer"&gt;Password Reuse Visualizer&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Ce second &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/password-reuse-visualizer/" title="Password Reuse Visualizer"&gt;lien&lt;/a&gt; est une add-on qui analyse
+tous les mots de passe enregistrés dans Firefox. Il est recommandé de ne
+pas utiliser le même mot de passe sur plusieurs sites, afin de limiter
+les risques.&lt;/p&gt;
+&lt;p&gt;C'est là tout le travail de ce plugin. Il analyse tous les mots de passe
+que vous avez stocké dans Firefox, puis produit une carte comme celle-ci
+dessous avec le résultat. Chaque point vert représente un mot de passe,
+les points bleus sont les sites web qui utilisent les dits-mots de
+passe. Des liaisons orange existent entre deux mots de passe quand ils
+sont très similaires.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/password_reuse.png"&gt;&lt;img src="upload/password_reuse.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;En théorie, il faudrait avoir un seul point bleu relié à chaque point
+vert. En pratique, c'est souvent compliqué de se souvenir de plusieurs
+dizaines, voire de plusieurs centaines de mots de passe. Évitez au moins
+de ne pas utiliser le même mot de passe sur le site de votre banque et
+sur des sites sur lesquels vous partagez des fichiers avec vos amis....&lt;/p&gt;
+&lt;p&gt;Pour installer l'add-on, cliquez sur le lien plus haut, puis sur &lt;em&gt;Add to
+Firefox&lt;/em&gt;. Une fois l'installation terminée, un petit cadenas bleu sera
+apparu en bas à droite de Firefox. Cliquez une fois dessus, et votre
+&lt;em&gt;Password-Map&lt;/em&gt; apparaîtra comme par magie :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.crazyws.fr/mozilla/une-extension-qui-illustre-la-reutilisation-de-mots-de-passe-UNGW3.html" title="Crazy WS - Reutilisation des mots de passe"&gt;Source&lt;/a&gt;&lt;/p&gt;</summary><category term="firefox"></category><category term="mot de passe"></category><category term="Password Reuse Visualizer"></category><category term="passwordmeter"></category></entry><entry><title>Song of the day : "Hybrid Moments" cover by Green Day</title><link href="http://quack1.no-ip.org/song-of-the-day-hybrid-moments-cover-by-green-day.html" rel="alternate"></link><updated>2012-02-15T11:26:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:song-of-the-day-hybrid-moments-cover-by-green-day.html</id><summary type="html">&lt;p&gt;Song of the Day : La reprise d'&lt;em&gt;Hybrid Moments&lt;/em&gt;, par Green Day (chanson
+originale par The Misfits)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/gwF6_xTvSNI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="green day"></category><category term="hybrid moments"></category><category term="songOfTheDay"></category></entry><entry><title>Union Spirit : groupe de rock country à écouter!!</title><link href="http://quack1.no-ip.org/union-spirit-groupe-de-rock-country-a-ecouter.html" rel="alternate"></link><updated>2012-02-15T00:47:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:union-spirit-groupe-de-rock-country-a-ecouter.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/unionSpirit.jpg"&gt;&lt;img src="upload/unionSpirit.jpg" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Aujourd'hui c'est mardi, c'est la Saint-Valentin, donc on fait de la pub
+pour les copains (enfin, plutôt les copines dans le cas présent.. :P )&lt;/p&gt;
+&lt;p&gt;Donc après le jeu vidéo Portal-like de cette après midi, voici un
+bon petit groupe de rock/country, qui fait de la très bonne musique, que
+j'aime beaucoup, et en plus je connais la chanteuse. Si ça c'est pas la
+classe!!  :-)&lt;/p&gt;
+&lt;p&gt;Donc ce bon petit groupe s'appelle &lt;strong&gt;Union Spirit&lt;/strong&gt;. Ils existent depuis
+7 ans si je ne me plante pas, et ils ont sorti leur premier album, &lt;em&gt;Just
+Us&lt;/em&gt; au mois de septembre dernier. Au programme : du rock, des bons airs
+de country, des rythmes plus calmes, ....&lt;/p&gt;
+&lt;p&gt;On a un album très riche et varié donc, plutôt rock au début sur les 5
+premières chansons, puis plus calme sur la fin. On retrouve aussi des
+duos avec des chanteurs connus du monde de la country, tels que Ian
+Scott, Pierre Lorry, ... ou des reprises de grands hits, comme celle de
+&lt;em&gt;Ghost Riders In The Sky&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Vous pouvez écouter leur album en ligne sur leur site. Ils sont
+auto-produits au travers d'une association, donc ils ne sont pas encore
+présents sur Spotify ou Soundcloud, et vous ne pourrez sûrement pas non
+plus trouver leur album dans des magasins près de chez vous (à moins
+d'habiter dans le Limousin :-) ). Mais vous pouvez le commander en
+envoyant un mail à leur manager. Tous les liens juste en dessous!!&lt;/p&gt;
+&lt;p&gt;J'espère que vous aimez, moi je kiffe grave, et pas seulement parce que
+je les connais!! C'est de la très bonne musique faite par un groupe très
+prometteur, que vous pourrez voir en live en Limousin (et oui, encore
+...) ou bien à Tours, au &lt;em&gt;Country Rock Bike Festival&lt;/em&gt; (le plus gros
+festival country/américain en France) les 6-7-8 Juillet 2012. J'y
+serais, j'en reparlerais sûrement :P&lt;/p&gt;
+&lt;p&gt;Maintenant, à vous de kiffer, voici tous les liens pour en savoir plus
+sur &lt;em&gt;Union Spirit&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.facebook.com/pages/UNION-SPIRIT/54919506106" title="Page Facebook de Union Spirit"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.union-spirit.com/index.php" title="Site de Union Spirit"&gt;Leur site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.myspace.com/unionspirit" title="Myspace ce Union Spirit"&gt;Leur mySpace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leur manager : &lt;a href="mailto:music_road87@yahoo.fr" title="Mail Music Road Promotion"&gt;Christophe Gibeau&lt;/a&gt; - Music Road Promotion - 45,
+    Résidence St Martin 87920 CONDAT SUR VIENNE - 06 16 28 01 89&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/us1.jpg"&gt;&lt;img src="upload/us1.jpg" width="300" align=center /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="just us"></category><category term="rock"></category><category term="union spirit"></category></entry><entry><title>P'tit coup de pub pour un projet de jeu : Projet Sphere</title><link href="http://quack1.no-ip.org/ptit-coup-de-pub-pour-un-projet-de-jeu-projet-sphere.html" rel="alternate"></link><updated>2012-02-14T16:37:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-14:ptit-coup-de-pub-pour-un-projet-de-jeu-projet-sphere.html</id><summary type="html">&lt;p&gt;Petit article rapide pour parler d'un projet de jeu-vidéo sur lequel travaille une copine de l'ENJMIN (poke &lt;a href="https://twitter.com/#%21/Elyaline" title="@Elyaline"&gt;@elyaline&lt;/a&gt;) : le &lt;strong&gt;&lt;em&gt;Projet Sphère&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Je vous le présente rapidement : Le jeu est un peu un Portal-Like. On part d'un endroit et on doit réussir à atteindre la sortie. Le joueur peut lancer des petites sphères (d'où le nom ;) ), qui vont rebondir un peu partout et dont on visualisera les trajectoires. Ensuite, on choisi une des trajectoires, et on peut se déplacer sur celle-ci, comme si on était la bille.&lt;/p&gt;
+&lt;p&gt;C'est tout ce que j'ai eu comme info dessus, j'ai hâte d'en savoir plus et de participer à la béta!! :D&lt;/p&gt;
+&lt;p&gt;En attendant, ils ont ouvert &lt;a href="http://projetsphere.blog.lemonde.fr/" title="Projet Sphere | Les tribulations de la conception d'un jeu sur la transmission de trajectoire"&gt;un blog&lt;/a&gt;. Vous pourrez y trouver des articles publiés par les membres de la team sur leur boulot tous les mercredis (#wednesdev), des captures d'écran le samedi (#screenshotsaturday) et des infos en total exclu de temps en temps (#bonusday). Ils aiment vraiment beaucoup les hastags à Angoulème.... :P&lt;/p&gt;
+&lt;p&gt;Je vous en reparle dès que j'ai plus d'infos, en attendant vous pouvez liker la &lt;a href="https://www.facebook.com/pages/Projet-Sphere/231498333602720" title="Page facebook du projet Sphère"&gt;page Facebook&lt;/a&gt;, suivre le &lt;a href="https://twitter.com/#!/project_sphere" title="Compte twitter du projet Sphère"&gt;compte Twitter&lt;/a&gt; ou s'abonner au &lt;a href="http://projetsphere.blog.lemonde.fr/feed/" title="Flux RSS du blog du projet Sphère"&gt;flux RSS&lt;/a&gt; du blog pour rester &lt;em&gt;up-to-date&lt;/em&gt; ;)&lt;/p&gt;</summary><category term="elyaline"></category><category term="enjmin"></category><category term="jeu"></category><category term="projet"></category><category term="pub"></category><category term="sphere"></category><category term="vidéo"></category></entry><entry><title>Grand kiff musical du moment!!</title><link href="http://quack1.no-ip.org/grand-kiff-musical-du-moment.html" rel="alternate"></link><updated>2012-02-09T23:19:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-09:grand-kiff-musical-du-moment.html</id><summary type="html">&lt;p&gt;Jack White avait publié il y a peu sur Internet le premier single de son futur album en solo (rappelez vous, il a arrêté les White Stripes il y a un an :-/ ), &lt;em&gt;Blunderbuss&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;J'ai hâte au 23 Avril, date de sortie de l'album. White commence avec un titre acoustique, juste sa guitare et son timbre de voix particulier. J'espère qu'il nous comblera avec ses solos bien oufs dont il a le secret!!!&lt;/p&gt;
+&lt;p&gt;Je relaie la vidéo du premier single, qui se nomme donc &lt;em&gt;Love Interruption&lt;/em&gt;! (les paroles ne collent pas avec mon état d'esprit du moment, mais ca ne m'empêche pas d'écouter la chanson en boucle!!!)&lt;/p&gt;
+&lt;p&gt;Vidéo Youtube : La plupart des vidéos de la chanson ont été supprimées de YouTube.... Mais j'ai pu en trouver une nouvelle, qui semble être un clip plus-ou-moins officiel... En tout cas il envoie, et j'en ai fait une petite copie grâce à M. DownloadHelper ;)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/iErNRBTPbEc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Edit&lt;/strong&gt; : Je viens de dégotter une vidéo avec la deuxième chanson : &lt;em&gt;Machine Gun Silhouette.&lt;/em&gt; C'est déjà plus rock, plus de grosse guitare, mais toujours du piano, un peu de violon en fond sonore.... Du bon Jack White encore une fois :)&lt;/p&gt;
+&lt;iframe title="indavideo video player" scrolling="no" class="indavideo-player"  id="player-120cc7c2ce" type="text/html" width="640" height="480" src="http://embed.indavideo.hu/player/video/120cc7c2ce/" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;La vidéo est sur un site qui semble venir des pays de l'Est.... J'ai pas pu trouver mieux :(&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit&lt;/strong&gt; : Jack White vient de publier un nouvel extrait de son futur album : &lt;em&gt;Sixteen Saltines&lt;/em&gt;. A découvrir ici :&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/watch?v=8Tdq41eVVu8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="jack white"></category><category term="love interruption"></category><category term="musique"></category></entry><entry><title>Petit florilège de liens (pour geeks)</title><link href="http://quack1.no-ip.org/petit-florilege-de-liens-pour-geeks.html" rel="alternate"></link><updated>2012-02-08T20:08:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-08:petit-florilege-de-liens-pour-geeks.html</id><summary type="html">&lt;p&gt;Ma barre de marque-pages de firefox commence à être plutôt pleine, j'ai
+donc décidé de faire un peu de tri là-dedans et donc de regrouper les
+liens ici. Les liens n'avaient pas non plus assez de "contenu" pour que
+je leur consacre un article complet (surtout que certains des liens
+pointent vers des articles d'autres blogueurs... :P ), donc je préférais
+faire un article avec tous ces liens :-)&lt;/p&gt;
+&lt;p&gt;Au programme : des trucs complètement inutiles spécial g33k, des liens
+pour du dev, ou juste des liens qui te serve une fois dans ta vie...&lt;/p&gt;
+&lt;p&gt;Ces trucs ne serviront donc probablement jamais, mais dans le doute, je
+préfère quand même les garder :D&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.nikopik.com/2012/01/comment-faire-des-cocktails-jeux-video.html" title="Cocktails jeux vidéos"&gt;Cocktails jeux vidéos&lt;/a&gt; : J'aime assez le principe, c'est vraiment
+    le délire de geek en soirée!! Le cocktail "Portal" est celui qui me
+    tente le plus, surtout pour l'apparence, je dois bien l'avouer....
+    :P&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.junauza.com/2010/12/top-50-programming-quotes-of-all-time.html" title="Citations sur la programmation (anglais)"&gt;Citations sur la programmation (anglais)&lt;/a&gt; : Je me suis bien marré
+    en en lisant certaines, je pense que je ferais un petit best-of dans
+    pas longtemps ;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://korben.info/augmenter-resolution-ubuntu-netbook.html" title="Augmenter la résolution de son écran sur Ubuntu"&gt;Augmenter la résolution de son écran sur Ubuntu&lt;/a&gt; : Je ne sais pas
+    si le soft fonctionne encore sur les dernières versions d'Ubuntu,
+    mais il doit être encore utilisable sur des Linux. Ça permet
+    d'augmenter la résolution de son écran en utilisant Xrandr. À garder
+    pour l'époque où j'aurais un netbook!!!&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://webdemo.visionobjects.com/equation.html?locale=fr_FR" title="Générer des équations LaTeX à la saisie"&gt;Générer des équations LaTeX à la saisie&lt;/a&gt; : On écrit son équation
+    à main levée (à souris levée plutôt), puis l'équation est générée au
+    format LaTeX et MathML (qui affiche une équation en Html). Quand on
+    a l'habitude, c'est plus rapide d'y aller cash en LaTeX, mais pour
+    des débutants, ça peut les aider à voir comment fonctionnent les
+    équations sur LaTeX...&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twournal.com/" title="Imprimer un livre avec ses tweets"&gt;Imprimer un livre avec ses tweets&lt;/a&gt; : Vous avez toute votre vie
+    sur twitter, vous tweetez des dizaines de fois par jour et vous
+    aimeriez bien récupérer tous vos tweets dans un livre ? Ce site est
+    fait pour vous!! Il récupère tous vos tweets et vous sort un eBook
+    en .pdf gratuitement. Et pour 15\$ (minimum) vous pouvez recevoir
+    cet eBook en vrai livre. Le prix est en fonction du nombre de tweets
+    et de pages que vous avez, mais ça reste plutôt cher je pense... Il
+    faudrait comparer avec le prix d'un éditeur ;) Perso, pour mes 272
+    tweets, j'en aurait pour 47\$ pour une édition couleur. Avec les
+    photos en noir et blanc, 22\$ :p J'ai demandé la version eBook, je
+    vous la posterais pour que vous ayez un aperçu ;-)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.worldometers.info/fr/" title="WorldOMeter"&gt;WorldOMeter&lt;/a&gt; : Pour avoir des infos (population, naissances,
+    décès, production de véhicules, mails, tweets, énergie, ...) en
+    "temps-réel" sur notre bonne vieille Terre!!&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://slipsum.com/#.TzK-U5UR-01" title="Samuel L. Ipsum"&gt;Samuel L. Ipsum&lt;/a&gt; : Marre des Lorem Ipsum traditionnels ? VOici un
+    générateur spécial Samuel L. Jackson dans Pulp Fiction!&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gks.gs/quickstats/index.php" title="Stats sur des sous-titres"&gt;Stats sur des sous-titres&lt;/a&gt; : En lien avec un de mes premiers
+    articles (&lt;a href="http://quack1.wordpress.com/2011/11/25/integration-de-sous-titres-sur-une-video-sous-ubuntulinux/" title="Intégration de sous-titres sur une vidéo sous Ubuntu/Linux"&gt;celui-ci&lt;/a&gt;). Vous rédigez vos propres sous-titre et vous
+    voulez quelques informations utiles, comme le nombre moyen de mots
+    par ligne, la durée moyennes d'affichage... Vous saurez donc très
+    vite si vos sous-titres sont "propres" et bien rédigés ou non avant
+    de les intégrer ;-)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.commandlinefu.com/commands/view/2829/query-wikipedia-via-console-over-dns" title="Naviguer sur Wikipedia comme les barbus"&gt;Naviguer sur Wikipedia comme les barbus&lt;/a&gt; : Vous n'avez pas de
+    navigateur web sous la main et vous voulez accéder à Wikipédia ?
+    Utilisez simplement le logiciel &lt;em&gt;dig&lt;/em&gt; pour questionner Wikipedia via
+    son DNS.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lettreenligne.laposte.fr/lpl/accueil.action" title="La lettre en ligne de LaPoste"&gt;La lettre en ligne de LaPoste&lt;/a&gt; : Si on peux éviter de faire la
+    queue à La Poste pour envoyer des lettres ou des recommandés, autant
+    en profiter!!&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bandcamp.com/" title="Vendre sa musique"&gt;Vendre sa musique&lt;/a&gt; : Pour que les artistes puissent vendre leur
+    musique directement à leurs fans, sans passer par des maisons de
+    disques ou des labels. Directement du producteur au consommateur,
+    comme les légumes frais au marché le dimanche matin!&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.downforeveryoneorjustme.com/" title="Savoir si un site est down ou pas"&gt;Savoir si un site est down ou pas&lt;/a&gt; : Marre de vous demander si le
+    site auquel vous tentez d'accéder est down ou si ça vient de chez
+    vous ? Ce petit site testera l'accès au site depuis chez lui, pour
+    vous dire si le problème vient de vous ou non :-)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://korben.info/un-generateur-de-donnees-pour-remplir-vos-bases.html" title="Générer des données de test pour une base de données"&gt;Générer des données de test pour une base de données&lt;/a&gt; : Vous
+    venez de créer une base de données, vous voulez la tester, mais vous
+    avez la flemme d'écrire les scripts de remplissage ? Ce site le fait
+    pour vous. Donnez lui la structure de vos tables, le format des
+    données, et il vous donnera les scripts SQL! Vous pourrez choisir
+    dans des presets pour le format des champs, comme Nom, Prénom,
+    Numéro de téléphone, Adresse mail, ou bien simplement des données
+    aléatoires.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.stickaz.com/fr/" title="Stickaz"&gt;Stickaz&lt;/a&gt; : Je vous en ai déjà parlé dans un précédent billet.
+    Pour concrétiser la post-it war, Stickaz vous fournit les
+    autocollants carrés et le modèle qu'il vous faut!&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.itsamessage.com/holiday2011/" title="Une carte de voeux vraiment personnalisée"&gt;Une carte de voeux vraiment personnalisée&lt;/a&gt; : Vous saisissez votre
+    adresse, votre message en 3 lignes, et vous avez une magnifique
+    carte de voeux avec votre rue en 3D. Encore plus personnalisé que
+    Dromadaire.com ;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pngfactory.net/browse/collection/" title="PNG Factory"&gt;PNG Factory&lt;/a&gt; : Plein de sets d’icônes design et plutôt classe!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pour l'instant, je n'en ai pas trop d'autre... Si j'en retrouve, je les
+rajouterais plus tard ;-)&lt;/p&gt;
+&lt;p&gt;En espérant que ca puisse vous servir :D&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principales sources :&lt;/strong&gt; &lt;a href="http://www.nikopik.com/" title="@Nikopik440"&gt;@Nikopik440&lt;/a&gt;, &lt;a href="http://korben.info/" title="@Korben"&gt;@Korben&lt;/a&gt;&lt;/p&gt;</summary><category term="3D"></category><category term="citations"></category><category term="cocktail"></category><category term="dns"></category><category term="donnees"></category><category term="equations"></category><category term="geeks"></category><category term="generer"></category><category term="imprimer"></category><category term="jeux"></category><category term="korben"></category><category term="latex"></category><category term="liens"></category><category term="livre"></category><category term="lorem ipsum"></category><category term="marque pages"></category><category term="musique"></category><category term="naviguer"></category><category term="nikopik"></category><category term="png factory"></category><category term="programmation"></category><category term="query"></category><category term="resolution"></category><category term="sous-titres"></category><category term="sql"></category><category term="stats"></category><category term="stickaz"></category><category term="titres"></category><category term="tweets"></category><category term="ubuntu"></category><category term="videos"></category><category term="voeux"></category><category term="wikipedia"></category><category term="worldometer"></category></entry><entry><title>Ma clé publique PGP</title><link href="http://quack1.no-ip.org/ma-cle-publique-pgp.html" rel="alternate"></link><updated>2012-01-25T16:43:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-01-25:ma-cle-publique-pgp.html</id><summary type="html">&lt;p&gt;Pour ceux qui souhaitent des contacts chiffrés avec moi, voici ma clé
+publique PGP (générée avec GnuPG) pour des échanges de mails ou fichiers
+sécurisés ;)&lt;/p&gt;
+&lt;pre&gt;
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+mQENBE8gLxEBCADobELi4fqF2grFJRr1sdTpYzPJ/xWLjpHip65ai/rQ3HAve/al
+yto/5uyPXZ6fzkl5ym1bYadlLt4j6UtDXic0RQ26Vnt+N8LKLfbVBQPqwCcw6sC4
+J2Wknb8McBJxBNRXGE9xl9b3SDNPpxz4q0LmxpdKbxtKJP+iA0HrezMTqtDhxVje
+f01HCm5qDVxeXtxt4puTW0se+EeHX0MoxKaDLzEuHoPB7IWqYKlz0yaDMhwx5OXr
+GXEHNAKEWPLwYuN5lX1PSnPCG5L5zUmSU5gIwI+Wm1HRMMiiaoX8Uc5iaopDZK96
+EBzF8Jl5PZzBlaKIaG78zQ2URAOrVhCcwqXLABEBAAG0LUFsZXhhbmRyZSBERUxP
+VVAgPGFsZXhhbmRyZS5kZWxvdXBAZ21haWwuY29tPokBOAQTAQIAIgUCTyAvEQIb
+AwYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQC09QfKJrlc3L/wf+MTr3N25q
+BV2/KUXaiGZaYPsPtC1mulXNXTkKdC5afAiqyGLWDHMtBaml/x3b62VB4o9gGOVX
+kuPBMdzEyCJ5kvBTnmCHgqk9tDVozwa90KEb3R9YAD4fcRvVn8MZYHZSyrCWfzfC
+FSgRPhPQ2Ngzy4+rKiiAoNuFZlyShyNZtZUrtyoZ3zsKeU7lFnQJ4aG1xd9j92Aa
+xL4Zxltj46qTXxG6Ql+0HQt/OdUGTpesoB2nlinZRPij2zRruiJFimmuEKEJkzvN
+82pdqZKnYIIHSE+tEcOgvkj8lM96xPFj1Dfx4cHkZa7wk7KB71b5ZMMurnPVYz1z
+/lYNNFFb7DygQbkBDQRPIC8RAQgAsY2dODg5EK7g6KlPjWxo4Nqy3KLFj4p6qFw8
+f8XaFjWp0jj/4f/gY7XAh6tgPSdlUPRTY6zjYHeEZLJEv+rxekvVUG7TcwpiTwDR
+AKHYb1svAL1ZZe+yB3ob+5+yahf+4QWoeTyaSwmMu5du0l19luNA35w86J24TQVJ
+zqPtBEqZPCTjsPDknxQd7Ikd+h16zUD86obhicCHAHlNo1R09StiGg69aCoVC+7g
+gf9wstkQvXULWoaaByEwYVbpjaK0TMJnwTFcpDnvoKXcrt0rv8zZAwrNXdr7nPoP
+TrFTl8mG6AxNQ8Ab2MoPRLt1he7NdAgZJ/c/SxOgSfvEOU6C5QARAQABiQEfBBgB
+AgAJBQJPIC8RAhsMAAoJEAtPUHyia5XNFjkH/3KRMlBS3IiO2gW4A2qqn0FGKwyn
+Yif5r1hdZjVywo/qn5ofSCOlUOmXfbsd3ctJw4ArvFhUjJtfgl3P9hmSNyyF5zrn
+AqF/vkfEZb9JQs71P/DovY6hjSrx9KbKemFD/lQJtXgGcGq2zZNgPiLosB3XyF4n
+iU+4pMLWBWZQ6/H3v+jDZ27IVmP5K0AQjGug10oUTDGkGIHj3CLIp7jfWcLVS0gp
+Kz7OtgeuSj8Ak2PV7t7rcrOSRuuM7wVtXXFTe+a9VAB5yuW+L3VxYATMs5lFe29U
+BcURtCKDKIj5qUEn7PPF0GNDuYR+UW9uCzCOPbZfShVs+gh5JP18cHD880I=
+=2Slw
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/pre&gt;</summary><category term="chiffrement"></category><category term="clé"></category><category term="gpg"></category></entry><entry><title>Ubuntu : Unity vs Gnome-Shell : Avis (non) objectif</title><link href="http://quack1.no-ip.org/ubuntu-unity-vs-gnome-shell-avis-non-objectif.html" rel="alternate"></link><updated>2012-01-24T21:13:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-01-24:ubuntu-unity-vs-gnome-shell-avis-non-objectif.html</id><summary type="html">&lt;p&gt;Depuis plusieurs années déjà, j'utilise quasi-exclusivement le système
+d'exploitation Linux sur mes machines. Je ne conserve Windows que par
+compatibilité pour certains softs (Photoshop par exemple) ou les jeux
+vidéos (ce qui représente une part de temps presque négligeable ;-) ).
+Et j'utilise donc la distribution Ubuntu, qui est stable et bien
+maintenue.&lt;/p&gt;
+&lt;p&gt;Une des plus grandes "innovations" des dernières versions d'Ubuntu est
+son interface graphique. Canonical a supprimé l'interface Gnome
+classique pour développer la sienne : Unity.&lt;/p&gt;
+&lt;p&gt;J'avais donc commencé à l'utiliser, puisqu'elle était installée et
+activée par défaut, sans chercher plus loin.&lt;/p&gt;
+&lt;p&gt;En cherchant sans chercher, je suis tombé il y a quelques mois sur
+Gnome-Shell. Par manque de temps (et de motivation...) je n'avais pas
+vraiment eu le temps de tester et voir ce que ça valait.&lt;/p&gt;
+&lt;p&gt;Je m'y suis (enfin) mis la semaine dernière, et voici une petite
+&lt;em&gt;review&lt;/em&gt; des deux interfaces graphiques et ce que j'en pense!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Avantages d'Unity&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La barre de menu ainsi que les boutons de
+    réduction/agrandissement/fermeture de la fenêtre dans la barre des
+    tâches du système (style &lt;em&gt;Mac OS&lt;/em&gt;) : On économise de ce fait
+    l'équivalent de 2 barres de menus sur notre écran. Quand on a un 15
+    pouces ou moins, ça fait du bien! :-)&lt;/li&gt;
+&lt;li&gt;La gestion "au point" du multi-écran : J'ai un deuxième écran pour
+    le laptop, et Ubuntu/Unity arrive à le gérer parfaitement. J'ai eu
+    un bug plutôt &lt;em&gt;chiant&lt;/em&gt; avec Gnome-Shell, voir plus bas...&lt;/li&gt;
+&lt;li&gt;Le dock qui se masque/s'affiche automatiquement et assez rapidement.&lt;/li&gt;
+&lt;li&gt;Un look assez sobre, classe, qui reste un peu dans la lignée des
+    précédentes versions de Gnome (2.x). Je trouve que ça envoie du
+    steak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Inconvénients d'Unity&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L'ajout de raccourcis au dock est plutôt contraignant : À part
+    lancer l'appli, puis faire un clic-droit sur l'icône, et "Conserver
+    dans le lanceur", je n'ai pas trouvé plus simple... Sinon il faut
+    modifier des fichiers de config...Ça devient vite le bordel.&lt;/li&gt;
+&lt;li&gt;L'affichage du &lt;em&gt;dash&lt;/em&gt; plutôt lent : Autant le dock vient vite,
+    autant le dash met un peu plus de temps à arriver quand on appuie
+    sur &lt;em&gt;Super&lt;/em&gt;. On peut modifier une option de Compiz pour l’accélérer,
+    ça aide un peu...&lt;/li&gt;
+&lt;li&gt;Dans le même genre, quand on appuie sur &lt;em&gt;Super&lt;/em&gt; et qu'on commencer à
+    taper, pour chercher par exemple une application, la prise du focus
+    dans le champ n'est pas toujours réussie, ou bien on a pas mal de
+    lenteurs pour avoir le résultat.&lt;/li&gt;
+&lt;li&gt;En parlant de Compiz : il utilise pas mal de ressources systèmes....
+    J'ai un peu peur pour les petites configs.. :-S&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Avantages de Gnome-Shell&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Incontestablement son plus gros avantage : il est rapide! Rien à
+    dire de plus, il suffit de le tester pour s'en rendre compte.&lt;/li&gt;
+&lt;li&gt;L'éclatement des fenêtres quand on appuie sur &lt;em&gt;Super&lt;/em&gt; est assez
+    pratique, même si je suis quand même plus friand du &lt;em&gt;Alt+Tab&lt;/em&gt;...&lt;/li&gt;
+&lt;li&gt;Le grand nombre d'extensions que l'on peut installer. Ça permet de
+    personnaliser facilement et rapidement son interface.&lt;/li&gt;
+&lt;li&gt;Les popups qui s'affiche en haut de la fenêtre "mère", un truc qui
+    ressemble à Mac OS. Ça évite d'avoir ses popups qui se barrent on ne
+    sait pas où sur l'écran...&lt;/li&gt;
+&lt;li&gt;Le système de notification en bas de l'écran est plutôt bien foutu
+    en ce qui concerne les ouvertures d'onglets dans Firefox, les
+    périphériques qui sont montés, etc... Plutôt que de donner le focus
+    à la fenêtre, on affiche une notif en bas de l'écran, j'aime!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Inconvénients de Gnome-Shell&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Problème de gestion du multi-écran : mon wallpaper se retrouver
+    coupé, déplacé, un peu à l'arrache... Rien que ça c'est presque une
+    condition pour ne pas l'utilise... :-S&lt;/li&gt;
+&lt;li&gt;Comme dit plus haut, les barres de titres et de menus prennent de la
+    place sur l'écran, je préfère de ce côté là Unity qui économise de
+    la place.&lt;/li&gt;
+&lt;li&gt;Pas de dock en natif, obligé de passer par une extension. Certains
+    trouveront que c'est un avantage, perso je préférerais que ce soit
+    inclut en natif.&lt;/li&gt;
+&lt;li&gt;La zone de notification qui est cachée en bas à droite de l'écran.
+    C'est bien puisque ca économise un peu de place, mais c'est un peu
+    contraignant de devoir envoyer sa souris tout en bas à droite de
+    l'écran pour l'afficher...&lt;/li&gt;
+&lt;li&gt;Le style des fenêtres diffère trop du style de la barre de menu
+    supérieure et de la zone de notifs. Chez Unity, les choses sont plus
+    homogènes.&lt;/li&gt;
+&lt;li&gt;Pas d’intégration native du contrôle de la musique dans la
+    mini-fenêtre de gestion du volume.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conclusion&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En conclusion, je dirais que pour l'instant je préfère utiliser Unity.
+Un gain de place sur l'écran, le dock qui est réactif, (concernant le
+dash qui est plutôt lent, je l'utilise peu, ça ne me dérange pas).&lt;/p&gt;
+&lt;p&gt;Gnome-Shell est lui aussi très bien foutu, mais dans l'ensemble il lui
+manque quelques fonctionnalités propres à Unity, qui fait que je reste
+sur ce dernier.&lt;/p&gt;
+&lt;p&gt;Les deux interfaces ont chacune leurs points forts et leurs
+inconvénients, c'est un peu les goûts et l'utilisation de chaque
+utilisateur qui leur permettra de choisir l'un ou l'autre.&lt;/p&gt;
+&lt;p&gt;Enfin, petite requête un peu utopiste, si un des développeurs de
+Gnome-Shell passe sur ce blog, voilà ce qui (à mon goût) rendrait
+Gnome-Shell vraiment génial : intégration de la barre de menu et des
+boutons de gestion de la fenêtre dans la barre de titre, gestion
+optimale du multi-écran et le look unifié qu'on a avec Unity. ;-D&lt;/p&gt;
+&lt;p&gt;En revanche, si &lt;a href="http://linuxfr.org/news/hud-pour-head-up-display-disparition-des-menus-dans-unity" title="HUD"&gt;HUD&lt;/a&gt; est réellement intégré à Unity, je pense que je
+passerais quand même à Gnome-Shell.&lt;/p&gt;
+&lt;p&gt;A suivre...&lt;/p&gt;</summary><category term="gnome-shell"></category><category term="ubuntu"></category><category term="unity"></category></entry><entry><title>Nouveau look de la bête</title><link href="http://quack1.no-ip.org/nouveau-look-de-la-bete.html" rel="alternate"></link><updated>2012-01-10T09:49:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-01-10:nouveau-look-de-la-bete.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/stickaz1.jpg"&gt;&lt;img src="upload/stickaz1.jpg" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;J'ai reçu ma commande de chez &lt;a href="https://twitter.com/#!/stickaz" title="@Stickaz"&gt;@Stickaz&lt;/a&gt; hier matin, et j'ai donc
+commencé à les coller :-)&lt;/p&gt;
+&lt;p&gt;Au programme j'ai un grand tableau qui est en cours, un Bugdroid pas commencé, et un "Mr Salopette Bleue", que je viens de coller, directement après le petit café du matin :D&lt;/p&gt;
+&lt;p&gt;Je ferrais un article plus détaillé, avec plus de photos, mais je poste juste le résultat du premier que j'ai fini de poser, sur le dos de la bêbête. Ça va envoyer du lourd à la fac un truc comme ça!!!&lt;/p&gt;
+&lt;p&gt;[gallery]&lt;/p&gt;</summary><category term="Laptop"></category><category term="look"></category><category term="mario"></category><category term="nouveau"></category><category term="stickaz"></category></entry><entry><title>Test de l'intégration des tweets dans Wordpress</title><link href="http://quack1.no-ip.org/test-de-lintegration-des-tweets-dans-wordpress.html" rel="alternate"></link><updated>2012-01-06T10:42:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-01-06:test-de-lintegration-des-tweets-dans-wordpress.html</id><summary type="html">&lt;p&gt;Je cherchais un bon tweet pour tester l'intégration automatique des
+tweets dans wordpress. J'en ai trouvé un bon chez Mr &lt;a href="http://twitter.com/#!/Korben" title="@Korben"&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Un petit script python pour faire du brute-force universel, sur un peu
+tous les protocoles .... J'ai pas encore essayé, mais ça ne devrait
+tarder :P&lt;/p&gt;
+&lt;p&gt;Donc voici le tweet en question :&lt;/p&gt;
+&lt;blockquote class="twitter-tweet tw-align-center" lang="fr"&gt;&lt;p&gt;Patator – Le logiciel de bruteforce universel &lt;a href="http://t.co/T2C6Ti0w" title="http://goo.gl/fb/S0uDn"&gt;goo.gl/fb/S0uDn&lt;/a&gt; &lt;a href="https://twitter.com/search/%23blog"&gt;#blog&lt;/a&gt;&lt;/p&gt;&amp;mdash; Korben (@Korben) &lt;a href="https://twitter.com/Korben/status/155219907112480768" data-datetime="2012-01-06T09:31:24+00:00"&gt;Janvier 6, 2012&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;EDIT : Donc tout à l'air de bien marcher. Si ça ne marche pas, je crois
+qu'il faut rajouter cette extension à son wordpress : &lt;a href="http://wordpress.org/extend/plugins/twitter-blackbird-pie/" title="Blackbird pie"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="intégration"></category><category term="tweet"></category></entry><entry><title>Personnalisation d'Unity</title><link href="http://quack1.no-ip.org/personnalisation-dunity.html" rel="alternate"></link><updated>2011-12-12T06:33:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2011-12-12:personnalisation-dunity.html</id><summary type="html">&lt;p&gt;J'ai fait une découverte intéressante ce matin en lisant ma timeline. Un tweet d'&lt;a href="https://twitter.com/#!/UbuntuFeed"&gt;@UbuntuFeed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Un petit utilitaire permettant de personnaliser Unity, la nouvelle interface d'Ubuntu (nouvelle, pas tellement, puisqu'Unity est là depuis 2 versions déjà :-/ ). L'appli s'appelle &lt;em&gt;myunity&lt;/em&gt;, et avait l'air sympa.&lt;/p&gt;
+&lt;p&gt;Donc j'ai voulu installer ça vite fait, mais en fait elle n'est pas encore présente dans les repositories officiels d'Ubuntu, donc il faut rajouter le ppa.&lt;/p&gt;
+&lt;p&gt;Somme toute, ça a pas été super long.&lt;/p&gt;
+&lt;pre&gt;
+    $ sudo add-apt-repository ppa:myunity/ppa &amp;amp;&amp;amp; sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install myunity
+&lt;/pre&gt;
+
+&lt;p&gt;Quand on rajoute le repository, j'ai eu un message me disant que l'application était déjà présente dans les sources officielles d'Ubuntu, en fait pas du tout. Il faut bien rajouter le ppa et mettre à jour l'index apt-get. Ensuite vous pouvez l'utiliser en lançant directement l'appli dans le terminal&lt;/p&gt;
+&lt;pre&gt;
+    $ myunity
+&lt;/pre&gt;
+
+&lt;div align=center&gt;&lt;a href="static/upload/myunity.png"&gt;&lt;img src="upload/myunity.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Au final, après utilisation, je m'attendais quand même à mieux. MyUnity
+permet de régler la taille des icônes du dock, la transparence des
+icônes, la brillance de celles-ci.... J'espère que ce n'est qu'un début
+et qu'on pourra personnaliser Unity plus que ça dans les prochaines
+versions.&lt;/p&gt;
+&lt;p&gt;Normalement, myUnity sera officiellement présente dans les dépôts
+d'Ubuntu à partir de la 12.04. Espérons que le lancement d'une version
+LTS chez Ubuntu nous offrira un nouvel Unity :)&lt;/p&gt;
+&lt;p&gt;Si quelqu'un lit ce blog, et qu'en plus il a des solutions pour
+personnaliser Unity, je suis preneur ;)&lt;/p&gt;</summary><category term="myunity"></category><category term="personnalisation"></category><category term="ubuntu"></category><category term="unity"></category></entry><entry><title>World of Warcraft sur Linux</title><link href="http://quack1.no-ip.org/world-of-warcraft-sur-linux.html" rel="alternate"></link><updated>2011-11-25T17:46:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2011-11-25:world-of-warcraft-sur-linux.html</id><summary type="html">&lt;p&gt;Certains d'entre vous jouent peut être à World Of Warcraft sur Linux en utilisant wine.Pour ceux qui souhaiteraient le faire, il y a un très bon tutoriel dédié dans la &lt;a href="http://doc.ubuntu-fr.org/wow" title="doc d'Ubuntu sur Wine et World of Warcraft"&gt;doc d'Ubuntu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Personnellement, la chose m'avait un peu rebutée à cause d'un nombre d'images par secondes (&lt;em&gt;ips&lt;/em&gt; ou &lt;em&gt;fps&lt;/em&gt;(en anglais)).&lt;/p&gt;
+&lt;p&gt;J'ai découvert hier matin une petite astuce pour l'augmenter considérablement.&lt;/p&gt;
+&lt;p&gt;Il suffit de cocher l'option "Réduire la latence" dans les options vidéo de World of Warcraft :&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/wow.png"&gt;&lt;img src="upload/wow.png" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Bon, évidemment, l'image est un peu plus moche qu'avant, mais ça n'empêche absolument pas de jouer :P Et ça nous évite de devoir rebooter sur Windows pour pouvoir geeker entre 2 lignes de codes!!&lt;/p&gt;
+&lt;p&gt;J'espère que ça marchera aussi chez vous, mais il n'y a pas de raisons ;)&lt;/p&gt;</summary><category term="ubuntu"></category><category term="warcraft"></category><category term="wine"></category><category term="wow"></category></entry><entry><title>Intégration de sous-titres sur une vidéo sous Ubuntu/Linux</title><link href="http://quack1.no-ip.org/integration-de-sous-titres-sur-une-video-sous-ubuntulinux.html" rel="alternate"></link><updated>2011-11-25T17:39:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2011-11-25:integration-de-sous-titres-sur-une-video-sous-ubuntulinux.html</id><summary type="html">&lt;p&gt;Petit billet pour voir comment intégrer des sous titres sur une vidéo
+sur Ubuntu.&lt;/p&gt;
+&lt;p&gt;Nous allons utiliser un petit logiciel en ligne de commande, mencoder,
+qui est inclut dans le logiciel mplayer (qui, lui, permet de lire des
+vidéos directement depuis la ligne de commande). On peut installer
+mencoder directement depuis apt &lt;a href="apt://mencoder" title="ici"&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;De plus, le logiciel ffmpeg est assez utile, pour récupérer des
+informations sur la vidéo, et il est aussi indispensable à mencoder.&lt;/p&gt;
+&lt;p&gt;Pour installer les deux logiciels depuis la ligne de commande, tapez :&lt;/p&gt;
+&lt;pre&gt;
+sudo apt-get install ffmpeg mencoder
+&lt;/pre&gt;
+
+&lt;p&gt;L'utilisation de mencoder est très simple. Il suffit de lui passer en
+argument la vidéo originale, le fichier de sous-titres et le nom du
+fichier à créer. On peut également rajouter quelques options concernant
+l'encodage de la vidéo, du son, ainsi que des options concernant le
+format du sous titre.&lt;/p&gt;
+&lt;p&gt;Voici la ligne de commande que j'utilise :&lt;/p&gt;
+&lt;pre&gt;
+mencoder video_originale.avi -sub fichier_sous_titre.srt -fontconfig -font Arial -subfont-text-scale 4 -utf8 -oac mp3lame -lameopts br=128 -ovc xvid -xvidencopts bitrate=1200 -o video_sous_titrée.avi
+&lt;/pre&gt;
+
+&lt;p&gt;Il ne reste plus qu'à faire &lt;em&gt;Entrée&lt;/em&gt; et le tour est joué ;) &lt;/p&gt;
+&lt;p&gt;Voici le détail des options (vous trouverez plus d'infos dans la page de
+manuel ou sur &lt;a href="http://doc.ubuntu-fr.org/mencoder" title="le net"&gt;le net&lt;/a&gt;). Je rappelle que ce sont les options que
+j'utilise personnellement. Beaucoup d'autres sont dispo dans le manuel
+;) :&lt;/p&gt;
+&lt;pre&gt;
+-fontconfig -font Arial
+&lt;/pre&gt;
+
+&lt;p&gt;On donne ici la police de caractères à utiliser. Dans ce cas, Arial. (Ca
+reste quelque chose de basique, mais ça rend très bien pour des
+sous-titres :P)&lt;/p&gt;
+&lt;pre&gt;
+-subfont-text-scale 4
+&lt;/pre&gt;
+
+&lt;p&gt;On défini ici la taille des sous-titres. Attention, cela correspond au
+pourcentage de la taille de l'écran. Dans mon cas, les lettres feront 4%
+de la taille de la vidéo.&lt;/p&gt;
+&lt;pre&gt;
+-utf8
+&lt;/pre&gt;
+
+&lt;p&gt;Le format d'encodage des caractères, pour éviter d'avoir des mauvaises
+surprises sur la vidéo finale.&lt;/p&gt;
+&lt;pre&gt;
+-oac mp3lame
+&lt;/pre&gt;
+
+&lt;p&gt;Ici, on défini l'&lt;em&gt;Output Audio Codec&lt;/em&gt; : donc Lame, implémentation
+open-source du format MP3.&lt;/p&gt;
+&lt;pre&gt;
+-lameopts br=128
+&lt;/pre&gt;
+
+&lt;p&gt;Les options spécifiques à Lame : je donne juste le &lt;em&gt;bitrate&lt;/em&gt; que je
+souhaite avoir, soit 128kbps.&lt;/p&gt;
+&lt;pre&gt;
+-ovc xvid
+&lt;/pre&gt;
+
+&lt;p&gt;Ici, c'est comme plus haut, sauf que cela concerne la vidéo (&lt;em&gt;Output
+Video Codec&lt;/em&gt;). Du Xvid, ça rest standard pour des bonnes vidéos ;)&lt;/p&gt;
+&lt;pre&gt;
+-xvidencopts bitrate=1200
+&lt;/pre&gt;
+
+&lt;p&gt;Et maintenant les options spécifiques à Xvid. Comme pour Lame, je donne
+juste le &lt;em&gt;bitr
+ate&lt;/em&gt; de ma vidéo : 1200kbps.
+ 
+Et voilà, vous êtes prêt à intégrer vos sous titres sur vos vidéos!! Si
+vous souhaitez éditer facilement vos sous-titres, en voyant votre vidéo
+en même temps pour avoir un meilleur rendu, vous pouvez utiliser
+&lt;a href="http://doc.ubuntu-fr.org/gnome-subtitles" title="Gnome-Subtitles"&gt;Gnome-Subtitles&lt;/a&gt;(comme son nom l'indique, il est fait pour Gnome,
+mais il devrait sûrement fonctionner sur Kde ou Xfce ;) )&lt;/p&gt;</summary><category term="ffmpeg"></category><category term="mencoder"></category><category term="sous-titres"></category><category term="ubuntu"></category><category term="video"></category></entry><entry><title>Hello world!</title><link href="http://quack1.no-ip.org/hello-world.html" rel="alternate"></link><updated>2011-11-25T17:34:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2011-11-25:hello-world.html</id><summary type="html">&lt;p&gt;Premier billet (automatique) du blog. Pour l'instant je n'ai pas trop touché aux réglages de wordpress, mais ça ne saurait tarder ;) donc n'ayez pas peur de l'apparence "basique" du site :P&lt;/p&gt;
+&lt;p&gt;Concernant le contenu, le blog a été créé pour être un aide-mémoire qui me servirait à stocker deux-trois trucs que je trouve sympa, et si ça peut profiter ~~au monde entier~~ à certains, j'en serais super content :-)&lt;/p&gt;</summary></entry></feed>

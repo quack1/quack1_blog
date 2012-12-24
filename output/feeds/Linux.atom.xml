@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Quack1@Blog</title><link href="http://quack1.no-ip.org/" rel="alternate"></link><link href="http://quack1.no-ip.org/feeds/Linux.atom.xml" rel="self"></link><id>http://quack1.no-ip.org/</id><updated>2012-10-05T16:52:00+02:00</updated><entry><title>Customisation de mon .bashrc</title><link href="http://quack1.no-ip.org/customisation-de-mon-bashrc.html" rel="alternate"></link><updated>2012-10-05T16:52:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-10-05:customisation-de-mon-bashrc.html</id><summary type="html">&lt;p&gt;Petit article pour me souvenir d'un bout de script que j'ai placé à la
+fin de mon fichier .bashrc, qui me permet d'obtenir 2-3 infos sur mon
+système au lancement d'un terminal. Au menu, la date, l'heure, la
+version de l'OS, du noyau, l'uptime et les adresses IP de mes interfaces
+réseaux. Au final, j'obtiens ce rendu :&lt;/p&gt;
+&lt;p&gt;&lt;img src="static/upload/custombash.png" width="600" align="center" /&gt;&lt;/p&gt;
+&lt;p&gt;Première chose que j'ajoute au fichier de configuration de Bash : la
+définition de quelques couleurs. En effet, ça ne se voit pas beaucoup
+ici, mais les infos affichées en haut du terminal sont en gris clair. Je
+peux donc choisir des couleurs différentes pour chaque machine, et
+pouvoir différencier mes terminaux rapidement.&lt;/p&gt;
+&lt;pre&gt;
+black='e[0;30m'
+blue='e[0;34m'
+green='e[0;32m'
+cyan='e[0;36m'
+red='e[0;31m'
+purple='e[0;35m'
+brown='e[0;33m'
+lightgray='e[0;37m'
+darkgray='e[1;30m'
+lightblue='e[1;34m'
+lightgreen='e[1;32m'
+lightcyan='e[1;36m'
+lightred='e[1;31m'
+lightpurple='e[1;35m'
+yellow='e[1;33m'
+white='e[1;37m'
+nc='e[0m'
+&lt;/pre&gt;
+
+&lt;p&gt;Ensuite, j'ai les deux parties les plus longues du script (au passage,
+si quelqu'un voit comment faire mieux, je suis preneur :-) ). J'affiche
+sous les infos mon login et le nom de ma machine, le tout entouré d'une
+ligne. Le problème, c'est que je peux avoir plusieurs tailles de
+fenêtres, et les traits seraient trop petits ou trop grands. J'ai donc
+une boucle pour n'afficher que le bon nombre de tirets :&lt;/p&gt;
+&lt;pre&gt;
+theUser="───────[$USER@$HOSTNAME]"
+lgth=$(($COLUMNS-${#theUser}))
+i=0
+while [[ $i -lt $lgth ]]; do
+  theUser="$theUser─"
+  (( i += 1 ))
+done
+&lt;/pre&gt;
+
+&lt;p&gt;Ensuite, je cherche à récupérer les adresses IP de mes interfaces
+réseaux. Problème : certaines interfaces n'ont pas d'adresses IP
+définies, et d'autres sont inutilisées (adresses virtuelles de
+communication avec mes VM). J'ai donc un bout de script un peu moche
+avec une boucle et des conditions...&lt;/p&gt;
+&lt;pre&gt;
+ip_adress=""
+for if in eth0 wlan0
+do
+    ip=$(ip addr show dev $if | grep "inet "| awk '{print $2}')
+    if [[ "$ip" ]] 
+    then
+    if [[ -z "$ip_adress" ]]
+    then
+        ip_adress="        ${lightgray}$if : $ip" 
+    else
+        ip_adress="$ip_adressn                    ${lightgray}$if : $ip"
+    fi
+    fi
+done
+ip=$(curl -s 'http://canihazip.com/s/')
+if="IP Publique"
+if [[ "$ip" ]]
+    then
+        if [[ -z "$ip_adress" ]]
+        then
+            ip_adress="        ${lightgray}$if : $ip"
+        else
+            ip_adress="$ip_adressn                    ${lightgray}$if : $ip"
+        fi
+    fi
+if [[ -n ip_adress ]]
+then
+    ip_adress="  Network : $ip_adress"
+fi
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Notez que les espaces permettent juste d'avoir un affichage "propre"
+des valeurs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Enfin, je ne fais qu'afficher les données dans mon terminal avec de la
+substitution de commandes pour afficher les infos utiles :&lt;/p&gt;
+&lt;pre&gt;
+clear
+echo -e ""
+echo -e "  ${lightgray}Today   :         `date`"
+echo -e "  ${lightgray}System  :         `lsb_release -i | cut -f 2` - `lsb_release -c | cut -f 2` - `lsb_release
+ -r | cut -f 2`"
+echo -e "  ${lightgray}Kernel  :         `uname -o` `uname -r` - `uname -m`"
+echo -e "  ${lightgray}Uptime  :        `uptime`"
+echo -e "$ip_adress"
+echo -e "${lightgray}$theUser"
+&lt;/pre&gt;
+
+&lt;p&gt;Tous ces petits bouts de codes ne ralentissent pas (pas trop)
+l'ouverture de mon terminal, seul le curl et les boucles sont un peu
+lents, mais ce n'est pas trop gênant!&lt;/p&gt;
+&lt;p&gt;Tout ceci est basé sur un script écrit par &lt;a href="https://twitter.com/VictorBersy/status/233125380423311361" title="@VictorBersy"&gt;@VictorBersy&lt;/a&gt;.&lt;/p&gt;</summary><category term="bash"></category><category term="customisation"></category><category term="linux"></category><category term="trick"></category></entry><entry><title>Les perles de @climagic (et co)</title><link href="http://quack1.no-ip.org/les-perles-de-climagic-et-co.html" rel="alternate"></link><updated>2012-09-25T21:47:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-09-25:les-perles-de-climagic-et-co.html</id><summary type="html">&lt;p&gt;Ça commence à faire un ~~petit~~ bon moment (juste 3 ou 4 mois) que je
+n'ai rien publié sur ce blog. Un retour tout en douceur s'impose donc,
+et pour cela, je vais faire d'une pierre deux coups, puisque je vais
+également vider mes favoris &lt;a href="http://twitter.com/_Quack1" title="@_Quack1"&gt;Twitter&lt;/a&gt; :-)&lt;/p&gt;
+&lt;p&gt;En effet, depuis pas mal de temps, je follow le compte &lt;a href="https://twitter.com/climagic" title="@climagic"&gt;@climagic&lt;/a&gt;,
+qui publie plusieurs fois par jour des commandes bash un peu "tunées"
+qui permettent de réaliser des actions souvent utiles, parfois drôles,et
+de temps en temps totalement inutiles (et de fait, Oh combien
+nécessaires dans les alias de tout bon admin système :D ). Et comme je
+trouve souvent ces commandes plutôt cools, je les mets dans mes favoris
+Twitter pour m'en rappeler et les rajouter dans mes alias par la suite.
+Sauf que, comme tout bon g33k qui se respecte, je n'avais encore jamais
+fait de tri là dedans et je me retrouve avec une liste de favoris énorme
+(CTB, oui, je sais... :P ).&lt;/p&gt;
+&lt;p&gt;J'ai donc testé tout ce que j'avais, pour ne garder que la crème de la
+crème , autant pour vous que pour moi (comme ça, j'en garde une trace!).
+~~Et vu que je suis sympa, je vais vous filer un petit script à la fin
+qui rajoutera tout ces alias à votre &lt;em&gt;.bashrc&lt;/em&gt; :-).~~ EDIT : finalement,
+j'avais trop de commandes, la flemme de faire un script ce soir, je
+verrais plus tard.. :P&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer : Les commandes présentées ici sont toutes, sauf mention
+contraire, l'oeuvre de &lt;a href="https://twitter.com/climagic" title="@climagic"&gt;@climagic&lt;/a&gt; et tous les droits lui reviennent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer 2 : Certaines des commandes présentées ici sont très
+simples et connues de beaucoup de barbus, cependant, elles pourraient
+être utiles à des gens qui débutent sous Unix-GNU/Linux et qui ne
+connaissent pas tous les rouages de la chose :)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;$ mkdir -p maildir/{tmp,cur,new}&lt;/code&gt; : Utilisation des accolades "{", qui
+    permettent d'appeler la commande successivement avec toutes les
+    valeurs entre les accolades, séparées par des virgules. En réalité,
+    la commande équivaut à &lt;code&gt;mkdir -p maildir/tmp; mkdir -p maildir/cur; mkdir -p maildir/new ;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sed '/\^$/d' prog.c &gt;
+    proc-condensed.c&lt;em&gt; &lt;/code&gt;: Récupère toutes les lignes non vides
+    (excodession régulière '\^$/d') du fichier &lt;/em&gt;prog.c&lt;em&gt; et place le
+    résultat dans &lt;/em&gt;prog_condensed.c ;*&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;find . -ls | sort -n -k 7 | tail -5 &lt;/code&gt; : Affiche les 5 plus gros
+    fichiers présents dans l'arborescence ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ EXTIP=$(curl -s
+    "whatismyip.org")&lt;/code&gt; : Défini une variable globale qui
+    contiendra votre adresse IP publique ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ rev \&amp;lt;\&amp;lt;\&amp;lt; "sentence to
+    reverse"&lt;/code&gt; : Inverse le sens des lettres de la phrase ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ exiv2 -k -F rename *.jpg&lt;/code&gt;
+    : Renomme tous les fichiers &lt;em&gt;.jpg&lt;/em&gt; du répertoire courant en leur
+    donnant un nom de la forme "YYYYMMDD_HHmmSS.jpg", en récupérant les
+    informations de date/heure dans les données EXIF de la photo ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ jp2a ubuntu_logo.jpg -b
+    --color&lt;/code&gt; : Converti une image JPEG en ascii art dans votre
+    terminal. L'option '--color' active la couleur, le '-b' dessine une
+    bordure autour de l'image. Exemple dans l'image plus bas
+    :P(nécessite d'avoir activé les dépôts universe (pour Ubuntu et
+    dérivés en tout cas...)) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ dd if=/dev/VG0/var | gzip -c - &gt;
+    /backups/var-image.gz&lt;/code&gt; : Crée un backup du répertoire
+    &lt;em&gt;/dev/VG0/var ;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ acronym(){ elinks -no-numbering
+    -dump "acronymfinder.com/$1.html" |sed -r '/(*{4,}|This
+    definition)/!d'; }&lt;/code&gt; : Fonction utile qui recherche sur le Web
+    la définition d'un acronyme. Exemple :
+    &lt;code&gt;$ acronym HTTP
+    &lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sshfs user@remotehost:/remotedir
+    mydir&lt;/code&gt; : Monte un répertoire distant comme un répertoire
+    local un utilisant FUSE et SSH ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ lsusb -v | egrep
+    "(\^Bus|bcdUSB)"&lt;/code&gt; : Liste les périphériques USB connectés
+    ainsi que la version utilisée (USB2, USB3, ...) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ openssl s_client -crlf -quiet
+    -connect \&amp;lt;hostname&gt;:\&amp;lt;port&gt;&lt;/code&gt; : Démarre une connexion SSL
+    avec la machine donnée sur le port défini, par exemple pour tester
+    des protocoles sécurisés comme HTTPS (équivalent à un
+    &lt;code&gt;nc&lt;/code&gt; mais en sécurisé ;) ) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ gnutls-cli -s --crlf \&amp;lt;hostname&gt;
+    -p \&amp;lt;port&gt;&lt;/code&gt; : Idem que la précédente ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ pdftohtml -stdout my.pdf &gt;
+    my.pdf.html&lt;/code&gt; : Exporte un document PDF vers une page HTML ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ mcd() { [[ -n "$1" ]] &amp;amp;&amp;amp; mkdir -p
+    "$1" &amp;amp;&amp;amp; cd "$1"; }&lt;/code&gt; : Fonction qui crée un répertoire (
+    &lt;code&gt;mkdir&lt;/code&gt; ) puis se déplace (
+    &lt;code&gt;cd&lt;/code&gt; ) dans celui-ci ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ mcd() { mkdir -p "${@}" &amp;amp;&amp;amp; cd
+    "${1}"; }&lt;/code&gt; : Comme la précédente, à la différence que l'on
+    peut créer plusieurs répertoires d'un coup, puis se déplacer dans le
+    codemier d'entre eux ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ netstat -nape --inet&lt;/code&gt; :
+    Affiche la liste des connexions actives ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ netstat -lepunt&lt;/code&gt;: Affiche la liste des ports TCP et
+    UDP qui sont en mode LISTEN et le processus/user associé ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ quvi --exec 'mplayer %u'
+    '\&amp;lt;url&gt;'&lt;/code&gt; : Lit une vidéo YouTube dans mplayer sans passer
+    par Flash. By &lt;a href="http://twitter.com/gordontesos" title="@gordontesos"&gt;@gordontesos&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ getent services
+    \&amp;lt;port_number&gt;&lt;/code&gt; : Cherche dans la table locale des services
+    celui qui est associé au port donné en paramètre ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ \&amp;lt;command&gt; ;xmessage -nearmouse
+    "DONE"&lt;/code&gt; : Après l’exécution de la commande, affiche une boîte
+    de dialogue contenant le texte "DONE" près de la souris ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ \&amp;lt;command&gt; ;zenity --info
+    --text="DONE"&lt;/code&gt; : La même que précédemment, mais en utilisant
+    le programme &lt;code&gt;zenity&lt;/code&gt; (fenêtre
+    GTK+) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ for m in {0..200}; do date -d
+    "2012-07-13 + $m months";done|grep -i \^Ven&lt;/code&gt; : affiche la
+    liste des prochains vendredis 13 dans les 200 prochains mois
+    (dédicace aux superstitieux comme moi ;) ). Si votre système est en
+    anglais, remplacer le "Ven" par "Fri" (pour "Friday") ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ montage -geometry 1280x1024+4+4
+    ubuntu.jpg netbsd.jpg debian.jpg backtrack.jpg -tile x2
+    distros.jpg&lt;/code&gt; : Réalise un montage avec 4 images, de 1280px
+    par 1024px, en réalisant 2 lignes de 2 colonnes. (Exemple plus bas)
+    ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sox song.wav -t wav - pitch 1200 |
+    play -&lt;/code&gt; : Joue la piste audio "song.wav", avec un pitch de
+    1200, soit 12 demi-tons au dessus, ou 1 octave plus haut que le
+    morceau original. (Paquet "sox" dans les dépôts Universe, installer
+    aussi "libsox-fmt-all" pour lire des mp3 ou des ogg) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ pwd -P&lt;/code&gt; : Affiche le
+    répertoire courant, en remplaçant les liens symboliques par le
+    chemin (P)hysique ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ awk '$9 == "404" {print $7}'
+    access.log |sort|uniq -c|sort -rn| head -n 50&lt;/code&gt; : Affiche la
+    liste des 500 urls menant à des erreurs 404 les plus renvoyées par
+    le serveur local Apache (généralement, répertoire
+    '/var/log/apache2'). Via &lt;a href="http://twitter.com/warzauwynn" title="@warzauwynn"&gt;@warzauwynn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ps -e -orss=,pid=,args= | sort -b -k1n | pr -TW$COLUMNS&lt;/code&gt; : Trie les processus les plus gourmands en mémoire. Via &lt;a href="http://twitter.com/albahtaar" title="@Albahtaar"&gt;@Albahtaar&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ touch -r origfile newcopy&lt;/code&gt;
+    : Donne à newcopy le timestamp de origfile ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ aplay /bin/bash&lt;/code&gt; : L'alarme
+    du pauvre. Lit un fichier quelconque comme s'il était un média audio
+    (conseil : baissez le son de votre machine avant de lancer la
+    commande ;-) ) ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ trickle -d 50 wget \&amp;lt;url&gt;&lt;/code&gt;
+    : Utilise &lt;code&gt;trickle&lt;/code&gt; pour
+    limiter la bande passante descendante d'une commande à 50 kB/s ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ &gt;file&lt;/code&gt; : Crée, ou supprime
+    son contenu s'il existe déjà, le fichier 'file' ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ scrot* &lt;/code&gt;: Utilitaire
+    permettant de faire des captures d'écrans directement depuis un
+    terminal ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ rename 's/ /_/g' *&lt;/code&gt; :
+    Renomme tous les fichiers du répertoire courant en remplacant les
+    espaces par des underscores '_' ;&lt;/li&gt;
+&lt;li&gt;Sur un "serveur" : &lt;code&gt;$ nc -l 8765 \&amp;lt;
+    video.avi&lt;/code&gt;, et sur un "client" :
+    &lt;code&gt;$ nc server 8765 &gt; mplayer -cache
+    1000 -&lt;/code&gt; : Service de streaming perso. Un serveur streame la
+    vidéo, le client récupère le flux et le fait lire par
+    &lt;code&gt;mplayer&lt;/code&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ awk -F: {'print $1 ":" $2'}
+    messages |uniq -c&lt;/code&gt; : Affiche le nombre de messages syslog par
+    minutes ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ declare -f func_name&lt;/code&gt; :
+    Affiche la définition d'une fonction définie par l'utilisateur ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ for d in {1..5}; do printf
+    ${RANDOM: -1:1}; done; echo&lt;/code&gt; : Génère un code secret
+    "aléatoire" à 5 chiffres ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ find . -empty -type d&lt;/code&gt; :
+    Liste les sous-répertoires vides. Via &lt;a href="http://twitter.com/mariosangiorgio" title="@mariosangiorgio"&gt;@mariosangiorgio&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ps aux | awk '{if ($8=="Z") {
+    print $2 $11}}&lt;/code&gt; : Affiche les PID et nom des processus qui
+    sont dans l'état 'ZOMBIE' ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ debtree coreutils &gt; coreutils.dot
+    &amp;amp;&amp;amp; dot -T png -o coreutils.png coreutils.dot&lt;/code&gt; : Crée une
+    image contenant le graphe des dépendances du paquet 'coreutils'. Via
+    &lt;a href="http://twitter.com/fern4lvarez" title="@fern4lvarez"&gt;@fern4lvarez&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ping -i0.2 \&amp;lt;url&gt;|awk -F[= ]
+    '/time=/{t=$(NF-1);f=3000-14*log(t\^27);c="play -qn synth pl " f "
+    fade 0.1s 1 &amp;amp;";print $0;system(c)}'&lt;/code&gt; : Joue des sons en
+    fonction du temps nécessaire pris par les paquets ping pour revenir
+    à votre machine ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ lsof /dev/video0&lt;/code&gt; : Liste
+    les processus qui utilisent la webcam ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ ls -1d \~/.* | grep -v '\~$' |
+    wc -l&lt;/code&gt; : Compte le nombre de 'dot files' dans votre Home
+    Directory. Via &lt;a href="http://twitter.com/bortzmeyer" title="@bortzmeyer"&gt;@bortzmeyer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ last | grep -A1 -m1 "\^$(whoami)
+    "&lt;/code&gt; : Affiche la dernière personne à s'être connectée avant
+    vous sur votre machine ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ sort -nt . -k 1,1 -k 2,2 -k 3,3 -k
+    4,4 IPAddresses.txt&lt;/code&gt; : Trie une liste d'adresses IPv4 ;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;$ exif *.JPG | grep "F-Number" |
+    cut -d| -f2 | sort | uniq --count | sort -n&lt;/code&gt; : Affiche la
+    liste des focales les plus utilisées à partir des données EXIF de
+    vos photos. Via [@b_doin][] pour &lt;a href="http://twitter.com/gchampeau" title="@gchampeau"&gt;@gchampeau&lt;/a&gt; ;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Et voilà, je pense avoir fait le tour de la plupart des commandes que
+j'avais en stock, si j'en trouve, je mettrais à jour l'article et
+diffusant la MAJ sur Twitter ;-)&lt;/p&gt;
+&lt;div align=center text-align=center&gt;&lt;a href="static/upload/montage_combined.jpg"&gt;&lt;img src="upload/montage_combined.jpg" width="450" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; $ montage -geometry ...&lt;/div&gt;
+
+&lt;p&gt;&lt;div align=center text-align=center&gt;&lt;a href="static/upload/jp2a.png"&gt;&lt;img src="upload/jp2a.png" width="450" align="center" /&gt;&lt;/a&gt;&lt;br /&gt; $ jp2a &lt;/div&gt; &lt;/p&gt;</summary><category term="admin"></category><category term="bash"></category><category term="cli"></category><category term="climagic"></category><category term="command"></category><category term="fun"></category><category term="scripts"></category><category term="tricsks"></category><category term="usefull"></category></entry><entry><title>Tester Linux dans un émulateur javascript</title><link href="http://quack1.no-ip.org/tester-linux-dans-un-emulateur-javascript.html" rel="alternate"></link><updated>2012-05-12T18:45:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-12:tester-linux-dans-un-emulateur-javascript.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/jslinux.png"&gt;&lt;img src="upload/jslinux.png" width="600" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Cette info va avoir 1 an dans quelques jours mais j'avais quand même
+envie d'en parler ici.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bellard.org" title="Bellard.org"&gt;Fabrice Bellard&lt;/a&gt; (qui est également à l'origine de &lt;a href="https://quack1.wordpress.com/tag/ffmpeg/" title="FFmpeg"&gt;ffmpeg&lt;/a&gt;) a
+développé un système Linux entièrement en Javascript, basé sur le noyau
+2.6.20, et une machine 32 bits.&lt;/p&gt;
+&lt;p&gt;Il possède donc toutes les commandes Linux, un compilateur tcc (Tiny C
+Compiler, aussi développé par le monsieur, plus rapide que gcc, qui est
+aussi présent), vi, QEmacs (un clone d'Emacs plus léger, aussi l'oeuvre
+de Mr Bellard). Vous pouvez donc compiler vos propres programmes C et
+les tester en ligne. Attention cependant, c'est plutôt long, même avec
+tcc. Ici, un simple "Hello World" a nécéssité 19s de compil avec gcc,
+pour 1 sur ma machine.&lt;/p&gt;
+&lt;p&gt;Bref, je pense pas non plus que vous alliez développer dessus, mais pour
+essayer deux trois commandes Linux et s'y former sans installer de
+système complet, ça peut être intéressant ;-) Vous pouvez le trouver
+&lt;a href="http://bellard.org/jslinux/" title="JsLinux"&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pour info, ce n'est pas un coup d'essai pour le monsieur en terme
+d'émulation, il est aussi le créateur du logiciel d'émulation de
+machines &lt;a href="http://wiki.qemu.org" title="Qemu"&gt;Qemu&lt;/a&gt;!&lt;/p&gt;</summary><category term="emulation"></category><category term="javascript"></category><category term="linux"></category></entry></feed>

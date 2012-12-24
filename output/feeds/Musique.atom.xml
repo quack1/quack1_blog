@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Quack1@Blog</title><link href="http://quack1.no-ip.org/" rel="alternate"></link><link href="http://quack1.no-ip.org/feeds/Musique.atom.xml" rel="self"></link><id>http://quack1.no-ip.org/</id><updated>2012-05-11T05:58:00+02:00</updated><entry><title>Song of the Day : "Noir(s)" by Les Fatals Picards</title><link href="http://quack1.no-ip.org/song-of-the-day-noirs-by-les-fatals-picards.html" rel="alternate"></link><updated>2012-05-11T05:58:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-05-11:song-of-the-day-noirs-by-les-fatals-picards.html</id><summary type="html">&lt;p&gt;En ce vendredi d'exams, un peu de rock français!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/CHpqjmz_j_Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Bonne fin de semaine, et profitez du week end ;-)&lt;/p&gt;</summary><category term="les fatals picards"></category><category term="noir(s)"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the Day : "Beat the Devil's Tattoo" by the Black Rebel Motorcycle Club</title><link href="http://quack1.no-ip.org/song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html" rel="alternate"></link><updated>2012-04-12T07:14:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-04-12:song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html</id><summary type="html">&lt;p&gt;Découverte d'hier, un très bon groupe, &lt;em&gt;Black Rebel Motorcycle Club&lt;/em&gt;, (via &lt;a href="https://twitter.com/#!/bluetouff" title="https://twitter.com/#!/bluetouff"&gt;@bluetouff&lt;/a&gt; sur twitter), et en particulier une très bonne chanson de leur dernier album que j'aime beaucoup : &lt;em&gt;Beat the Devil's Tattoo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Donc je reshare!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/mYkhNWIdra0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Beat the Devil's Tattoo"></category><category term="Black Rebel Motorcycle Club"></category><category term="songOfTheDay"></category></entry><entry><title>MAO : Monter son (petit) home-studio sous Linux</title><link href="http://quack1.no-ip.org/mao-monter-son-petit-home-studio-sous-linux.html" rel="alternate"></link><updated>2012-04-05T21:18:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-04-05:mao-monter-son-petit-home-studio-sous-linux.html</id><summary type="html">&lt;p&gt;&lt;img alt="Home Studio" src="static/upload/homestudio.png" title="Home Studio" /&gt;&lt;/p&gt;
+&lt;p&gt;Jusqu'alors, le seul moyen pour les musiciens, et en particulier les
+guitaristes, de pouvoir s'enregistrer et rajouter quelques effets sur
+leur son était d'avoir un Mac et de s'acheter un logiciel de MAO très
+couteux, type Cubase, ou autre. Bref, il fallait un assez gros budget,
+et ça pouvait décourager plus d'un musicien amateur qui aurait eu envie
+de se lancer dans la prod'.&lt;/p&gt;
+&lt;p&gt;Et là, MonSeigneur du Logiciel Libre arrive sur son grand cheval blanc,
+et nous donne plusieurs excellent logiciels qui permettent de simuler
+ampli et effets pour sa guitare, pour ensuite l'enregistrer dans un
+éditeur multi-pistes. En plus de ça, on peut rajouter une batterie grâce
+à une boite à rythme, brancher un clavier, bref, faire tout ce qu'on
+fait dans un vrai studio, mais avec un simple ordinateur sur Linux :D&lt;/p&gt;
+&lt;p&gt;Je vais ici vous présenter ma configuration, vous verrez en lisant ceci
+que vous n'aurez aucune limite... Avant de tout détailler, je vais vous
+présenter rapidement les choses, avec un petit schéma pour faire plus
+simple :-)&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/serveurjack.png"&gt;&lt;img src="upload/serveurjack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Votre instrument est branché sur une carte son, elle-même reliée à votre
+machine. Cette carte va envoyer le son qu'elle reçoit à un &lt;em&gt;serveur de
+son&lt;/em&gt; qui va gérer toutes les entrées et sorties de son du système (on
+verra ça en détail plus tard). Ce logiciel va connecter l'entrée
+physique (la guitare) à notre logiciel de simulation d'ampli, connecter
+ce logiciel à celui de simulation d'effets, puis connecter sa sortie à
+la sortie physique, soit nos enceintes.&lt;/p&gt;
+&lt;p&gt;Tout ceci se fera très facilement sous Linux, sans ligne de commande,
+bref, que des choses qui sont à la portée d'un ingé son!!&lt;/p&gt;
+&lt;h2&gt;Pour commencer, il faut du (bon) matos...&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Dans la partie "hardware" de ce tutoriel, il y a essentiellement 2
+choses auxquelles faire attention, les deux &lt;em&gt;bouts&lt;/em&gt; du schéma : la carte
+son en entrée, et les enceintes en sortie. En fait, ça fera 3, si on
+prend en compte la machine en elle même.&lt;/p&gt;
+&lt;p&gt;Ici, je ne pense pas que je pourrais être d'une grande aide pour vous,
+puisque j'utilise simplement mon laptop. Je n'ai pas monté de machine
+uniquement dédiée à la MAO, et je n'ai pas racheté de carte son. Je
+branche ma guitare en direct sur la prise mini-jack de mon pc portable.
+Si vous voulez montez votre machine pour faire principalement de la MAO,
+privilégiez un bon processeur et de la RAM, utile pour gérer le signal
+en temps réel et stocker vos enregistrements. Pour la carte son, et tout
+le reste en général, vous pouvez vous rendre sur &lt;a href="http://linuxmao.org/tikiwiki/tiki-index.php" title="http://linuxmao.org/tikiwiki/tiki-index.php"&gt;linuxMao&lt;/a&gt;, référence
+en matière de MAO sous linux. Il faut bien faire attention d'en choisir
+une qui soit compatible avec les pilotes Linux ainsi qu'avec notre
+serveur de son.&lt;/p&gt;
+&lt;p&gt;Moi, pour l'instant, je ne fais pas beaucoup de musique, et je ne
+cherche pas à avoir un rendu professionnel, donc mon matos est (pour
+l'instant) suffisant.&lt;/p&gt;
+&lt;p&gt;En matière d'enceintes, je pense qu'il faudrait que je commence à
+investir. Je n'ai que des petites enceintes du bureau, et ça devient
+vraiment limite quand je pousse un peu sur les effets. Il me faudrait au
+moins du 5.1, avec un caisson de basses et un peu plus de watts....&lt;/p&gt;
+&lt;p&gt;Donc pour débuter, vous pourrez sûrement faire avec le matériel que vous
+avez déjà!! Il faut juste vérifier que vous recevez bien du son depuis
+votre guitare. Pour se faire, branchez là sur votre ordinateur, puis
+sous Ubuntu lancez le gestionnaire de son (allez dans les paramètres
+systèmes, puis "Son", puis onglet "Entrée"). Montez le volume d'entrée,
+puis grattez les cordes. Vous devriez normalement voir la barre de
+niveau bouger, signe que du son arrive sur la carte.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/param_entree_son.png"&gt;&lt;img src="upload/param_entree_son.png" width="300"/&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Si vous n'avez pas de son, je ne vais pas trop pouvoir vous aider,
+puisque chez moi tout à marché du premier coup... Je pense que le mieux
+sera de mettre à jour vos pilotes, puis d'aller faire un tour sur
+Google.... Sinon, vous pouvez aussi tenter d'avancer dans les étapes
+suivantes. L'installation de logiciels tels que le serveur de son
+pourrait peut être installer d'autres pilotes et composants qui feront
+marcher le bazar.... bref, j'espère que tout aura marché pour vous ;-)&lt;/p&gt;
+&lt;p&gt;Dans tous les cas, remettez le volume d'entrée au minimum, c'est à dire
+au niveau du premier petit trait vertical sur la gauche, pour avoir un
+son "pur", c'est à dire qui ne sera pas modifié par le système.
+L'amplification arrivera par la suite...&lt;/p&gt;
+&lt;h2&gt;Et si on &lt;em&gt;apt-get&lt;/em&gt;-ais un peu ?&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Maintenant que votre matériel est fonctionnel, passons aux logiciels
+nécessaires. Vous avez deux solutions.&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez la solution "clés en main", ou si vous voulez avoir
+une machine et surtout un système qui ne fait que ça, je vous conseille
+d'installer une nouvelle distribution Linux, à savoir &lt;a href="http://ubuntustudio.org/downloads" title="http://ubuntustudio.org/downloads"&gt;Ubuntu Studio&lt;/a&gt;.
+Cette dérivée d'Ubuntu est dédiée à tout ce qui touche aux médias et à
+la création multimédia. Ce système à 4 pré-configurations que vous
+pouvez mixer/installer, à savoir : audio, vidéo, graphisme 2D/3D &amp;amp;
+développement de greffons audios. Dans notre cas, seul le premier nous
+intéresse.&lt;/p&gt;
+&lt;p&gt;Le processus d'installation est très simple et basé sur celui d'Ubuntu.
+Vous devriez facilement pouvoir vous en sortir, la seule différence est
+qu'il n'y a pas d'interface graphique, vous devrez tout faire au clavier
+mais ça reste très simple. Je ne fais pas de tuto, vous en avez un bon
+&lt;a href="https://help.ubuntu.com/community/Ubuntu%20Studio%20Fresh%20Install" title="https://help.ubuntu.com/community/Ubuntu%20Studio%20Fresh%20Install"&gt;ici&lt;/a&gt;.Au moment de l'étape &lt;em&gt;Software Selection&lt;/em&gt;, ne sélectionnez QUE
+&lt;em&gt;Audio Creation and Editing Suite&lt;/em&gt;. Si vous en prenez d'autres, ou pas
+celui-ci, vous n'aurez pas le support du noyau temps-réel. Suite à
+l'installation, vous aurez un système très complet pour faire de la MAO
+sous Linux!&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez garder votre système Linux traditionnel et installer
+en plus les bons logiciels, voici comment faire. Il nous faut 4 choses :
+le serveur de son : &lt;strong&gt;Jackd&lt;/strong&gt;, le simulateur d'ampli : &lt;strong&gt;Guitarix&lt;/strong&gt;,le
+simulateur d'effets : &lt;strong&gt;Rakarrack&lt;/strong&gt; et notre enregistreur multi-pistes :
+&lt;strong&gt;Ardour&lt;/strong&gt;. Normalement, les paquets devraient être présents dans les
+dépôts de votre distribution. Pour Ubuntu, voici la commande pour tout
+installer d'un coup :&lt;/p&gt;
+&lt;pre&gt;
+    sudo apt-get install jackd qjackctl guitarix rakarrack ardour
+&lt;/pre&gt;
+
+&lt;p&gt;Le seul paquet inconnu ici est &lt;em&gt;qjackctl&lt;/em&gt;, qui est une interface
+graphique pour Jackd.&lt;/p&gt;
+&lt;p&gt;Comme je l'ai dit plus haut, les logiciels que nous venons d'installer
+n'aurons pas de priorité temps-réel, puisque nous n'avons pas de noyau
+qui supporte le temps-réel. Vous pouvez suivre &lt;a href="http://doc.ubuntu-fr.org/jackd#activer_la_priorite_temps_reel" title="http://doc.ubuntu-fr.org/jackd#activer_la_priorite_temps_reel"&gt;les explications de la
+doc d'Ubuntu&lt;/a&gt; pour l'installer, puis donner les bonnes priorités aux
+bons utilisateurs. Personnellement, je ne l'ai pas fait. Encore une
+fois, pour ce que je fais, j'ai assez avec mon noyau standard :-P&lt;/p&gt;
+&lt;p&gt;Ces paquets sont le minimum syndical à avoir pour pouvoir commencer à
+bidouiller et s'enregistrer. Notez que si vous avez déjà ampli/effets,
+et un moyen de les brancher à votre ordi, vous devriez pouvoir vous
+passer de guitarix et rakarrack... Cependant, en plus de ceux-ci,
+d'autres petits logiciels peuvent être intéressants à avoir,
+principalement pour les guitaristes. Petite liste (non exhaustive) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audacity : Autre enregistreur et mixeur de son. Je ne suis pas sûr
+    qu'il tourne avec Jack.... Mais peut être utile pour de la post-prod
+    sur un fichier son....&lt;/li&gt;
+&lt;li&gt;Hydrogen : Boite à rythmes, sympa pour rajouter une batterie sur vos
+    compos ;)&lt;/li&gt;
+&lt;li&gt;Lingot : Accordeur&lt;/li&gt;
+&lt;li&gt;TuxGuitar : Éditeur de tablatures, équivalent de GuitarPro 5 en
+    version libre. Indispensable pour les guitaristes :-P&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Au fait, on peut faire quoi avec tout ça ?&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+Et bien, on peut faire plein de choses!! Comme je le disais plus haut,
+on va pouvoir simuler notre ampli, notre rack d'effets, puis enregistrer
+le tout.&lt;/p&gt;
+&lt;h3&gt;Le serveur de son : Jackd&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Avant de faire de la MAO sous Linux, il faut une bonne brique de départ.
+Cette brique va recevoir le son, et c'est elle qui va choisir quoi en
+faire. Cette brique, c'est Jackd, notre serveur de son. Nous l'avons
+installé plus haut, ainsi qu'un interface graphique pour le piloter
+(qjackctl). Lancez ce dernier programme (normalement, Applications &gt;
+Multimédia &gt; QJackCtl). Il faudra toujours le lancer avant de faire de
+la MAO. En effet, c'est lui qui gère tout le son qui transitera sur
+votre machine. Sans lui, aucun des logiciels suivants ne fonctionnera.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/jack.png"&gt;&lt;img src="upload/jack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Cette interface est extrêmement simple. On ne se sert que de 4 boutons :
+"Démarrer", "Arrêter", "Connecter" et "Quitter". "Démarrer " va lancer
+le serveur, "Arrêter" va le stopper, "Quitter" quitte l'appli, et
+"Connecter" et bien.... c'est plus complexe ;)&lt;/p&gt;
+&lt;p&gt;Comme son rôle l'indique, Jackd est un &lt;strong&gt;serveur&lt;/strong&gt;. Cela sous-entend
+donc qu'a un moment ou un autre, on aura des &lt;strong&gt;clients&lt;/strong&gt;. Ce sont ses
+clients que l'on va connecter entre eux. Nous aurons deux types de
+clients :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Les clients en lecture (ou ports de sortie) : les clients sur
+    lesquels on va pouvoir lire, ceux qui nous enverrons du son.&lt;/li&gt;
+&lt;li&gt;Les clients en écriture (ou ports d'entrée) : les clients sur
+    lesquels on va écrire, ceux à qui on va envoyer du son.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+Le rôle de notre bouton "Connecter", c'est ça : connecter les sorties
+des uns, sur les entrées des autres. Voici ci dessous la configuration
+que j'utilise le plus souvent. Vous voyez à gauche la colonne des
+clients en lecture et à droite celle des clients en écriture. Vous
+pouvez voir que je connecte la sortie du rack d'effets (rakarrack) sur
+l'entrée d'&lt;em&gt;ardour&lt;/em&gt;, mon enregistreur multi-pistes. Cela signifie que
+tout le son qui aura été traité par rakarrack ira directement en entrée
+d'ardour.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/jack_connexions.png"&gt;&lt;img src="upload/jack_connexions.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Il y a deux clients spéciaux là dedans. &lt;em&gt;system&lt;/em&gt;. Ce sont les clients
+qui représentent votre carte physique. À gauche, l'entrée (ou notre
+guitare) et à droite notre sortie (les enceintes).&lt;/p&gt;
+&lt;h3&gt;Le simulateur d'ampli : Guitarix&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Guitarix est un bon simulateur d'ampli pour Linux. Il est découpé en
+deux parties. La tête, et les effets. Personnellement, j'utilise très
+peu les effets intégrés, je préfère utiliser ceux de Rakarrack.
+L'avantage c'est que ça permet, quand on veux tester deux trois accords,
+de ne pas avoir à lancer notre rakarrack ;-) Les deux parties (tête et
+effets) sont deux clients séparés dans Jack. Le premier sera
+&lt;em&gt;gx_head_amp&lt;/em&gt; et le second &lt;em&gt;gx_head_fx&lt;/em&gt;. Ce que je fais, c'est que
+je connecte tout dans ce sens : &lt;em&gt;system --&gt; gx_head_amp --&gt;
+gx_head_fx --&gt; ...&lt;/em&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/guitarix.png"&gt;&lt;img src="upload/guitarix.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour obtenir la même vue que moi du logiciel, il faut activer la vue des
+plugins (Greffons &gt; Show Plugin Bar), celle du rack d'effets (Greffons
+&gt; Show Rack), puis l'accordeur (Options &gt; Tuner). Les plugins sont
+simplement les effets que vous rajoutez dans le rack. Vous les ajoutez
+en cliquant dessus dans le menu en haut à gauche. Je n'en ai pas ajouté
+beaucoup, juste le "Rack Mono", la "Distorsion Multibande", le
+"Compresseur", l'"Overdrive", le "Rack Stéréo" et l'équaliseur "3 Band
+EQ".&lt;/p&gt;
+&lt;p&gt;C'est une config parmi d'autres. Je ne l'utilise pas beaucoup, c'est
+tout ce que je pourrais vous dire dessus...&lt;/p&gt;
+&lt;h3&gt;Le rack d'effets : Rakarrack&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+C'est là que les choses deviennent drôles.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/rakarrack.png"&gt;&lt;img src="upload/rakarrack.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Ce rack d'effets est vraiment très complet. Il dispose de nombreux
+effets que vous pouvez organiser dans des racks. Je n'ai pas encore
+regardé comment tout ça fonctionnait, comment on créait ses propres
+racks en agençant ses effets, et pour cause, le logiciel possède déjà
+une banque de racks (menu "Bank") très très complète, et pour l'instant
+j'ai simplement utilisé ceux-ci, en modifiant deux-trois réglages de
+pédales de temps en temps pour obtenir un truc plus à mon goût.&lt;/p&gt;
+&lt;p&gt;Pour vous donner un petit avant-goût, voici une petite vidéo trouvée sur
+YouTube, où le monsieur présente un peu les possibilités du logiciel :&lt;/p&gt;
+&lt;div align=center&gt;&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/4Jb7BEsHwLc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour les connexions dans Jack : ... --&gt; gx_head_fx --&gt; rakarrack
+--&gt; ...&lt;/p&gt;
+&lt;h3&gt;L'enregistreur : Ardour&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+Enfin, Ardour est un enregistreur qui permettra d'enregistrer votre son.&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/ardour.png"&gt;&lt;img src="upload/ardour.png" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Celui là, je ne l'ai quasiment pas utilisé, j'ai juste la base. On crée
+une piste pour la guitare (Clic droit sous la case "Général" &gt; " New
+Track"). Pour la connexion dans Jack, il faut étendre le groupe "Ardour"
+des deux côtés (petites flèches à gauche du nom). On connecte ensuite la
+sortie de Rakarrack vers l'entrée de cette piste dans Jack. Tous les
+clients en sortie d'Ardour doivent être branchés sur "system", pour être
+sûr de tout avoir dans les enceintes. On clique sur record (bouton
+rouge) sur la piste guitare, idem dans la barre du haut. On fait "Play",
+et on joue :-)&lt;/p&gt;
+&lt;p&gt;Si vous n'avez pas de son, allez dans "Options", puis "Ecoute de
+Contrôle", puis sélectionnez "Écoute via Ardour". Normalement ça devrait
+marcher ;)&lt;/p&gt;
+&lt;h2&gt;Enfin...&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+J'espère qu'avec tout ceci, vous aurez les bases pour bricoler un peu de
+MAO sur votre Linux. Encore une fois, ceci n'est pas un tutorial. Juste
+une présentation rapide de ce que j'utilise. Si vous en voulez plus,
+vous pouvez me répondre en commentaire, via &lt;a href="http://twitter.com/_Quack1" title="http://twitter.com/_Quack1"&gt;twitter&lt;/a&gt;, ou jeter un
+coup d'oeil aux quelques liens ci dessous ;) Je vais continuer à jouer
+un peu plus avec tout ça, et je referais des articles plus détaillés
+pour mieux présenter les possibilités de chaque appli :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Enjoy, and keep rockin'...&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Liens&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;a href="http://linuxmao.org" title="http://linuxmao.org"&gt;LinuxMao.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ubuntustudio.org" title="http://ubuntustudio.org"&gt;UbuntuStudio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.911tabs.com/" title="http://www.911tabs.com/"&gt;911 Tabs&lt;/a&gt; : Moteur de recherche de tablatures&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://secure.flickr.com/photos/25242931@N02/5793015653/" title="https://secure.flickr.com/photos/25242931@N02/5793015653/"&gt;Image originale&lt;/a&gt;&lt;/p&gt;</summary><category term="ardour"></category><category term="guitare"></category><category term="guitarix"></category><category term="home studio"></category><category term="jackd"></category><category term="mao"></category><category term="musique"></category><category term="rakarrack"></category><category term="ubuntu"></category><category term="ubuntu studio"></category></entry><entry><title>Song Of The Day : "Serre Moi" by Tryo</title><link href="http://quack1.no-ip.org/song-of-the-day-serre-moi-by-tryo.html" rel="alternate"></link><updated>2012-03-25T09:12:00+02:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-25:song-of-the-day-serre-moi-by-tryo.html</id><summary type="html">&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/BghJw84zdN0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="serre moi"></category><category term="songOfTheDay"></category><category term="tryo"></category></entry><entry><title>Song Of The Day : "J'veux qu'on baise sur ma tombe" by Damien Saez</title><link href="http://quack1.no-ip.org/song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html" rel="alternate"></link><updated>2012-03-24T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-24:song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/sjGQ8GLR0-E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="damien saez"></category><category term="j'veux qu'on baise sur ma tombe"></category><category term="songOfTheDay"></category></entry><entry><title>Song Of The Day : "Iron Man" by Black Sabbath</title><link href="http://quack1.no-ip.org/song-of-the-day-iron-man-by-black-sabbath.html" rel="alternate"></link><updated>2012-03-23T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-23:song-of-the-day-iron-man-by-black-sabbath.html</id><summary type="html">&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/YzXzcyZmL_c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="black sabbath"></category><category term="iron man"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the Day : "Cigarettes and Valentines" by Green Day</title><link href="http://quack1.no-ip.org/song-of-the-day-cigarettes-and-valentines-by-green-day.html" rel="alternate"></link><updated>2012-03-07T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-03-07:song-of-the-day-cigarettes-and-valentines-by-green-day.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/hcOFdZkBZRU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="cigarettes and valentines"></category><category term="green day"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the Day : "Je l'aime à mourir" by Francis Cabrel</title><link href="http://quack1.no-ip.org/song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html" rel="alternate"></link><updated>2012-02-29T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-29:song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html</id><summary type="html">&lt;p&gt;Because: j'aime pas la reprise de Shakira et je trouve la chanson
+superbe&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/XHVqKqmbhFA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="francis cabrel"></category><category term="je l'aime a mourir"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "Consoler of the Lonely" by The Raconteurs</title><link href="http://quack1.no-ip.org/song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html" rel="alternate"></link><updated>2012-02-23T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-23:song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/GZ95o1iQDsY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="consoler of the lonely"></category><category term="songOfTheDay"></category><category term="the raconteurs"></category></entry><entry><title>Song of the day : "Toes" by Zac Brown Band</title><link href="http://quack1.no-ip.org/song-of-the-day-toes-by-zac-brown-band.html" rel="alternate"></link><updated>2012-02-21T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-21:song-of-the-day-toes-by-zac-brown-band.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/lB8Nkn3Xjes" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="songOfTheDay"></category><category term="toes"></category><category term="zac brown band"></category></entry><entry><title>Song of the day : "New Born" by Muse</title><link href="http://quack1.no-ip.org/song-of-the-day-new-born-by-muse.html" rel="alternate"></link><updated>2012-02-18T08:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-18:song-of-the-day-new-born-by-muse.html</id><summary type="html">&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/SvqMTxpxsN4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="muse"></category><category term="new born"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "I'm Picky" by Shaka Ponk</title><link href="http://quack1.no-ip.org/song-of-the-day-im-picky-by-shaka-ponk.html" rel="alternate"></link><updated>2012-02-17T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-17:song-of-the-day-im-picky-by-shaka-ponk.html</id><summary type="html">&lt;p&gt;On revient aux fondamentaux : le rock!! On ajoute une pincée de trucs électroniques (mais pas trop, on veut pas faire du David Guetta!) et on obtiens du Shaka Ponk, ici en Session "Acoustique"&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/kPRTNQIaVJ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Enjoy ;)&lt;/p&gt;</summary><category term="I'm picky"></category><category term="Shaka Ponk"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "I'll be your man" by James Blunt</title><link href="http://quack1.no-ip.org/song-of-the-day-ill-be-your-man-by-james-blunt.html" rel="alternate"></link><updated>2012-02-16T07:00:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-16:song-of-the-day-ill-be-your-man-by-james-blunt.html</id><summary type="html">&lt;p&gt;Ça change de Green Day et Jack White, mais j'adore cette chanson :-)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/IUkLOUNxP8A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="I'll be your man"></category><category term="james blunt"></category><category term="songOfTheDay"></category></entry><entry><title>Song of the day : "Hybrid Moments" cover by Green Day</title><link href="http://quack1.no-ip.org/song-of-the-day-hybrid-moments-cover-by-green-day.html" rel="alternate"></link><updated>2012-02-15T11:26:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:song-of-the-day-hybrid-moments-cover-by-green-day.html</id><summary type="html">&lt;p&gt;Song of the Day : La reprise d'&lt;em&gt;Hybrid Moments&lt;/em&gt;, par Green Day (chanson
+originale par The Misfits)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/gwF6_xTvSNI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="green day"></category><category term="hybrid moments"></category><category term="songOfTheDay"></category></entry><entry><title>Union Spirit : groupe de rock country à écouter!!</title><link href="http://quack1.no-ip.org/union-spirit-groupe-de-rock-country-a-ecouter.html" rel="alternate"></link><updated>2012-02-15T00:47:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-15:union-spirit-groupe-de-rock-country-a-ecouter.html</id><summary type="html">&lt;div align=center&gt;&lt;a href="static/upload/unionSpirit.jpg"&gt;&lt;img src="upload/unionSpirit.jpg" width="400" align=center /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Aujourd'hui c'est mardi, c'est la Saint-Valentin, donc on fait de la pub
+pour les copains (enfin, plutôt les copines dans le cas présent.. :P )&lt;/p&gt;
+&lt;p&gt;Donc après le jeu vidéo Portal-like de cette après midi, voici un
+bon petit groupe de rock/country, qui fait de la très bonne musique, que
+j'aime beaucoup, et en plus je connais la chanteuse. Si ça c'est pas la
+classe!!  :-)&lt;/p&gt;
+&lt;p&gt;Donc ce bon petit groupe s'appelle &lt;strong&gt;Union Spirit&lt;/strong&gt;. Ils existent depuis
+7 ans si je ne me plante pas, et ils ont sorti leur premier album, &lt;em&gt;Just
+Us&lt;/em&gt; au mois de septembre dernier. Au programme : du rock, des bons airs
+de country, des rythmes plus calmes, ....&lt;/p&gt;
+&lt;p&gt;On a un album très riche et varié donc, plutôt rock au début sur les 5
+premières chansons, puis plus calme sur la fin. On retrouve aussi des
+duos avec des chanteurs connus du monde de la country, tels que Ian
+Scott, Pierre Lorry, ... ou des reprises de grands hits, comme celle de
+&lt;em&gt;Ghost Riders In The Sky&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Vous pouvez écouter leur album en ligne sur leur site. Ils sont
+auto-produits au travers d'une association, donc ils ne sont pas encore
+présents sur Spotify ou Soundcloud, et vous ne pourrez sûrement pas non
+plus trouver leur album dans des magasins près de chez vous (à moins
+d'habiter dans le Limousin :-) ). Mais vous pouvez le commander en
+envoyant un mail à leur manager. Tous les liens juste en dessous!!&lt;/p&gt;
+&lt;p&gt;J'espère que vous aimez, moi je kiffe grave, et pas seulement parce que
+je les connais!! C'est de la très bonne musique faite par un groupe très
+prometteur, que vous pourrez voir en live en Limousin (et oui, encore
+...) ou bien à Tours, au &lt;em&gt;Country Rock Bike Festival&lt;/em&gt; (le plus gros
+festival country/américain en France) les 6-7-8 Juillet 2012. J'y
+serais, j'en reparlerais sûrement :P&lt;/p&gt;
+&lt;p&gt;Maintenant, à vous de kiffer, voici tous les liens pour en savoir plus
+sur &lt;em&gt;Union Spirit&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.facebook.com/pages/UNION-SPIRIT/54919506106" title="Page Facebook de Union Spirit"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.union-spirit.com/index.php" title="Site de Union Spirit"&gt;Leur site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.myspace.com/unionspirit" title="Myspace ce Union Spirit"&gt;Leur mySpace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leur manager : &lt;a href="mailto:music_road87@yahoo.fr" title="Mail Music Road Promotion"&gt;Christophe Gibeau&lt;/a&gt; - Music Road Promotion - 45,
+    Résidence St Martin 87920 CONDAT SUR VIENNE - 06 16 28 01 89&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;a href="static/upload/us1.jpg"&gt;&lt;img src="upload/us1.jpg" width="300" align=center /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;</summary><category term="just us"></category><category term="rock"></category><category term="union spirit"></category></entry><entry><title>Grand kiff musical du moment!!</title><link href="http://quack1.no-ip.org/grand-kiff-musical-du-moment.html" rel="alternate"></link><updated>2012-02-09T23:19:00+01:00</updated><author><name>Quack1</name></author><id>tag:quack1.no-ip.org,2012-02-09:grand-kiff-musical-du-moment.html</id><summary type="html">&lt;p&gt;Jack White avait publié il y a peu sur Internet le premier single de son futur album en solo (rappelez vous, il a arrêté les White Stripes il y a un an :-/ ), &lt;em&gt;Blunderbuss&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;J'ai hâte au 23 Avril, date de sortie de l'album. White commence avec un titre acoustique, juste sa guitare et son timbre de voix particulier. J'espère qu'il nous comblera avec ses solos bien oufs dont il a le secret!!!&lt;/p&gt;
+&lt;p&gt;Je relaie la vidéo du premier single, qui se nomme donc &lt;em&gt;Love Interruption&lt;/em&gt;! (les paroles ne collent pas avec mon état d'esprit du moment, mais ca ne m'empêche pas d'écouter la chanson en boucle!!!)&lt;/p&gt;
+&lt;p&gt;Vidéo Youtube : La plupart des vidéos de la chanson ont été supprimées de YouTube.... Mais j'ai pu en trouver une nouvelle, qui semble être un clip plus-ou-moins officiel... En tout cas il envoie, et j'en ai fait une petite copie grâce à M. DownloadHelper ;)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/iErNRBTPbEc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Edit&lt;/strong&gt; : Je viens de dégotter une vidéo avec la deuxième chanson : &lt;em&gt;Machine Gun Silhouette.&lt;/em&gt; C'est déjà plus rock, plus de grosse guitare, mais toujours du piano, un peu de violon en fond sonore.... Du bon Jack White encore une fois :)&lt;/p&gt;
+&lt;iframe title="indavideo video player" scrolling="no" class="indavideo-player"  id="player-120cc7c2ce" type="text/html" width="640" height="480" src="http://embed.indavideo.hu/player/video/120cc7c2ce/" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;La vidéo est sur un site qui semble venir des pays de l'Est.... J'ai pas pu trouver mieux :(&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit&lt;/strong&gt; : Jack White vient de publier un nouvel extrait de son futur album : &lt;em&gt;Sixteen Saltines&lt;/em&gt;. A découvrir ici :&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/watch?v=8Tdq41eVVu8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="jack white"></category><category term="love interruption"></category><category term="musique"></category></entry></feed>
