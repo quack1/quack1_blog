@@ -1,20 +1,19 @@
 Title: Infos amusantes à propos de la vie sur Terre
-Date: 2013-01-07 14:12
+Date: 2013-01-07 11:04
 Author: Quack1
 Category: WTF
 Tags: informations, amusantes, vie
 
-<div align=center><img src="static/upload/   " width="600" align=center /></div>
+<div align=center><img src="static/upload/amazing_rubiks_cube.png" width="600" align=center /></div>
 
-Objet 2e plus vendu : iPhone
-Objet #1 : Rubiks Cube : 43.252.003.274.489.856.000 combinaisons possibles
+Petite moment intello de ce début de semaine (et de rentrée ;-) ), avec une vidéo qui nous apprend une dizaine de faits amusants à propos de la vie de tous les jours, comme par exemple : 
 
-Crier pdt 8ans, 7mois et 6jours produit assez d'énergie pour réchauffer un café
+  - Que le deuxième objet le plus vendu au monde est l'iPhone, le premier étant le Rubiks Cube, qui possède 43.252.003.274.489.856.000 combinaisons possibles de ses cases ;
+  - Crier pendant 8 ans, 7 mois et 6 jours produira assez d'énergie pour réchauffer votre tasse de café ;
+  - Environ 1% des humains sur Terre est bourré à chaque instant ;
+  - 1 spermatozoïde contient 37,5 Mo d'ADN, 1 éjaculation représentant de fait plus de 1500 To de données (au passage, stocker nos données là dedans ça nous ferait économiser de la place!)
 
-1% du monde est bourré à chaque instant
-
-1sperm 37.5 MB
-1500 TB ejac
+Je vous laisse découvrir le reste dans la vidéo suivante : 
 
 <div align="center"><iframe width="560" height="315" src="http://www.youtube.com/embed/cKZStlBECHo" frameborder="0" allowfullscreen></iframe></div>
 
