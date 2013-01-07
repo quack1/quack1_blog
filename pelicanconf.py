@@ -3,7 +3,7 @@
 
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1@Blog'
-SITEURL = ''
+SITEURL = 'http://quack1.no-ip.org'
 
 TIMEZONE = 'Europe/Paris'
 

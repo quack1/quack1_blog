@@ -4,1737 +4,1737 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/index.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/index.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/archives.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tags.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/categories.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/infos-amusantes-a-propos-de-la-vie-sur-terre.html</loc>
+<loc>http://quack1.no-ip.org/infos-amusantes-a-propos-de-la-vie-sur-terre.html</loc>
 <lastmod>2013-01-07T14:12:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/pentest-1-la-preparation-de-laudit.html</loc>
+<loc>http://quack1.no-ip.org/pentest-1-la-preparation-de-laudit.html</loc>
 <lastmod>2012-12-18T00:16:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/histoires-de-langues-les-vers-holorimes.html</loc>
+<loc>http://quack1.no-ip.org/histoires-de-langues-les-vers-holorimes.html</loc>
 <lastmod>2012-11-27T15:27:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/pentest-0-introduction.html</loc>
+<loc>http://quack1.no-ip.org/pentest-0-introduction.html</loc>
 <lastmod>2012-11-09T10:04:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/customisation-de-mon-bashrc.html</loc>
+<loc>http://quack1.no-ip.org/customisation-de-mon-bashrc.html</loc>
 <lastmod>2012-10-05T16:52:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/les-perles-de-climagic-et-co.html</loc>
+<loc>http://quack1.no-ip.org/les-perles-de-climagic-et-co.html</loc>
 <lastmod>2012-09-25T21:47:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/corriger-le-bug-de-licone-de-gimp-28-perdue-dans-le-launcher-dunity.html</loc>
+<loc>http://quack1.no-ip.org/corriger-le-bug-de-licone-de-gimp-28-perdue-dans-le-launcher-dunity.html</loc>
 <lastmod>2012-05-20T22:04:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tester-linux-dans-un-emulateur-javascript.html</loc>
+<loc>http://quack1.no-ip.org/tester-linux-dans-un-emulateur-javascript.html</loc>
 <lastmod>2012-05-12T18:45:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-noirs-by-les-fatals-picards.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-noirs-by-les-fatals-picards.html</loc>
 <lastmod>2012-05-11T05:58:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/jocly-plateforme-de-jeux-en-ligne-full-html5.html</loc>
+<loc>http://quack1.no-ip.org/jocly-plateforme-de-jeux-en-ligne-full-html5.html</loc>
 <lastmod>2012-05-04T13:23:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-beat-the-devils-tattoo-by-the-black-rebel-motorcycle-club.html</loc>
 <lastmod>2012-04-12T07:14:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/retrouver-les-icones-des-menus-sur-unity.html</loc>
+<loc>http://quack1.no-ip.org/retrouver-les-icones-des-menus-sur-unity.html</loc>
 <lastmod>2012-04-10T15:21:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/mao-monter-son-petit-home-studio-sous-linux.html</loc>
+<loc>http://quack1.no-ip.org/mao-monter-son-petit-home-studio-sous-linux.html</loc>
 <lastmod>2012-04-05T21:18:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/lister-les-paquets-installes-sur-ubuntu.html</loc>
+<loc>http://quack1.no-ip.org/lister-les-paquets-installes-sur-ubuntu.html</loc>
 <lastmod>2012-03-28T17:18:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/installer-banshee-24-sur-ubuntu.html</loc>
+<loc>http://quack1.no-ip.org/installer-banshee-24-sur-ubuntu.html</loc>
 <lastmod>2012-03-25T11:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-serre-moi-by-tryo.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-serre-moi-by-tryo.html</loc>
 <lastmod>2012-03-25T09:12:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-jveux-quon-baise-sur-ma-tombe-by-damien-saez.html</loc>
 <lastmod>2012-03-24T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-iron-man-by-black-sabbath.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-iron-man-by-black-sabbath.html</loc>
 <lastmod>2012-03-23T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/the-pirate-bay-heberge-dans-lespace.html</loc>
+<loc>http://quack1.no-ip.org/the-pirate-bay-heberge-dans-lespace.html</loc>
 <lastmod>2012-03-18T21:27:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/jouer-de-la-guitare-avec-une-pelle.html</loc>
+<loc>http://quack1.no-ip.org/jouer-de-la-guitare-avec-une-pelle.html</loc>
 <lastmod>2012-03-16T19:22:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tweetter-15000-decimales-de-pi-en-140-caracteres-cest-possible.html</loc>
+<loc>http://quack1.no-ip.org/tweetter-15000-decimales-de-pi-en-140-caracteres-cest-possible.html</loc>
 <lastmod>2012-03-16T00:29:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/10h-de-respiration-de-dark-vador.html</loc>
+<loc>http://quack1.no-ip.org/10h-de-respiration-de-dark-vador.html</loc>
 <lastmod>2012-03-16T00:03:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-cigarettes-and-valentines-by-green-day.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-cigarettes-and-valentines-by-green-day.html</loc>
 <lastmod>2012-03-07T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html</loc>
+<loc>http://quack1.no-ip.org/analyser-ses-mails-pour-se-desabonner-des-spams-et-newsletter.html</loc>
 <lastmod>2012-03-01T23:58:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-je-laime-a-mourir-by-francis-cabrel.html</loc>
 <lastmod>2012-02-29T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/redonner-de-la-luminosite-a-vos-photos.html</loc>
+<loc>http://quack1.no-ip.org/redonner-de-la-luminosite-a-vos-photos.html</loc>
 <lastmod>2012-02-28T23:45:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-consoler-of-the-lonely-by-the-raconteurs.html</loc>
 <lastmod>2012-02-23T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/ubuntu-pour-smartphones-android.html</loc>
+<loc>http://quack1.no-ip.org/ubuntu-pour-smartphones-android.html</loc>
 <lastmod>2012-02-22T00:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-toes-by-zac-brown-band.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-toes-by-zac-brown-band.html</loc>
 <lastmod>2012-02-21T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/comparer-rapidement-presque-nimporte-quoi.html</loc>
+<loc>http://quack1.no-ip.org/comparer-rapidement-presque-nimporte-quoi.html</loc>
 <lastmod>2012-02-20T17:37:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/le-vlc-nouveau-est-arrive.html</loc>
+<loc>http://quack1.no-ip.org/le-vlc-nouveau-est-arrive.html</loc>
 <lastmod>2012-02-19T22:31:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/je-suis-approximativement-le-80-milliardieme-humain-sur-terre-et-vous.html</loc>
+<loc>http://quack1.no-ip.org/je-suis-approximativement-le-80-milliardieme-humain-sur-terre-et-vous.html</loc>
 <lastmod>2012-02-19T21:44:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/dev-android-activity-en-plein-ecran.html</loc>
+<loc>http://quack1.no-ip.org/dev-android-activity-en-plein-ecran.html</loc>
 <lastmod>2012-02-19T19:15:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-new-born-by-muse.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-new-born-by-muse.html</loc>
 <lastmod>2012-02-18T08:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-im-picky-by-shaka-ponk.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-im-picky-by-shaka-ponk.html</loc>
 <lastmod>2012-02-17T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-ill-be-your-man-by-james-blunt.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-ill-be-your-man-by-james-blunt.html</loc>
 <lastmod>2012-02-16T07:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/verifier-la-securite-de-vos-mots-de-passe.html</loc>
+<loc>http://quack1.no-ip.org/verifier-la-securite-de-vos-mots-de-passe.html</loc>
 <lastmod>2012-02-15T23:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/song-of-the-day-hybrid-moments-cover-by-green-day.html</loc>
+<loc>http://quack1.no-ip.org/song-of-the-day-hybrid-moments-cover-by-green-day.html</loc>
 <lastmod>2012-02-15T11:26:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/union-spirit-groupe-de-rock-country-a-ecouter.html</loc>
+<loc>http://quack1.no-ip.org/union-spirit-groupe-de-rock-country-a-ecouter.html</loc>
 <lastmod>2012-02-15T00:47:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/ptit-coup-de-pub-pour-un-projet-de-jeu-projet-sphere.html</loc>
+<loc>http://quack1.no-ip.org/ptit-coup-de-pub-pour-un-projet-de-jeu-projet-sphere.html</loc>
 <lastmod>2012-02-14T16:37:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/grand-kiff-musical-du-moment.html</loc>
+<loc>http://quack1.no-ip.org/grand-kiff-musical-du-moment.html</loc>
 <lastmod>2012-02-09T23:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/petit-florilege-de-liens-pour-geeks.html</loc>
+<loc>http://quack1.no-ip.org/petit-florilege-de-liens-pour-geeks.html</loc>
 <lastmod>2012-02-08T20:08:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/ma-cle-publique-pgp.html</loc>
+<loc>http://quack1.no-ip.org/ma-cle-publique-pgp.html</loc>
 <lastmod>2012-01-25T16:43:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/ubuntu-unity-vs-gnome-shell-avis-non-objectif.html</loc>
+<loc>http://quack1.no-ip.org/ubuntu-unity-vs-gnome-shell-avis-non-objectif.html</loc>
 <lastmod>2012-01-24T21:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/nouveau-look-de-la-bete.html</loc>
+<loc>http://quack1.no-ip.org/nouveau-look-de-la-bete.html</loc>
 <lastmod>2012-01-10T09:49:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/test-de-lintegration-des-tweets-dans-wordpress.html</loc>
+<loc>http://quack1.no-ip.org/test-de-lintegration-des-tweets-dans-wordpress.html</loc>
 <lastmod>2012-01-06T10:42:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/personnalisation-dunity.html</loc>
+<loc>http://quack1.no-ip.org/personnalisation-dunity.html</loc>
 <lastmod>2011-12-12T06:33:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/world-of-warcraft-sur-linux.html</loc>
+<loc>http://quack1.no-ip.org/world-of-warcraft-sur-linux.html</loc>
 <lastmod>2011-11-25T17:46:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/integration-de-sous-titres-sur-une-video-sous-ubuntulinux.html</loc>
+<loc>http://quack1.no-ip.org/integration-de-sous-titres-sur-une-video-sous-ubuntulinux.html</loc>
 <lastmod>2011-11-25T17:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/hello-world.html</loc>
+<loc>http://quack1.no-ip.org/hello-world.html</loc>
 <lastmod>2011-11-25T17:34:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/blog.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/blog.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/geek.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/geek.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/linux.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/linux.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/musique.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/musique.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/pentest.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/pentest.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/securite.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/securite.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/ubuntu.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/ubuntu.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/wtf.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/category/wtf.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/photoshop.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/photoshop.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/desabonnement.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/desabonnement.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jcfrog.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jcfrog.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/photo.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/photo.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/plein-ecran.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/plein-ecran.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jeux.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jeux.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/the-raconteurs.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/the-raconteurs.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/hybrid-moments.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/hybrid-moments.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/damien-saez.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/damien-saez.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/query.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/black-sabbath.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/elyaline.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/query.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/cli.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/elyaline.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/redonner.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/serie_pentest.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/tweet.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/redonner.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/vendredi-cest-permis.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/tweet.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/whatsyournumber.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/vendredi-cest-permis.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/icone.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/whatsyournumber.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/nikopik.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/icone.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/wtf.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/nikopik.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/tweets.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/wtf.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/mail.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/tweets.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/pentest.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/mail.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/love-interruption.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/pentest.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/nouveau.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/love-interruption.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/smartphone.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/titres.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/vlc.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/smartphone.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/rakarrack.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/vlc.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/code-java.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/rakarrack.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/projet.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/code-java.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/android.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/projet.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ffmpeg.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/home-studio.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/guitare.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/look.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/png-factory.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/guitare.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/programmation.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/png-factory.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/laptop.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/programmation.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/les-fatals-picards.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/laptop.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/james-blunt.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/les-fatals-picards.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/banshee.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/james-blunt.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/guitarix.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/banshee.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/tryo.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/guitarix.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/musique.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/tryo.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/rock.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/musique.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/banshee-24.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/activity.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/10h.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/banshee-24.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/victor-hugo.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/10h.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/integration.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/victor-hugo.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/twitter.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/holorime.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/linux.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/integration.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/myunity.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/twitter.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/stickaz.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/drones.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/activity.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/myunity.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/video.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/stickaz.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/newsletter.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/video.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/3d.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/newsletter.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/just-us.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/3d.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/twoflower.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/fullscreen.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/cigarettes-and-valentines.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/twoflower.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/cle.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/cigarettes-and-valentines.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/wow.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/cle.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/marc-monnier.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/wow.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/wikipedia.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/marc-monnier.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/generer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/wikipedia.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/tricsks.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/generer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/find-the-best.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/tricsks.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/password-reuse-visualizer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/find-the-best.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/pi.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/password-reuse-visualizer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/formule.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/pi.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/c.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/formule.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/toes.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jocly.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/javascript.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/c.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/pub.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/toes.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/html5.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/rock.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/packages.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/javascript.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ubuntu.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/pub.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/raspberry.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/emulation.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/equations.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ubuntu.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/bash.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/packages.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/serie_pentest.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/equations.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/black-sabbath.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/bash.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/unsubscribrcom.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/cli.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/admin.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/songoftheday.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/enjmin.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/unsubscribrcom.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jeu.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/admin.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/espace.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/enjmin.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jveux-quon-baise-sur-ma-tombe.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/spam.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/games.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/noirs.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/passwordmeter.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jveux-quon-baise-sur-ma-tombe.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/luminosite.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/games.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/lorem-ipsum.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/passwordmeter.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/emulation.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/luminosite.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/informations.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/lorem-ipsum.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/firefox.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/html5.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/vie.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/informations.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/naviguer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/firefox.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/image.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/vie.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/scripts.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/naviguer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/dark-vador.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/image.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/vlc-20.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/scripts.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/consoler-of-the-lonely.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/dark-vador.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/amusantes.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/vlc-20.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/gnome-shell.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/consoler-of-the-lonely.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/personnalisation.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/amusantes.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/warcraft.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/gnome-shell.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/drones.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/personnalisation.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/video.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/warcraft.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/beat-the-devils-tattoo.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/linux.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/customisation.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/video.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/lister.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/beat-the-devils-tattoo.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/spam.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/customisation.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jocly.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/lister.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/gpg.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jeu.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/mot-de-passe.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/introduction.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/green-day.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/gpg.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/citations.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/mot-de-passe.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/dns.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/green-day.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/pelle.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/citations.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/je-laime-a-mourir.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/dns.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/homemade.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/pelle.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/worldometer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/sous-titres.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/bbc.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/homemade.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/muse.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/worldometer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/serre-moi.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/bbc.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ubuntu-studio.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/muse.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jackd.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/serre-moi.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/im-picky.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ubuntu-studio.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/zac-brown-band.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jackd.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/climagic.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/im-picky.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/bug.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/zac-brown-band.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/dpkg.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/climagic.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/songoftheday.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/bug.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/voeux.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/dpkg.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/look.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/respiration.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/black-rebel-motorcycle-club.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/voeux.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/marque-pages.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ffmpeg.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/liens.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/raspberry.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/mencoder.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/black-rebel-motorcycle-club.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/trick.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/marque-pages.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/imprimer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/liens.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/preparation.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/trick.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/fun.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/imprimer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/jack-white.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/preparation.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/videos.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/fun.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/titres.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/jack-white.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/geeks.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/videos.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/nimporte-quoi.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/geeks.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/the-pirate-bay.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/nimporte-quoi.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/shovellica.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/the-pirate-bay.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/sphere.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/shovellica.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/sous-titres.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/sphere.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/installes.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/je-laime-a-mourir.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/decimales.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/installes.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/korben.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/decimales.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/noirs.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/korben.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/gimp.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/espace.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/chiffrement.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/gimp.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/respiration.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/chiffrement.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/menus.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/nouveau.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/unity.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/menus.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/comparer.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/unity.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/home-studio.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/comparer.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/donnees.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/android.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/holorime.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/donnees.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/iron-man.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/mencoder.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/livre.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/iron-man.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/cocktail.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/livre.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/fullscreen.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/cocktail.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/mario.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/just-us.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ardour.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/mario.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/sql.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ardour.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/stats.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/sql.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/shaka-ponk.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/stats.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/15000.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/shaka-ponk.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/francis-cabrel.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/15000.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/mao.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/francis-cabrel.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/latex.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/mao.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/new-born.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/latex.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/union-spirit.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/new-born.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/icones.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/union-spirit.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/usefull.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/icones.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/introduction.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/usefull.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ill-be-your-man.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ill-be-your-man.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/command.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/command.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/resolution.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/resolution.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/ubuntu-tweak.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/ubuntu-tweak.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/tag/wine.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/tag/wine.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/author/quack1.html</loc>
-<lastmod>2013-01-07T07:19:26-00:00</lastmod>
+<loc>http://quack1.no-ip.org/author/quack1.html</loc>
+<lastmod>2013-01-07T11:06:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.75</priority>
 </url>
