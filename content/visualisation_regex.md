@@ -17,4 +17,7 @@ Puisqu'un dessin vaut mieux qu'un long discours, voici une screenshot du site en
 
 <div align=center><a href="static/upload/regexper.png"><img src="static/upload/regexper.png" width="700" align="center" /></a></div> 
 
+Et puisqu'une bonne chose n'arrive jamais seule, le projet est sous Licence CC-BY-NC-SA-3.0, donc librement modifiable, et dispo sur [GitHub](https://github.com/javallone/regexper) :-)
+
 [Source](https://twitter.com/matti_sg/status/288758421136764928 "Source sur twitter") : via [@fo0_](https://twitter.com/fo0_) & [@matti_sg](https://twitter.com/matti_sg/status/288758421136764928)
+
