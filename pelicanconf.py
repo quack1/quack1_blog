@@ -10,6 +10,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'fr'
 
 THEME = "notmyidea"
+PDF_GENERATOR = False
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
@@ -19,12 +20,17 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/_Quack1'),)
 GOOGLE_ANALYTICS = 'UA-35393252-1'
+DISQUS_SITENAME = 'quack1blog'
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
 
+# Tag Cloud
+TAG_CLOUD_STEPS = 5
+TAG_CLOUD_MAX_ITEMS = 100
+
 # Timezone
-PLUGINS=['pelican.plugins.sitemap',]
+PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
 
 SITEMAP = {
     'format': 'xml',
@@ -39,3 +45,14 @@ SITEMAP = {
         'pages': 'daily'
     }
 }
+
+LICENSE="""
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+ * ----------------------------------------------------------------------------
+ */
+"""
