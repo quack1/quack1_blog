@@ -3,7 +3,7 @@ Date: 2013-01-21 18:31
 Author: Quack1
 Category: Hack
 Slug: bloc_couteaux_diy
-Tags: DIY, hack, couteaux, bloc
+Tags: DIY, hack, bloc, couteaux
 
 Aujourd'hui, article spécial "Do-It-Yourself"! 
 

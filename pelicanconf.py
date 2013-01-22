@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-THEME = "notmyidea"
+THEME = "bootstrap2"
 PDF_GENERATOR = False
 
 # Blogroll
@@ -26,8 +26,8 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
 
 # Tag Cloud
-TAG_CLOUD_STEPS = 5
-TAG_CLOUD_MAX_ITEMS = 100
+TAG_CLOUD_STEPS = 10
+TAG_CLOUD_MAX_ITEMS = 50
 
 # Timezone
 PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
