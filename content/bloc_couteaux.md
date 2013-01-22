@@ -31,7 +31,12 @@ Pour cela, il nous faut :
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <div><a href="static/upload/couteaux_4.jpg"><img src="static/upload/couteaux_4.jpg" align="center" width="250" style="float: left; margin:10px;"/></a>Étape #3 : Pour l'esthétique, on a recouvert nos boites de feuilles blanches (bien sûr, on peut choisir sa propre déco! papier cadeau, dessins, autocollants,.. laissez courir votre imagination!)</div>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -63,6 +68,8 @@ Pour que ce soit plus simple et plus régulier, on marque nos pics au feutre pui
 <br/>
 
 <div><a href="static/upload/couteaux_7.jpg"><img src="static/upload/couteaux_7.jpg" align="center" width="250" style="float: left; margin:10px;"/></a>Étape #5 : Une fois que tous vos pics sont ajustés, que votre déco est sèche et que vos compartiments sont placés, vous pouvez enfin placer vos pics dans votre bloc.</div>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
