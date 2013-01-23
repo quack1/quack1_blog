@@ -19,6 +19,9 @@ C'est assez impressionant, et ça permet de libérer dans certains cas beaucoup 
 
 <div align=center><a href="static/upload/clean_memory_3.png"><img src="static/upload/clean_memory_3.png" align="center"/></a></div>
 
+Screencast pris à l'arrache de l'éxecution de la commande sur mon système : 
+<div align=center><iframe width="560" height="315" src="http://www.youtube.com/embed/atgL9clQcBc" frameborder="0" allowfullscreen></iframe></div>
+
 Pour automatiser le processus, on peut rajouter la commande dans une tâche cron qui sera appelée toutes les heures, comme ici : 
 
 	0 * 	* * * 	root	sysctl -w vm.drop_caches=3 > /dev/null 2>&1
