@@ -13,9 +13,9 @@ THEME = "bootstrap2"
 PDF_GENERATOR = False
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),)
+#LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
+#          ('Python.org', 'http://python.org'),
+#          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/_Quack1'),)
@@ -24,6 +24,9 @@ DISQUS_SITENAME = 'quack1blog'
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
+
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
