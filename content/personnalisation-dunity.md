@@ -2,7 +2,7 @@ Title: Personnalisation d'Unity
 Date: 2011-12-12 06:33
 Author: Quack1
 Category: Ubuntu
-Tags: myunity, personnalisation, ubuntu, unity
+Tags: myunity, personnalisation, ubuntu, unity, planet-libre
 
 J'ai fait une découverte intéressante ce matin en lisant ma timeline. Un tweet d'[@UbuntuFeed](https://twitter.com/#!/UbuntuFeed).
 

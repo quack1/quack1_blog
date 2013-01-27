@@ -2,7 +2,7 @@ Title: Corriger le bug de l'icone de Gimp 2.8 perdue dans le Launcher d'Unity
 Date: 2012-05-20 22:04
 Author: Quack1
 Category: Ubuntu
-Tags: bug, gimp, icone, ubuntu, unity
+Tags: bug, gimp, icone, ubuntu, unity, planet-libre
 
 ![Gimp](static/static/upload/gimp.png "Gimp")
 

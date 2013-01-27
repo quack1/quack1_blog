@@ -3,7 +3,7 @@ Date: 2013-01-23 09:13
 Author: Quack1
 Category: Linux
 Slug: free_unused_memory_linux
-Tags: libérer, RAM, Linux
+Tags: libérer, RAM, Linux, planet-libre
 
 <div align=center><img src="static/upload/clean_memory.png" width="600" align=center /></div>
 

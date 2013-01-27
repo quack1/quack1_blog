@@ -2,7 +2,7 @@ Title: Ubuntu : Unity vs Gnome-Shell : Avis (non) objectif
 Date: 2012-01-24 21:13
 Author: Quack1
 Category: Ubuntu
-Tags: gnome-shell, ubuntu, unity
+Tags: gnome-shell, ubuntu, unity, planet-libre
 
 Depuis plusieurs années déjà, j'utilise quasi-exclusivement le système
 d'exploitation Linux sur mes machines. Je ne conserve Windows que par

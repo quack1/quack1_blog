@@ -1,8 +1,8 @@
-Title: Installer Banshee 2.4 sur Ubuntu
+Title: Installer Banshee 2.4 sur Ubuntu 11.10
 Date: 2012-03-25 11:50
 Author: Quack1
 Category: Ubuntu
-Tags: banshee, banshee 2.4, linux, ubuntu
+Tags: banshee, banshee 2.4, linux, ubuntu, planet-libre
 
 ![Banshee](static/upload/banshee.png "Banshee")
 

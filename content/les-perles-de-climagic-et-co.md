@@ -2,7 +2,7 @@ Title: Les perles de @climagic (et co)
 Date: 2012-09-25 21:47
 Author: Quack1
 Category: Linux
-Tags: admin, bash, cli, climagic, command, fun, scripts, tricsks, usefull
+Tags: admin, bash, cli, climagic, command, fun, scripts, tricsks, usefull, planet-libre
 
 Ça commence à faire un ~~petit~~ bon moment (juste 3 ou 4 mois) que je
 n'ai rien publié sur ce blog. Un retour tout en douceur s'impose donc,

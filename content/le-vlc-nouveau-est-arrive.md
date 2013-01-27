@@ -2,7 +2,7 @@ Title: Le VLC nouveau est arrivé
 Date: 2012-02-19 22:31
 Author: Quack1
 Category: Ubuntu
-Tags: linux, twoflower, ubuntu, vlc, vlc 2.0
+Tags: linux, twoflower, ubuntu, vlc, vlc 2.0, planet-libre
 
 <div align=center><img src="static/upload/vlc.png" height="250" align=center /></div>
 
