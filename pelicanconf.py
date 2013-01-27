@@ -25,13 +25,16 @@ DISQUS_SITENAME = 'quack1blog'
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
+DISPLAY_PAGES_ON_MENU = "True"
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ALL_RSS = 'feeds/all.rss'
+FEED = 'feeds/all.atom.xml'
+#FEED_ALL_RSS = 'feeds/all.rss'
+CATEGORY_FEED = 'feeds/%s.atom.xml'
+TAG_FEED = 'feeds/%s.atom.xml'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
-TAG_CLOUD_MAX_ITEMS = 50
+TAG_CLOUD_MAX_ITEMS = 20
 
 # Timezone
 PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
@@ -50,7 +53,7 @@ SITEMAP = {
     }
 }
 
-LICENSE="""
+COPYRIGHT="""
 /*
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
