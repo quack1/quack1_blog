@@ -2,7 +2,7 @@ Title: Tester Linux dans un émulateur javascript
 Date: 2012-05-12 18:45
 Author: Quack1
 Category: Linux
-Tags: emulation, javascript, linux
+Tags: emulation, javascript, linux, planet-libre
 
 <div align=center><a href="static/upload/jslinux.png"><img src="upload/jslinux.png" width="600" align=center /></a></div>
 

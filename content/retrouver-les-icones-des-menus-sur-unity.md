@@ -2,7 +2,7 @@ Title: Retrouver les icônes des menus sur Unity
 Date: 2012-04-10 15:21
 Author: Quack1
 Category: Ubuntu
-Tags: icones, menus, ubuntu, ubuntu tweak, unity
+Tags: icones, menus, ubuntu, ubuntu tweak, unity, planet-libre
 
 <div align=center><a href="static/upload/menuicones.png"><img src="upload/menuicones.png" width="600" align=center /></a></div>
 

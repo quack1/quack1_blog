@@ -2,7 +2,7 @@ Title: Créer une clé USB de backup sécurisée
 Date: 2013-01-21 09:39
 Author: Quack1
 Category:Securité
-Tags: Securité, USB, Backup
+Tags: Securité, USB, Backup, planet-libre
 Slug: secure_backup_key
 
 <div align=center><img src="static/upload/secure_key.png" width="600" align=center /></div>

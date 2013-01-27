@@ -2,7 +2,7 @@ Title: MAO : Monter son (petit) home-studio sous Linux
 Date: 2012-04-05 21:18
 Author: Quack1
 Category: Musique
-Tags: ardour, guitare, guitarix, home studio, jackd, mao, musique, rakarrack, ubuntu, ubuntu studio
+Tags: ardour, guitare, guitarix, home studio, jackd, mao, musique, rakarrack, ubuntu, ubuntu studio, planet-libre
 
 ![Home Studio](static/upload/homestudio.png "Home Studio")
 
