@@ -27,10 +27,9 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
 DISPLAY_PAGES_ON_MENU = "True"
 
-FEED = 'feeds/all.atom.xml'
-#FEED_ALL_RSS = 'feeds/all.rss'
-CATEGORY_FEED = 'feeds/%s.atom.xml'
-TAG_FEED = 'feeds/%s.atom.xml'
+FEED_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
