@@ -27,7 +27,7 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
 DISPLAY_PAGES_ON_MENU = "True"
 
-FEED_ATOM = 'feeds/all.atom.xml'
+FEED = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 
