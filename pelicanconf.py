@@ -10,7 +10,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-THEME = "bootstrap2"
+#THEME = "bootstrap2"
+THEME = "themes/bootstrap2_quack1"
 PDF_GENERATOR = False
 
 # Blogroll
