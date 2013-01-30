@@ -4,7 +4,7 @@ Author: Quack1
 Category: Geek
 Tags: visualisation, regex, graphique, planet-libre
 
-<div align=center><img src="static/upload/i_know_regex.png" width="600" align=center /></div>
+<div align=center><img src="static/upload/i_know_regex.png" width="600" height="250" align=center /></div>
 
 Qui n'a jamais eu du mal à comprendre une grosse expression régulière plutôt tordue, avec des symboles et des conditions dans tous les sens ? On peut tomber dans certains cas sur des regex illisibles, même pour des développeurs spécialistes!
 

@@ -5,7 +5,7 @@ Category: Linux
 Slug: free_unused_memory_linux
 Tags: libérer, RAM, Linux, planet-libre
 
-<div align=center><img src="static/upload/clean_memory.png" width="600" align=center /></div>
+<div align=center><img src="static/upload/clean_memory.png" width="600" height="250" align=center /></div>
 
 Article rapide aujourd'hui pour me souvenir d'une comamnde qui permet de libérer la mémoire inutilisée et non libérée par votre système, et en particulier par le kernel GNU/Linux.
 

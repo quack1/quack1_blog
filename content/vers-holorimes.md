@@ -4,7 +4,7 @@ Author: Quack1
 Category: WTF
 Tags: formule, holorime, marc monnier, victor hugo
 
-<div align=center><a href="static/upload/holorime_le_chat.png"><img src="static/upload/holorime_le_chat.png" width="600" align=center /></a></div>
+<div align=center><a href="static/upload/holorime_le_chat.png"><img src="static/upload/holorime_le_chat.png" width="600" height="250" align=center /></a></div>
 
 Qui a dit que les matheux ne connaissaient rien à la littérature et aux magnificences de la langue française (et oui, même les geeks utilisent parfois des mots tordus ;-) ) ?
 

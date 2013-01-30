@@ -5,7 +5,7 @@ Category:Securité
 Tags: Securité, USB, Backup, planet-libre
 Slug: secure_backup_key
 
-<div align=center><img src="static/upload/secure_key.png" width="600" align=center /></div>
+<div align=center><img src="static/upload/secure_key.png" width="600" height="250" align=center /></div>
 
 J'ai sur mon Laptop des fichiers assez "précieux" et "importants", comme des clés de chiffrement GPG, des clés RSA de connexion à des machines distantes, ou des fichiers KeePassX contenant mes mots de passe. Tous ses fichiers sont protégés par des passphrases et mon disque dur est chiffré, ce qui rend leur lecture difficile. Cependant, j'ai également des fichiers dans des formats plus courants et moins protégés, comme du ods, des txt, etc... que je préfèrerais ne pas voir divulgués.
 
