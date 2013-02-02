@@ -21,31 +21,31 @@ Pour cette méthode on rajoute 2 lignes dans la méthode onCreate() de
 l'Activity. Une ligne pour supprimer la barre de titre, et une autre
 pour la barre d'état.
 
-<pre>
-@Overridepublic void onCreate(Bundle savedInstanceState) {
-  super.onCreate(savedInstanceState);
-  // Pour cacher la barre de titre
-  requestWindowFeature(Window.FEATURE_NO_TITLE);
-  setContentView(R.layout.tabs1);
-  // Pour cacher la barre de statut et donc mettre votre application en plein écran
-  getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
-}
-
-</pre>
+	:::java
+	@Overridepublic void onCreate(Bundle savedInstanceState) {
+	  super.onCreate(savedInstanceState);
+	  // Pour cacher la barre de titre
+	  requestWindowFeature(Window.FEATURE_NO_TITLE);
+	  setContentView(R.layout.tabs1);
+	  // Pour cacher la barre de statut et donc mettre votre application en plein écran
+	  getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+	}
 
 ### La méthode AndroidManifest.xml
 
 Pour la deuxième méthode, on peut rajouter soit ceci pour supprimer la
 barre de titre :
 
-<pre>
-    &lt;activity android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar"/&gt;
-</pre>
+
+    <activity android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar"/>;
+
+
 Soit ceci pour masquer la barre de titre et placer l'application en
 plein écran :
-<pre>
-    &lt;activity  android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/&gt;
-</pre>
+
+
+    <activity  android:name=".LeNomDeVotreClasse" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">;
+
 
 [Source][]
 
