@@ -24,6 +24,6 @@ Screencast pris à l'arrache de l'éxecution de la commande sur mon système :
 
 Pour automatiser le processus, on peut rajouter la commande dans une tâche cron qui sera appelée toutes les heures, comme ici : 
 
-	0 * 	* * * 	root	sysctl -w vm.drop_caches=3 > /dev/null 2>&1
+	0 * 	* * * 	root	/sbin/sysctl -w vm.drop_caches=3 > /dev/null 2>&1
 
 [Source](http://www.upubuntu.com/2013/01/how-to-free-up-unused-memory-in.html)
