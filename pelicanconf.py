@@ -20,7 +20,7 @@ PDF_GENERATOR = False
 #          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/_Quack1'),)
+SOCIAL = (('twitter', 'http://twitter.com/_Quack1'),('mail', 'mailto:quack1blog@gmail.com'))
 GOOGLE_ANALYTICS = 'UA-35393252-1'
 DISQUS_SITENAME = 'quack1blog'
 
