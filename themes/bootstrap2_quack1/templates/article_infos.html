@@ -19,21 +19,6 @@
 {% include 'taglist.html' %}
 {% include 'translations.html' %}
 
-<span class="Social">
-	<a href="https://twitter.com/share" class="twitter-share-button"
-	data-url="{{ SITEURL }}/{{article.slug}}"
-	data-via="_Quack1"
-	data-text="{{ article.title }}"
-	data-related="twitter,twitfond"
-	data-hashtags="blog"
-	data-count="horizontal"
-	data-lang="fr">Tweeter</a>
-	<!-- Place this tag where you want the +1 button to render. -->
-	<div class="g-plusone" data-size="medium" data-count="true" href="{{ SITEURL }}/{{article.slug}}"></div>
-
-	<a href="mailto:?subject={{ article.title }}&amp;body=Viens découvrir un article à propos de [{{ article.title }}] sur le site de @_Quack1. {{ SITEURL }}/{{article.slug}}]" title="Share by Email">Mail</a>
-</span>
-
 <!-- AddThis Button BEGIN -->
 <!-- <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
 <a class="addthis_button_preferred_1"></a>
