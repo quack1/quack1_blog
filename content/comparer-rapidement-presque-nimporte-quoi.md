@@ -8,8 +8,7 @@ Vous voulez partir en vacances au ski, acheter une voiture ou une
 tablette tactile, ou bien adopter un chien pour les enfants, mais vous
 hésitez encore ? J'ai le site parfait pour vous!!
 
-**[FindTheBest][]**
-va comparer pour vous, suivant de nombreux critères, les articles que
+**[FindTheBest][]** va comparer pour vous, suivant de nombreux critères, les articles que
 vous aurez choisis, dans plein (mais alors plein plein plein) de
 catégories. Les voici :
 

@@ -1,4 +1,4 @@
-Title: "Do-it-Yourself" : Fabriquer son bloc de rangement de couteaux maison
+Title: Do-it-Yourself : Fabriquer son bloc de rangement de couteaux maison
 Date: 2013-01-21 18:31
 Author: Quack1
 Category: Hack
