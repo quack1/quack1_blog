@@ -4,7 +4,7 @@
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1@Blog'
 SITEURL = 'http://quack1.no-ip.org'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Paris'
