@@ -5,8 +5,6 @@ Category: Securité
 Slug: ids_web_scanners
 Tags: Snort, IDS, Stage, Détection d'Intrusion, Détection, Web, Scanners, Pentest, Blind Elephant, dirb, DirBuster, SkipFish, WhatWeb, WebSploit
 
-<div align=center><img src="static/upload/snort.png" width="600" height="250" align=center /></div>
-
 Je vous présentais la semaine dernière l'[IDS Snort](snort_overview.html), et vous expliquait dans l'introduction de ce billet que j'étais en train de préparer des scénarios d'attaques utilisées lors d'audits. Et bien voici le premier billet présentant des règles permettant de détecter quelques outils utilisés pour réaliser des scans Web.
 
 &nbsp;
