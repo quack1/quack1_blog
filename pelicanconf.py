@@ -9,7 +9,7 @@ FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'fr'
+#DEFAULT_LANG = u'fr'
 
 #THEME = "bootstrap2"
 THEME = "themes/bootstrap2_quack1"
