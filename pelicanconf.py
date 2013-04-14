@@ -4,7 +4,7 @@
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1@Blog'
 SITEURL = 'http://quack1.no-ip.org'
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Paris'
@@ -21,7 +21,7 @@ PDF_GENERATOR = False
 #          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/_Quack1'),('mail', 'mailto:quack1blog@gmail.com'))
+SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:quack1blog@gmail.com'))
 GOOGLE_ANALYTICS = 'UA-35393252-1'
 DISQUS_SITENAME = 'quack1blog'
 
@@ -29,13 +29,13 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
 DISPLAY_PAGES_ON_MENU = "True"
 
-FEED = 'feeds/all.atom.xml'
+FEED_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
-TAG_CLOUD_MAX_ITEMS = 20
+TAG_CLOUD_MAX_ITEMS = 10
 
 # Timezone
 PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']

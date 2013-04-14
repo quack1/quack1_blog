@@ -1,5 +1,5 @@
 Title: Faire des screenshots de sites web directement depuis Firefox
-Date: 2013-03-29 16:25
+Date: 2013-04-02 13:46
 Author: Quack1
 Category: Geek
 Slug: firefox_dev_tools_screenshots
