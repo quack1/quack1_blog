@@ -2,4 +2,3 @@
 *.pid
 *.pyc
 output/*
-! themes/templates/*.html
