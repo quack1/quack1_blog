@@ -3,7 +3,7 @@ Date: 2013-04-18 17:21
 Author: Quack1
 Category: Linux
 Slug: raspberry_pi_hd_videos
-Tags: raspberry pi, video, hd, h264, 720p, omxplayer
+Tags: raspberry pi, video, hd, h264, 720p, omxplayer, planet-libre
 
 Article très court pour partager une astuce que j'ai mis assez longtemps à trouver. Petite mise en situation : j'ai chez moi un [Raspberry Pi modèle B](http://www.kubii.fr/ "Kubii.fr : Acheter un Raspberry Pi") qui fait office de serveur web et me permet d'avoir un proxy SOCKS gratuit et léger chez moi. Pour ces raisons, j'y ai installé [Raspbian](http://www.raspbian.org/ "Site de Raspbian"), en configuration _headless_ (comprenez "sans interface graphique"), afin de gagner en performance.
 
