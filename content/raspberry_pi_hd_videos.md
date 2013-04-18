@@ -1,11 +1,9 @@
 Title: Lire des vidéos HD sur un Raspberry Pi
-Date: 2013-01-23 09:13
+Date: 2013-04-18 17:21
 Author: Quack1
 Category: Linux
 Slug: raspberry_pi_hd_videos
 Tags: raspberry pi, video, hd, h264, 720p, omxplayer
-
-<div align=center><img src="static/upload/clean_memory.png" width="600" height="250" align=center /></div>
 
 Article très court pour partager une astuce que j'ai mis assez longtemps à trouver. Petite mise en situation : j'ai chez moi un [Raspberry Pi modèle B](http://www.kubii.fr/ "Kubii.fr : Acheter un Raspberry Pi") qui fait office de serveur web et me permet d'avoir un proxy SOCKS gratuit et léger chez moi. Pour ces raisons, j'y ai installé [Raspbian](http://www.raspbian.org/ "Site de Raspbian"), en configuration _headless_ (comprenez "sans interface graphique"), afin de gagner en performance.
 
@@ -21,11 +19,14 @@ Seulement un problème se pose lors de la lecture de vidéos en Haute-Définitio
 - La lecture se lance, j'ai du son sur ma télé, mais aucune image à l'écran ;
 - Sur les lectures suivantes, je n'ai ni son ni vidéo, _omxplayer_ se termine tout de suite en me souhaitant un _nice day_.
 
+En gros, la commande donne ça : 
+
 	:::bash
 	user@jackjack $ omxplayer -o hdmi some_other_video.mkv
 	Video codec omx-h264 width 1280 height 720 profile 100 fps 23.976025
-
+		 
 	have a nice day ;)
+
 
 J'ai donc _googleisé_ pendant des jours, en enchainant les mots-clés, "mkv video raspberry", "h264 omxplayer crash", "bug raspberry pi hd video", mais toujours sans succès.
 
