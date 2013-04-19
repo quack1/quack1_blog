@@ -3,16 +3,20 @@
 
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1@Blog'
+SIDEBAR_DIGEST = u'Blog-Notes of a random Linux/Security/Hack guy'
 SITEURL = 'http://quack1.no-ip.org'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 FEED_DOMAIN = SITEURL
+AVATAR = u'static/upload/avatar.png'
 
 TIMEZONE = 'Europe/Paris'
+DATE_FORMATS = {
+    'fr' : '%d/%m/%Y',
+    'en' : '%d/%m/%Y',
+}
+DEFAULT_LANG = u'fr'
 
-#DEFAULT_LANG = u'fr'
-
-#THEME = "bootstrap2"
-THEME = "themes/bootstrap2_quack1"
+THEME = "themes/notebook"
 PDF_GENERATOR = False
 
 # Blogroll
@@ -24,6 +28,7 @@ PDF_GENERATOR = False
 SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:quack1blog@gmail.com'))
 GOOGLE_ANALYTICS = 'UA-35393252-1'
 DISQUS_SITENAME = 'quack1blog'
+TWITTER_USERNAME = "_Quack1"
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
@@ -39,6 +44,10 @@ TAG_CLOUD_MAX_ITEMS = 10
 
 # Timezone
 PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
+
+# Firefox Affiliates
+FIREFOX_BANNERS = (('35549', '/theme/images/download_firefox.png', u'Télécharger Firefox : facile, amusant, génial'),
+                    ('36259', '/theme/images/download_firefox_android.png', u'Firefox for Android'))
 
 SITEMAP = {
     'format': 'xml',
