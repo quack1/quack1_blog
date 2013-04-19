@@ -9,7 +9,7 @@ Quand on discute sur [IRC](http://fr.wikipedia.org/irc), il peut etre assez éne
 Personnellement, j'utilise [irssi]() comme client IRC. C'est un client en mode texte mais très pratique, très fonctionnel, et supportant les plugins. Pour le mettre en place sur un serveur distant, il y a 2 solutions : 
 
 1. Lancer irssi en lui ajoutant un plugin proxy, puis lancer un client en local qui va se connecter au proxy irssi plutôt qu'au serveur IRC ;
-2. Lancer irssi dans un [screen](https://www.gnu.org/software/screen/), puis se connecter en ssh sur la machine, et rentrer dans le screen pour réavoir accès à son client IRC.
+2. Se connecter en ssh sur une machine distante, y lancer irssi dans un [screen](https://www.gnu.org/software/screen/), puis simplement sortir du screen avant de se déconnecter. Ainsi irssi sera toujours actif dans le screen même lorsque l'on sera déconnecté.
 
 Personnellement, j'ai utilisé la deuxième solution que je vais vous présenter ici!
 
