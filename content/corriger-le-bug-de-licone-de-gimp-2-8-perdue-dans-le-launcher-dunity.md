@@ -3,6 +3,7 @@ Date: 2012-05-20 22:04
 Author: Quack1
 Category: Ubuntu
 Tags: bug, gimp, icone, ubuntu, unity, planet-libre
+Summary: Retrouver l'icône de la dernière version de Gimp dans le Launcher d'Unity.
 
 ![Gimp](static/static/upload/gimp.png "Gimp")
 

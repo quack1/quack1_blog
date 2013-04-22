@@ -3,6 +3,7 @@ Date: 2012-01-10 09:49
 Author: Quack1
 Category: Geek
 Tags: Laptop, look, mario, nouveau, stickaz
+Summary: Nouveau look de mon laptop, personnalisé avec des Stickaz.
 
 <div align=center><a href="static/upload/stickaz1.jpg"><img src="upload/stickaz1.jpg" width="600" align=center /></a></div>
 

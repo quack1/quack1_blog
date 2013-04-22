@@ -3,6 +3,7 @@ Date: 2012-02-15 11:26
 Author: Quack1
 Category: Musique
 Tags: green day, hybrid moments, songOfTheDay
+Summary: Chanson "Hybrid Moments", par Green Day.
 
 Song of the Day : La reprise d'*Hybrid Moments*, par Green Day (chanson
 originale par The Misfits)

@@ -3,6 +3,7 @@ Date: 2012-03-16 19:22
 Author: Quack1
 Category: WTF
 Tags: guitare, homemade, pelle, shovellica
+Summary: DIY musical : Une guitare faite à partir d'une pelle.
 
 <div align=center><img src="static/upload/shovellica.png" width="600" align=center /></div>
 

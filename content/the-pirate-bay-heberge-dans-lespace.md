@@ -3,6 +3,7 @@ Date: 2012-03-18 21:27
 Author: Quack1
 Category: WTF
 Tags: drones, espace, raspberry, the pirate bay
+Summary: Un hébergement de The Pirate Bay dans l'espace au moyen de drônes à prévoir ?
 
 <div align=center><a href="static/upload/pirate_bay.jpg"><img src="upload/pirate_bay.jpg" width="400" align=center /></a></div>
 

@@ -3,6 +3,7 @@ Date: 2012-01-06 10:42
 Author: Quack1
 Category: Geek
 Tags: intégration, tweet
+Summary: Test rapide de l'intégration des tweets dans Wordpress.
 
 Je cherchais un bon tweet pour tester l'intégration automatique des
 tweets dans wordpress. J'en ai trouvé un bon chez Mr [][].

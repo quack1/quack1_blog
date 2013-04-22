@@ -3,6 +3,7 @@ Date: 2012-04-12 07:14
 Author: Quack1
 Category: Musique
 Tags: Beat the Devil's Tattoo, Black Rebel Motorcycle Club, songOfTheDay
+Summary: Chanson "Beat the Devil's Tattoo", par The Black Rebel Motorcycle Club.
 
 Découverte d'hier, un très bon groupe, *Black Rebel Motorcycle Club*, (via [@bluetouff][] sur twitter), et en particulier une très bonne chanson de leur dernier album que j'aime beaucoup : *Beat the Devil's Tattoo*.
 

@@ -2,6 +2,7 @@ Title: Hello world!
 Date: 2011-11-25 17:34
 Author: Quack1
 Category: Blog
+Summary: Premier billet du blog.
 
 Premier billet (automatique) du blog. Pour l'instant je n'ai pas trop touché aux réglages de wordpress, mais ça ne saurait tarder ;) donc n'ayez pas peur de l'apparence "basique" du site :P
 

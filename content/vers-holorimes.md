@@ -3,6 +3,7 @@ Date: 2012-11-27 15:27
 Author: Quack1
 Category: WTF
 Tags: formule, holorime, marc monnier, victor hugo
+Summary: Vers Holorimes, les beautés de la langue française.
 
 <div align=center><a href="static/upload/holorime_le_chat.png"><img src="static/upload/holorime_le_chat.png" width="600" height="250" align=center /></a></div>
 

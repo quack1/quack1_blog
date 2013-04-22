@@ -3,6 +3,7 @@ Date: 2013-01-07 11:04
 Author: Quack1
 Category: WTF
 Tags: informations, amusantes, vie
+Summary: Quelques informations amusantes sur la vie sur Terre.
 
 <div align=center><img src="static/upload/amazing_rubiks_cube.png" width="600" height="250" align=center /></div>
 

@@ -4,6 +4,7 @@ Author: Quack1
 Category:Securité
 Tags: Securité, USB, Backup, planet-libre
 Slug: secure_backup_key
+Summary: Création d'une clé USB sécurisée et chiffrée depuis Ubuntu
 
 <div align=center><img src="static/upload/secure_key.png" width="600" height="250" align=center /></div>
 

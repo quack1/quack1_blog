@@ -3,6 +3,7 @@ Date: 2012-02-22 00:20
 Author: Quack1
 Category: Ubuntu
 Tags: android, smartphone, ubuntu, planet-libre
+Summary: Ubuntu for Phones, le système GNU/Linux bientôt sur Android ?
 
 <div align=center><a href="static/upload/ubuntuAndroid.jpg"><img src="upload/ubuntuAndroid.jpg" width="600" align=center /></a></div>
 

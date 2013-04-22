@@ -3,6 +3,7 @@ Date: 2012-02-16 07:00
 Author: Quack1
 Category: Musique
 Tags: I'll be your man, james blunt, songOfTheDay
+Summary: Chanson "I'll be your man", par James Blunt.
 
 Ça change de Green Day et Jack White, mais j'adore cette chanson :-)
 

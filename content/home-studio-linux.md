@@ -3,6 +3,7 @@ Date: 2012-04-05 21:18
 Author: Quack1
 Category: Musique
 Tags: ardour, guitare, guitarix, home studio, jackd, mao, musique, rakarrack, ubuntu, ubuntu studio, planet-libre
+Summary: Installation des logiciels nécéssaires pour monter un home-studio sur un système GNU/Linux.
 
 ![Home Studio](static/upload/homestudio.png "Home Studio")
 

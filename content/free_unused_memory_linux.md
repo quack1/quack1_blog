@@ -4,6 +4,7 @@ Author: Quack1
 Category: Linux
 Slug: free_unused_memory_linux
 Tags: libérer, RAM, Linux, planet-libre
+Summary : Libérer la mémoire cache inutilisée d'un système GNU/Linux.
 
 <div align=center><img src="static/upload/clean_memory.png" width="600" height="250" align=center /></div>
 

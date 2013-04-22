@@ -3,6 +3,7 @@ Date: 2011-12-12 06:33
 Author: Quack1
 Category: Ubuntu
 Tags: myunity, personnalisation, ubuntu, unity, planet-libre
+Summary: Personnalisation d'Unity avec l'outil myUnity.
 
 J'ai fait une découverte intéressante ce matin en lisant ma timeline. Un tweet d'[@UbuntuFeed](https://twitter.com/#!/UbuntuFeed).
 

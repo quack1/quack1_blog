@@ -3,6 +3,7 @@ Date: 2012-02-09 23:19
 Author: Quack1
 Category: Musique
 Tags: jack white, love interruption, musique
+Summary: Découvrer les premiers singles du prochain album de Jack White.
 
 Jack White avait publié il y a peu sur Internet le premier single de son futur album en solo (rappelez vous, il a arrêté les White Stripes il y a un an :-/ ), *Blunderbuss*.
 

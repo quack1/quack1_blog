@@ -3,6 +3,7 @@ Date: 2012-02-28 23:45
 Author: Quack1
 Category: Geek
 Tags: gimp, image, luminosité, photo, photoshop, redonner
+Summary: Redonner de la luminosité à des photos avec Photoshop.
 
 On a tous déjà fait des photos magnifiques qui sont rendues minables à
 cause d'un contre-jour qui assombrit une partie de l'image.

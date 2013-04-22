@@ -3,6 +3,7 @@ Date: 2012-02-20 17:37
 Author: Quack1
 Category: Geek
 Tags: comparer, find the best, n'importe quoi
+Summary: Application en ligne permettant de comparer très rapidement et très simplement presque n'importe quoi.
 
 Vous voulez partir en vacances au ski, acheter une voiture ou une
 tablette tactile, ou bien adopter un chien pour les enfants, mais vous

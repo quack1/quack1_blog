@@ -3,6 +3,7 @@ Date: 2012-05-11 05:58
 Author: Quack1
 Category: Musique
 Tags: les fatals picards, noir(s), songOfTheDay
+Summary: Chanson "Noir(s)", par Les Fatals Picards
 
 En ce vendredi d'exams, un peu de rock français!
 

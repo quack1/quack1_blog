@@ -3,6 +3,7 @@ Date: 2012-03-16 00:03
 Author: Quack1
 Category: WTF
 Tags: 10h, Dark Vador, respiration, Vendredi c'est permis, WTF
+Summary: WTF : Une vidéo de 10h contenant seulement la respiration de Dark Vador.
 
 Comme le dit tonton [@Korben][], "C'est vendredi, c'est permis".
 

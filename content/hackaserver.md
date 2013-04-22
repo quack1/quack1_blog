@@ -4,6 +4,7 @@ Author: Quack1
 Category: Pentest
 Slug: hackaserver
 Tags: pentest, initiation, audit, sécurité
+Summary: S'initier simplement au pentest sur des machines virtuelles proposées par le site hackaserver.com.
 
 <div align=center><img src="static/upload/hackaserver.png" width="600" height="250" align=center /></div>
 

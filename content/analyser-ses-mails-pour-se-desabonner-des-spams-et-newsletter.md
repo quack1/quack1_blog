@@ -3,6 +3,7 @@ Date: 2012-03-01 23:58
 Author: Quack1
 Category: Securité
 Tags: desabonnement, mail, newsletter, spam, unsubscribr.com
+Summary: Application en ligne permettant de détecter les liens de desinscription aux spams.
 
 ![Unsubscribr Results](static/upload/unsubscribr-results.png "Unsubscribr Results")
 

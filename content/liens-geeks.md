@@ -3,6 +3,7 @@ Date: 2012-02-08 20:08
 Author: Quack1
 Category: Geek
 Tags: 3D, citations, cocktail, dns, donnees, equations, geeks, generer, imprimer, jeux, korben, latex, liens, livre, lorem ipsum, marque pages, musique, naviguer, nikopik, png factory, programmation, query, resolution, sous-titres, sql, stats, stickaz, titres, tweets, ubuntu, videos, voeux, wikipedia, worldometer
+Summary: Quelques liens (en vrac) pour les geeks.
 
 Ma barre de marque-pages de firefox commence à être plutôt pleine, j'ai
 donc décidé de faire un peu de tri là-dedans et donc de regrouper les
