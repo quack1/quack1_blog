@@ -12,8 +12,8 @@ FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
 SSH_HOST=quack1.no-ip.org
-SSH_PORT=2613
-SSH_USER=citron
+SSH_PORT=8080
+SSH_USER=www-data
 SSH_TARGET_DIR=/var/www/blog_pelican
 
 DROPBOX_DIR=~/Dropbox/Public/
