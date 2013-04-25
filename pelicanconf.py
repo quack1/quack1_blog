@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Quack1'
-SITENAME = u'Quack1@Blog'
+SITENAME = u'Quack1☠Blog'
 SIDEBAR_DIGEST = u'Blog-Notes of a random Linux/Security/Hack guy'
 SITEURL = 'http://quack1.no-ip.org'
 RELATIVE_URLS = False
