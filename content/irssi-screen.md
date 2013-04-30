@@ -1,7 +1,7 @@
 Title: Installation et configuration d'un client IRC (irssi) sur un serveur distant
 Date: 2013-04-16 14:12
 Author: Quack1
-Category: linux
+Category: Linux
 Tags: irc, irssi, screen, serveur, planet-libre
 Summary: Tutorial pour installer et configurer le client IRC irssi et un multiplexer de terminal screen.
 
