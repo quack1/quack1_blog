@@ -62,6 +62,8 @@ Ensuite, il faut un peut réfléchir à la qualité et à la quantité des infor
 
 C'est le problème courant résolu par une analyse de risques, on croit qu'il y a un problème mais en fait non, on ne _leak_ quasiment pas d'infos. Donc c'est sûr, après si les gens n'ont pas d'autre opinion que celle que Stallman leur a demandé d'avoir on va pas pouvoir avancer. (Oui, troll spotted ;-)).
 
+Enfin, c'est il y a un point qu'il faut garder à l'esprit : Canonical est une entreprise qui, même si elle fait des logiciels libres, a besoin de faire rentrer de l'argent. Je pense donc que le partenariat avec Amazon peut leur permettre d'arriver à un équilibre financier, et si c'est le prix à payer pour avoir une distribution stable, qui marche, et qui soit libre, je suis OK avec ça.
+
 # Trop de diversification? Perte des efforts?
 
 Je vous le disais en intro, Canonical a, depuis 1 an, énormément communiqué sur de nombreux produits dérivés d'Ubuntu, comme l'Ubuntu TV ou plus récemment Ubuntu Touch.
