@@ -40,7 +40,7 @@ TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
-TAG_CLOUD_MAX_ITEMS = 10
+TAG_CLOUD_MAX_ITEMS = 1000
 
 # Timezone
 PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
