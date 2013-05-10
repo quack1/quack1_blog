@@ -5,6 +5,7 @@ Category: WTF
 Tags: formule, holorime, marc monnier, victor hugo
 Summary: Vers Holorimes, les beautés de la langue française.
 
+&nbsp;
 <div align=center><a href="static/upload/holorime_le_chat.png"><img src="static/upload/holorime_le_chat.png" width="600" height="250" align=center /></a></div>
 
 Qui a dit que les matheux ne connaissaient rien à la littérature et aux magnificences de la langue française (et oui, même les geeks utilisent parfois des mots tordus ;-) ) ?
@@ -33,7 +34,7 @@ PS : Si vous voulez connaitre le lien que cela a avec l'informatique, et
 bien sachez que mon prof nous a parlé de ça après avoir écrit la formule
 suivante au tableau :
 
-<div align=center><a href="static/upload/formuleHolorime.png"><img src="static/pload/formuleHolorime.png" align=center /></a></div>
+<div align=center><a href="static/upload/formuleHolorime.png"><img src="static/upload/formuleHolorime.png" align=center /></a></div>
 
 En effet, cette formule est également holorime elle même, puisque les
 deux termes à gauche et à droite de 'a' sont homophones tout en étant
