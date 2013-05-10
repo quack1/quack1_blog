@@ -41,7 +41,7 @@ Ce fût donc la **v2** du blog! Un wordpress installé sur un vieux portable, av
 
 J'ai dû déménager sur Paris au mois de Mars, j'en ai profité pour migrer le blog petit à petit de Wordpress à [Pelican](http://getpelican.com), un moteur de blog statique écrit en python. La raison était simple : pouvoir modifier le blog **beaucoup** plus facilement (au niveau du _backend_ et du thème), ne pas avoir à faire tourner un serveur LAMP complet (ici pas de Php ni MySQL, et comme on ne sert que des fichiers statiques, exit _Apache_ et bonjour **nginx**). J'ai également découvert un autre avantage à Pelican : pouvoir écrire mes articles n'importe où, n'importe quand. Pas besoin d'être connecté en permanence a Wordpress pour écrire mes articles, je peux le faire offline sur mon téléphone en étant dans les sous-sols de Paris en RER!
 
-La publication est donc également beaucoup plus simple : la totalité du blog est versionnée avec git, et poussée en prod sur le blog via ssh.
+La publication est donc également beaucoup plus simple : la totalité du blog est versionnée avec git, et poussée en prod sur le blog via ssh (un backup est également disponible sur mon compte [GitHub](https://github.com/quack1/quack1_blog)).
 
 Au niveau de la configuration du serveur, on a donc un Raspberry Pi branché derrière une ligne ADSL OVH, et qui tourne sur Raspbian avec simplement un nginx.
 
