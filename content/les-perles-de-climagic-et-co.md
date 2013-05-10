@@ -199,8 +199,8 @@ Et voilà, je pense avoir fait le tour de la plupart des commandes que
 j'avais en stock, si j'en trouve, je mettrais à jour l'article et
 diffusant la MAJ sur Twitter ;-)
 
-<div align=center text-align=center><a href="static/upload/montage_combined.jpg"><img src="upload/montage_combined.jpg" width="450" align="center" /></a><br /> $ montage -geometry ...</div> 
-<div align=center text-align=center><a href="static/upload/jp2a.png"><img src="upload/jp2a.png" width="450" align="center" /></a><br /> $ jp2a </div> 
+<div align=center text-align=center><a href="static/upload/montage_combined.jpg"><img src="static/upload/montage_combined.jpg" width="450" align="center" /></a><br /> $ montage -geometry ...</div> 
+<div align=center text-align=center><a href="static/upload/jp2a.png"><img src="static/upload/jp2a.png" width="450" align="center" /></a><br /> $ jp2a </div> 
 
   [Twitter]: http://twitter.com/_Quack1 "@_Quack1"
   [@climagic]: https://twitter.com/climagic "@climagic"

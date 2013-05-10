@@ -41,9 +41,9 @@ partir en week-end prolongé!!
 
 Enjoy!
 
-<div align=center text-align=center><a href="static/upload/jocly_hexplode.png"><img src="upload/jocly_hexplode.png" width="200" align="center" /></a><br /> Hexplode </div> 
+<div align=center text-align=center><a href="static/upload/jocly_hexplode.png"><img src="static/upload/jocly_hexplode.png" width="200" align="center" /></a><br /> Hexplode </div> 
 
-<div align=center text-align=center><a href="static/upload/jocly_yohoho.png"><img src="upload/jocly_yohoho.png" width="200" align="center" /></a><br /> Yohoho </div> 
+<div align=center text-align=center><a href="static/upload/jocly_yohoho.png"><img src="static/upload/jocly_yohoho.png" width="200" align="center" /></a><br /> Yohoho </div> 
 
 
   [@jcfrog]: http://twitter.com/jcfrog

@@ -5,7 +5,7 @@ Category: WTF
 Tags: drones, espace, raspberry, the pirate bay
 Summary: Un hébergement de The Pirate Bay dans l'espace au moyen de drônes à prévoir ?
 
-<div align=center><a href="static/upload/pirate_bay.jpg"><img src="upload/pirate_bay.jpg" width="400" align=center /></a></div>
+<div align=center><a href="static/upload/pirate_bay.jpg"><img src="static/upload/pirate_bay.jpg" width="400" align=center /></a></div>
 
 Le célèbre site de téléchargement en Peer-To-Peer, *The Pirate Bay*, a
 été hors-ligne pendant plusieurs heures cette après midi (dimanche

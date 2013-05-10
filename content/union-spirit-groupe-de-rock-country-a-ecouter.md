@@ -5,7 +5,7 @@ Category: Musique
 Tags: just us, rock, union spirit
 Summary: Union Spirit : Groupe de rock country venant de Limoges à découvrir au plus vite!
 
-<div align=center><a href="static/upload/unionSpirit.jpg"><img src="upload/unionSpirit.jpg" width="400" align=center /></a></div>
+<div align=center><a href="static/upload/unionSpirit.jpg"><img src="static/upload/unionSpirit.jpg" width="400" align=center /></a></div>
 
 Aujourd'hui c'est mardi, c'est la Saint-Valentin, donc on fait de la pub
 pour les copains (enfin, plutôt les copines dans le cas présent.. :P )
@@ -50,7 +50,7 @@ sur *Union Spirit* :
     Résidence St Martin 87920 CONDAT SUR VIENNE - 06 16 28 01 89
 
 </p>
-<div align=center><a href="static/upload/us1.jpg"><img src="upload/us1.jpg" width="300" align=center /></a></div>
+<div align=center><a href="static/upload/us1.jpg"><img src="static/upload/us1.jpg" width="300" align=center /></a></div>
 
   [Facebook]: http://www.facebook.com/pages/UNION-SPIRIT/54919506106 "Page Facebook de Union Spirit"
   [Leur site]: http://www.union-spirit.com/index.php  "Site de Union Spirit"

@@ -13,7 +13,7 @@ J'ai découvert hier matin une petite astuce pour l'augmenter considérablement.
 
 Il suffit de cocher l'option "Réduire la latence" dans les options vidéo de World of Warcraft :
 
-<div align=center><a href="static/upload/wow.png"><img src="upload/wow.png" align=center /></a></div>
+<div align=center><a href="static/upload/wow.png"><img src="static/upload/wow.png" align=center /></a></div>
 
 Bon, évidemment, l'image est un peu plus moche qu'avant, mais ça n'empêche absolument pas de jouer :P Et ça nous évite de devoir rebooter sur Windows pour pouvoir geeker entre 2 lignes de codes!!
  

@@ -5,7 +5,7 @@ Category: Ubuntu
 Tags: icones, menus, ubuntu, ubuntu tweak, unity, planet-libre
 Summary: Afficher les icônes dans les menus déroulants et contextuels sur Ubuntu.
 
-<div align=center><a href="static/upload/menuicones.png"><img src="upload/menuicones.png" width="600" align=center /></a></div>
+<div align=center><a href="static/upload/menuicones.png"><img src="static/upload/menuicones.png" width="600" align=center /></a></div>
 
 J'avais remarqué depuis que j'avais Unity que je n'avais plus les
 petites icônes dans les menus du clic-droit. Je n'avais jamais vraiment
@@ -19,7 +19,7 @@ On va sur l'onglet **Tweaks**, puis **Miscellaneous**, et enfin, on
 coche la case **Menus have icons**. J'ai aussi coché **Buttons have
 icons**, comme ça on les rajoute partout ;-)
 
-<div align=center><a href="static/upload/icones.png"><img src="upload/icones.png" width="450" align="center" /></a></div> 
+<div align=center><a href="static/upload/icones.png"><img src="static/upload/icones.png" width="450" align="center" /></a></div> 
 
 [Source][askubuntu.com]
 
