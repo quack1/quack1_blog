@@ -6,6 +6,7 @@ Slug: firefox_dev_tools_screenshots
 Tags: screenshot, web, page, firefox
 Summary: Prendre des captures d'écran de sites Web depuis Firefox en utilisant les outils de développeur.
 
+&nbsp;
 <div align=center><img src="static/upload/firefox_dev_tools_screenshot.png" width="600" height="250" align=center /></div>
 
 Si vous êtes utilisateur de [Firefox](https://www.mozilla.org/fr/firefox/fx/ "Mozilla Firefox") et que vous réalisez souvent des captures d'écran, vous âvez sûrement un outil comme Shutter (pour Linux) ou des outils spécifiques pour votre OS.
