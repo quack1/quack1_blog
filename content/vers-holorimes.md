@@ -33,7 +33,7 @@ PS : Si vous voulez connaitre le lien que cela a avec l'informatique, et
 bien sachez que mon prof nous a parlé de ça après avoir écrit la formule
 suivante au tableau :
 
-<div align=center><a href="static/upload/formuleHolorime.png"><img src="ustatic/pload/formuleHolorime.png" align=center /></a></div>
+<div align=center><a href="static/upload/formuleHolorime.png"><img src="static/pload/formuleHolorime.png" align=center /></a></div>
 
 En effet, cette formule est également holorime elle même, puisque les
 deux termes à gauche et à droite de 'a' sont homophones tout en étant
