@@ -1,7 +1,7 @@
 Title: Nouvelle version du blog!
 Date: 2013-05-07 17:15
 Author: Quack1
-Category: blog
+Category: Blog
 Slug: blog_v3
 Tags: Blog, Pelican, Notebook, planet-libre, v3
 Summary: Présentation de la v3 (?) du blog!
