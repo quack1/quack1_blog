@@ -3,7 +3,7 @@ Date: 2013-05-06 12:19
 Author: Quack1
 Category: Ubuntu
 Slug: news_ubuntu_touch
-Tags: Ubuntu, Ubuntu Touch, planet-libre, Ubuntu 13.10
+Tags: Ubuntu, Ubuntu Touch, planet-libre, Ubuntu 13.10, planet-ubuntu
 Summary: Jono Bacon donne dans un article de blog quelques informations sur l'état d'Ubuntu Touch et son développement en Mai 2013.
 
 &nbsp;

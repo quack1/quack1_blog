@@ -3,7 +3,7 @@ Date: 2013-04-30 13:37
 Author: Quack1 
 Category: Ubuntu 
 Slug: ubuntu_grandeur_et_decadence 
-Tags: Ubuntu, Canonical, Ubuntu 13.04, planet-libre
+Tags: Ubuntu, Canonical, Ubuntu 13.04, planet-libre, planet-ubuntu
 Summary: À l'occasion de la sortie d'Ubuntu 13.04, réponse aux articles de plusieurs blogueurs et réflexions concernant le passé récent et l'avenir d'Ubuntu.
 
 &nbsp;

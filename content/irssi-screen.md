@@ -2,7 +2,7 @@ Title: Installation et configuration d'un client IRC (irssi) sur un serveur dist
 Date: 2013-04-16 14:12
 Author: Quack1
 Category: Linux
-Tags: irc, irssi, screen, serveur, planet-libre
+Tags: irc, irssi, screen, serveur, planet-libre, planet-ubuntu
 Summary: Tutorial pour installer et configurer le client IRC irssi et un multiplexer de terminal screen.
 
 Quand on discute sur [IRC](http://fr.wikipedia.org/irc), il peut etre assez énervant de devoir quitter une conversation, puis la reprendre quelques minutes plus tard, et de ne pas pouvoir accéder à ce qui s'est dit pendant nos moments d'absence. Pour combler ce problème, la solution est de lancer un client IRC sur un serveur, et de s'y connecter pour avoir accès au conversation.

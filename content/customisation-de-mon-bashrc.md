@@ -2,7 +2,7 @@ Title: Customisation de mon .bashrc
 Date: 2012-10-05 16:52
 Author: Quack1
 Category: Linux
-Tags: bash, customisation, linux, trick, planet-libre
+Tags: bash, customisation, linux, trick, planet-libre, planet-ubuntu
 Summary: Modifications à apporter à son fichier .bashrc pour afficher quelques informations sur l'état de votre machine.
 
 Petit article pour me souvenir d'un bout de script que j'ai placé à la

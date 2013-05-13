@@ -2,7 +2,7 @@ Title: Visualiser graphiquement vos expressions régulières en ligne
 Date: 2013-01-09 22:03
 Author: Quack1
 Category: Geek
-Tags: visualisation, regex, graphique, planet-libre
+Tags: visualisation, regex, graphique, planet-libre, planet-ubuntu
 Summary: Outil permettant de visualiser graphiquement des expressions régulières.
 
 <div align=center><img src="static/upload/i_know_regex.png" width="600" height="250" align=center /></div>
