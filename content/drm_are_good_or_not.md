@@ -9,11 +9,11 @@ Summary: Réflexions au sujet des DRM appliqués au médias que l'on achète/lou
 &nbsp;
 <div align=center><img src="static/upload/itunes_and_drm.png" width="600" height="250" align=center /></div>
 
-Je voulais écrire cet article lors de la Journée Internationale contre les DRM, mais par manque de temps pour le rédiger je ne peux le publier que maintenant.
+Je voulais écrire cet article lors de la [Journée Internationale contre les DRM](http://www.defectivebydesign.org/dayagainstdrm), mais par manque de temps pour le rédiger je ne peux le publier que maintenant.
 
-Pour ceux qui ne connaissent pas les DRM, ce sont des systèmes permettant de gérer les droits d'accès à des fichiers numériques (en anglais, DRM signifie _Digital Rights Management_). En pratique, on retrouve souvent des DRM sur les fichiers multimédias que l'on peut acheter ou louer en ligne. À une époque, toutes les chansons achetées sur iTunes etaient munies de DRM qui empêchaient leur lecture par des logiciels ou baladeurs non homologués par Apple (typiquement, il fallait posséder un iPod/Phone ou iTunes pour lire les fichiers).
+Pour ceux qui ne connaissent pas les [DRM](http://fr.wikipedia.org/wiki/Gestion_des_droits_num%C3%A9riques), ce sont des systèmes permettant de gérer les droits d'accès à des fichiers numériques (en anglais, DRM signifie _Digital Rights Management_). En pratique, on retrouve souvent des DRM sur les fichiers multimédias que l'on peut acheter ou louer en ligne. À une époque, [toutes les chansons achetées sur iTunes etaient munies de DRM qui empêchaient leur lecture par des logiciels ou baladeurs non homologués par Apple](http://fr.wikipedia.org/wiki/FairPlay) (typiquement, il fallait posséder un iPod/Phone ou iTunes pour lire les fichiers).
 
-Aujourd'hui, on retrouve de moins en moins de DRM, hormis sur certains fichiers disponibles à la location, ou sur certains livres électroniques. Ceci est très certainement lié aux actions menées contre les DRM par de nombreuses associations qui militent pour l'ouverture et les droits des citoyens, comme l'APRIL, la Quadrature du Net ou encore Framasoft.
+Aujourd'hui, on retrouve de moins en moins de DRM, hormis sur certains fichiers disponibles à la location, ou sur certains livres électroniques. Ceci est très certainement lié aux actions menées contre les DRM par de nombreuses associations qui militent pour l'ouverture et les droits des citoyens, comme l'[APRIL](http://www.april.org/), [la Quadrature du Net](https://www.laquadrature.net/) ou encore [Framasoft](http://www.framasoft.net/).
 
 Bien que je sois en totale accord avec la suppression totale des DRM sur les fichiers que l'on achète, je voudrais un peu nuancer le propos pour les fichiers que lon loue. 
 
