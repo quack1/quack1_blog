@@ -72,6 +72,9 @@ _Notons quand même que la toute première fois que j'ai appelé ma banque pour 
 
 <div align=center><a href="https://pbs.twimg.com/media/BJCWq33CQAA55EC.jpg:large"><img src="https://pbs.twimg.com/media/BJCWq33CQAA55EC.jpg:large" height="400" align="center"/></a></div>
 
+# EDIT du 14/05/2013 :
+
+**Le CM du Credit Mutuel ([@Credit_Mut](https://twitter.com/Credit_Mut)) est plutôt efficace, et après une relance de ma part m'a demander de les contacter par mail plutôt que via Twitter. Je leur ai donc envoyé un petit mail au sujet de leur sécurité, plus qu'à attendre leur réponse que je posterais ici quand elle m'arrivera!**
 
 [Source de l'image](http://i.chzbgr.com/completestore/2009/2/11/128788721115436058.jpg)
 
