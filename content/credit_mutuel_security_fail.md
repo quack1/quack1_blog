@@ -37,7 +37,7 @@ Niveau sécu, on est pas ultra conforme aux bonnes pratiques...
 
 # Des restrictions sur un mot de passe ?
 
-L'autre gros #[fail](/tags/fail.html) m'est apparu lorsque mon père a été invité a se créer un nouveau mot de passe sur le site de cette même banque.
+L'autre gros #[fail](/tags/Fail.html) m'est apparu lorsque mon père a été invité a se créer un nouveau mot de passe sur le site de cette même banque.
 
 Si on jette un oeil aux exigences sur le mot de passe choisi on voit ceci :
 
