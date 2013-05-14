@@ -1,5 +1,5 @@
 Title: Et si les jeux vidéos pouvaient vraiment rendre violent ?
-Date: 2013-05-14 15:12
+Date: 2013-05-14 11:30
 Author: Quack1
 Category: Humeurs
 Slug: jeux_videos_violence
