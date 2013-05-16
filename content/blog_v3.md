@@ -49,6 +49,6 @@ Au niveau de la configuration du serveur, on a donc un Raspberry Pi branché der
 
 La première résolution que j'ai décidé de prendre concernant ce blog était d'écrire des articles plus régulièrement, et pour cela d'écrire des articles plus court, plus faciles à lire et à publier.
 
-Je voulais vous parler d'autres petites choses ici, mais l'article commencant à grandir je ferais d'autres articles, notamment sur le nouveau thème du blog développé spécialement par mes soins, et une infographie (ou simplement un article) pour faire un retour sur 1 an et demi de blogging amateur.
+Je voulais vous parler d'autres petites choses ici, mais l'article commencant à grandir je ferais d'autres articles, notamment sur [le nouveau thème du blog développé spécialement par mes soins](|filename|/pelican_notebook.md), et une infographie (ou simplement un article) pour faire un retour sur 1 an et demi de blogging amateur.
 
 À bientôt donc pour de nouvelles aventures ;-)
