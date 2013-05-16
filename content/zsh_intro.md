@@ -62,3 +62,5 @@ Et après une déconnexion/reconnexion, on se retrouve avec un "beau" shell zsh 
 	spiderman% 
 
 Et voilà!
+
+Retrouvez également le bon article de [Julien](https://twitter.com/JulienHOMMET) sur [son blog](http://idealogeek.fr/2013/zsh/), où il explique plus en détail que moi l'installation et les premières étape de configuration!
