@@ -12,6 +12,8 @@ Ce qui m'a fait sauter le pas en début de semaine, ce fût cette présentation 
 
 <div align="center"><iframe src="http://www.slideshare.net/slideshow/embed_code/16194692" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692" title="Why Zsh is Cooler than Your Shell" target="_blank">Why Zsh is Cooler than Your Shell</a> </strong> from <strong><a href="http://www.slideshare.net/jaguardesignstudio" target="_blank">jaguardesignstudio</a></strong> </div></div>
 
+[Lien de téléchargement de la présentation](/static/upload/zsh.pdf). Attention, SlideShare fournit un pdf un peu pouri et quasiment inutilisable.. :/
+
 Les points qui m'ont vraiment attiré sont : 
 
 - Rétro compatibilité avec Bash
