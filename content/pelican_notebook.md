@@ -39,11 +39,14 @@ Cependant, si vous souhaitez bénéficier de toutes les possibilités offertes p
 Je supporte ici 2 plugins, parmi ceux proposés par Pelican. Si vous souhaitez que le thème soit compatible avec d'autres plugins, je vous encourage à faire la modification sur le thème puis à m'envoyer une Pull-Request sur github pour que j'ajoute vos modifications!
 
 - Disqus. Le plugin de commentaires Disqus est supporté, et s'utilise comme pour tous les autres thèmes.
-	:::zsh
-	DISQUS_SITENAME = 'quack1blog'
+
+		:::zsh
+		DISQUS_SITENAME = 'quack1blog'
+
 - Google Analytics. Pour utiliser Google Analytics, comme pour Disqus, ajoutez simplement votre ID Google Analytics dans le `pelicanconf.py`
-	:::zsh
-	GOOGLE_ANALYTICS = 'UA-00000000-1'
+
+		:::zsh
+		GOOGLE_ANALYTICS = 'UA-00000000-1'
 
 # Nouvelles variables
 
