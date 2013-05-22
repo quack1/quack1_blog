@@ -64,7 +64,7 @@ This means that when a system 'Beep' will be raised, the system will execute ins
 
 If you want to personnalize the sound, you just have to modify the variables `soundDirectory` and the one located just after the `Bell()` in the code ;-)
 
-Finally, I added a startup programm to be launched when I connect into my system (I did that really simply, graphicaly in Ubuntu).
+Finally, I added a startup program to be launched when I connect into my system (I did that really simply, graphicaly in Ubuntu).
 
 <div align=center><a href="static/upload/beep_1.png"><img src="static/upload/beep_1.png" align="center" /></a></div>
 
