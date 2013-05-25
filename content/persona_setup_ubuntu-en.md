@@ -16,7 +16,7 @@ Here I'll just detail the steps to set up a complete development environment on 
 
 # Being friend with GitHub
 
-The first thing to do if you want to contribute is to register on [GitHub](https://github.com "Github.com"), and then to fork the project.
+The first thing to do if you want to contribute is to register on [GitHub](https://github.com "Github.com"), and then to fork the project, available at [https://github.com/mozilla/browserid](https://github.com/mozilla/browserid "GitHub Mozilla/browserid")..
 
 When you have done that, clone the repository on your machine : 
 

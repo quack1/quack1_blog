@@ -16,7 +16,7 @@ Ici, je vais détailler les étapes pour se monter un environnement de développ
 
 # Devenir pote avec GitHub
 
-La première chose à faire avant de contribuer est de s'inscrire sur [GitHub](https://github.com "Github.com"), et forker le projet.
+La première chose à faire avant de contribuer est de s'inscrire sur [GitHub](https://github.com "Github.com"), et forker le projet, disponible à [https://github.com/mozilla/browserid](https://github.com/mozilla/browserid "GitHub Mozilla/browserid").
 
 Quand vous avez fait ça, clonez le répertoire sur votre machine :
 
