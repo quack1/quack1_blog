@@ -2,7 +2,7 @@ Title: Histoires de langues : les Vers Holorimes
 Date: 2012-11-27 15:27
 Author: Quack1
 Category: WTF
-Tags: formule, holorime, marc monnier, victor hugo
+Tags: Formule, Holorime, Marc Monnier, Victor Hugo
 Summary: Vers Holorimes, les beautés de la langue française.
 
 &nbsp;

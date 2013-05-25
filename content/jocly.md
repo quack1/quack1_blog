@@ -2,7 +2,7 @@ Title: Jocly : plateforme de jeux en ligne full Html5
 Date: 2012-05-04 13:23
 Author: Quack1
 Category: Geek
-Tags: games, html5, jcfrog, jeu, jocly
+Tags: Games, html5, Jcfrog, Jeux Videos, Jocly
 Summary: Jocly : Plate-forme française de jeux en ligne Full-HTML5
 
 <div align=center><img src="static/upload/jocly.png" width="600" align=center /></div>

@@ -2,7 +2,7 @@ Title: Song of the Day : "Je l'aime à mourir" by Francis Cabrel
 Date: 2012-02-29 07:00
 Author: Quack1
 Category: Musique
-Tags: francis cabrel, je l'aime a mourir, songOfTheDay
+Tags: Francis Cabrel, Je l'aime a mourir, songOfTheDay
 Summary: Chanson "Je l'aime à mourir", par Francis Cabrel.
 
 Because: j'aime pas la reprise de Shakira et je trouve la chanson

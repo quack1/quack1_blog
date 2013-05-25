@@ -2,7 +2,7 @@ Title: Je suis approximativement le 80 milliardième humain sur Terre, et vous ?
 Date: 2012-02-19 21:44
 Author: Quack1
 Category: WTF
-Tags: #whatsyournumber, BBC
+Tags: Whatsyournumber, BBC
 Summary: Je suis approximativement le 80 milliardième humain sur Terre, et vous ?
 
 Ça doit être marrant de bosser au service informatique de la BBC, on développe des trucs qui n'ont pas d'intérêt (en tout cas, moi j'en ai pas trouvé...).

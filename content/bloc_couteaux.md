@@ -3,7 +3,7 @@ Date: 2013-01-21 18:31
 Author: Quack1
 Category: Hack
 Slug: bloc_couteaux_diy
-Tags: DIY, hack, bloc, couteaux
+Tags: DIY, Hack, Bloc, Couteaux
 Summary: DIY : Fabriquer un bloc permettant de ranger ses couteaux sans les abimer.
 
 Aujourd'hui, article spécial "Do-It-Yourself"! 

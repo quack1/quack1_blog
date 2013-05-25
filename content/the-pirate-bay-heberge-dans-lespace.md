@@ -2,7 +2,7 @@ Title: The Pirate Bay hébergé dans l'espace...
 Date: 2012-03-18 21:27
 Author: Quack1
 Category: WTF
-Tags: drones, espace, raspberry, the pirate bay
+Tags: Drone, Espace, Raspberry Pi, The Pirate Bay
 Summary: Un hébergement de The Pirate Bay dans l'espace au moyen de drônes à prévoir ?
 
 <div align=center><a href="static/upload/pirate_bay.jpg"><img src="static/upload/pirate_bay.jpg" width="400" align=center /></a></div>

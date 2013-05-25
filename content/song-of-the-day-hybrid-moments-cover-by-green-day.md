@@ -2,7 +2,7 @@ Title: Song of the day : "Hybrid Moments" cover by Green Day
 Date: 2012-02-15 11:26
 Author: Quack1
 Category: Musique
-Tags: green day, hybrid moments, songOfTheDay
+Tags: Green Day, Hybrid Moments, songOfTheDay
 Summary: Chanson "Hybrid Moments", par Green Day.
 
 Song of the Day : La reprise d'*Hybrid Moments*, par Green Day (chanson

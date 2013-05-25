@@ -2,7 +2,7 @@ Title: Créer une clé USB de backup sécurisée
 Date: 2013-01-21 09:39
 Author: Quack1
 Category:Securité
-Tags: Securité, USB, Backup, planet-libre
+Tags: Sécurité, USB, Backup, planet-libre
 Slug: secure_backup_key
 Summary: Création d'une clé USB sécurisée et chiffrée depuis Ubuntu
 

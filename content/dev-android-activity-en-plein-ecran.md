@@ -2,7 +2,7 @@ Title: Dev. Android : Activity en plein écran
 Date: 2012-02-19 19:15
 Author: Quack1
 Category: Geek
-Tags: activity, android, code java, fullscreen, plein ecran
+Tags: Activity, Android, Java
 Summary: Permettre à des applications Android de se lancer en plein écran, en masquant la barre de statut.
 
 Ce matin, j'avais besoin pour un projet de développement sur Android de

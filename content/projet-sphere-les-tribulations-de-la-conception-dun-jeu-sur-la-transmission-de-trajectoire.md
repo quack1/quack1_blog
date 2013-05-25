@@ -2,7 +2,7 @@ Title: P'tit coup de pub pour un projet de jeu : Projet Sphere
 Date: 2012-02-14 16:37
 Author: Quack1
 Category: Blog
-Tags: elyaline, enjmin, jeu, projet, pub, sphere, vidéo
+Tags: elyaline, Jeux Vidéo, Projet Sphere, Pub
 Summary: Coup de pub pour le projet de jeu vidéo "Sphère".
 
 Petit article rapide pour parler d'un projet de jeu-vidéo sur lequel travaille une copine de l'ENJMIN (poke [@elyaline][]) : le ***Projet Sphère***.

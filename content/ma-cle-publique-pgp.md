@@ -2,7 +2,7 @@ Title: Ma clé publique PGP
 Date: 2013-02-02 14:25
 Author: Quack1
 Category: Securité
-Tags: chiffrement, clé, gpg, planet-libre
+Tags: Chiffrement, Clé, GPG, planet-libre
 Summary: Clé publique PGP.
 
 <div align=center><img src="static/upload/gpg.png" width="600" height="250" align=center /></div>

@@ -3,7 +3,7 @@ Date: 2013-05-02 16:23
 Author: Quack1
 Category: Geek
 Slug: cheatsheets_en_pagaille
-Tags: cheatsheet, aide, dev, astuces, planet-libre
+Tags: Cheatsheet, Aide, Dev, Astuces, planet-libre
 Summary: Cheatography : Annuaire en ligne de partage de cheatsheets diverses.
 
 &nbsp;

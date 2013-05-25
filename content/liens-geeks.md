@@ -2,7 +2,7 @@ Title: Petit florilège de liens (pour geeks)
 Date: 2012-02-08 20:08
 Author: Quack1
 Category: Geek
-Tags: 3D, citations, cocktail, dns, donnees, equations, geeks, generer, imprimer, jeux, korben, latex, liens, livre, lorem ipsum, marque pages, musique, naviguer, nikopik, png factory, programmation, query, resolution, sous-titres, sql, stats, stickaz, titres, tweets, ubuntu, videos, voeux, wikipedia, worldometer
+Tags: 3D, Citations, Cocktail, DNS, Donnees, Equations, Geek, Jeux Videos, Korben, LaTeX, Livre, Lorem Ipsum, Marque Pages, Musique, Nikopik, Png Factory, Programmation, Query, Sous-Titres, SQL, Stickaz, Tweets, Ubuntu, Voeux, Wikipedia, Worldometer
 Summary: Quelques liens (en vrac) pour les geeks.
 
 Ma barre de marque-pages de firefox commence à être plutôt pleine, j'ai

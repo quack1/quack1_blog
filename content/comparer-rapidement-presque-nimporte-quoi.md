@@ -2,7 +2,7 @@ Title: Comparer rapidement (presque) n'importe quoi
 Date: 2012-02-20 17:37
 Author: Quack1
 Category: Geek
-Tags: comparer, find the best, n'importe quoi
+Tags: Comparer, Find The Best
 Summary: Application en ligne permettant de comparer très rapidement et très simplement presque n'importe quoi.
 
 Vous voulez partir en vacances au ski, acheter une voiture ou une

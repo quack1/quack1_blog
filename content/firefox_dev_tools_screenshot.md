@@ -3,7 +3,7 @@ Date: 2013-04-02 13:46
 Author: Quack1
 Category: Geek
 Slug: firefox_dev_tools_screenshots
-Tags: screenshot, web, page, firefox
+Tags: Screenshot, Web, Firefox
 Summary: Prendre des captures d'écran de sites Web depuis Firefox en utilisant les outils de développeur.
 
 &nbsp;

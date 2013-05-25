@@ -2,7 +2,7 @@ Title: 10h de respiration de Dark Vador
 Date: 2012-03-16 00:03
 Author: Quack1
 Category: WTF
-Tags: 10h, Dark Vador, respiration, Vendredi c'est permis, WTF
+Tags: 10h, Dark Vador, Vendredi C'est Permis, WTF
 Summary: WTF : Une vidéo de 10h contenant seulement la respiration de Dark Vador.
 
 Comme le dit tonton [@Korben][], "C'est vendredi, c'est permis".

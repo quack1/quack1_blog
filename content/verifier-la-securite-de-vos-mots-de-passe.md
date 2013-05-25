@@ -2,7 +2,7 @@ Title: Vérifier la sécurité de vos mots de passe
 Date: 2012-02-15 23:56
 Author: Quack1
 Category: Securité
-Tags: firefox, mot de passe, Password Reuse Visualizer, passwordmeter
+Tags: Firefox, Mot de Passe, Password Reuse Visualizer, Passwordmeter
 Summary: Vérifier simplement la sécurité de ses mots de passe avec 2 outils simples en ligne.
 
 <div align=center><a href="static/upload/pass.png"><img src="static/upload/pass.png" width="300" align=center /></a></div>

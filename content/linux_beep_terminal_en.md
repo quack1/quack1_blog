@@ -3,7 +3,7 @@ Date: 2013-05-23 09:12
 Author: Quack1
 Category: Linux
 Slug: linux_beep_terminal
-Tags: Ubuntu, Linux, Beep, Terminal, planet-libre, planet-ubuntu
+Tags: Ubuntu, Linux, Beep, Terminal, en
 Summary: Script to reactivate the system 'beep' on a GNU/Linux system, especially an Ubuntu.
 Lang: en
 

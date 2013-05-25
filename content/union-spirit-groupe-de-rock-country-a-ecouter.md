@@ -2,7 +2,7 @@ Title: Union Spirit : groupe de rock country à écouter!!
 Date: 2012-02-15 00:47
 Author: Quack1
 Category: Musique
-Tags: just us, rock, union spirit
+Tags: Just Us, Rock, Country, Union Spirit
 Summary: Union Spirit : Groupe de rock country venant de Limoges à découvrir au plus vite!
 
 <div align=center><a href="static/upload/unionSpirit.jpg"><img src="static/upload/unionSpirit.jpg" width="400" align=center /></a></div>

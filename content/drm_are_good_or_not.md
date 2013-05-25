@@ -3,7 +3,7 @@ Date: 2013-05-13 12:14
 Author: Quack1
 Category: Humeurs
 Slug: drm_are_good_or_not
-Tags: DRM, Humeurs, framasoft, april, planet-libre
+Tags: DRM, Humeurs, Framasoft, April, LQDN, planet-libre
 Summary: Réflexions au sujet des DRM appliqués au médias que l'on achète/loue sur Internet.
 
 &nbsp;

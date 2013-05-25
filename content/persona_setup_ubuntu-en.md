@@ -3,7 +3,7 @@ Date: 2013-05-24 21:37
 Author: Quack1
 Category: Mozilla
 Slug: persona_setup_ubuntu
-Tags: Linux, Ubuntu, Mozilla, Persona, Dev, Nodejs
+Tags: Linux, Ubuntu, Mozilla, Persona, Dev, Nodejs, en
 Summary: Steps to easily set up a complete development environment from scratch from Mozilla Persona (browserid project) on Ubuntu 13.04.
 Lang: en
 

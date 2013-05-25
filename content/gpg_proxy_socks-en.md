@@ -3,7 +3,7 @@ Date: 2013-05-24 09:12
 Author: Quack1
 Category: Linux
 Slug: gpg_proxy_socks
-Tags: Linux, GPG, SOCKS
+Tags: Linux, GPG, SOCKS, en
 Summary: Options to add to GPG to make all its trafic go through a SOCKS proxy.
 Lang: en
 

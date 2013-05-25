@@ -3,7 +3,7 @@ Date: 2013-05-21 11:13
 Author: Quack1
 Category: Ubuntu
 Slug: ubuntu_firefox_chromium
-Tags: Ubuntu, Mozilla, Firefox, Chromium, Google, planet-libre, planet-ubuntu
+Tags: Ubuntu, Mozilla, Firefox, Chromium, Google, en
 Summary: Mark Shuttleworth, please, don't replace Firefox by Chromium in Ubuntu.
 Lang: en
 

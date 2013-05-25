@@ -2,7 +2,7 @@ Title: Tweetter 15000 décimales de PI, en 140 caractères, c'est possible...
 Date: 2012-03-16 00:29
 Author: Quack1
 Category: WTF
-Tags: 15000, C, décimales, PI, twitter
+Tags: C, Pi, twitter
 Summary: Twitter en 140 caractères un programme C qui affiche 15000 décimales de Pi.
 
 C'est même faisable en seulement 133 caractères!
