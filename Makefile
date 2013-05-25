@@ -11,7 +11,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=quack1.no-ip.org
+SSH_HOST=quack1.me
 SSH_PORT=8080
 SSH_USER=www-data
 SSH_TARGET_DIR=/var/www/blog_pelican
