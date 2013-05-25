@@ -39,7 +39,7 @@ connaissent pas tous les rouages de la chose :)**
 - <code>$ mkdir -p maildir/{tmp,cur,new}</code> : Utilisation des accolades "{", qui
     permettent d'appeler la commande successivement avec toutes les
     valeurs entre les accolades, séparées par des virgules. En réalité,
-    la commande équivaut à <code>mkdir -p maildir/tmp; mkdir -p maildir/cur; mkdir -p maildir/new ;</code>
+    la commande équivaut à <code>mkdir -p maildir/tmp maildir/cur maildir/new ;</code>
 - <code>$ sed '/\^$/d' prog.c \>
     proc-condensed.c* </code>: Récupère toutes les lignes non vides
     (excodession régulière '\^$/d') du fichier *prog.c* et place le
