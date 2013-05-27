@@ -62,5 +62,6 @@ Au niveau des services qui sont _Identity Providers_, je crois que Yahoo l'est. 
 
 &nbsp;
 
-[Présentation de François Marier sur Persona](http://www.slideshare.net/fmarier/html5mtl-persona "Slideshare - François Marier : Un Système Ouvert Et Fédéré Pour L'Authentification Des Utilisateurs")
+Pour plus d'infos, voilà une [bonne présentation de Persona (un peu technique) par Francois Marier](http://www.slideshare.net/fmarier/html5mtl-persona "Slideshare - François Marier : Un Système Ouvert Et Fédéré Pour L'Authentification Des Utilisateurs")
+
 [Image d'en-tête](http://xato.net/passwords/more-top-worst-passwords/ "Top Worst Passwords")
