@@ -41,7 +41,7 @@ les points bleus sont les sites web qui utilisent les dits-mots de
 passe. Des liaisons orange existent entre deux mots de passe quand ils
 sont très similaires.
 
-<div align=center><a href="static/upload/password_reuse.png"><img src="static/static/upload/password_reuse.png" width="450" align="center" /></a></div> 
+<div align=center><a href="static/upload/password_reuse.png"><img src="static/upload/password_reuse.png" width="450" align="center" /></a></div> 
 
 En théorie, il faudrait avoir un seul point bleu relié à chaque point
 vert. En pratique, c'est souvent compliqué de se souvenir de plusieurs
