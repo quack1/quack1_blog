@@ -7,6 +7,8 @@ Tags: SSTIC, SSTIC 2013, Crypto, planet-libre, planet-ubuntu
 Summary:  SSTIC 2013 : Innovations en crypto symétrique
 Lang: fr
 
+_(par J. Daemen)_
+
 Les slides sont dispo [ici](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/conf_ouverture_2013/SSTIC2013-Slides-conf_ouverture_2013-daemen.pdf)
 
 L'orateur, Joan Daemen, est un peu une des stars de la crypto aujourd'hui. Il a (attention les yeux) remporté 2 fois les défis du NIST (l'organisme américain qui gère les standards en technologie, notamment en crypto). Le monsieur a donc participé a l'élaboration du protocole [AES](https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard), et à celui de Keccak, mieux connu sous le nom de [SHA-3](https://fr.wikipedia.org/wiki/SHA-3).
