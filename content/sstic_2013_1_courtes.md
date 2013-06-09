@@ -9,7 +9,7 @@ Lang: fr
 
 # Persifal, ou comment écrire des parsers résistants (par O. Levillain)
 
-[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/parsifal/SSTIC2013-Slides-parsifal-levillain.pdf)
+[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/parsifal/SSTIC2013-Slides-parsifal-levillain.pdf) & [Sources](https://t.co/ZGw0dwxaVL)
 
 Cette présentation courte veut combler le problème des parsers de protocoles comme ceux intégrés à Wireshark ou Scapy. 
 
