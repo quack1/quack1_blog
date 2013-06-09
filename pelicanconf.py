@@ -26,7 +26,8 @@ PDF_GENERATOR = False
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:quack1blog@gmail.com'))
-GOOGLE_ANALYTICS = 'UA-35393252-1'
+#GOOGLE_ANALYTICS = 'UA-35393252-1'
+GOOGLE_ANALYTICS = 'UA-41598568-1'
 DISQUS_SITENAME = 'quack1blog'
 TWITTER_USERNAME = "_Quack1"
 
