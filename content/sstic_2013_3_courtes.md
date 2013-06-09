@@ -26,4 +26,3 @@ Pour détecter ces changements, on utilise un TPM (ou _Trusted Platform Module_)
 Pour vérifier si les hébergeurs Web proposant des hébergements mutualisés prennent en compte la sécurité de leurs clients, des gentils pirates ont décidé de mettre en ligne sur une dizaine d'hébergeurs mutualisés différents des applications web trouées, puis de les attaquer.
 
 Au final très peu d'entre eux détectent que des attaques sont en cours sur leurs plateformes et donc réagissent pour protéger leur(s) client(s). Pour aller plus loin ils ont même déposé des plaintes auprès des hébergeurs contre leurs propres sites (sur des versions propres) et soit ils ne recevaient pas de réponses, soit les sites étaient coupés sans plus de vérifications.
-#TODO:
