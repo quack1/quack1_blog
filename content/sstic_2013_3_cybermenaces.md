@@ -29,7 +29,7 @@ Cette formation doit d'abord passer par la sensibilisation à tous les niveaux d
 
 Cette sensibilisation doit commencer au plus tôt, aux alentours du collège ou du lycée, en commencant par la programmation, la culture SI, mais aussi et surtout par la formation des profs, qui ont rarement un bon niveau d'informatique. De même, Ludovic Mé se posait la question de l'importance de l'informatique en classes préparatoires (et même en L3). 
 
-> Qu'est ce qui est le plus important ? Avoir un excellent niveau en maths, en physique ou en informatique ?
+> Le redressement productif il vient de mecs qui maitrîse les maths, la physique ou l'informatique ?
 
 Enfin, il ne faut pas former qu'à la défense et aux concepts de base de la sécurité. Le Livre Blanc autorisant aujourd'hui des contres-attaques proportionnées aux attaques reçues. Cependant, cette formation à l'attaque doit être maitrisée, et doit être faite conjointement à des instructions sur l'éthique. 
 
