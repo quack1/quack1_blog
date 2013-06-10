@@ -11,7 +11,7 @@ Dernière journée, dernières présentations courtes au SSTIC 2013!
 
 # Détection comportementale de malwares P2P par analyse réseau
 
-Afin de permettre une meilleure détection des malwares P2P qui sont de plus en plus répandus depuis quelques temps, l'orateur présente une "nouvelle" méthode qui consiste non plus à détecter un malware par sa signature au niveau du système, mais plutôt d'offrir une détection plus générique au niveau du réseau, puisque des communications entre clients P2P sont différentes des communications purement client-serveur dans le cas de clients dialoguant uniquement avec leur C&N.
+Afin de permettre une meilleure détection des malwares P2P qui sont de plus en plus répandus depuis quelques temps, l'orateur présente une "nouvelle" méthode qui consiste non plus à détecter un malware par sa signature au niveau du système, mais plutôt d'offrir une détection plus générique au niveau du réseau, puisque des communications entre clients P2P sont différentes des communications purement client-serveur dans le cas de clients dialoguant uniquement avec leur C&C.
 
 <div align=center><a href="static/upload/sstic_2013_3_malware_p2p.png"><img src="static/upload/sstic_2013_3_malware_p2p.png" align="center" width="250"/></a></div>
 
