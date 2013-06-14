@@ -9,6 +9,8 @@ Lang: fr
 
 _(par A. Moulu)_
 
+[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/securite_applications_android_constructeurs_et_rea/SSTIC2013-Slides-securite_applications_android_constructeurs_et_realisation_de_backdoors_sans_permission-moulu.pdf)
+
 Cette présentation s'attardait sur la sécurité des systèmes Android, et plus précisément aux surcouches opérateurs. 
 
 En soit, le système de base est plutôt bien sécurisé (un peu comme tout système informatique). Pour accéder à certains composants _sensibles_ du téléphone, comme les contacts, les données de la carte SD, etc... il faut que l'application demande des permissions au système, et au cours de l'installation l'utilisateur doit choisir s'il accepte (ou non) de donner ses autorisations à l'app. qu'il installe.

@@ -9,7 +9,9 @@ Lang: fr
 
 Au cours de la deuxième journée de conférences, nous avons pu assister à 3 présentations courtes, sur des sujets aussi variés que la sécurité d'Android, la VOIP Cisco ou encore la résilience d'Internet
 
-# Hacking d'Android/Samsung (par E. Comet)
+# Hacking d'Android/Samsung : à l'attaque du kernel (par E. Comet)
+
+[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/vuln_android_samsung/SSTIC2013-Slides-vuln_android_samsung-comet.pdf)
 
 Cette présentation c'est penchée sur les vecteurs d'attaque possibles pour une application Android. Les principaux vecteurs sont : 
 
@@ -34,6 +36,8 @@ En executant une injection SQL, puis en utilisant des failles de type _Remote Co
 Le seul point négatif est que l'entreprise n'a pas contacté l'éditeur, ce qui se fait généralement avant de publier des failles aussi critiques sur des systèmes massivement déployés en production.
 
 # Observatoire de la résilience de l'Internet Français (par G. Valadon)
+
+[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/2013_short_valadon/SSTIC2013-Slides-2013_short_valadon-valadon.pdf)
 
 Cette dernière présentation courte était consacrée à une action menée conjointement par l'ANSSI et l'AFNIC (association française qui gère les noms de domaines rattachés à la France (le _.fr_, et dérivés)). Cette enquête réalisée sur plusieurs années a permis d'obtenir de nombreuses statistiques concernant l'internet français.
 

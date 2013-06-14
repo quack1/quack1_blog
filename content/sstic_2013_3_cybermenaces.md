@@ -7,6 +7,9 @@ Tags: SSTIC, SSTIC 2013, planet-libre, planet-ubuntu
 Summary:  SSTIC 2013 Jour 3 : Faire face aux cybermenaces ⇒ Détecter (les attaques) ∧ Former (des experts en SSI)
 Lang: fr
 
+
+[Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/conf_cloture_2013/SSTIC2013-Slides-conf_cloture_2013-me.pdf)
+
 Invité en tant que (je cite) "vieux con" à donner la conférence de clotûre de l'édition 2013 du SSTIC, Ludovic Mé, enseignant-chercheur à Supelec Rennes, a axé sa présentation sur les deux points qu'il connaît le mieux : la détection d'intrusions et la formation.
 
 # La détection
