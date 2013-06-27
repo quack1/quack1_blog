@@ -6,7 +6,7 @@ Slug: fichiers_polyglottes
 Tags: SSTIC 2013, Fichiers Polyglottes, Corkami, planet-libre, SSTIC
 Summary: Présentation et démonstration de création des fichiers polyglottes. Les fichiers polyglottes sont des fichiers qui seront interprétés différement selon la façon dont ils seront lancés. Exemple : exécuter le programme lancera un programme binaire, l'ouvrir dans un navigateur affichera un code HTML, bien que le fichier d'origine soit reconnu comme un fichier PDF par le système.
 Lang: fr
-Status: Draft
+Status: draft
 
 <div align=center><a href="static/upload/pass.png"><img src="static/upload/pass.png" width="300" align=center /></a></div>
 
