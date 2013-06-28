@@ -7,7 +7,8 @@ Tags: SSTIC 2013, Fichiers Polyglottes, Corkami, planet-libre, SSTIC
 Summary: Présentation et démonstration de création des fichiers polyglottes. Les fichiers polyglottes sont des fichiers qui seront interprétés différement selon la façon dont ils seront lancés. Exemple : exécuter le programme lancera un programme binaire, l'ouvrir dans un navigateur affichera un code HTML, bien que le fichier d'origine soit reconnu comme un fichier PDF par le système.
 Lang: fr
 
-<div align=center><a href="static/upload/pass.png"><img src="static/upload/pass.png" width="300" align=center /></a></div>
+&nbsp;
+<div align=center><a href="static/upload/quackinux_header.png"><img src="static/upload/quackinux_header.png" width="600" align=center /></a></div>
 
 Au [SSTIC](/tag/SSTIC.html) de cette année, une des conférences qui m'a le plus interessé était celle présentée par Ange Albertini et intitulée "Polyglottes Binaires et Implications". J'y ai en particulier découvert les fichiers polyglottes. J'ai rapidement résumé la conférence dans [ce billet](/sstic_2013_1.html).
 
