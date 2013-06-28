@@ -127,6 +127,10 @@ Les 4 fichiers sont identiques, et pourtant si on les ouvre tous à la fois, on 
 	<a href="/static/upload/quackinux_all.png"><img src="/static/upload/quackinux_all.png" align="center" width="550"/></a>
 </div>
 
-#WIN
+\#WIN
+
+&nbsp;
+
+Comme vous pouvez le voir ici, faire un fichier polyglotte ça a l'air compliqué de premier abord, mais étant donné le laxisme des formats et lecteurs, un simple `cat` sur 3-4 fichiers permet d'en créer un qui marche! :)
 
 Special thanks to [Ange Albertini](https://twitter.com/angealbertini) and [his presentation at SSTIC 2013](https://www.sstic.org/2013/presentation/polyglottes_binaires_et_implications/)
