@@ -37,7 +37,7 @@ Une page Html, c'est quoi ? Et bien je vais vous dire ce que c'est. C'est du tex
 
 Une archive Jar, ce n'est rien de plus qu'une archive Zip qui contient tous les fichiers `.class` Java ainsi qu'un fichier `MANIFEST`. Ce Jar doit impérativement se terminer à la fin du fichier. On peut quand même noter deux choses supplémentaires sur l'archive Jar : 
 
-Les fichiers Class Java contiennent toutes les chaînes de caractères en clair. C'est à dire qu'en parcourant le fichier binaire, on pourra quand même lire les chaînes de type `String` de notre code Java. C'est cette particularité que nous allons utiliser pour intégrer notre code Html au code Java. Le navigateur tombera à un moment sur ces balises html et affichera le code interprété.
+Les fichiers Class Java contiennent toutes les chaînes de caractères en clair. C'est à dire qu'en parcourant le fichier binaire, on pourra quand même lire les chaînes de type `String` de notre code Java. C'est cette particularité que nous allons utiliser pour intégrer notre code Html au code Java. Le navigateur tombera à un moment sur ces balises html et affichera le code interprété. Toutefois, on peut aussi placer notre code Html à n'importe quel endroit du fichier polyglotte, et pas nécéssairement dans le code Java. Je l'ai fait ici simplement pour ajouter un niveau de "difficulté" ;)
 
 Le problème c'est que nos classes Java sont regroupées dans une archive Zip. Le Zip, je ne sais pas si vous le savez, mais il peut être compressé, ou non. S'il est compressé, on ne pourra pas accéder à la chaîne Html en clair, mais si on désactive la compression, notre code Html sera pleinement accessible.
 
@@ -47,7 +47,7 @@ Pour résumer :
 
 - Le ELF doit être au début du fichier
 - Le PDF doit commencer dans les 1024 premiers octets du fichier
-- Le code Html doit être inclut comme variable `String` d'une des classes Java.
+- Le code Html peut être inclut n'importe où dans le fichier. Dans notre cas, on le mettra comme variable `String` d'une des classes Java. On poussera même le vice en mettant un bout de Javascript dans le Html ;)
 - L'archive Jar ne doit pas être compressée et doit terminer le fichier.
 
 On remarque que toutes ces manipulations sont possibles pour deux raisons : 
