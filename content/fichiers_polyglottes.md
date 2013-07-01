@@ -3,7 +3,7 @@ Date: 2013-07-03 10:12
 Author: Quack1
 Category: Securité
 Slug: fichiers_polyglottes
-Tags: SSTIC 2013, Fichiers Polyglottes, Corkami, planet-libre, SSTIC
+Tags: SSTIC 2013, Fichiers Polyglottes, Corkami, planet-libre, SSTIC, PoC
 Summary: Présentation et démonstration de création des fichiers polyglottes. Les fichiers polyglottes sont des fichiers qui seront interprétés différement selon la façon dont ils seront lancés. Exemple : exécuter le programme lancera un programme binaire, l'ouvrir dans un navigateur affichera un code HTML, bien que le fichier d'origine soit reconnu comme un fichier PDF par le système.
 Lang: fr
 
