@@ -97,6 +97,13 @@ Le code source Java est identique au code C, on y rajoute simplement une variabl
 		}
 	}
 
+La compilation et la création du Jar : 
+
+	:::zsh
+	javac QuackiNuX.java -d java
+	cd java
+	jar cvmf0 MANIFEST.MF ../quackiNuX.jar *.class
+
 &nbsp;
 
 Enfin, pour créer notre fichier polyglotte, on concatène tous les fichiers à la suite les uns des autres : 
