@@ -51,3 +51,5 @@ Au programme, les voeux des époux, l'échange des alliances, et tout ce qui va 
 	?>
 
 via [Geeks Are Sexy](http://www.geeksaresexy.net/2013/07/01/the-nerd-wedding-code-pic)
+
+_Le sieur [Zythom](http://zythom.blogspot.fr/) fête aujourd'hui [ses 20 ans de mariage](https://twitter.com/Zythom/status/352330490390392832). Coïncidence, je publie ce post aujourd'hui. Petite dédicace donc à lui et son épouse, accompagnée de tous mes voeux! :)_
