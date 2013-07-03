@@ -1,8 +1,8 @@
-Title: 
-Date: 2013-05-14 19:12
+Title: Crawler un site Web avec wget
+Date: 2013-07-03 14:11
 Author: Quack1
 Category: Linux
-Slug: 
+Slug: wget_website
 Tags: Wget, Crawl, planet-libre, planet-ubuntu
 Summary: Je n'arrive jamais à me souvenir de la commande pour crawler récursivement un site web avec wget donc je note la commande ici.
 Status: draft
