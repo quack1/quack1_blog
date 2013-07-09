@@ -1,4 +1,4 @@
-Title: Song of the day : "I'm Picky" by Shaka Ponk
+Title: Song of the day : &laquo; I'm Picky &raquo; by Shaka Ponk
 Date: 2012-02-17 07:00
 Author: Quack1
 Category: Musique

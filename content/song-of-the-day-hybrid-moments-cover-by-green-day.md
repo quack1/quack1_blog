@@ -1,4 +1,4 @@
-Title: Song of the day : "Hybrid Moments" cover by Green Day
+Title: Song of the day : &laquo; Hybrid Moments &raquo; cover by Green Day
 Date: 2012-02-15 11:26
 Author: Quack1
 Category: Musique

@@ -1,4 +1,4 @@
-Title: Song of the Day : "Noir(s)" by Les Fatals Picards
+Title: Song of the Day : &laquo; Noir(s) &raquo; by Les Fatals Picards
 Date: 2012-05-11 05:58
 Author: Quack1
 Category: Musique

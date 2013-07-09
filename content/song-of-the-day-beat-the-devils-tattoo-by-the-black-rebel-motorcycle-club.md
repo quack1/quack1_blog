@@ -1,4 +1,4 @@
-Title: Song of the Day : "Beat the Devil's Tattoo" by the Black Rebel Motorcycle Club
+Title: Song of the Day : &laquo; Beat the Devil's Tattoo &raquo; by the Black Rebel Motorcycle Club
 Date: 2012-04-12 07:14
 Author: Quack1
 Category: Musique

@@ -1,4 +1,4 @@
-Title: Song of the day : "I'll be your man" by James Blunt
+Title: Song of the day : &laquo; I'll be your man &raquo; by James Blunt
 Date: 2012-02-16 07:00
 Author: Quack1
 Category: Musique

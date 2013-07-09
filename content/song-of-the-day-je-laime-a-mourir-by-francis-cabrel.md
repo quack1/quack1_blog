@@ -1,4 +1,4 @@
-Title: Song of the Day : "Je l'aime à mourir" by Francis Cabrel
+Title: Song of the Day : &laquo; Je l'aime à mourir &raquo; by Francis Cabrel
 Date: 2012-02-29 07:00
 Author: Quack1
 Category: Musique
