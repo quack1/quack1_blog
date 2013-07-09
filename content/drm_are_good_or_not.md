@@ -1,4 +1,4 @@
-Title: Et si les #DRM étaient bons (ou pas) ? (poke @framasoft @aprilorg )
+Title: Et si les &#35;DRM étaient bons (ou pas) ? (poke @framasoft @aprilorg )
 Date: 2013-05-13 12:14
 Author: Quack1
 Category: Humeurs

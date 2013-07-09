@@ -1,4 +1,4 @@
-Title: Recon-ng : _Next Generation Web Reconnaissance_
+Title: Recon-ng : &laquo; Next Generation Web Reconnaissance &raquo;
 Date: 2013-02-07 08:54
 Author: Quack1
 Category: Pentest

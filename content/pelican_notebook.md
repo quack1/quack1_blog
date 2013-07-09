@@ -1,10 +1,10 @@
-Title: Thème "Notebook" pour Pelican
+Title: Thème &laquo; Notebook &raquo; pour Pelican
 Date: 2013-05-17 15:38
 Author: Quack1
 Category: Blog
 Slug: pelican_notebook
 Tags: Blog, Pelican, Notebook, Theme, planet-libre
-Summary: Présentation du thème "Notebook", développé pour le moteur de blog statique Pelican.
+Summary: Présentation du thème &laquo;Notebook&raquo;, développé pour le moteur de blog statique Pelican.
 
 &nbsp;
 <div align=center><img src="static/upload/blog_v3_header.png" width="600" height="250" align=center /></div>
