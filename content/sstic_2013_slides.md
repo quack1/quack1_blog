@@ -1,10 +1,10 @@
-Title: SSTIC 2013 : The End
-Date: 2013-06-08 20:00
+Title: SSTIC 2013 : Quelques slides récapitulatives
+Date: 2013-07-08 10:02
 Author: Quack1
 Category: Securité
-Slug: sstic_2013_end
-Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu
-Summary:  SSTIC 2013 : The End
+Slug: sstic_2013_slides
+Tags: SSTIC, SSTIC 2013, Slides, Sécurité, planet-libre, planet-ubuntu
+Summary:  Slides récapitulatives du SSTIC 2013.
 Lang: fr
 
 Le [SSTIC 2013](/category/SSTIC.html) vient de se terminer, et j'ai déjà hâte à l'année prochaine pour pouvoir y retourner. Mais avant de penser à l'année prochaine faisons une petite rétrospective de cette année!

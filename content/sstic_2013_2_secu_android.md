@@ -3,7 +3,7 @@ Date: 2013-06-06 20:02
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_2_secu_android
-Tags: SSTIC, SSTIC 2013, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu
 Summary:  SSTIC 2013 : Sécurité des applications Android constructeurs et backdoors sans permissions
 Lang: fr
 

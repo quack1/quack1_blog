@@ -3,7 +3,7 @@ Date: 2013-06-07 20:03
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_3_cybermenaces
-Tags: SSTIC, SSTIC 2013, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu
 Summary:  SSTIC 2013 Jour 3 : Faire face aux cybermenaces ⇒ Détecter (les attaques) ∧ Former (des experts en SSI)
 Lang: fr
 

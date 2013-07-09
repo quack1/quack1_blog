@@ -3,7 +3,7 @@ Date: 2013-06-05 20:01
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_1_innovations_crypto
-Tags: SSTIC, SSTIC 2013, Crypto, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Crypto, Sécurité, planet-libre, planet-ubuntu
 Summary:  SSTIC 2013 : Innovations en crypto symétrique
 Lang: fr
 

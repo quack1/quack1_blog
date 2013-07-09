@@ -1,7 +1,7 @@
 Title: Du bannissement des IP sur son serveur...
 Date: 2013-07-05 11:10
 Author: Quack1
-Category: Sécurité
+Category: Securité
 Slug: ban_ip_filtrage
 Tags: Sécurité, Filtrage, Firewall, IPS, IDS, planet-libre, planet-ubuntu
 Summary: Réflexions à propos du bannissement de certaines adresses IP sources d'attaques sur son serveur, ou encore à propos de l'utilisation de systèmes de prévention d'intrusions (ou IPS).
