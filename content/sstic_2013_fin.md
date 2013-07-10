@@ -23,6 +23,8 @@ Pour finir mon article, voilà les liens pour accéder à mes différents billet
 - [Jour 1](/sstic_2013_1.html)
 - [Jour 2](/sstic_2013_2.html)
 - [Jour 3](/sstic_2013_3.html)
+- [Quelques blagues](/sstic_2013_vannes.html)
+- [Slides](/sstic_2013_slides.html)
 
 # SSTIC : May the Force be with Twitter
 
