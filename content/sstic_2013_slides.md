@@ -1,5 +1,5 @@
 Title: SSTIC 2013 : Quelques slides récapitulatives
-Date: 2013-07-08 10:02
+Date: 2013-07-17 13:30
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_slides
