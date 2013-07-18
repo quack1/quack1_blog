@@ -13,3 +13,7 @@ Même si le SSTIC est passé depuis 1 mois, je partage quand même mes slides! C
 
 - [Slides en pdf](/static/upload/wrap_up_sstic_2013.pdf).
 - [Slides en odp (Libre Office)](/static/upload/wrap_up_sstic_2013.odp).
+
+Puisque je suis inscrit sur Slideshare, j'en ai profité pour y déposer les slides ;-)
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/24336098" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/quack1/wrap-up-sstic-2013" title="Wrap up SSTIC 2013" target="_blank">Wrap up SSTIC 2013</a> </strong> from <strong><a href="http://www.slideshare.net/quack1" target="_blank">quack1</a></strong> </div>
