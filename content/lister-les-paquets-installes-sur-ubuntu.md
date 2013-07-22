@@ -2,7 +2,7 @@ Title: Lister les paquets installés sur Ubuntu
 Date: 2012-03-28 17:18
 Author: Quack1
 Category: Ubuntu
-Tags: dpkg, packages, Ubuntu, planet-libre, planet-ubuntu
+Tags: Dpkg, Packages, Ubuntu, planet-libre, planet-ubuntu
 Summary: Lister les paquets installés sur une distribution GNU/Linux.
 
 <div align=center><img src="static/upload/listpackages.png" height="250" align=center /></div>

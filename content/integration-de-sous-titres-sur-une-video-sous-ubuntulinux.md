@@ -2,7 +2,7 @@ Title: Intégration de sous-titres sur une vidéo sous Ubuntu/Linux
 Date: 2011-11-25 17:39
 Author: Quack1
 Category: Ubuntu
-Tags: ffmpeg, mencoder, Sous-Titres, Ubuntu, Video, planet-libre, planet-ubuntu
+Tags: Ffmpeg, Mencoder, Sous-Titres, Ubuntu, Video, planet-libre, planet-ubuntu
 Summary: Intégrer facilement des sous-titres sur une vidéo depuis un système GNU/Linux avec ffmpeg
 
 Petit billet pour voir comment intégrer des sous titres sur une vidéo

@@ -2,7 +2,7 @@ Title: World of Warcraft sur Linux
 Date: 2011-11-25 17:46
 Author: Quack1
 Category: Ubuntu
-Tags: Ubuntu, World Of Warcraft, Wine, planet-libre, planet-ubuntu
+Tags: Ubuntu, World of Warcraft, Wine, planet-libre, planet-ubuntu
 Summary: Configuration permettant d'améliorer World of Warcraft sur GNU/Linux.
 
 Certains d'entre vous jouent peut être à World Of Warcraft sur Linux en utilisant wine.Pour ceux qui souhaiteraient le faire, il y a un très bon tutoriel dédié dans la [doc d'Ubuntu][].

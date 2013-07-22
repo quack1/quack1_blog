@@ -3,7 +3,7 @@ Date: 2013-06-19 22:30
 Author: Quack1
 Category: En vrac
 Slug: en_vrac_3
-Tags: En Vrac, planet-libre, planet-ubuntu, PDF, download, nginx, logiciel libre, git, gimp, screen, tmux
+Tags: En Vrac, planet-libre, planet-ubuntu, PDF, Download, Nginx, Logiciel Libre, Git, Gimp, Screen, Tmux
 Summary: Liens en Vrac' #3
 Lang: fr
 

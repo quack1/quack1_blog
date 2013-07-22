@@ -2,7 +2,7 @@ Title: Les perles de @climagic (et co)
 Date: 2012-09-25 21:47
 Author: Quack1
 Category: Linux
-Tags: Admin, Bash, ci, climagic, Scripts, planet-libre
+Tags: Admin, Bash, Cli, Climagic, Scripts, planet-libre
 Summary: Florilège des commandes partagées par @climagic.
 
 Ça commence à faire un ~~petit~~ bon moment (juste 3 ou 4 mois) que je
