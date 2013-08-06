@@ -2,7 +2,7 @@ Title: Piloter un daemon P2P Transmission à distance
 Date: 2013-08-06 13:48 
 Author: Quack1
 Category: Geek
-Tags: Transmission, Linux, P2P, Serveur
+Tags: Transmission, Linux, P2P, Serveur, planet-libre, planet-ubuntu
 Slug: transmission_server_remote
 Summary: Si vous avez, sur une de vos machines, un &laquo;daemon&raquo; Transmission pour télécharger vos images ISO GNU/Linux, vous pouvez lancer vos téléchargements via l'interface Web de gestion logiciel. Cependant, il existe un autre moyen de piloter, plus finement, ce client P2P.
 
