@@ -4,7 +4,7 @@ Author: Quack1
 Category: Geek
 Tags: VOD, Flixster, planet-libre
 Slug: flixster_movie_fail
-Summary: 
+Summary: Quand on achète des DVD (ici, _Le Hobbit_), on peut parfois recevoir un coupon avec un code permettant de télécharger le film en version numérique. Malheureusement, ce n'est pas encore bien au point.
 
 &nbsp;
 <div align=center><img src="static/upload/hobbit_large.png" align=center height="250"/></div>
