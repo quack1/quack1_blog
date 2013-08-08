@@ -3,7 +3,7 @@ Date: 2013-06-08 20:00
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_end
-Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu, Job, Stage
 Summary:  SSTIC 2013 : The End
 Lang: fr
 

@@ -3,7 +3,7 @@ Date: 2013-03-13 14:21
 Author: Quack1
 Category: Securité
 Slug: snort_overview
-Tags: Snort, IDS, Stage, Détection d'Intrusion
+Tags: Snort, IDS, Stage, Détection d'Intrusion, Job
 Summary: Présentation rapide du Système de Détection d'Intrusion Snort.
 
 <div align=center><img src="static/upload/snort.png" width="600" height="250" align=center /></div>

@@ -3,7 +3,7 @@ Date: 2013-07-17 13:30
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_slides
-Tags: SSTIC, SSTIC 2013, Slides, Sécurité, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Slides, Sécurité, planet-libre, planet-ubuntu, Job, Stage
 Summary:  Slides récapitulatives du SSTIC 2013.
 Lang: fr
 

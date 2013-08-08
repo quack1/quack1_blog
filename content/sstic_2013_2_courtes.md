@@ -3,7 +3,7 @@ Date: 2013-06-06 20:01
 Author: Quack1
 Category: Securité
 Slug: sstic_2013_2_courtes
-Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu
+Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu, Job, Stage
 Summary:  SSTIC 2013 Jour 2 : Présentations courtes
 Lang: fr
 
