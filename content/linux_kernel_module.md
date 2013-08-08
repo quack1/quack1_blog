@@ -2,7 +2,7 @@ Title: Exemple simple de création de module pour kernel Linux
 Date: 2013-07-30 12:12
 Author: Quack1
 Category: Linux
-Tags: linux, kernel, module, planet-libre, planet-ubuntu
+Tags: Linux, Kernel, Module, planet-libre, planet-ubuntu
 Slug: linux_kernel_module
 Summary: Le noyau Linux est basé sur une base unique et solide, puis agrémenté de modules qui permettent d'accéder à de nouvelles possibilités. Si vous souhaitez écrire un module noyau, ce petit tutoriel est fait pour vous.
 
