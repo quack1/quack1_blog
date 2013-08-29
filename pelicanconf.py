@@ -20,16 +20,27 @@ THEME = "themes/notebook"
 PDF_GENERATOR = False
 
 # Blogroll
-#LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-#          ('Python.org', 'http://python.org'),
-#          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:quack1blog@gmail.com'))
+SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:blog@quack1.me'))
 #GOOGLE_ANALYTICS = 'UA-35393252-1'
 GOOGLE_ANALYTICS = 'UA-41598568-1'
 DISQUS_SITENAME = 'quack1blog'
 TWITTER_USERNAME = "_Quack1"
+
+BLOGROLL = (
+    ('Zythom', 'http://zythom.blogpost.com'),
+    ('Sid', 'http://sid.rstack.org/blog'),
+    ('Korben', 'http://korben.info'),
+    ('Le Blog des Nouvelles Technologies', 'http://blognt.fr'),
+    ('Commit Strip', 'http://www.commitstrip.com/fr/'),
+    ('Planet-Libre', 'http://www.planet-libre.org/'),
+    ('Planet-Ubuntu', 'http://planet.ubuntu-fr.org/'),
+    ('Conix Security', 'http://conixsecurity.fr/'),
+    ('GCU-Squad', 'http://www.gcu-squad.org/'),
+    ('La Grotte Du Barbu', 'http://lagrottedubarbu.com/'),
+    ('JcFrog', 'http://jcfrog.com/blog/')
+    )
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["upload"]
