@@ -1,4 +1,4 @@
-Title: Dark Vador jouant _The Imperial March_ avec une cornemuse qui crache des flammes sur un monocycle. #Kamoulox ?! 
+Title: Dark Vador jouant _The Imperial March_ avec une cornemuse qui crache des flammes sur un monocycle. &#035;Kamoulox ?! 
 Date: 2013-09-06 18:27
 Author: Quack1
 Category: WTF
