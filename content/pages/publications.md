@@ -50,7 +50,7 @@ Nous tentons également de vérifier si la mise en place d'un _SIEM_, pour centr
 
 ### Liens
 
-- [UnixGarden](http://bouique.ed-diamond.com/misc/495-misc69.html)
+- [UnixGarden](http://boutique.ed-diamond.com/misc/495-misc69.html)
 
 &nbsp;
 
