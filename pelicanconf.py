@@ -3,9 +3,9 @@
 
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1☠Blog'
-SIDEBAR_DIGEST = u'Blog-Notes of a random Linux/Security/Hack guy'
+SIDEBAR_DIGEST = u'Blog-Notes of a Linux/Security/Hacking guy'
 SITEURL = 'http://quack1.me'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 FEED_DOMAIN = SITEURL
 AVATAR = u'static/upload/avatar.png'
 
