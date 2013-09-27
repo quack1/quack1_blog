@@ -23,7 +23,6 @@ PDF_GENERATOR = False
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/_Quack1'),('Mail', 'mailto:blog@quack1.me'))
-#GOOGLE_ANALYTICS = 'UA-35393252-1'
 GOOGLE_ANALYTICS = 'UA-41598568-1'
 DISQUS_SITENAME = 'quack1blog'
 TWITTER_USERNAME = "_Quack1"
@@ -75,5 +74,5 @@ SITEMAP = {
     }
 }
 
-FILES_TO_COPY = (   ('extras/robots.txt', 'robots.txt'),
-                    ('extras/humans.txt', 'humans.txt'),)
+EXTRA_PATH_METADATA = (   ('extras/robots.txt', 'robots.txt'),
+                    ('extras/humans.txt', 'humans.txt'))
