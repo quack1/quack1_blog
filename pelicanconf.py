@@ -4,7 +4,7 @@
 AUTHOR = u'Quack1'
 SITENAME = u'Quack1☠Blog'
 SIDEBAR_DIGEST = u'Blog-Notes of a Linux/Security/Hacking guy'
-SITEURL = 'http://quack1.me'
+SITEURL = 'https://quack1.me'
 RELATIVE_URLS = True
 FEED_DOMAIN = SITEURL
 AVATAR = u'static/upload/avatar.png'
@@ -46,8 +46,9 @@ STATIC_PATHS = ["upload"]
 DISPLAY_PAGES_ON_MENU = "True"
 
 FEED_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-TAG_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_ATOM = 'feeds/all.all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/category_%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
 
 # Tag Cloud
 TAG_CLOUD_STEPS = 10
@@ -74,5 +75,5 @@ SITEMAP = {
     }
 }
 
-EXTRA_PATH_METADATA = (   ('extras/robots.txt', 'robots.txt'),
-                    ('extras/humans.txt', 'humans.txt'))
+EXTRA_PATH_METADATA = { 'extras/robots.txt': {'path': 'robots.txt'},
+                   	'extras/humans.txt': {'path': 'humans.txt'}}
