@@ -22,6 +22,8 @@ Dans ce mémoire, je détaille le contenu de mon stage qui avait pour sujet la d
 
 ### Liens
 
+Tous ces documents, sauf mention contraire, sont diffusés sous une licence Creative Commons BY-NC-ND.
+
 - [Rapport PDF](/static/upload/memoire_stage.pdf)
 - [Rapport LaTeX (.zip)[1]](/static/upload/memoire_stage.zip)
 - [Présentation PDF](/static/upload/presentation_memoire_stage.pdf)
