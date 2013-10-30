@@ -7,7 +7,7 @@ Tags: Blog, Pelican, Notebook, planet-libre, v3
 Summary: Présentation de la v3 (?) du blog!
 
 &nbsp;
-<div align=center><img src="static/upload/blog_v3_header.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/blog_v3_header.png" width="600" height="250" align=center /></div>
 
 Vous l'avez sûrement remarqué, depuis quelques semaines, le blog a changé de peau! L'occasion pour faire la présentation officielle de cette nouvelle version, précédée d'un petit historique.
 

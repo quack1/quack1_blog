@@ -5,7 +5,7 @@ Category: WTF
 Tags: Informations, Amusantes, Vie
 Summary: Quelques informations amusantes sur la vie sur Terre.
 
-<div align=center><img src="static/upload/amazing_rubiks_cube.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/amazing_rubiks_cube.png" width="600" height="250" align=center /></div>
 
 Petite moment intello de ce début de semaine (et de rentrée ;-) ), avec une vidéo qui nous apprend une dizaine de faits amusants à propos de la vie de tous les jours, comme par exemple : 
 

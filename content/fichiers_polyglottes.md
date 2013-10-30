@@ -8,7 +8,7 @@ Summary: Présentation et démonstration de création des fichiers polyglottes. 
 Lang: fr
 
 &nbsp;
-<div align=center><a href="static/upload/quackinux_header.png"><img src="static/upload/quackinux_header.png" width="600" align=center /></a></div>
+<div align=center><a href="upload/quackinux_header.png"><img src="upload/quackinux_header.png" width="600" align=center /></a></div>
 
 Au [SSTIC](/tag/SSTIC.html) de cette année, une des conférences qui m'a le plus interessé était celle présentée par Ange Albertini et intitulée "Polyglottes Binaires et Implications". J'y ai en particulier découvert les fichiers polyglottes. J'ai rapidement résumé la conférence dans [ce billet](/sstic_2013_1.html).
 
@@ -82,7 +82,7 @@ On compile :
 Le fichier PDF est réalisé simplement depuis Libre Office. Une ligne de texte, et on exporte en PDF.
 
 <div align=center>
-	<a href="/static/upload/quackinux_pdf.png"><img src="/static/upload/quackinux_pdf.png" align="center" width="250"/></a>
+	<a href="/upload/quackinux_pdf.png"><img src="/upload/quackinux_pdf.png" align="center" width="250"/></a>
 </div>
 
 &nbsp;
@@ -131,7 +131,7 @@ Enfin, pour créer notre fichier polyglotte, on concatène tous les fichiers à 
 Les 4 fichiers sont identiques, et pourtant si on les ouvre tous à la fois, on obtient ceci : 
 
 <div align=center>
-	<a href="/static/upload/quackinux_all.png"><img src="/static/upload/quackinux_all.png" align="center" width="550"/></a>
+	<a href="/upload/quackinux_all.png"><img src="/upload/quackinux_all.png" align="center" width="550"/></a>
 </div>
 
 \#WIN

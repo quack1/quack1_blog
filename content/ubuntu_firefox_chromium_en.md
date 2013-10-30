@@ -8,7 +8,7 @@ Summary: Mark Shuttleworth, please, don't replace Firefox by Chromium in Ubuntu.
 Lang: en
 
 &nbsp;
-<div align=center><img src="static/upload/firefox_chromium.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/firefox_chromium.png" width="600" height="250" align=center /></div>
 
 During the last Ubuntu Summit, Ubuntu developers asked themselves about [replacing Firefox by Chromium as the default web browser of the distribution](http://www.pcworld.fr/logiciels/actualites,ubuntu-reflechit-remplacement-navigateur-firefox-chromium-13-10-developer-summit,538645,1.htm "PCWorld Ubuntu reflechit au remplacement du navigateur Firefox par Chromium").
 

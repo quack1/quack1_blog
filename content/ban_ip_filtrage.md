@@ -8,7 +8,7 @@ Summary: Réflexions à propos du bannissement de certaines adresses IP sources 
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/404.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/404.png" width="600" height="250" align=center /></div>
 
 En début de semaine, un de mes amis Facebook, ancien camarade de Licence en Informatique, a publié un statut qui m'a un peu fait tiqué. J'ai un temps voulu lui répondre directement, puis j'ai attendu quelques jours en réflechissant plus calmement à ma réponse (toujours faire attention à son [esprit d'escalier](http://fr.wikipedia.org/wiki/Esprit_de_l%27escalier "L’Esprit de l’escalier, ou esprit d’escalier : expression française signifiant que l’on pense souvent à ce que l’on aurait pu et dû dire de plus juste, après avoir quitté ses interlocuteurs ; « l’inspiration nous vient en descendant l’escalier de la tribune », mot de Diderot, dans son Paradoxe sur le comédien. [Wikipédia]")), et je me suis dit que finalement c'était mieux de faire un billet afin de mettre à plat mon opinion sur le sujet, pour pouvoir écrire un peu plus que sur un simple commentaire Facebook tout en en faisant profiter mes chers lecteurs!
 

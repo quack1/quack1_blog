@@ -5,7 +5,7 @@ Category: Securité
 Tags: Chiffrement, Clé, GPG, planet-libre
 Summary: Clé publique PGP.
 
-<div align=center><img src="static/upload/gpg.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/gpg.png" width="600" height="250" align=center /></div>
 
 
 Je viens de créer une adresse mail spécifique au blog, et la clé GPG qui va avec afin de pouvoir sécuriser nos échanges.

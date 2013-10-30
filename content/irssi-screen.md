@@ -136,7 +136,7 @@ Enfin, tout est normalement configuré comme il se doit. En vous connectant en s
 
 Si vous avez suivi la même configuration que moi, vous aurez un shell dans le premier _screen_ et irssi lancé dans le deuxième, prêt à se connecter à vos #chan favoris!
 
-<div align=center><a href="static/upload/irssi.png"><img src="static/upload/irssi.png" align="center" width="600"/></a></div>
+<div align=center><a href="upload/irssi.png"><img src="upload/irssi.png" align="center" width="600"/></a></div>
 
 # Sources : 
 

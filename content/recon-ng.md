@@ -6,7 +6,7 @@ Slug: recon-ng
 Tags: Reconnaissance, Passive, Publique, Pentest, OSINT, recon-ng, Web
 Summary: Recon-ng, ou le nouvel outil de reconnaissance Web publique.
 
-<div align=center><img src="static/upload/recon-ng.png" width="600" height="169" align=center /></div>
+<div align=center><img src="upload/recon-ng.png" width="600" height="169" align=center /></div>
 
 Je suis depuis la toute fin de l'année dernière en train de vous écrire la deuxième partie de ma série d'article sur le [pentest](./tag/serie_pentest.html "Tag : serie_pentest"), dédiée à la reconnaissance publique de la cible, en se servant de toutes les données disponibles un peu partout dans les tuyaux.
 

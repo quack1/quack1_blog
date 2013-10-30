@@ -14,11 +14,11 @@ L'avantage d'Ubuntu, et des distributions Linux en général, c'est d'arriver av
 
 Sur Ubuntu 13.10, il est installé en version 3.10.
 
-<div align=center><a href="static/upload/evince_empty.png"><img src="static/upload/evince_empty.png" width="400" align="center" id="img_1"/></a></div>
+<div align=center><a href="upload/evince_empty.png"><img src="upload/evince_empty.png" width="400" align="center" id="img_1"/></a></div>
 
 Dans cette version, très épurée, les menus ont disparus, et tout est regroupé dans la barre d'outils située en haut du logiciel.
 
-<div align=center><a href="static/upload/evince_menu.png"><img src="static/upload/evince_menu.png" width="200" align="center" id="img_1"/></a></div>
+<div align=center><a href="upload/evince_menu.png"><img src="upload/evince_menu.png" width="200" align="center" id="img_1"/></a></div>
 
 Tout ça, c'est bien beau, ça rend le logiciel plus beau, plus rapide, plus léger, ce que vous voulez, mais ça a un **très** gros défaut.
 
@@ -28,7 +28,7 @@ Et du coup, dans ce cas là, j'y accède comment moi à la barre de menus ?
 
 Voilà le résultat avec l'excellent [GKND](http://geektionnerd.net/) : 
 
-<div align=center><a href="static/upload/evince_gknd.png"><img src="static/upload/evince_gknd.png" width="400" align="center" id="img_1"/></a></div>
+<div align=center><a href="upload/evince_gknd.png"><img src="upload/evince_gknd.png" width="400" align="center" id="img_1"/></a></div>
 
 On l'a bien profond, parce qu'il n'y a même pas de raccourci clavier pour afficher cette barre d'outils. Et pour couronner le tout, la doc n'est même pas à jour, donc aucune possibilité de trouver une solution à ça. C'est un peu con, parce que j'ai pas vraiment envie de devoir installer un nouvel outil pour faire ça.
 

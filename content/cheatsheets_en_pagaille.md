@@ -7,7 +7,7 @@ Tags: Cheatsheet, Aide, Dev, Astuces, planet-libre, Regex
 Summary: Cheatography : Annuaire en ligne de partage de cheatsheets diverses.
 
 &nbsp;
-<div align=center><img src="static/upload/cheatography.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/cheatography.png" width="600" height="250" align=center /></div>
 
 Article court aujourd'hui pour vous présenter [un site](http://www.cheatography.com/ "Cheatography") qui regroupe de nombreuses _cheatsheets_ dans de nombreux sujets. Bien sûr, il y en a sur l'informatique, mais le site propose aussi des _sheets_ dans les catégories "Vie de tous les jours", "Voyage, culture" et "Hobbies, Jeux".
 

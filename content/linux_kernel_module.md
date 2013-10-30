@@ -7,7 +7,7 @@ Slug: linux_kernel_module
 Summary: Le noyau Linux est basé sur une base unique et solide, puis agrémenté de modules qui permettent d'accéder à de nouvelles possibilités. Si vous souhaitez écrire un module noyau, ce petit tutoriel est fait pour vous.
 
 &nbsp;
-<div align=center><img src="static/upload/linux_kernel_map.png" width="600" align=center /></div>
+<div align=center><img src="upload/linux_kernel_map.png" width="600" align=center /></div>
 
 Le noyau Linux est aussi célèbre pour les coups de gueule de son créateur Linus Torvalds que pour ses innombrables modules qui lui permettent d'augmenter ses fonctionnalités.
 

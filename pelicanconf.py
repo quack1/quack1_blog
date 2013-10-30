@@ -7,7 +7,7 @@ SIDEBAR_DIGEST = u'Blog-Notes of a Linux/Security/Hacking guy'
 SITEURL = 'https://quack1.me'
 RELATIVE_URLS = True
 FEED_DOMAIN = SITEURL
-AVATAR = u'static/upload/avatar.png'
+AVATAR = u'upload/avatar.png'
 
 TIMEZONE = 'Europe/Paris'
 DATE_FORMATS = {

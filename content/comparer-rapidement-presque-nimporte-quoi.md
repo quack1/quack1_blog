@@ -43,17 +43,17 @@ Voici donc quelques exemples pour vous donner un avant goût!!
 *Je peux chercher une tablette Android, avec Wifi, entre 8 " et 14", et
 à moins de 630\$....*
 
-<a href="static/upload/findTheBest_tablettes.png"><img src="static/upload/findTheBest_tablettes.png" width="600" align="center" /></a>
+<a href="upload/findTheBest_tablettes.png"><img src="upload/findTheBest_tablettes.png" width="600" align="center" /></a>
 
 *.... Ou comparer trois races de chiens pour savoir laquelle me
 conviendra le mieux à cause des enfants...*
 
-<a href="static/upload/findTheBest_chiens.png"><img src="static/upload/findTheBest_chiens.png" width="600" align="center" /></a>
+<a href="upload/findTheBest_chiens.png"><img src="upload/findTheBest_chiens.png" width="600" align="center" /></a>
 
 *.... Ou encore, chercher un chirurgien plastique qui pratique les
 augmentations mammaires....*
 
-<a href="static/upload/findTheBest_chirurgiens.png"><img src="static/upload/findTheBest_chirurgiens.png" width="600" align="center" /></a> 
+<a href="upload/findTheBest_chirurgiens.png"><img src="upload/findTheBest_chirurgiens.png" width="600" align="center" /></a> 
 
 ... Bref, allez y faire un tour, ça peut toujours servir!!
 

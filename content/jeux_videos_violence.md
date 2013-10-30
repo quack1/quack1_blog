@@ -7,7 +7,7 @@ Tags: Jeux Videos, Violence, planet-libre
 Summary: Réflexions sur la violence engendrée chez les jeunes par une consommation excessive de jeux vidéos.
 
 &nbsp;
-<div align=center><img src="static/upload/violence_solves_everything.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/violence_solves_everything.png" width="600" height="250" align=center /></div>
 
 Je suis très tenté de répondre "non", et pourtant j'ai été surpris en lisant la semaine dernière qu'en fait cela pourrait être vrai.
 

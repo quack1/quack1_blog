@@ -5,7 +5,7 @@ Category: Geek
 Tags: Laptop, Mario, Stickaz
 Summary: Nouveau look de mon laptop, personnalisé avec des Stickaz.
 
-<div align=center><a href="static/upload/stickaz1.jpg"><img src="static/upload/stickaz1.jpg" width="600" align=center /></a></div>
+<div align=center><a href="upload/stickaz1.jpg"><img src="upload/stickaz1.jpg" width="600" align=center /></a></div>
 
 J'ai reçu ma commande de chez [@Stickaz][] hier matin, et j'ai donc
 commencé à les coller :-)

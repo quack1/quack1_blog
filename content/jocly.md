@@ -5,7 +5,7 @@ Category: Geek
 Tags: Games, Html5, Jcfrog, Jeux Videos, Jocly
 Summary: Jocly : Plate-forme française de jeux en ligne Full-HTML5
 
-<div align=center><img src="static/upload/jocly.png" width="600" align=center /></div>
+<div align=center><img src="upload/jocly.png" width="600" align=center /></div>
 
 Le collègue breton [@jcfrog][] et son chef [@\_mig\_](http://twitter.com/_mig_ "@\_mig\_") (entre autres
 auteur de l'excellent plugin pour Firefox [Download Helper][]) ont
@@ -41,9 +41,9 @@ partir en week-end prolongé!!
 
 Enjoy!
 
-<div align=center text-align=center><a href="static/upload/jocly_hexplode.png"><img src="static/upload/jocly_hexplode.png" width="200" align="center" /></a><br /> Hexplode </div> 
+<div align=center text-align=center><a href="upload/jocly_hexplode.png"><img src="upload/jocly_hexplode.png" width="200" align="center" /></a><br /> Hexplode </div> 
 
-<div align=center text-align=center><a href="static/upload/jocly_yohoho.png"><img src="static/upload/jocly_yohoho.png" width="200" align="center" /></a><br /> Yohoho </div> 
+<div align=center text-align=center><a href="upload/jocly_yohoho.png"><img src="upload/jocly_yohoho.png" width="200" align="center" /></a><br /> Yohoho </div> 
 
 
   [@jcfrog]: http://twitter.com/jcfrog

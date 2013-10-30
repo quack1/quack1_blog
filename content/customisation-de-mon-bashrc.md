@@ -11,7 +11,7 @@ système au lancement d'un terminal. Au menu, la date, l'heure, la
 version de l'OS, du noyau, l'uptime et les adresses IP de mes interfaces
 réseaux. Au final, j'obtiens ce rendu :
 
-<img src="static/upload/custombash.png" width="600" align="center" />
+<img src="upload/custombash.png" width="600" align="center" />
 
 Première chose que j'ajoute au fichier de configuration de Bash : la
 définition de quelques couleurs. En effet, ça ne se voit pas beaucoup

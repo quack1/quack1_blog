@@ -5,7 +5,7 @@ Category: Ubuntu
 Tags: Linux, Ubuntu, Vlc, planet-libre, planet-ubuntu
 Summary: Installer la nouvelle version de VLC (2.0) sur Ubuntu.
 
-<div align=center><img src="static/upload/vlc.png" height="250" align=center /></div>
+<div align=center><img src="upload/vlc.png" height="250" align=center /></div>
 
 La nouvelle version de VLC, la 2.0 (*Twoflower*) vient de sortir.
 

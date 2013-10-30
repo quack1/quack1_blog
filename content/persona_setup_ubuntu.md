@@ -8,7 +8,7 @@ Summary: Étapes permettant de mettre en place facilement un environnement de d�
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/persona.png" align=center /></div>
+<div align=center><img src="upload/persona.png" align=center /></div>
 
 Depuis plusieurs années, j'ai envie de contribuer à un projet Open-Source. Aujourd'hui, les choses commencent à devenir réalité. J'ai trouvé **le** projet que je veux aider : [Mozilla Persona](https://login.persona.org/about "Mozilla Persona About Page"). Mais je fais les choses dans le désordre puisque j'écrirais bientôt un article pour vous le présenter un peu mieux.
 

@@ -5,7 +5,7 @@ Category: Linux
 Tags: Emulation, Javascript, Linux, planet-libre, planet-ubuntu
 Summary: Tester GNU/Linux simple dans un émulateur écrit en Javascript.
 
-<div align=center><a href="static/upload/jslinux.png"><img src="static/upload/jslinux.png" width="600" align=center /></a></div>
+<div align=center><a href="upload/jslinux.png"><img src="upload/jslinux.png" width="600" align=center /></a></div>
 
 Cette info va avoir 1 an dans quelques jours mais j'avais quand même
 envie d'en parler ici.

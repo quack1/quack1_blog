@@ -11,8 +11,8 @@ Comme je l'ai déjà dit à de nombreuses reprises sur [ce blog](/tag/sstic-2013
 
 Même si le SSTIC est passé depuis 1 mois, je partage quand même mes slides! C'est peut être plus simple à lire pour avoir un aperçu des présentations qui ont été données. Attention toutefois, ces slides sont prévues pour être accompagnées d'explications orales, il manque donc beaucoup de détails sur celles-ci ;-)
 
-- [Slides en pdf](/static/upload/wrap_up_sstic_2013.pdf).
-- [Slides en odp (Libre Office)](/static/upload/wrap_up_sstic_2013.odp).
+- [Slides en pdf](/upload/wrap_up_sstic_2013.pdf).
+- [Slides en odp (Libre Office)](/upload/wrap_up_sstic_2013.odp).
 
 Puisque je suis inscrit sur Slideshare, j'en ai profité pour y déposer les slides ;-)
 

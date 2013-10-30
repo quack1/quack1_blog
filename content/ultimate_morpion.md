@@ -8,7 +8,7 @@ Summary: Découvrez l'Ultimate Morpion, un jeu de morpion en version augmentée 
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/morpion_header.png" height="250" align=center /></div>
+<div align=center><img src="upload/morpion_header.png" height="250" align=center /></div>
 
 Je viens tout juste de découvrir la version augmentée du morpion, et honnêtement, ça envoie du gros!
 
@@ -19,7 +19,7 @@ Seulement, si on pouvait jouer dans n'importe quelle petite case se serait trop 
 Avec un exemple ça ira mieux. Si, dans la grille suivante, je joue la croix rouge en haut à droite d'une petite grille, au tour suivant mon adversaire devra jouer dans la case bleue, située en haut à droite de la grande grille. Si la case dans laquelle vous devez jouer au tour suivant est pleine, vous pourrez jouer sur tout le plateau.
 
 <div align=center>
-	<a href="static/upload/morpion_coup.jpg"><img src="static/upload/morpion_coup.jpg" align="center" width="250"/></a>
+	<a href="upload/morpion_coup.jpg"><img src="upload/morpion_coup.jpg" align="center" width="250"/></a>
 </div>
 
 La partie se joue ensuite ainsi jusqu'à se qu'un des deux joueurs gagne. Pour gagner, il faut donc aligner 3 victoires dans 3 petites grilles. Si vous avez un match nul dans une petite grille, soit aucun des deux joueurs ne remporte cette grille, soit les deux la remporte. À vous de vous mettre d'abord au début de la partie!

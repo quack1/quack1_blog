@@ -7,7 +7,7 @@ Slug: flixster_movie_fail
 Summary: Quand on achète des DVD (ici, _Le Hobbit_), on peut parfois recevoir un coupon avec un code permettant de télécharger le film en version numérique. Malheureusement, ce n'est pas encore bien au point.
 
 &nbsp;
-<div align=center><img src="static/upload/hobbit_large.png" align=center height="250"/></div>
+<div align=center><img src="upload/hobbit_large.png" align=center height="250"/></div>
 
 Quand j'ai eu mon DVD du [Hobbit](http://fr.wikipedia.org/wiki/Le_Hobbit_%28films_de_Peter_Jackson%29), j'ai pu y découvrir un petit papier avec un code pour que je puisse bénéficier du film en version numérique à télécharger et regarder partout, c'est à dire sur mon smartphone, ma tablette, mon ordinateur, etc...
 
@@ -28,7 +28,7 @@ Problème, le site bugue dans Firefox (pourtant en Nightly, c'est à dire la ver
 
 Je navigue dans les différents menus, j'arrive jusqu'à la page du film, je clique sur &laquo;Téléchargement&raquo;, et là, c'est le drame.
 
-<div align=center><a href="static/upload/flixster_adobe_air.png"><img src="static/upload/flixster_adobe_air.png" width="600" align=center /></a></div>
+<div align=center><a href="upload/flixster_adobe_air.png"><img src="upload/flixster_adobe_air.png" width="600" align=center /></a></div>
 
 C'est pas possible d'avoir juste un lien de téléchargement depuis leur [CDN](http://fr.wikipedia.org/wiki/Content_Delivery_Network) pour avoir mon film ?
 

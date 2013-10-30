@@ -7,7 +7,7 @@ Slug: superheros_silhouettes
 Summary: Posters représentant des silhouettes de super-héros en &laquo;ombres-chinoises&raquo;, blanches sur fond noirs, accompagnées d'un petit quelque chose qui rappelle leur enfance ou leurs débuts. Juste super classe!
 
 &nbsp;
-<div align=center><img src="static/upload/ironman_black.png" width="600" align=center /></div>
+<div align=center><img src="upload/ironman_black.png" width="600" align=center /></div>
 
 C'est vendredi, c'est permis!©
 

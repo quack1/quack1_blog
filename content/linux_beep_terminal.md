@@ -8,7 +8,7 @@ Summary: Script permettant de réactiver le 'bip' du terminal sur les systèmes 
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/.png" width="600" height="250" align=center /></div>
 
 Je vous présentais dans un article précédent [ma configuration IRC](|filename|/irssi-screen.md), composée d'un `irssi` lancé dans un `screen` distant. Je me connecte à mon hôte distant via ssh et je ré-attache ma session `screen`.
 
@@ -66,9 +66,9 @@ Si vous voulez personnaliser le son que vous recevez, il vous suffit de modifier
 
 Enfin, on rajoute un programme à lancer lorsque je me connecte (ici j'ai fait ça simplement, en mode graphique).
 
-<div align=center><a href="static/upload/beep_1.png"><img src="static/upload/beep_1.png" align="center" /></a></div>
+<div align=center><a href="upload/beep_1.png"><img src="upload/beep_1.png" align="center" /></a></div>
 
-<div align=center><a href="static/upload/beep_2.png"><img src="static/upload/beep_2.png" align="center" /></a></div>
+<div align=center><a href="upload/beep_2.png"><img src="upload/beep_2.png" align="center" /></a></div>
 
 Pour que les modifications soient effectives sans avoir à vous re-logguer la première fois, lancez : 
 

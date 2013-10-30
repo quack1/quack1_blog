@@ -8,7 +8,7 @@ Summary: Github a publié en fin de semaine dernière un site Web permettant d'a
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/free_licence.png" align=center width="600"/></div>
+<div align=center><img src="upload/free_licence.png" align=center width="600"/></div>
 
 Je n'ai pas publié d'article sur le blog depuis plus d'une semaine. Beaucoup de boulot, mon rapport de stage à <s>écrire</s>finir, bref, c'est pas super facile de trouver du temps pour écrire. D'ailleurs, ça fait au moins 2 semaines que mon lecteur de [flux RSS](/feeds/all-fr.atom.xml) tourne non stop à plus de 1000 items à lire :(.
 

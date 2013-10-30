@@ -11,10 +11,10 @@ Aujourd'hui, j'ai découvert (merci [@Vinvin][]) une page qui permet de savoir, 
 
 Enfin bon, c'est inutile, mais ça permet de passer 10 minutes à glander ;-)
 
-<div align=center><a href="static/upload/BBC_Age.png"><img src="static/upload/BBC_Age.png" width="300" align="center" /></a></div> 
+<div align=center><a href="upload/BBC_Age.png"><img src="upload/BBC_Age.png" width="300" align="center" /></a></div> 
 
-<div align=center><a href="static/upload/BBC_Pays.png"><img src="static/upload/BBC_Pays.png" width="300" align="center" /></a></div> 
+<div align=center><a href="upload/BBC_Pays.png"><img src="upload/BBC_Pays.png" width="300" align="center" /></a></div> 
 
-<div align=center><a href="static/upload/BBC_Sexe.png"><img src="static/upload/BBC_Sexe.png" width="300" align="center" /></a></div> 
+<div align=center><a href="upload/BBC_Sexe.png"><img src="upload/BBC_Sexe.png" width="300" align="center" /></a></div> 
 
   [@Vinvin]: https://twitter.com/#!/Vinvin/status/171294209947611137 "https://twitter.com/#!/Vinvin/status/171294209947611137"

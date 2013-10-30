@@ -5,7 +5,7 @@ Category: Musique
 Tags: Ardour, Guitare, Guitarix, Home Studio, Jackd, MAO, Musique, Rakarrack, Ubuntu, Ubuntu Studio, planet-libre, planet-ubuntu
 Summary: Installation des logiciels nécéssaires pour monter un home-studio sur un système GNU/Linux.
 
-![Home Studio](static/upload/homestudio.png "Home Studio")
+![Home Studio](upload/homestudio.png "Home Studio")
 
 Jusqu'alors, le seul moyen pour les musiciens, et en particulier les
 guitaristes, de pouvoir s'enregistrer et rajouter quelques effets sur
@@ -26,7 +26,7 @@ que vous n'aurez aucune limite... Avant de tout détailler, je vais vous
 présenter rapidement les choses, avec un petit schéma pour faire plus
 simple :-)
 
-<div align=center><a href="static/upload/serveurjack.png"><img src="static/upload/serveurjack.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/serveurjack.png"><img src="upload/serveurjack.png" width="400" align=center /></a></div>
 
 Votre instrument est branché sur une carte son, elle-même reliée à votre
 machine. Cette carte va envoyer le son qu'elle reçoit à un *serveur de
@@ -77,7 +77,7 @@ systèmes, puis "Son", puis onglet "Entrée"). Montez le volume d'entrée,
 puis grattez les cordes. Vous devriez normalement voir la barre de
 niveau bouger, signe que du son arrive sur la carte.
 
-<div align=center><a href="static/upload/param_entree_son.png"><img src="static/upload/param_entree_son.png" width="300"/></a></div>
+<div align=center><a href="upload/param_entree_son.png"><img src="upload/param_entree_son.png" width="300"/></a></div>
 
 Si vous n'avez pas de son, je ne vais pas trop pouvoir vous aider,
 puisque chez moi tout à marché du premier coup... Je pense que le mieux
@@ -178,7 +178,7 @@ Multimédia \> QJackCtl). Il faudra toujours le lancer avant de faire de
 la MAO. En effet, c'est lui qui gère tout le son qui transitera sur
 votre machine. Sans lui, aucun des logiciels suivants ne fonctionnera.
 
-<div align=center><a href="static/upload/jack.png"><img src="static/upload/jack.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/jack.png"><img src="upload/jack.png" width="400" align=center /></a></div>
 
 Cette interface est extrêmement simple. On ne se sert que de 4 boutons :
 "Démarrer", "Arrêter", "Connecter" et "Quitter". "Démarrer " va lancer
@@ -205,7 +205,7 @@ l'entrée d'*ardour*, mon enregistreur multi-pistes. Cela signifie que
 tout le son qui aura été traité par rakarrack ira directement en entrée
 d'ardour.
 
-<div align=center><a href="static/upload/jack_connexions.png"><img src="static/upload/jack_connexions.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/jack_connexions.png"><img src="upload/jack_connexions.png" width="400" align=center /></a></div>
 
 Il y a deux clients spéciaux là dedans. *system*. Ce sont les clients
 qui représentent votre carte physique. À gauche, l'entrée (ou notre
@@ -224,7 +224,7 @@ effets) sont deux clients séparés dans Jack. Le premier sera
 je connecte tout dans ce sens : *system --\> gx\_head\_amp --\>
 gx\_head\_fx --\> ...*
 
-<div align=center><a href="static/upload/guitarix.png"><img src="static/upload/guitarix.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/guitarix.png"><img src="upload/guitarix.png" width="400" align=center /></a></div>
 
 Pour obtenir la même vue que moi du logiciel, il faut activer la vue des
 plugins (Greffons \> Show Plugin Bar), celle du rack d'effets (Greffons
@@ -243,7 +243,7 @@ tout ce que je pourrais vous dire dessus...
 </p>
 C'est là que les choses deviennent drôles.
 
-<div align=center><a href="static/upload/rakarrack.png"><img src="static/upload/rakarrack.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/rakarrack.png"><img src="upload/rakarrack.png" width="400" align=center /></a></div>
 
 Ce rack d'effets est vraiment très complet. Il dispose de nombreux
 effets que vous pouvez organiser dans des racks. Je n'ai pas encore
@@ -266,7 +266,7 @@ Pour les connexions dans Jack : ... --\> gx\_head\_fx --\> rakarrack
 </p>
 Enfin, Ardour est un enregistreur qui permettra d'enregistrer votre son.
 
-<div align=center><a href="static/upload/ardour.png"><img src="static/upload/ardour.png" width="400" align=center /></a></div>
+<div align=center><a href="upload/ardour.png"><img src="upload/ardour.png" width="400" align=center /></a></div>
 
 Celui là, je ne l'ai quasiment pas utilisé, j'ai juste la base. On crée
 une piste pour la guitare (Clic droit sous la case "Général" \> " New

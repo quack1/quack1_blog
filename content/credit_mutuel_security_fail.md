@@ -7,7 +7,7 @@ Tags: Sécurité, Password, Mot de Passe, Fail, Credit Mutuel
 Summary: Récents fails de sécurité du Crédit Mutuel vis à vis des mots de passe.
 
 &nbsp;
-<div align=center><img src="static/upload/i_can_haz_security.png" height="250" align=center /></div>
+<div align=center><img src="upload/i_can_haz_security.png" height="250" align=center /></div>
 
 J'ai récemment eu quelques déboires en matière de sécurité avec ma banque. Je les ai toutes (je crois...) [tweetées](https://twitter.com/_Quack1 "Twitter @_Quack1"), mais pour ceux qui ne me suivent pas, je vais faire un résumé ici.
 
@@ -47,7 +47,7 @@ Si on jette un oeil aux exigences sur le mot de passe choisi on voit ceci :
 - Pas de caractères spéciaux : Encore mieux. Autant j'arrive à trouver une raison pour la limite max sur la taille du mot de passe, là désolé, mais je vois pas...
 - Ne pas avoir utilisé au cours des 12 derniers mois : Là aussi, je trouve cette règle plutôt bonne.
 
-<div align=center><a href="static/upload/passwd_cmb.jpeg"><img src="static/upload/passwd_cmb.jpeg" height="250" align="center"/></a></div>
+<div align=center><a href="upload/passwd_cmb.jpeg"><img src="upload/passwd_cmb.jpeg" height="250" align="center"/></a></div>
 
 Donc si on récapitule, sur les 5 règles présentées, 2 sont totalement connes et ruinent toute la sécurité mise en place par les autres règles.
 

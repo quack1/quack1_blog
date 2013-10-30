@@ -5,7 +5,7 @@ Category: Geek
 Tags: Visualisation, Regex, planet-libre, planet-ubuntu
 Summary: Outil permettant de visualiser graphiquement des expressions régulières.
 
-<div align=center><img src="static/upload/i_know_regex.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/i_know_regex.png" width="600" height="250" align=center /></div>
 
 Qui n'a jamais eu du mal à comprendre une grosse expression régulière plutôt tordue, avec des symboles et des conditions dans tous les sens ? On peut tomber dans certains cas sur des regex illisibles, même pour des développeurs spécialistes!
 
@@ -16,7 +16,7 @@ Puisqu'un dessin vaut mieux qu'un long discours, voici une screenshot du site en
 [a-z0-9_\\+-]+(?:\\.[a-z0-9_\\+-]+)\*@[a-z0-9-]+(?:\\.[a-z0-9-]+)\*\\.(?:[a-z]{2,4})
 </pre>
 
-<div align=center><a href="static/upload/regexper.png"><img src="static/upload/regexper.png" width="700" align="center" /></a></div> 
+<div align=center><a href="upload/regexper.png"><img src="upload/regexper.png" width="700" align="center" /></a></div> 
 
 Et puisqu'une bonne chose n'arrive jamais seule, le projet est sous Licence CC-BY-NC-SA-3.0, donc librement modifiable, et dispo sur [GitHub](https://github.com/javallone/regexper) :-)
 

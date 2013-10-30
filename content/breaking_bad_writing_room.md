@@ -16,8 +16,8 @@ Pour également mieux s'imprégner des lieux, ils disposent des plans exacts et 
 
 J'ai repris ici quelques images, mais le mieux est quand même d'[aller lire l'article complet!](http://www.uproxx.com/tv/2013/08/breaking-bad-writers-room-photos/) :)
 
-<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/fun-card.jpg"><img src="static/upload/breaking_bad_notes.jpeg" width="400" align="center" id="img_1"/></a></div>
+<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/fun-card.jpg"><img src="upload/breaking_bad_notes.jpeg" width="400" align="center" id="img_1"/></a></div>
 &nbsp;
-<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/ECCGpjFrQ1dajmOXpt48A1KjdbavoW3Oc_z701FBTeAmoeZXmFAoMDx2zk5-Ofxjk7JcqfPpwmRuV2uA_0AwQ-650x487.jpeg"><img src="static/upload/breaking_bad_storyboard.jpeg" width="400" align="center" id="img_2"/></a></div>
+<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/ECCGpjFrQ1dajmOXpt48A1KjdbavoW3Oc_z701FBTeAmoeZXmFAoMDx2zk5-Ofxjk7JcqfPpwmRuV2uA_0AwQ-650x487.jpeg"><img src="upload/breaking_bad_storyboard.jpeg" width="400" align="center" id="img_2"/></a></div>
 &nbsp;
-<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/dUpdwW9lOFw2pLQpRF6KEqljzFNNAxEhwqsC0UKDZXoHbrDo29MdO-QNVhs3H0Qnd5KIswT1KKCJnrc4kS_J3A-650x487.jpeg"><img src="static/upload/breaking_bad_plans.jpeg" width="400" align="center" id="img_3"/></a></div>
+<div align=center><a href="http://cdn.uproxx.com/wp-content/uploads/2013/08/dUpdwW9lOFw2pLQpRF6KEqljzFNNAxEhwqsC0UKDZXoHbrDo29MdO-QNVhs3H0Qnd5KIswT1KKCJnrc4kS_J3A-650x487.jpeg"><img src="upload/breaking_bad_plans.jpeg" width="400" align="center" id="img_3"/></a></div>

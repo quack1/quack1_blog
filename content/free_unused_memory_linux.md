@@ -6,7 +6,7 @@ Slug: free_unused_memory_linux
 Tags: RAM, Linux, planet-libre, planet-ubuntu
 Summary: Libérer la mémoire cache inutilisée d'un système GNU/Linux.
 
-<div align=center><img src="static/upload/clean_memory.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/clean_memory.png" width="600" height="250" align=center /></div>
 
 Article rapide aujourd'hui pour me souvenir d'une comamnde qui permet de libérer la mémoire inutilisée et non libérée par votre système, et en particulier par le kernel GNU/Linux.
 
@@ -18,7 +18,7 @@ Cela va demander au kernel de vider toutes ses pages de cache qui contiennent de
 
 C'est assez impressionant, et ça permet de libérer dans certains cas beaucoup de RAM. On peut voir ici qu'au moment du lancement de la commande, la quantité de mémoire (physique et virtuelle (SWAP)) utilisée diminue "fortement".
 
-<div align=center><a href="static/upload/clean_memory_3.png"><img src="static/upload/clean_memory_3.png" align="center"/></a></div>
+<div align=center><a href="upload/clean_memory_3.png"><img src="upload/clean_memory_3.png" align="center"/></a></div>
 
 Screencast pris à l'arrache de l'éxecution de la commande sur mon système : 
 <div align=center><iframe width="560" height="315" src="http://www.youtube.com/embed/atgL9clQcBc" frameborder="0" allowfullscreen></iframe></div>

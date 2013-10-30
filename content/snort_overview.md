@@ -6,7 +6,7 @@ Slug: snort_overview
 Tags: Snort, IDS, Stage, Détection d'Intrusion, Job
 Summary: Présentation rapide du Système de Détection d'Intrusion Snort.
 
-<div align=center><img src="static/upload/snort.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/snort.png" width="600" height="250" align=center /></div>
 
 _DISCLAIMER : Depuis peu de temps je suis en stage dans une boîte de sécu/audit, avec comme sujet de stage "_ Scénarios d'attaque et Détection d'Intrusion _". En gros, cela consiste à définir des scénarios ou des outils utilisés par des attaquants/auditeurs, lancer ces outils/scénarios sur des environnements de test puis mettre en place des règles de détection dans des (N)IDS._
 
@@ -52,7 +52,7 @@ _Désormais, lorsque je parlerais d'_ IDS _je sous-entendrais_ NIDS_, même si l
 
 Les IDS doivent donc alerter les administrateurs et les reponsables sécurité lorsque des évènements suspects apparaissent. Pour cela, le NIDS fonctionne en 3 temps : 
 
-<div align=center><a href="static/upload/fonctionnement_nids.png"><img src="static/upload/fonctionnement_nids.png" align="center" width="500px"/></a><br/>Fonctionnement d'un NIDS. Source : <a href="https://commons.wikimedia.org/wiki/File:Nids.png">Wikipédia</a>, par Sebastien Tricaud.</div>
+<div align=center><a href="upload/fonctionnement_nids.png"><img src="upload/fonctionnement_nids.png" align="center" width="500px"/></a><br/>Fonctionnement d'un NIDS. Source : <a href="https://commons.wikimedia.org/wiki/File:Nids.png">Wikipédia</a>, par Sebastien Tricaud.</div>
 
 &nbsp;
 

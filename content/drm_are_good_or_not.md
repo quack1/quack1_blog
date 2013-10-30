@@ -7,7 +7,7 @@ Tags: DRM, Humeurs, Framasoft, April, LQDN, planet-libre
 Summary: Réflexions au sujet des DRM appliqués au médias que l'on achète/loue sur Internet.
 
 &nbsp;
-<div align=center><img src="static/upload/itunes_and_drm.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/itunes_and_drm.png" width="600" height="250" align=center /></div>
 
 Je voulais écrire cet article lors de la [Journée Internationale contre les DRM](http://www.defectivebydesign.org/dayagainstdrm), mais par manque de temps pour le rédiger je ne peux le publier que maintenant.
 

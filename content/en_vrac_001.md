@@ -8,7 +8,7 @@ Summary: Liens en Vrac' #1
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/en_vrac_001.png" align=center width="600"/></div>
+<div align=center><img src="upload/en_vrac_001.png" align=center width="600"/></div>
 
 Quelques liens en vrac', que j'ai pu partager sur [Twitter](https://twitter.com/_Quack1) ou que je n'aurais pas publié dans des articles!
 

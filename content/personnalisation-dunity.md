@@ -23,7 +23,7 @@ Quand on rajoute le repository, j'ai eu un message me disant que l'application �
     $ myunity
 </pre>
 
-<div align=center><a href="static/upload/myunity.png"><img src="static/upload/myunity.png" width="450" align="center" /></a></div> 
+<div align=center><a href="upload/myunity.png"><img src="upload/myunity.png" width="450" align="center" /></a></div> 
 
 Au final, après utilisation, je m'attendais quand même à mieux. MyUnity
 permet de régler la taille des icônes du dock, la transparence des

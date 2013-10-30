@@ -5,7 +5,7 @@ Category: Ubuntu
 Tags: Android, Ubuntu, planet-libre, planet-ubuntu
 Summary: Ubuntu for Phones, le système GNU/Linux bientôt sur Android ?
 
-<div align=center><a href="static/upload/ubuntuAndroid.jpg"><img src="static/upload/ubuntuAndroid.jpg" width="600" align=center /></a></div>
+<div align=center><a href="upload/ubuntuAndroid.jpg"><img src="upload/ubuntuAndroid.jpg" width="600" align=center /></a></div>
 
 Canonical est en train de vouloir se battre sur tous les terrains. Après avoir annoncé leur envie de [se déployer sur tablettes][] et [sur télévisions][], Ubuntu revient sur les smartphones Android.
 

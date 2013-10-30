@@ -12,7 +12,7 @@ Je vous présentais la semaine dernière l'[IDS Snort](snort_overview.html), et 
 
 L'analyse de ces outils vise à déployer de nouvelles règles et signatures dans [Snort](http://snort.org), un **NIDS**. Il faut donc analyser le traffic réseau des outils afin de trouver des moyens de les identifier. Pour ceci, [Wireshark](http://www.wireshark.org) _is your friend©_. Il va lire la totalité des flux transitant sur une (ou plusieurs) de vos interfaces réseau, et va décoder les protocoles, afin de vous afficher les requêtes envoyées et les réponses reçues de façon claire et détaillée. De plus, son système de filtres (basé sur celui de `tcpdump`) permet d'y voir un peu mieux. Mais je n'en dirais pas plus, de [nombreux tutos](http://blog.nicolargo.com/2011/05/capturer-et-analyser-un-trafic-reseau-avec-wireshark.html) et [cours](https://www.wireshark.org/docs/wsug_html_chunked/) sont disponibles [sur Internet](https://www.google.fr/search?hl=fr&q=tuto%20wireshark).
 
-<div align=center><a href="static/upload/ids_web_websploit_dir_scanner.png"><img src="static/upload/ids_web_websploit_dir_scanner.png" align="center" width="600"/></a></div>
+<div align=center><a href="upload/ids_web_websploit_dir_scanner.png"><img src="upload/ids_web_websploit_dir_scanner.png" align="center" width="600"/></a></div>
 
 Je vais vous présenter dans cet article 4 outils et demi. Je ne détaillerais pas leur installation, ni la façon de les utiliser, puisque généralement ces 2 étapes sont très bien décrites sur les sites des outils. Et, au pire, [RTFM](https://lh5.ggpht.com/_5YF7KQZuZS0/S-lsUz8YIwI/AAAAAAAAClc/MPxUJ9qnTc8/If-you-want-them-to-rtfm%5B3%5D.jpg?imgmax=800). Je détaillerais cependant leur fonctionnement, en particulier au travers de leur empreinte sur le réseau, ce qui nous permettra d'écrire nos règles Snort par la suite.
 
@@ -32,11 +32,11 @@ Les outils que nous verrons dans l'article sont :
 
 De façon plus technique, cela consiste à une suite de requêtes HTTP `GET`.
 
-<div align=center><a href="static/upload/ids_web_dirb.png"><img src="static/upload/ids_web_dirb.png" align="center" width="600"/></a></div>
+<div align=center><a href="upload/ids_web_dirb.png"><img src="upload/ids_web_dirb.png" align="center" width="600"/></a></div>
 
 Même si le lancement de cet outil est très visible dans Wireshark, nous n'avons pas de moyen permettant d'identifier avec précision cet outil. La technique "habituelle" dans ce genre de cas est de filtrer via le _User-Agent_ envoyé dans les requêtes HTTP. Cette technique a un gros inconvénient : il est **très** simple modifier le User-Agent, et donc de _bypasser_ les filtrer de détection. Dirb propose même une option pour le faire, et utilise par défaut un User-Agent de Mozilla.
 
-<div align=center><a href="static/upload/ids_web_dirb_user_agent.png"><img src="static/upload/ids_web_dirb_user_agent.png" align="center"/></a></div>
+<div align=center><a href="upload/ids_web_dirb_user_agent.png"><img src="upload/ids_web_dirb_user_agent.png" align="center"/></a></div>
 
 La seule chose qu'il sera possible de détecter ici sera donc la quantité de requêtes effectuées par le scanner en un cours instant. Avec une connexion internet tout à fait normale, on peut envoyer plusieurs requêtes par seconde sans problème. C'est donc sur ce critère que nous allons écrire notre **première** règle Snort!
 
@@ -89,11 +89,11 @@ On peut donc dans Snort écrire des règles qui se déclenche en chaîne, ou plu
 
 [WhatWeb](https://github.com/urbanadventurer/WhatWeb) est un outil assez intéressant lors des étapes de reconnaissance puisqu'il permet en quelques requêtes de récupérer énormément d'informations sur le serveur et l'application distants, notamment en récupérant des informations dans les _headers_ HTTP, ainsi que dans le contenu de la page ou les informations DNS.
 
-<div align=center><a href="static/upload/ids_web_whatweb.png"><img src="static/upload/ids_web_whatweb.png" align="center" width="600"/></a></div>
+<div align=center><a href="upload/ids_web_whatweb.png"><img src="upload/ids_web_whatweb.png" align="center" width="600"/></a></div>
 
 De plus, son affichage est assez intéressant et simple à lire. 
 
-<div align=center><a href="static/upload/ids_web_whatweb_shell.png"><img src="static/upload/ids_web_whatweb_shell.png" align="center" width="700"/></a></div>
+<div align=center><a href="upload/ids_web_whatweb_shell.png"><img src="upload/ids_web_whatweb_shell.png" align="center" width="700"/></a></div>
 
 Seul inconvénient d'un point de vue détection : l'outil fait très très peu de requêtes. Sur les 4 niveaux d'agression disponibles, seul le quatrième fait plus de 5 requêtes. La seule solution ici pour le détecter est de chercher son User-Agent dans les paquets HTTP. Étant donné qu'il effectue très peu de requêtes, on n'ajoute pas de filtre sur la quantité, pour ne pas rater de scan.
 
@@ -108,7 +108,7 @@ Le quatrième outil présenté dans cet article s'appelle [BlindElephant](http:/
 
 Comme WhatWeb, il effectue très peu de requêtes, puisque généralement le code source Html des pages Web contient de nombreuses informations sur la partie serveur et les technologies utilisées. Il calcule ensuite le hash de certains fichiers statiques et compare ces hashs avec des valeurs connues. 
 
-<div align=center><a href="static/upload/ids_web_blind_elephant.png"><img src="static/upload/ids_web_blind_elephant.png" align="center"/></a></div>
+<div align=center><a href="upload/ids_web_blind_elephant.png"><img src="upload/ids_web_blind_elephant.png" align="center"/></a></div>
 
 La détection se fait donc un peu au pif, en détectant le _fail case_ de BlindElephant.
 

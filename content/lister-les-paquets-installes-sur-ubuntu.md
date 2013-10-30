@@ -5,7 +5,7 @@ Category: Ubuntu
 Tags: Dpkg, Packages, Ubuntu, planet-libre, planet-ubuntu
 Summary: Lister les paquets installés sur une distribution GNU/Linux.
 
-<div align=center><img src="static/upload/listpackages.png" height="250" align=center /></div>
+<div align=center><img src="upload/listpackages.png" height="250" align=center /></div>
 
 Petite commande utile, pour voir quels sont les packages qui sont
 installés sur votre machine, pour générer un script de réinstall à

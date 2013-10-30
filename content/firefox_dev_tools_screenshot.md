@@ -7,7 +7,7 @@ Tags: Screenshot, Web, Firefox
 Summary: Prendre des captures d'écran de sites Web depuis Firefox en utilisant les outils de développeur.
 
 &nbsp;
-<div align=center><img src="static/upload/firefox_dev_tools_screenshot.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/firefox_dev_tools_screenshot.png" width="600" height="250" align=center /></div>
 
 Si vous êtes utilisateur de [Firefox](https://www.mozilla.org/fr/firefox/fx/ "Mozilla Firefox") et que vous réalisez souvent des captures d'écran, vous âvez sûrement un outil comme Shutter (pour Linux) ou des outils spécifiques pour votre OS.
 
@@ -17,7 +17,7 @@ Pour cela, il faut accéder à la _Barre de Développement_ dans _Outils_ > _Dé
 
 Ensuite, on appelle la commande `screenshot`. Pour voir les options dispo, commencez à écrire un ou deux tirets, et un menu les affichera.
 
-<div align=center><a href="static/upload/firefox_screenshot_opt.png"><img src="static/upload/firefox_screenshot_opt.png" align="center"/></a></div>
+<div align=center><a href="upload/firefox_screenshot_opt.png"><img src="upload/firefox_screenshot_opt.png" align="center"/></a></div>
 
 Les deux que je retiens sont : 
 
@@ -29,9 +29,9 @@ Si vous ne mettez aucune option, Firefox prendre simplement une screenshot du co
 Vous pouvez donner un nom à la capture d'écran en le rajoutant à la fin de la commande!
 
 
-<div align=center><code>screenshot --chrome screen1.png</code><br/><a href="static/upload/firefox_screenshot_chrome.png"><img src="static/upload/firefox_screenshot_chrome.png" align="center" width="500px"/></a></div>
+<div align=center><code>screenshot --chrome screen1.png</code><br/><a href="upload/firefox_screenshot_chrome.png"><img src="upload/firefox_screenshot_chrome.png" align="center" width="500px"/></a></div>
 &nbsp;
-<div align=center><code>screenshot --fullpage screen1.png</code><br/><a href="static/upload/firefox_screenshot_fullpage.png"><img src="static/upload/firefox_screenshot_fullpage.png" align="center" width="500px"/></a></div>
+<div align=center><code>screenshot --fullpage screen1.png</code><br/><a href="upload/firefox_screenshot_fullpage.png"><img src="upload/firefox_screenshot_fullpage.png" align="center" width="500px"/></a></div>
 
 Enjoy ;-)
 

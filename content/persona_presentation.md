@@ -8,7 +8,7 @@ Summary: La gestion des mots de passe est très complexe et pose de nombreux pro
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/top_worst_password.png" align=center /></div>
+<div align=center><img src="upload/top_worst_password.png" align=center /></div>
 
 Mozilla, au travers du projet **Persona**, veut proposer une solution au problème des mots de passe sur le Web. Je trouve que c'est un très bon projet, c'est justement pour cette raison que je commence à y contribuer, et il mérite que l'on s'y intéresse.
 
@@ -34,7 +34,7 @@ En pratique, les choses ne se passent pas exactement de cette façon. Je ferais 
 
 Avec ce système, au lieu de donner le même (ou des différents) mot de passe à 50 sites différents, et ainsi multiplier les risques de fuites de données, vous n'avez qu'un seul mot de passe à retenir. La connexion est aussi beaucoup plus simple. Il suffit de cliquer sur le bouton "Login with Persona", puis sélectionner l'identité avec laquelle vous voulez vous connecter. Ce n'est pas plus compliqué que pour n'importe quel autre système d'authentification.
 
-<p><div align=center><a href="static/upload/persona_signin.png"><img src="static/upload/persona_signin.png" align="center" width="350"/></a></div></p>
+<p><div align=center><a href="upload/persona_signin.png"><img src="upload/persona_signin.png" align="center" width="350"/></a></div></p>
 
 Pour les développeurs, les avantages sont multiples : plus besoin de maintenir à jours des politiques de stockage de mots de passe, n'y même de vous demander si l'adresse email qui vous a été donné par l'utilisateur est correcte ou non. Persona, de par son fonctionnement, vous assure que l'adresse email est valide **et** utilisée par l'utilisateur.
 

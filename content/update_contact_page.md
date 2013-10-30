@@ -7,7 +7,7 @@ Slug: update_contact_page
 Summary: Mise à jour de la page de contact du blog, avec ma nouvelle adresse mail hébergée chez moi : blog[at]quack1[point]me.
 
 &nbsp;
-<div align=center><img src="static/upload/contact_mail.png" width="600" align=center /></div>
+<div align=center><img src="upload/contact_mail.png" width="600" align=center /></div>
 
 Depuis [quelque temps](http://quack1.me/blog_v3.html), mon blog est hebergé chez moi. Au début du moi, j'y ai installé un serveur de mail pour pouvoir avoir mes propres adresses. J'en ai donc créé une spécialement pour le blog : blog[at]quack1[point]me.
 

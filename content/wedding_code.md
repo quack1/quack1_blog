@@ -8,7 +8,7 @@ Summary: Et si un jour l'intelligence artificielle des robots devenait assez per
 Lang: fr
 
 &nbsp;
-<div align=center><a href="static/upload/wedding_code.png"><img src="static/upload/wedding_code.png" width="600" align=center /></a></div>
+<div align=center><a href="upload/wedding_code.png"><img src="upload/wedding_code.png" width="600" align=center /></a></div>
 
 Vous voulez célébrer un mariage dans un programme ? Et bien le code source suivant est fait pour vous. En effet, il reprend toutes les étapes des mariages traditionnels sous la forme d'un code PHP.
 

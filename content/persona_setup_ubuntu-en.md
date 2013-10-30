@@ -8,7 +8,7 @@ Summary: Steps to easily set up a complete development environment from scratch 
 Lang: en
 
 &nbsp;
-<div align=center><img src="static/upload/persona.png" align=center /></div>
+<div align=center><img src="upload/persona.png" align=center /></div>
 
 For many years I wanted to contribute to an Open-Source Project. Now, things are becoming true. I found **the** project I want to help : [Mozilla Persona](https://login.persona.org/about "Mozilla Persona About Page"). But I don't do the things in the right order, I'll write soon another post to present it more!
 

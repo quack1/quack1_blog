@@ -8,7 +8,7 @@ Summary: Options to add to GPG to make all its trafic go through a SOCKS proxy.
 Lang: en
 
 &nbsp;
-<div align=center><img src="static/upload/matrix.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/matrix.png" width="600" height="250" align=center /></div>
 
 At day work, don't ask me why, the firewall is blocking the _hkp_ port (11371/tcp) that is commonly used to get GPG keys from the Internet (but, contrairiwise, we can access to Mega...). Anyway, it's kind of a pain in he ass when you have to fetcg some keys and update the APT repository on my Ubuntu, since _apt_ needs GPG keys in order to authenticate servers.
 

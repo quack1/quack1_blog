@@ -5,7 +5,7 @@ Category: Ubuntu
 Tags: Gimp, Icone, Ubuntu, Unity, planet-libre, planet-ubuntu
 Summary: Retrouver l'icône de la dernière version de Gimp dans le Launcher d'Unity.
 
-![Gimp](static/upload/gimp.png "Gimp")
+![Gimp](upload/gimp.png "Gimp")
 
 J'ai récemment fait la mise à jour de Gimp 2.8 grâce au PPA des
 développeurs. Je vais faire l'impasse sur les nouveautés de cette

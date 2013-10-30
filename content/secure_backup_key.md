@@ -6,7 +6,7 @@ Tags: Sécurité, USB, Backup, planet-libre
 Slug: secure_backup_key
 Summary: Création d'une clé USB sécurisée et chiffrée depuis Ubuntu
 
-<div align=center><img src="static/upload/secure_key.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/secure_key.png" width="600" height="250" align=center /></div>
 
 J'ai sur mon Laptop des fichiers assez "précieux" et "importants", comme des clés de chiffrement GPG, des clés RSA de connexion à des machines distantes, ou des fichiers KeePassX contenant mes mots de passe. Tous ses fichiers sont protégés par des passphrases et mon disque dur est chiffré, ce qui rend leur lecture difficile. Cependant, j'ai également des fichiers dans des formats plus courants et moins protégés, comme du ods, des txt, etc... que je préfèrerais ne pas voir divulgués.
 
@@ -68,4 +68,4 @@ Notez cependant que sur Ubuntu, le système vous proposera graphiquement de sais
 
 En parlant de partitions, je vous parlait tout à l'heure d'une deuxième partition de 100M. Celle-ci va servir à y déposer [l'éxecutable Windows FreeOTFE](http://www.freeotfe.org/download.html) qui permettra d'accéder aux volumes chiffrés, et tant qu'à faire, on y rajoutera Putty pour nos connexions ssh en environnement "hostile" ;-)
 
-<div align=center text-align=center><a href="static/upload/secure_key_tools.png"><img src="static/upload/secure_key_tools.png" align="center" /></a><br />Quelques outils utiles pour un Unixien en environnement Windows</div>
+<div align=center text-align=center><a href="upload/secure_key_tools.png"><img src="upload/secure_key_tools.png" align="center" /></a><br />Quelques outils utiles pour un Unixien en environnement Windows</div>

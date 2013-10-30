@@ -8,7 +8,7 @@ Summary: Script to reactivate the system 'beep' on a GNU/Linux system, especiall
 Lang: en
 
 &nbsp;
-<div align=center><img src="static/upload/.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/.png" width="600" height="250" align=center /></div>
 
 I presented some weeks ago in a previous post [my IRC configuration](|filename|/irssi-screen.md), composed by an `irssi` started on a remote `screen`. Then, I connect to that host through ssh, and I re-attach my `screen` session.
 
@@ -66,9 +66,9 @@ If you want to personnalize the sound, you just have to modify the variables `so
 
 Finally, I added a startup program to be launched when I connect into my system (I did that really simply, graphicaly in Ubuntu).
 
-<div align=center><a href="static/upload/beep_1.png"><img src="static/upload/beep_1.png" align="center" /></a></div>
+<div align=center><a href="upload/beep_1.png"><img src="upload/beep_1.png" align="center" /></a></div>
 
-<div align=center><a href="static/upload/beep_2.png"><img src="static/upload/beep_2.png" align="center" /></a></div>
+<div align=center><a href="upload/beep_2.png"><img src="upload/beep_2.png" align="center" /></a></div>
 
 For the modifications to be effective without relogging the first time, launch :
 

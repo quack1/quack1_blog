@@ -8,7 +8,7 @@ Summary: Options à ajouter à GPG pour faire passer le trafic par son proxy SOC
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/matrix.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/matrix.png" width="600" height="250" align=center /></div>
 
 Au travail, ne me demandez pas pourquoi, le firewall bloque par défaut le port dédié à _hkp_ (11371/tcp), utilisé notamment pour récupérer des clés GPG. (Bon, par contre, on peut accéder à Mega... :sifflote:). Bref, c'est un peu casse-bonbons pour fetcher des clés et surtout mettre à jour des listes de paquets sur mon Ubuntu, puisqu'_apt_ a besoin des clés GPG pour authentifier les serveurs.
 

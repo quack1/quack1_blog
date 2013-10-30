@@ -12,13 +12,13 @@ Pour écrire tout ça j'utilise [Sublime Text](http://www.sublimetext.com/ "Subl
 
 Du coup, quand on veut écrire du texte dedans, c'est pas super agréable...
 
-<div align=center><a href="static/upload/sublime_text_default.png"><img src="static/upload/sublime_text_default.png" width="400" align="center" id="img_1"/></a></div>
+<div align=center><a href="upload/sublime_text_default.png"><img src="upload/sublime_text_default.png" width="400" align="center" id="img_1"/></a></div>
 
 L'avantage de Sublime-Text, c'est que chaque utilisateur peut redéfinir des préférences, qui surchargent celles par défaut. Et cerise sur le gâteau, on peut redéfinir des préférences pour chaque extension de fichiers! Et c'est justement cette fonctionnalité qui m'intéresse.
 
 Maintenant, quand j'écris du Markdown, ça ressemble à ça : 
 
-<div align=center><a href="static/upload/sublime_text_new.png"><img src="static/upload/sublime_text_new.png" width="400" align="center" id="img_1"/></a></div>
+<div align=center><a href="upload/sublime_text_new.png"><img src="upload/sublime_text_new.png" width="400" align="center" id="img_1"/></a></div>
 
 Pour modifier la configuration de Sublime Text, ouvrez un fichier Markdown (chez moi avec l'extension `.md`), et allez dans `Préférences` ➜ `Settings - More` ➜ `Syntax Specific - User`.
 

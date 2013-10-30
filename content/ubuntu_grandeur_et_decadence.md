@@ -8,7 +8,7 @@ Summary: À l'occasion de la sortie d'Ubuntu 13.04, réponse aux articles de plu
 
 &nbsp;
 
-<div align=center><img src="static/upload/ubuntu_raring_ringtail.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/ubuntu_raring_ringtail.png" width="600" height="250" align=center /></div>
 
 Ça fait un moment déjà que je pensais à écrire cet article. Et finalement la sortie d'Ubuntu 13.04, aka _The Raring Ringtail_, et surtout les réactions suscitées [ici](frederic.bezies.free.fr/blog/?p=9676 "Fred Bezies - Ubuntu serait-elle en perte de vitesse médiatique ?") et [là](http://www.cyrille-borne.com/index.php?post/2013/04/27/Ubuntu-%C3%A7a-vient-pas "Cyrille Borne - Ubuntu, ça vient pas") ont fini par me lancer dans cet article.
 

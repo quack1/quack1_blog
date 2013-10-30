@@ -32,11 +32,11 @@ Sur les 3 jours du SSTIC, nous avons été entre 5 et 6 à live-tweeter intensé
 
 Quelques statistiques pour le hastag #SSTIC :
 
-<div align=center><a href="static/upload/sstic_2013_end_authors.png"><img src="static/upload/sstic_2013_end_authors.png" align="center" width="350"/></a></div>
+<div align=center><a href="upload/sstic_2013_end_authors.png"><img src="upload/sstic_2013_end_authors.png" align="center" width="350"/></a></div>
 
-<div align=center><a href="static/upload/sstic_2013_end_clients.png"><img src="static/upload/sstic_2013_end_clients.png" align="center" width="350"/></a></div>
+<div align=center><a href="upload/sstic_2013_end_clients.png"><img src="upload/sstic_2013_end_clients.png" align="center" width="350"/></a></div>
 
-<div align=center><a href="static/upload/sstic_2013_end_number.png"><img src="static/upload/sstic_2013_end_number.png" align="center" width="350"/></a></div>
+<div align=center><a href="upload/sstic_2013_end_number.png"><img src="upload/sstic_2013_end_number.png" align="center" width="350"/></a></div>
 
 [Images les plus tweetées](http://www.tweetarchivist.com/8c7bb518/3/media)
 

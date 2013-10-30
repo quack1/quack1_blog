@@ -7,7 +7,7 @@ Tags: Git, planet-libre
 Summary: Vous utilisez git mais vous n'en comprenez pas toutes les subtilités, ou vous souhaitez découvrir git de façon simple tout en ayant une compréhension complète de son fonctionnement ? Alors cet article est fait pour vous.
 
 &nbsp;
-<div align=center><img src="static/upload/git_simple.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/git_simple.png" width="600" height="250" align=center /></div>
 
 J'ai déjà parlé à de nombreuses reprises sur ce blog de Git, le système de gestion de version très massivement utilisé dans le développement logiciel. On peut d'ailleurs citer les projets Mozilla ou le kernel Linux qui utilisent ce système de version.
 

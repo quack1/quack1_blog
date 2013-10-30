@@ -7,7 +7,7 @@ Tags: Ubuntu, Ubuntu Touch, planet-libre, Ubuntu 13.10, planet-ubuntu
 Summary: Jono Bacon donne dans un article de blog quelques informations sur l'état d'Ubuntu Touch et son développement en Mai 2013.
 
 &nbsp;
-<div align=center><img src="static/upload/ubuntu_touch_head.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/ubuntu_touch_head.png" width="600" height="250" align=center /></div>
 
 Dans un de mes [derniers articles](|filename|/ubuntu_grandeur_et_decadence.md), je vous parlais d'Ubuntu Touch.
 

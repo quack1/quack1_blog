@@ -7,7 +7,7 @@ Tags: Blog, Pelican, Notebook, Theme, planet-libre
 Summary: Présentation du thème &laquo;Notebook&raquo;, développé pour le moteur de blog statique Pelican.
 
 &nbsp;
-<div align=center><img src="static/upload/blog_v3_header.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/blog_v3_header.png" width="600" height="250" align=center /></div>
 
 Comme je vous l'expliquais dans mon article de [présentation de la v3 du blog](|filename|blog_v3.md), j'ai écrit un nouveau thème pour le moteur de blog statique [Pelican](http://blog.getpelican.com), utilisé pour propulser ce blog.
 

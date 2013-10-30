@@ -5,7 +5,7 @@ Category: WTF
 Tags: Guitare, Homemade, Pelle, Shovellica, Hack
 Summary: DIY musical : Une guitare faite à partir d'une pelle.
 
-<div align=center><img src="static/upload/shovellica.png" width="600" align=center /></div>
+<div align=center><img src="upload/shovellica.png" width="600" align=center /></div>
 
 Autre délire WTF du jour, après [ça][], voici une guitare réalisée avec
 une pelle. Oui oui, vous avez bien lu, une pelle.

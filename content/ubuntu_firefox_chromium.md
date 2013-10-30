@@ -8,7 +8,7 @@ Summary: Mark Shuttleworth, s'il te plaît, ne remplace pas Firefox par Chromium
 Lang: fr
 
 &nbsp;
-<div align=center><img src="static/upload/firefox_chromium.png" width="600" height="250" align=center /></div>
+<div align=center><img src="upload/firefox_chromium.png" width="600" height="250" align=center /></div>
 
 Au cours du dernier Ubuntu Summit, les developpeurs d'Ubuntu se sont posé la question [du remplacement de Firefox par Chromium comme navigateur par defaut de la distribution](http://www.pcworld.fr/logiciels/actualites,ubuntu-reflechit-remplacement-navigateur-firefox-chromium-13-10-developer-summit,538645,1.htm "PCWorld Ubuntu reflechit au remplacement du navigateur Firefox par Chromium").
 
