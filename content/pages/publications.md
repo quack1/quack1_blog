@@ -24,10 +24,10 @@ Dans ce mémoire, je détaille le contenu de mon stage qui avait pour sujet la d
 
 Tous ces documents, sauf mention contraire, sont diffusés sous une licence Creative Commons BY-NC-ND.
 
-- [Rapport PDF](/static/upload/memoire_stage.pdf)
-- [Rapport LaTeX (.zip)[1]](/static/upload/memoire_stage.zip)
-- [Présentation PDF](/static/upload/presentation_memoire_stage.pdf)
-- [Présentation LibreOffice Impress](/static/upload/presentation_memoire_stage.odp)
+- [Rapport PDF](/upload/memoire_stage.pdf)
+- [Rapport LaTeX (.zip)[1]](/upload/memoire_stage.zip)
+- [Présentation PDF](/upload/presentation_memoire_stage.pdf)
+- [Présentation LibreOffice Impress](/upload/presentation_memoire_stage.odp)
 
 &nbsp;
 ## **MISC #69 - _"SIEM/IDS : l'union fait-elle la force ?"_**
