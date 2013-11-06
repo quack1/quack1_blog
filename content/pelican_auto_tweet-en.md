@@ -15,10 +15,21 @@ The only thing I miss, since I moved out of Wordpress, is the possibility to aut
 
 To solve the problem, I developed [a little script](https://github.com/quack1/pelican_auto_tweet) that can do this rapidly.
 
-Its usage is simple. It gets the last Git log from the project directory. If the commit message starts with `[POST]` (it is the convention I use for my commit messages when I publish a new post), the script sends a tweet. For this, it gets le title and the URL directly into the article source file. 
+Its usage is simple. It gets the last Git log from the project directory. If the commit message starts with `[POST]` (it is the convention I use for my commit messages when I publish a new post), the script sends a tweet. For this, it gets the title and the URL directly into the article source file. 
+
+It does this : 
+
+1. It checks if a new article was writen (by looking if the [Git [FR]](http://blog.quack1.me/tag/git.html "Blog Quack1 - Tag « Git »") _commit_ log starts with `[POST]`).
+2. In this case, it pushes the new _commits_ on the [default git repository [FR]]({filename}/git_push_multiple_remote.md "Git : Pusher ses modifications sur plusieurs dépôts en une seule commande").
+3. It updates the blog on the serveur through SSH (command `make ssh_upload` for the _Pelican-ists_).
+4. It posts a tweet.
 
 If you want more details on how to install it, to use it, etc, the best thing to do is to read the [README](https://github.com/quack1/pelican_auto_tweet) on Github ;).
 
 The scripts are published under a BSD license, there are available on [Github](https://github.com/quack1/pelican_auto_tweet), and I'm waiting for your commentaries, issues and improvements ideas ;-)
 
 \#Teasing : I will publish soon an article about the second script available in the Git repository, and about a trick to automate the usage of the script with Git.
+
+<div align="center" style="color:#ccc;">☠</div> &nbsp;
+
+**EDIT :** I post a new post, explaining how [automate the execution of the script after each commit]({filename}/git_hooks_pelican-en.md "Automatically publish new Pelican blog post using the power of Git").

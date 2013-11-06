@@ -7,7 +7,7 @@ Slug: git_hooks_pelican
 Summary: 
 
 &nbsp;
-<div align=center><img src="http://blog.quack1.me/upload/pelcian_auto_tweet.png" width="600" height="250" align=center /></div>
+<div align=center><img src="http://blog.quack1.me/upload/pelican_auto_tweet.png" width="600" height="250" align=center /></div>
 
 J'ai parlé récemment d'un [script qui permet de poster automatiquement un tweet]({filename}/pelican_auto_tweet.md "Moteur de blog Pelican : twitter un lien automatique vers son dernier article") quand je publie un nouvel article sur le blog.
 
@@ -15,7 +15,7 @@ Ce script a été un peu modifié puisqu'il fait aujourd'hui 4 choses :
 
 1. Il vérifie si un nouvel article a été écrit (en cherchant la présence du message `[POST]` au début du message de _commit_ [Git](http://blog.quack1.me/tag/git.html "Blog Quack1 - Tag « Git »")) ;
 2. Dans ce cas, il envoie les nouveaux _commits_ sur [le dépôt Git défini par défaut]({filename}/git_push_multiple_remote.md "Git : Pusher ses modifications sur plusieurs dépôts en une seule commande") ;
-3. Il met à jour le blog sur le serveur via SSH (command `make ssh_upload` pour les _Pelican-eux_) ;
+3. Il met à jour le blog sur le serveur via SSH (commande `make ssh_upload` pour les _Pelican-eux_) ;
 4. Il envoie un tweet.
 
 Tout ça c'est sympa, mais c'est un peu con d'automatiser toutes ces étapes si il faut au final lancer le script à la main. La magie de Git fait qu'on peut automatiser tout ça en utilisant les [_hooks_ de Git](http://www.johan.me/utilisez-hooks-git "Utilisez les hooks de Git").
@@ -30,7 +30,7 @@ Ces _[hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks "Customizing G
 
 Je ne vais pas tous les faire, les noms sont assez explicites, mais par exemple `pre-commit` est lancé avant le _commit_.
 
-Mon script a besoin que le _commit_ soit terminé, donc j'ai fait pointer le fichier `.git/hooks/post-commit` sur le script. Toute la configuration nécéssaire est placée dans le fichier de conf, donc le script se lance sans souci : 
+Mon script a besoin que le _commit_ soit terminé, donc j'ai fait pointer le fichier `.git/hooks/post-commit` sur le script. Toute la configuration nécessaire est placée dans le fichier de conf, donc le script se lance sans souci : 
 
 	:::zsh
 	╭────<quack@spiderman >───<  ~/Documents/writing/blog/quack1_pelican >  ‹master*› 
