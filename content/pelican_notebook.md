@@ -6,6 +6,8 @@ Slug: pelican_notebook
 Tags: Blog, Pelican, Notebook, Theme, planet-libre
 Summary: Présentation du thème &laquo;Notebook&raquo;, développé pour le moteur de blog statique Pelican.
 
+<a href="https://github.com/quack1/notebook"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 &nbsp;
 <div align=center><img src="upload/blog_v3_header.png" width="600" height="250" align=center /></div>
 

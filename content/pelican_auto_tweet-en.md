@@ -7,6 +7,8 @@ Slug: pelican_auto_tweet
 Lang: en
 Summary: The only thing that the Pelican blog engine miss, it's the possibility to send a tweet automatically for the lasts posts. Then, now, there is a Python script for that! :)
 
+<a href="https://github.com/quack1/pelican_auto_tweet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 For [this blog [fr]]({filename}/blog_v3.md), I use the [Pelican](http://getpelican.com) blog engine.
 
 I will not, again, say why I love it, many blog posts already did it. I will just say that I like it because I can write my posts in Markdown, use Git to version them, and publish the blog through SSH on my server.

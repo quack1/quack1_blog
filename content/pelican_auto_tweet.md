@@ -7,6 +7,8 @@ Slug: pelican_auto_tweet
 Lang: fr
 Summary: Ce qu'il manque au moteur de blog de Pelican, c'est l'envoi automatique de tweets dès qu'on publie un nouvel article. Et bien désormais, il y a un script Python pour ça! :)
 
+<a href="https://github.com/quack1/pelican_auto_tweet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 Le moteur de blog que j'utilise sur [ce blog]({filename}/blog_v3.md) est [Pelican](http://getpelican.com).
 
 Je ne vais pas revanter encore une fois ses qualités, d'autres l'ont déjà bien fait avant moi. Je vais juste rappeler que j'aime bien pouvoir écrire directement mes articles en Markdown, pouvoir les versionner avec Git, et les publier en SSH sur mon serveur.
