@@ -63,6 +63,13 @@ Enfin, pour gérer le catchall, on rajoute une ligne en bas du fichier.
 
 Tous les mails envoyés à `domain.com`, et qui n'auront pas été transmis à partir de la liste des comptes définis plus haut, seront remis dans la _mailbox_ de `catchall`.
 
+&nbsp;
+
+Pour appliquer la configuration, on relance Postfix.
+
+	:::bash
+	# postmap /etc/postfix/virtual
+	# service postfix reload
 <div align="center" style="color:#ccc;">☠</div>
 
 Voilà, il y a peut être des solutions plus propres pour le faire, mais celle-ci fonctionne et elle est assez simple à mettre en place! 😃
