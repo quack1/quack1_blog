@@ -8,7 +8,7 @@ Summary:
 
 Si un jour j'ai un bureau chez moi, j'en veux des pareils 😃 !
 
-<div align=center><img src="https://blog.quack1.me/upload/skull_chair_back.jpg" width="250" align="center" id="back"/><img src="https://blog.quack1.me/upload/skull_chair_front.jpg" width="250" align="center" id="front"/></div>
+<div align=center><img src="https://quack1.me/upload/skull_chair_back.jpg" width="250" align="center" id="back"/><img src="https://quack1.me/upload/skull_chair_front.jpg" width="250" align="center" id="front"/></div>
 
 De face, ça a l'air d'être un fauteuil « normal » mais le dos représente une tête de mort noire faite de plein de polygones. Je trouve ça super classe! \m/
 
