@@ -5,7 +5,6 @@ Category: Geek
 Tags: laptop, planet-libre, planet-ubuntu
 Slug: a_la_recherche_du_laptop_perdu
 Summary: 
-Status: draft
 
 Je cherche un nouveau laptop.
 
@@ -32,3 +31,33 @@ Pour l'instant, j'ai trouvé :
 Si vous avez des idées ou des retours d'expériences, n'hésitez pas !
 
 _[@Nicolargo](https://twitter.com/nicolargo/status/406744322646609920) a d'ailleurs eu une réflexion similaire._
+
+---------------------------------------
+
+# EDIT du 02/12/2013
+
+Merci à tous pour vos commentaires ! J'ai eu plein de retours et de conseils, que ce soit en commentaire de cet article ou sur Twitter. 😆
+
+En vrac, vous m'avez conseillé : 
+
+- Un MacBook Pro ;
+- Un PC [LDLC](http://www.ldlc.com/fiche/PB00153306.html) ;
+- Des Asus (Asus 701 ou Zenbook Prime) ;
+- Du Lenovo ([T440S](http://shop.lenovo.com/fr/fr/laptops/thinkpad/t-series/t440s/?&cid=fr|semd|se|google|lenovofrdirect|z18D75|g-c), [X1 Carbon](http://shop.lenovo.com/fr/fr/laptops/thinkpad/x-series/x1-carbon/)) ;
+- [Clevo](http://www.clevo.fr/shop/clevo-w230st-pack.html), marque que je ne connaissais pas du tout ;
+- Un laptop HP Spectre XT 1303 ;
+- Le [Vaio Pro](http://www.sony.fr/product/vn-pro).
+
+Donc en fait, j'ai encore plus de choix qu'avant XD !
+
+Mon avis n'est donc pas beaucoup plus avancé. Le Zenbook est sympa, mais son design est trop « pointu », trop fin pour moi. Pareil pour le Vaio Pro. Ces deux machines sont super fines et j'ai peur qu'elles soient trop fragiles.
+
+Le MacBook Pro est incontestablement une très bonne machine, mais 2 inconvénients : pas beaucoup plus de ports que les autres, et je préfère éviter d'aller chez Apple tout de suite 😉
+
+Il me reste donc soit du Lenovo, soit le Dell XPS 13. Dans les Lenovo, il semblerait que le Yoga 2 Pro ne soit pas complètement supporté par Ubuntu, mais ça a l'air de passer avec quelques _tricks_. Et tout comme le X1 Carbon, il est un peu léger en ports disponibles (et surtout il lui manque un port Ethernet). Le T430S semble combler ce manque, mais en étant un peu plus gros (14") mais pas beaucoup plus gros au vu des photos.
+
+Enfin, le Dell XPS Developer Edition embarque Ubuntu par défaut, donc le support de Linux doit être parfait, mais encore une fois pas d'Ethernet.
+
+Au final, je pense que je me tournerais soit vers le Dell, soit un Lenovo (T430S ? (Mais avec une bonne config il approche les 1600€...)), à moins que vous me proposiez une super machine qui surpasse tous ceux là ! 😋
+
+_Et merci pour les conseils !_
