@@ -61,3 +61,19 @@ Enfin, le Dell XPS Developer Edition embarque Ubuntu par défaut, donc le suppor
 Au final, je pense que je me tournerais soit vers le Dell, soit un Lenovo (T430S ? (Mais avec une bonne config il approche les 1600€...)), à moins que vous me proposiez une super machine qui surpasse tous ceux là ! 😋
 
 _Et merci pour les conseils !_
+
+---------------------------------------
+
+# EDIT du 04/12/2013
+
+J'ai encore eu plusieurs commentaires assez intéressants avec des bonnes idées de portables.
+
+Voici ceux que j'ai retenu : 
+
+- Le [Samsung ATIV Book 9 Plus](http://www.materiel.net/ordinateur-portable/samsung-ativbook-9-plus-qhd-np940x3g-k01fr-94120.html?affcode=adwords_shop&gclid=CPLUv4nWyLoCFcTLtAodVxkAww), mais il a l'air un peu cher, pour au final une configuration semblable (voir plus faible) que les autres ;
+- System76 en fait des pas mal, surtout avec une bonne compatibilité Ubuntu. J'ai vu deux modèles, le [Darter UltraThin](https://www.system76.com/laptops/model/daru4) et le [Galago UltraPro](https://www.system76.com/laptops/model/galu1). Leur design n'est pas ce qu'on fait de mieux (le Galago ressemble au Clevo, ça doit être le même fabricant), mais ils ont des écrans 14", pas mal de ports et des bonnes configurations. Par contre je ne sais pas s'ils vendent en France et si on peut avoir des claviers Azerty ;
+- Enfin, on m'a proposé le [Dell Inspiron 14 Serie 7000](http://www.dell.com/fr/p/inspiron-14-7437/pd), qui est aussi très bien, il lui manque juste un SSD et un port Ethernet. Et il est beaucoup moins cher que les autres, mais j'ai pas pu trouver de configuration détaillée sur cette machine.
+
+Avec tout ça, j'ai quelque peu changé mes exigences. Sur mon portable actuel, j'ai 8Go (2x4Go) de RAM. Si je prend un nouvel ordi, je n'aurais plus besoin que de 4Go sur celui-ci, je pourrais donc récupérer une des barrettes. Même chose pour le SSD. Peut-être que je choisirais un ordi un peu moins cher, mais avec un disque dur à plateaux que je remplacerais par un SSD acheté à côté.
+
+Donc finalement, il me faudrait un ultrabook de 13", avec un écran FullHD, 4Go de RAM (faut que je retrouve la référence de la RAM que j'ai en stock) et un SSD (ou pas) ! 😆
