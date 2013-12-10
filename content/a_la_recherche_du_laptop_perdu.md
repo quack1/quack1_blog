@@ -77,3 +77,5 @@ Voici ceux que j'ai retenu :
 Avec tout ça, j'ai quelque peu changé mes exigences. Sur mon portable actuel, j'ai 8Go (2x4Go) de RAM. Si je prend un nouvel ordi, je n'aurais plus besoin que de 4Go sur celui-ci, je pourrais donc récupérer une des barrettes. Même chose pour le SSD. Peut-être que je choisirais un ordi un peu moins cher, mais avec un disque dur à plateaux que je remplacerais par un SSD acheté à côté.
 
 Donc finalement, il me faudrait un ultrabook de 13", avec un écran FullHD, 4Go de RAM (faut que je retrouve la référence de la RAM que j'ai en stock) et un SSD (ou pas) ! 😆
+
+_Sinon, Nicolargo a aussi posté [un billet](http://blog.nicolargo.com/2013/12/shortlist-dultrabooks-gnulinux.html) avec les résultats de ses recherches, n'hésitez pas à aller lui filer un coup de main._

@@ -6,7 +6,7 @@ Tags: laptop, planet-libre, planet-ubuntu
 Slug: a_la_recherche_du_laptop_perdu_v2
 Summary: 
 
-Mon PC portable actuel comment à fatiguer, j'en cherchais un nouveau. J'ai d'ailleurs écrit [un article] que vous avez été nombreux à commenter, merci de vos conseils !
+Mon PC portable actuel comment à fatiguer, j'en cherchais un nouveau. J'ai d'ailleurs écrit [un article]({filename}/a_la_recherche_du_laptop_perdu.md) que vous avez été nombreux à commenter, merci de vos conseils !
 
 J'ai déjà fait quelques mises à jour sur ce dernier, et celle-ci est plutôt conséquente, donc je préfère en faire un nouveau billet.
 
