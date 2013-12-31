@@ -1,12 +1,6 @@
 Title: Liens partagés sur Twitter
-Date: 2013-12-31 22:58
+Date: 2013-12-31 23:06
 Author: Quack1
-
-
-Les temps changent, Rowling et Roald Dahl passés de mode [http://t.co/HqYQkPMId3](http://t.co/HqYQkPMId3) 
-
-Non mais WTF @instagram?!?! 3 minutes d'utilisation et tu te permets de bouffer 37% de ma batterie en arrière-plan!? [http://t.co/fJURUAAH5h](http://t.co/fJURUAAH5h) 
-
 
 
 
