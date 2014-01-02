@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-01 17:03
+Date: 2014-01-02 07:52
 Author: Quack1
 Slug: links
+
+
+Bing-IP2hosts - Utiliser Bing pour trouver les différents hostnames hébérgés sur une IP [http://t.co/XgMiZECXzS](http://t.co/XgMiZECXzS) 
+
+&#35;Fail @steam_games: Magic 2014 (Duels of the Planeswalkers) est à 6€ mais pas dispo sur Linux :( [http://t.co/NEzKOBEvsi](http://t.co/NEzKOBEvsi) 
 
 
 
