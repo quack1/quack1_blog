@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-03 00:30
+Date: 2014-01-04 00:30
 Author: Quack1
 Slug: links
+
+
+« De la quenelle à la vague », parallèle intéressant [http://t.co/5cVLGgqKzl](http://t.co/5cVLGgqKzl) 
+
+Tiens, ça tenterais pas @babozor ça pour @lagrottedubarbu ? «  Making a knife with only common tools » [http://t.co/kxyVCiRnPM](http://t.co/kxyVCiRnPM) 
+
+Je viens de soutenir Manuel pour écrire son premier roman sur KissKissBankBank [http://t.co/6ptdaKhbxP](http://t.co/6ptdaKhbxP) 
+
+Un homme compte (et fait des stats) sur la vie sexuelle de sa femme et lui [http://t.co/kGly2B0IYZ](http://t.co/kGly2B0IYZ) 
+
+Depuis quelques jours, les liens que je poste sur Twitter sont sur le blog, pour les retrouver plus simplement ! :) [https://t.co/uJEQckWmiP](https://t.co/uJEQckWmiP) 
+
+Top 36 des phrases qu’on rêve tous de dire une fois dans notre vie [http://t.co/M3TqVjmgSN](http://t.co/M3TqVjmgSN) 
 
 
 La nouvelle version 1.0.5 de Lightbeam corrige les bugs présents sur Firefox Nightly [https://t.co/QrKJ5lQ7pT](https://t.co/QrKJ5lQ7pT) (via @MozillaZineFr ) 
