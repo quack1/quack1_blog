@@ -1,7 +1,23 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-04 00:30
+Date: 2014-01-05 00:30
 Author: Quack1
 Slug: links
+
+
+Dites @Partochcom, pourquoi vous bloquez le clic-droit et la sélection du texte sur vos pages ? C'est moche ça (cf [http://t.co/RIJ47hIFH1](http://t.co/RIJ47hIFH1) ) 
+
+La classe. @Vinvin à eu droit à un « Taratata à [Lui] » ! [http://t.co/3dXrBhGZid](http://t.co/3dXrBhGZid) 
+
+Je viens de découvrir le jeu «No More Room In Hell», un MMO «Kill All Zombies» gratuit et sur Linux :) Pas mal ! [http://t.co/h8hVoOaajD](http://t.co/h8hVoOaajD) 
+
+Plutôt Jean Vincent «Mal» Placé RT @Le_Con_Du_Jour:Jean Vincent Placé?RT @_Quack1 Je vous présente le con du jour [http://t.co/9Fhw0ftEvL](http://t.co/9Fhw0ftEvL) 
+
+Le sticker de @vincib pour la webcam vient [http://t.co/atn45chkgY](http://t.co/atn45chkgY) a priori (via @Reventl0v ) 
+
+Le plus gros portefeuille Bitcoin (1FfmbHfnpaZjKFvyi1okTjJJusN455paPH) vaut $120M [http://t.co/m8UmdQkVnU](http://t.co/m8UmdQkVnU) (via @bortzmeyer ) 
+
+Ah, joli #fail sur le site de @qwertee au login :p [http://t.co/8gw88fMm1r](http://t.co/8gw88fMm1r) 
+
 
 
 « De la quenelle à la vague », parallèle intéressant [http://t.co/5cVLGgqKzl](http://t.co/5cVLGgqKzl) 
