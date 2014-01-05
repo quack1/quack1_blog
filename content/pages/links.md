@@ -1,7 +1,13 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-05 00:30
+Date: 2014-01-06 00:35
 Author: Quack1
 Slug: links
+
+
+I really need to stop buying books and read those I already has! [http://t.co/iU9jX1qJHi](http://t.co/iU9jX1qJHi) 
+
+Encore un #fail sur iOS7 - @MattRichenburg This ruined my week. Paying it forward. I'm so sorry fellow iPhone users [http://t.co/VIWRVT8kWr](http://t.co/VIWRVT8kWr) 
+
 
 
 Dites @Partochcom, pourquoi vous bloquez le clic-droit et la sélection du texte sur vos pages ? C'est moche ça (cf [http://t.co/RIJ47hIFH1](http://t.co/RIJ47hIFH1) ) 
