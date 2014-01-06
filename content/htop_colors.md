@@ -6,7 +6,6 @@ Tags: Linux, Ubuntu, Sysdamin, Htop, Supervision, planet-libre, planet-ubuntu
 Slug: htop_colors
 Summary: 
 Lang: fr
-Status: draft
 
 C'est tout bête, mais quand on ne le sait pas on se retrouve un peu comme un con devant son écran quand on supervise une de ses machines. [Htop](http://htop.sourceforge.net/), le célèbre programme en ligne de commande permettant de superviser les ressources d'une machine Linux affiche en haut de sa « fenêtre » des barres qui affichent le pourcentage des ressources utilisées sur le système. 
 

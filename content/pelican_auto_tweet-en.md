@@ -2,7 +2,7 @@ Title: Pelican blog engine : automatically post a tweet for the last article
 Date: 2013-10-09 10:17
 Author: Quack1
 Category: Blog
-Tags: Blog, Pelican, Python, en
+Tags: Blog, Pelican, Python, en, pelican_auto_tweet
 Slug: pelican_auto_tweet
 Lang: en
 Summary: The only thing that the Pelican blog engine miss, it's the possibility to send a tweet automatically for the lasts posts. Then, now, there is a Python script for that! :)
