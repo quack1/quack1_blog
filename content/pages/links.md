@@ -1,7 +1,55 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-02 07:52
+Date: 2014-01-06 00:35
 Author: Quack1
 Slug: links
+
+
+I really need to stop buying books and read those I already has! [http://t.co/iU9jX1qJHi](http://t.co/iU9jX1qJHi) 
+
+Encore un #fail sur iOS7 - @MattRichenburg This ruined my week. Paying it forward. I'm so sorry fellow iPhone users [http://t.co/VIWRVT8kWr](http://t.co/VIWRVT8kWr) 
+
+
+
+Dites @Partochcom, pourquoi vous bloquez le clic-droit et la sélection du texte sur vos pages ? C'est moche ça (cf [http://t.co/RIJ47hIFH1](http://t.co/RIJ47hIFH1) ) 
+
+La classe. @Vinvin à eu droit à un « Taratata à [Lui] » ! [http://t.co/3dXrBhGZid](http://t.co/3dXrBhGZid) 
+
+Je viens de découvrir le jeu «No More Room In Hell», un MMO «Kill All Zombies» gratuit et sur Linux :) Pas mal ! [http://t.co/h8hVoOaajD](http://t.co/h8hVoOaajD) 
+
+Plutôt Jean Vincent «Mal» Placé RT @Le_Con_Du_Jour:Jean Vincent Placé?RT @_Quack1 Je vous présente le con du jour [http://t.co/9Fhw0ftEvL](http://t.co/9Fhw0ftEvL) 
+
+Le sticker de @vincib pour la webcam vient [http://t.co/atn45chkgY](http://t.co/atn45chkgY) a priori (via @Reventl0v ) 
+
+Le plus gros portefeuille Bitcoin (1FfmbHfnpaZjKFvyi1okTjJJusN455paPH) vaut $120M [http://t.co/m8UmdQkVnU](http://t.co/m8UmdQkVnU) (via @bortzmeyer ) 
+
+Ah, joli #fail sur le site de @qwertee au login :p [http://t.co/8gw88fMm1r](http://t.co/8gw88fMm1r) 
+
+
+
+« De la quenelle à la vague », parallèle intéressant [http://t.co/5cVLGgqKzl](http://t.co/5cVLGgqKzl) 
+
+Tiens, ça tenterais pas @babozor ça pour @lagrottedubarbu ? «  Making a knife with only common tools » [http://t.co/kxyVCiRnPM](http://t.co/kxyVCiRnPM) 
+
+Je viens de soutenir Manuel pour écrire son premier roman sur KissKissBankBank [http://t.co/6ptdaKhbxP](http://t.co/6ptdaKhbxP) 
+
+Un homme compte (et fait des stats) sur la vie sexuelle de sa femme et lui [http://t.co/kGly2B0IYZ](http://t.co/kGly2B0IYZ) 
+
+Depuis quelques jours, les liens que je poste sur Twitter sont sur le blog, pour les retrouver plus simplement ! :) [https://t.co/uJEQckWmiP](https://t.co/uJEQckWmiP) 
+
+Top 36 des phrases qu’on rêve tous de dire une fois dans notre vie [http://t.co/M3TqVjmgSN](http://t.co/M3TqVjmgSN) 
+
+
+La nouvelle version 1.0.5 de Lightbeam corrige les bugs présents sur Firefox Nightly [https://t.co/QrKJ5lQ7pT](https://t.co/QrKJ5lQ7pT) (via @MozillaZineFr ) 
+
+Quand le @babozor joue avec des #Nerf... [http://t.co/xXqYQaIJ68](http://t.co/xXqYQaIJ68) 
+
+Have I Been Pwned ? (@haveibeenpwned) par @troyhunt -- pour savoir si vous vous êtes fais powner lors d'un leak [https://t.co/jHFLfyl1ZC](https://t.co/jHFLfyl1ZC) 
+
+Enfin une célébrité qui comprend Twitter et Internet! via  @spicyplume - James Blunt, roi du contre-troll [http://t.co/gRjC6ZCsYP](http://t.co/gRjC6ZCsYP) 
+
+En fait, monter son serveur XMPP ça a l'air super simple. Je sens que je vais tenter ça! (merci @fmarier) [http://t.co/Qo2iw9yh33](http://t.co/Qo2iw9yh33) 
+
+Les 10 Commandements des utilisateurs de GNU/Linux [en]  [http://t.co/fQsp5mEKvM](http://t.co/fQsp5mEKvM) via @nicolargo 
 
 
 Bing-IP2hosts - Utiliser Bing pour trouver les différents hostnames hébérgés sur une IP [http://t.co/XgMiZECXzS](http://t.co/XgMiZECXzS) 
