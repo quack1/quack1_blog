@@ -2,7 +2,7 @@ Title: Publier automatiquement ses nouveaux articles sur le moteur de blog Pelic
 Date: 2013-11-05 18:43 
 Author: Quack1
 Category: Blog
-Tags: Blog, Pelican, Python, Git, planet-libre, planet-ubuntu
+Tags: Blog, Pelican, Python, Git, planet-libre, planet-ubuntu, pelican_auto_tweet
 Slug: git_hooks_pelican
 Summary: 
 

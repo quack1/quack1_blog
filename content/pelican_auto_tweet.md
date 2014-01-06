@@ -2,7 +2,7 @@ Title: Moteur de blog Pelican : twitter un lien automatique vers son dernier art
 Date: 2013-10-09 10:17
 Author: Quack1
 Category: Blog
-Tags: planet-libre, Blog, Pelican, Python
+Tags: planet-libre, Blog, Pelican, Python, pelican_auto_tweet
 Slug: pelican_auto_tweet
 Lang: fr
 Summary: Ce qu'il manque au moteur de blog de Pelican, c'est l'envoi automatique de tweets dès qu'on publie un nouvel article. Et bien désormais, il y a un script Python pour ça! :)
