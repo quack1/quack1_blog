@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-06 00:35
+Date: 2014-01-07 00:35
 Author: Quack1
 Slug: links
+
+
+Euuuuuh OK. Ça sort d'où ça ? O_o [http://t.co/QpitSOWiqU](http://t.co/QpitSOWiqU) (via Le Hollandais Vollant) 
+
+Ah, @Joupain @Rob_OEM on a bien fait de pas y aller ce midi... RT @H_Miser &amp; @MarieAmelie Queue devant #BurgerKing [http://t.co/nyGohfoVZc](http://t.co/nyGohfoVZc) 
+
+Somebody just sent me a microdonation on @flattr. Wow! Try Flattr out if you want to support me and other creators  [https://t.co/qDTvoYvnjd](https://t.co/qDTvoYvnjd) 
+
+Dieudonné la honteuse ! [http://t.co/tUHr1vbvNg](http://t.co/tUHr1vbvNg) par @stephaneguillon 
+
+Fuck Yeah !  Jack White vient d'enregistrer son prochain album solo, successeur de « Blunderbuss » [http://t.co/VOgkxGYzSt](http://t.co/VOgkxGYzSt) 
+
+So true - "@tauriqmoosa: Tweeting this again because this is how I see sport. [http://t.co/i9ZdQLjrDW"](http://t.co/i9ZdQLjrDW") 
 
 
 I really need to stop buying books and read those I already has! [http://t.co/iU9jX1qJHi](http://t.co/iU9jX1qJHi) 
