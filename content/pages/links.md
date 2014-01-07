@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-07 00:35
+Date: 2014-01-08 00:35
 Author: Quack1
 Slug: links
+
+
+Fin de réécriture du chapitre 2 de #PaintsOnTheWall. Relecture demain et publication avant le week-end j'espère! :) [http://t.co/cvqVmVucqq](http://t.co/cvqVmVucqq) 
 
 
 Euuuuuh OK. Ça sort d'où ça ? O_o [http://t.co/QpitSOWiqU](http://t.co/QpitSOWiqU) (via Le Hollandais Vollant) 
