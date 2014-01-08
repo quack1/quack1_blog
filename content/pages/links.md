@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-08 00:35
+Date: 2014-01-09 00:35
 Author: Quack1
 Slug: links
+
+
+Are you in a dream? #inception [https://t.co/EkLmppqJ2L](https://t.co/EkLmppqJ2L) 
+
+. @Zythom: Le petit blogueur et l'ANSSI [http://t.co/R1JbsJIr3m](http://t.co/R1JbsJIr3m) 
+
+Cape d'invisibilité à vendre sur le bon coin [http://t.co/MTfYbrqvbD](http://t.co/MTfYbrqvbD) 
+
+Des gens (un peu fous) grimpent la montagne la plus dangereuse au monde pour...un salon de thé [http://t.co/HcKjvEjRck](http://t.co/HcKjvEjRck) (photos à voir) 
+
+Demain la culture libre direct depuis Unity d'Ubuntu ? #BitTorrent - Framablog [http://t.co/qxerZdt7Ba](http://t.co/qxerZdt7Ba) via @framaka 
+
+3 Billion Devices Are Infected [http://t.co/Ekhalz873u](http://t.co/Ekhalz873u) 
 
 
 Fin de réécriture du chapitre 2 de #PaintsOnTheWall. Relecture demain et publication avant le week-end j'espère! :) [http://t.co/cvqVmVucqq](http://t.co/cvqVmVucqq) 
