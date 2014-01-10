@@ -1,7 +1,13 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-09 00:35
+Date: 2014-01-11 00:35
 Author: Quack1
 Slug: links
+
+
+. @CONIXSecurity is ready for the conference @SCEHacking :-) [http://t.co/g5lZpFrYKn](http://t.co/g5lZpFrYKn) 
+
+Des chimpanzés cannibales... [http://t.co/C9d93Naq0o](http://t.co/C9d93Naq0o) 
+
 
 
 Are you in a dream? #inception [https://t.co/EkLmppqJ2L](https://t.co/EkLmppqJ2L) 
