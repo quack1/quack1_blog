@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-11 00:35
+Date: 2014-01-12 00:35
 Author: Quack1
 Slug: links
+
+
+Greenwald aide Snowden à dénoncer la NSA, Prism, et la surveillance des US, et utilise Skype pour sa conf au 30C3 :/ [http://t.co/u0ZIeSug2r](http://t.co/u0ZIeSug2r) 
+
+On arrive à la fin du CTF de @SCEHacking... On a bien bossé toute la nuit \o/ [http://t.co/42NXFTVxE1](http://t.co/42NXFTVxE1) 
 
 
 . @CONIXSecurity is ready for the conference @SCEHacking :-) [http://t.co/g5lZpFrYKn](http://t.co/g5lZpFrYKn) 
