@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-12 00:35
+Date: 2014-01-13 00:35
 Author: Quack1
 Slug: links
+
+
+Elie Semoun écrit une lettre à Dieudonné [http://t.co/JHGC9jGfPz](http://t.co/JHGC9jGfPz) 
 
 
 Greenwald aide Snowden à dénoncer la NSA, Prism, et la surveillance des US, et utilise Skype pour sa conf au 30C3 :/ [http://t.co/u0ZIeSug2r](http://t.co/u0ZIeSug2r) 
