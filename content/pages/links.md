@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-13 00:35
+Date: 2014-01-14 00:35
 Author: Quack1
 Slug: links
+
+
+Quentin Tarantino annonce "The Hateful Eight", son prochain film (un second western après Django) [http://t.co/c3ncDc90x2](http://t.co/c3ncDc90x2) 
 
 
 Elie Semoun écrit une lettre à Dieudonné [http://t.co/JHGC9jGfPz](http://t.co/JHGC9jGfPz) 
