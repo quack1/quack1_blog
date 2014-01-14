@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-14 00:35
+Date: 2014-01-15 00:35
 Author: Quack1
 Slug: links
+
+
+Paingout, pornographe. [http://t.co/mQlBvkRviF](http://t.co/mQlBvkRviF) via @pingoo_rss 
+
+Bien curieux de tester ça ! - Make a cheap Passive Network Tap [http://t.co/IrSezJwSR7](http://t.co/IrSezJwSR7) via @_CLX @H_Miser 
 
 
 Quentin Tarantino annonce "The Hateful Eight", son prochain film (un second western après Django) [http://t.co/c3ncDc90x2](http://t.co/c3ncDc90x2) 
