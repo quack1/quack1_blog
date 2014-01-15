@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-15 00:35
+Date: 2014-01-16 00:35
 Author: Quack1
 Slug: links
+
+
+So, you have an IPS… And an AV…:  [http://t.co/nRsJOf58ok](http://t.co/nRsJOf58ok) via @sec_reactions 
+
+Si ça peut faire lire les enfants, bonne idée :) || Deux enfants américains sur trois lisent en numérique [http://t.co/613PQDAneD](http://t.co/613PQDAneD) 
 
 
 Paingout, pornographe. [http://t.co/mQlBvkRviF](http://t.co/mQlBvkRviF) via @pingoo_rss 
