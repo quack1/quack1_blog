@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-16 00:35
+Date: 2014-01-17 00:35
 Author: Quack1
 Slug: links
+
+
+Top 30 des détournements de « Martine », la parodie qui ne vieillit pas | Topito [http://t.co/CUOWzRFQyp](http://t.co/CUOWzRFQyp) 
+
+Si j'ai du courage, je me ferais un cryptex pendant mes prochaines vacances \o/ [http://t.co/gQIOaFrTjD](http://t.co/gQIOaFrTjD) 
 
 
 So, you have an IPS… And an AV…:  [http://t.co/nRsJOf58ok](http://t.co/nRsJOf58ok) via @sec_reactions 
