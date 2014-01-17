@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-17 00:35
+Date: 2014-01-18 00:35
 Author: Quack1
 Slug: links
+
+
+Fucking Need For Speed qui force à acheter un disque dur « certifié XBox 360 » pour pouvoir lancer le jeu [http://t.co/oNBfMtVpTl](http://t.co/oNBfMtVpTl) 
+
+Même la XBOX est devenue flat... #Windows8 [http://t.co/zPo0hi0ZUf](http://t.co/zPo0hi0ZUf) 
 
 
 Top 30 des détournements de « Martine », la parodie qui ne vieillit pas | Topito [http://t.co/CUOWzRFQyp](http://t.co/CUOWzRFQyp) 
