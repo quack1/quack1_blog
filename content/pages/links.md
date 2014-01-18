@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-18 00:35
+Date: 2014-01-19 00:35
 Author: Quack1
 Slug: links
+
+
+Ce que les éditeurs devraient faire, plutôt que chercher à fixer le prix des livres.  [http://t.co/gpkx3X6KsT](http://t.co/gpkx3X6KsT) 
 
 
 Fucking Need For Speed qui force à acheter un disque dur « certifié XBox 360 » pour pouvoir lancer le jeu [http://t.co/oNBfMtVpTl](http://t.co/oNBfMtVpTl) 
