@@ -1,7 +1,23 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-19 00:35
+Date: 2014-01-20 00:35
 Author: Quack1
 Slug: links
+
+
+Putain, qu'est ce que je trouve ça moche.. [http://t.co/EKQXFZ4rmQ](http://t.co/EKQXFZ4rmQ) Autant son corps que ce qui doit se passer dans sa tête pour en arriver là 
+
+Tiens, ça non plus j'avais jamais vu sur Youtube [http://t.co/l2ny9LA5DJ](http://t.co/l2ny9LA5DJ) 
+
+Je découvre cette fonctionnalité de @google [http://t.co/QVw1dzAqKL](http://t.co/QVw1dzAqKL) 
+
+Ça change de la fin de la saison de SOA! RT @sutterink: Beautiful Katey.
+Beautiful Maggie.
+All love.
+No forks. [http://t.co/uyd1BkJpzf](http://t.co/uyd1BkJpzf) 
+
+Par @Zythom: Vivre la pédophilie sans passer à l'acte [http://t.co/7khHr5PEaj](http://t.co/7khHr5PEaj) 
+
+Recette de madeleines aux noisettes géniale :) Avec du Nutella dedans, c'est encore meilleur! \o/ [http://t.co/SN7y8VbTdW](http://t.co/SN7y8VbTdW) 
 
 
 Ce que les éditeurs devraient faire, plutôt que chercher à fixer le prix des livres.  [http://t.co/gpkx3X6KsT](http://t.co/gpkx3X6KsT) 
