@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-20 00:35
+Date: 2014-01-21 00:35
 Author: Quack1
 Slug: links
+
+
+&#35;dailyWords 709mots,dt 331 de fiction [http://t.co/gsMBzvq0qH).](http://t.co/gsMBzvq0qH).)  Il en manque un peu pour arriver aux 500mots/j, mais trop crevé pour ajd :/ 
+
+OK. I need that ! RT @Yes_I_Want: Skull shot glass [http://t.co/oU6Q1WQ95P](http://t.co/oU6Q1WQ95P) 
+
+L'automatisation de ses tâches, par XKCD : [http://t.co/28vMQpqxhW](http://t.co/28vMQpqxhW) 
 
 
 Putain, qu'est ce que je trouve ça moche.. [http://t.co/EKQXFZ4rmQ](http://t.co/EKQXFZ4rmQ) Autant son corps que ce qui doit se passer dans sa tête pour en arriver là 
