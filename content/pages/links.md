@@ -1,7 +1,92 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-06 00:35
+Date: 2014-01-20 00:35
 Author: Quack1
 Slug: links
+
+
+Putain, qu'est ce que je trouve ça moche.. [http://t.co/EKQXFZ4rmQ](http://t.co/EKQXFZ4rmQ) Autant son corps que ce qui doit se passer dans sa tête pour en arriver là 
+
+Tiens, ça non plus j'avais jamais vu sur Youtube [http://t.co/l2ny9LA5DJ](http://t.co/l2ny9LA5DJ) 
+
+Je découvre cette fonctionnalité de @google [http://t.co/QVw1dzAqKL](http://t.co/QVw1dzAqKL) 
+
+Ça change de la fin de la saison de SOA! RT @sutterink: Beautiful Katey.
+Beautiful Maggie.
+All love.
+No forks. [http://t.co/uyd1BkJpzf](http://t.co/uyd1BkJpzf) 
+
+Par @Zythom: Vivre la pédophilie sans passer à l'acte [http://t.co/7khHr5PEaj](http://t.co/7khHr5PEaj) 
+
+Recette de madeleines aux noisettes géniale :) Avec du Nutella dedans, c'est encore meilleur! \o/ [http://t.co/SN7y8VbTdW](http://t.co/SN7y8VbTdW) 
+
+
+Ce que les éditeurs devraient faire, plutôt que chercher à fixer le prix des livres.  [http://t.co/gpkx3X6KsT](http://t.co/gpkx3X6KsT) 
+
+
+Fucking Need For Speed qui force à acheter un disque dur « certifié XBox 360 » pour pouvoir lancer le jeu [http://t.co/oNBfMtVpTl](http://t.co/oNBfMtVpTl) 
+
+Même la XBOX est devenue flat... #Windows8 [http://t.co/zPo0hi0ZUf](http://t.co/zPo0hi0ZUf) 
+
+
+Top 30 des détournements de « Martine », la parodie qui ne vieillit pas | Topito [http://t.co/CUOWzRFQyp](http://t.co/CUOWzRFQyp) 
+
+Si j'ai du courage, je me ferais un cryptex pendant mes prochaines vacances \o/ [http://t.co/gQIOaFrTjD](http://t.co/gQIOaFrTjD) 
+
+
+So, you have an IPS… And an AV…:  [http://t.co/nRsJOf58ok](http://t.co/nRsJOf58ok) via @sec_reactions 
+
+Si ça peut faire lire les enfants, bonne idée :) || Deux enfants américains sur trois lisent en numérique [http://t.co/613PQDAneD](http://t.co/613PQDAneD) 
+
+
+Paingout, pornographe. [http://t.co/mQlBvkRviF](http://t.co/mQlBvkRviF) via @pingoo_rss 
+
+Bien curieux de tester ça ! - Make a cheap Passive Network Tap [http://t.co/IrSezJwSR7](http://t.co/IrSezJwSR7) via @_CLX @H_Miser 
+
+
+Quentin Tarantino annonce "The Hateful Eight", son prochain film (un second western après Django) [http://t.co/c3ncDc90x2](http://t.co/c3ncDc90x2) 
+
+
+Elie Semoun écrit une lettre à Dieudonné [http://t.co/JHGC9jGfPz](http://t.co/JHGC9jGfPz) 
+
+
+Greenwald aide Snowden à dénoncer la NSA, Prism, et la surveillance des US, et utilise Skype pour sa conf au 30C3 :/ [http://t.co/u0ZIeSug2r](http://t.co/u0ZIeSug2r) 
+
+On arrive à la fin du CTF de @SCEHacking... On a bien bossé toute la nuit \o/ [http://t.co/42NXFTVxE1](http://t.co/42NXFTVxE1) 
+
+
+. @CONIXSecurity is ready for the conference @SCEHacking :-) [http://t.co/g5lZpFrYKn](http://t.co/g5lZpFrYKn) 
+
+Des chimpanzés cannibales... [http://t.co/C9d93Naq0o](http://t.co/C9d93Naq0o) 
+
+
+
+Are you in a dream? #inception [https://t.co/EkLmppqJ2L](https://t.co/EkLmppqJ2L) 
+
+. @Zythom: Le petit blogueur et l'ANSSI [http://t.co/R1JbsJIr3m](http://t.co/R1JbsJIr3m) 
+
+Cape d'invisibilité à vendre sur le bon coin [http://t.co/MTfYbrqvbD](http://t.co/MTfYbrqvbD) 
+
+Des gens (un peu fous) grimpent la montagne la plus dangereuse au monde pour...un salon de thé [http://t.co/HcKjvEjRck](http://t.co/HcKjvEjRck) (photos à voir) 
+
+Demain la culture libre direct depuis Unity d'Ubuntu ? #BitTorrent - Framablog [http://t.co/qxerZdt7Ba](http://t.co/qxerZdt7Ba) via @framaka 
+
+3 Billion Devices Are Infected [http://t.co/Ekhalz873u](http://t.co/Ekhalz873u) 
+
+
+Fin de réécriture du chapitre 2 de #PaintsOnTheWall. Relecture demain et publication avant le week-end j'espère! :) [http://t.co/cvqVmVucqq](http://t.co/cvqVmVucqq) 
+
+
+Euuuuuh OK. Ça sort d'où ça ? O_o [http://t.co/QpitSOWiqU](http://t.co/QpitSOWiqU) (via Le Hollandais Vollant) 
+
+Ah, @Joupain @Rob_OEM on a bien fait de pas y aller ce midi... RT @H_Miser &amp; @MarieAmelie Queue devant #BurgerKing [http://t.co/nyGohfoVZc](http://t.co/nyGohfoVZc) 
+
+Somebody just sent me a microdonation on @flattr. Wow! Try Flattr out if you want to support me and other creators  [https://t.co/qDTvoYvnjd](https://t.co/qDTvoYvnjd) 
+
+Dieudonné la honteuse ! [http://t.co/tUHr1vbvNg](http://t.co/tUHr1vbvNg) par @stephaneguillon 
+
+Fuck Yeah !  Jack White vient d'enregistrer son prochain album solo, successeur de « Blunderbuss » [http://t.co/VOgkxGYzSt](http://t.co/VOgkxGYzSt) 
+
+So true - "@tauriqmoosa: Tweeting this again because this is how I see sport. [http://t.co/i9ZdQLjrDW"](http://t.co/i9ZdQLjrDW") 
 
 
 I really need to stop buying books and read those I already has! [http://t.co/iU9jX1qJHi](http://t.co/iU9jX1qJHi) 
