@@ -1,7 +1,11 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-21 00:35
+Date: 2014-01-23 00:35
 Author: Quack1
 Slug: links
+
+
+Quentin Tarantino abandonne son western « the Hateful Eight » après que l'agent d'un acteur ait fait fuiter le scénar [http://t.co/vRQZ6l7JXv](http://t.co/vRQZ6l7JXv) 
+
 
 
 &#35;dailyWords 709mots,dt 331 de fiction [http://t.co/gsMBzvq0qH).](http://t.co/gsMBzvq0qH).)  Il en manque un peu pour arriver aux 500mots/j, mais trop crevé pour ajd :/ 
