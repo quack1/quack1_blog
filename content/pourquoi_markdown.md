@@ -1,5 +1,5 @@
 Title: Pourquoi écrire en Markdown ?
-Date: 2014-01-23 10:19
+Date: 2014-01-24 00:00 
 Author: Quack1
 Category: Writing
 Tags: Écriture, Markdown, planet-libre, planet-ubuntu
