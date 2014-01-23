@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-23 00:35
+Date: 2014-01-24 00:35
 Author: Quack1
 Slug: links
+
+
+16h30, au travail. Narmol. [http://t.co/bBvtUYnUlW](http://t.co/bBvtUYnUlW) 
 
 
 Quentin Tarantino abandonne son western « the Hateful Eight » après que l'agent d'un acteur ait fait fuiter le scénar [http://t.co/vRQZ6l7JXv](http://t.co/vRQZ6l7JXv) 
