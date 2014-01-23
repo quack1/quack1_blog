@@ -18,7 +18,7 @@ J'ai bien kiffé ça pour 2 raisons :
 
 Du coup, télécharger une vidéo et la balancer sur le disque dur du Raspberry pour pouvoir regarder légalement mon film sur ma télé, c'est quand même pas mal.
 
-Me voilà donc embarqué dans un _voyage innatendu_.
+Me voilà donc embarqué dans un _voyage inattendu_.
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Problème, le site bugue dans Firefox (pourtant en Nightly, c'est à dire la ver
 
 Je navigue dans les différents menus, j'arrive jusqu'à la page du film, je clique sur &laquo;Téléchargement&raquo;, et là, c'est le drame.
 
-<div align=center><a href="upload/flixster_adobe_air.png"><img src="upload/flixster_adobe_air.png" width="600" align=center /></a></div>
+<div align=center><a href="/upload/flixster_adobe_air.png"><img src="upload/flixster_adobe_air.png" width="600" align=center /></a></div>
 
 C'est pas possible d'avoir juste un lien de téléchargement depuis leur [CDN](http://fr.wikipedia.org/wiki/Content_Delivery_Network) pour avoir mon film ?
 
