@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-24 00:35
+Date: 2014-01-27 00:35
 Author: Quack1
 Slug: links
+
+
+Sting « Shape Of My Heart » Live @ Montreux 2006 [http://t.co/4dYE1hR8ZL](http://t.co/4dYE1hR8ZL) 
+
+Arctic Monkeys - « Evil Twin » [http://t.co/QNzOO1gpTF](http://t.co/QNzOO1gpTF) 
+
+La somme de l'infini est-elle un nombre négatif ? [http://t.co/w2l67sEHLu](http://t.co/w2l67sEHLu) (via @FlorencePorcel) 
+
+
 
 
 16h30, au travail. Narmol. [http://t.co/bBvtUYnUlW](http://t.co/bBvtUYnUlW) 
