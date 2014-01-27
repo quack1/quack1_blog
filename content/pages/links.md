@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-27 00:35
+Date: 2014-01-28 00:35
 Author: Quack1
 Slug: links
+
+
+Et si les Daft Punk n'étaient pas sur scène, mais dans le public, lors des Grammys ? [http://t.co/BzJDLz4J3A](http://t.co/BzJDLz4J3A) 
+
+Top 30 des phrases incontournables de Top Chef (entre 2 pubs) [http://t.co/5PlVZ0QY6V](http://t.co/5PlVZ0QY6V) 
+
+Où l'on reconnaît les grands bonhommes | Pour sauver un théâtre, Stephen King lui offre Shining [http://t.co/3wOROfwGhI](http://t.co/3wOROfwGhI) 
 
 
 Sting « Shape Of My Heart » Live @ Montreux 2006 [http://t.co/4dYE1hR8ZL](http://t.co/4dYE1hR8ZL) 
