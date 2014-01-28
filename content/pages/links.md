@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-28 00:35
+Date: 2014-01-29 00:35
 Author: Quack1
 Slug: links
+
+
+Bon, d'habitude j'aime pas trop ces vidéos, mais celle là est bonne :) | Cyprien - Les Réunions [https://t.co/CMNSXVUTN1](https://t.co/CMNSXVUTN1) 
+
+Le script de « The Hateful Eight » (ex-prochain Tarantino) disponible sur le Net ? [http://t.co/KaZOj6L62d](http://t.co/KaZOj6L62d) 
 
 
 Et si les Daft Punk n'étaient pas sur scène, mais dans le public, lors des Grammys ? [http://t.co/BzJDLz4J3A](http://t.co/BzJDLz4J3A) 
