@@ -1,7 +1,26 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-29 00:35
+Date: 2014-01-30 00:35
 Author: Quack1
 Slug: links
+
+
+C'est comme ça que j'ai appris ma table de 9 en primaire \o/ (via @Yes_I_Want ) [http://t.co/oiRMTMOIAL](http://t.co/oiRMTMOIAL) 
+
+Quand @SolangeTeParle de Nymphomaniac volume 2 [http://t.co/k1zhnUY3bK](http://t.co/k1zhnUY3bK) (cette fille est dingue X] ) 
+
+Modifier la taille maximale des emails sur Postfix [http://t.co/FibAgp6NZM](http://t.co/FibAgp6NZM) 
+
+Intéressant. Comment fonctionne les bouillottes magiques qui chauffent toutes seules ? [http://t.co/o3IzKBPHXU](http://t.co/o3IzKBPHXU) 
+
+Construisez des structures en Lego directement dans votre navigateur ! [http://t.co/SOLuf1sif1](http://t.co/SOLuf1sif1) 
+
+Installer MPV, un lecteur de vidéos minimaliste, sur Ubuntu et dérivés [http://t.co/n6rBaGWpbJ](http://t.co/n6rBaGWpbJ) 
+
+Top 10 des métiers de l’informatique qui ont des noms qui pètent bien (quand on y connait rien) [http://t.co/Xfag0UkOVo](http://t.co/Xfag0UkOVo) 
+
+Et merde. Ça aurait été un beau coup de com' pourtant. [http://t.co/FUxczKQtSf](http://t.co/FUxczKQtSf) 
+
+Culotte phosphorescente, aux motifs spatiaux :)  [http://t.co/I1k0lIOVJg](http://t.co/I1k0lIOVJg) 
 
 
 Bon, d'habitude j'aime pas trop ces vidéos, mais celle là est bonne :) | Cyprien - Les Réunions [https://t.co/CMNSXVUTN1](https://t.co/CMNSXVUTN1) 
