@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-30 00:35
+Date: 2014-01-31 00:35
 Author: Quack1
 Slug: links
+
+
+Faire travailler sa mémoire avec quelques jeux simples [http://t.co/ZIODv9CshN](http://t.co/ZIODv9CshN) 
+
+Le sexisme illustré [http://t.co/iObZAAy6xI](http://t.co/iObZAAy6xI) 
+
+Le #Turpial est d'humeur joyeuse le matin :D [http://t.co/2UNYO7trkZ](http://t.co/2UNYO7trkZ) 
 
 
 C'est comme ça que j'ai appris ma table de 9 en primaire \o/ (via @Yes_I_Want ) [http://t.co/oiRMTMOIAL](http://t.co/oiRMTMOIAL) 
