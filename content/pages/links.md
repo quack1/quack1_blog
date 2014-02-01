@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-31 00:35
+Date: 2014-02-02 00:35
 Author: Quack1
 Slug: links
+
+
+Bêtisier de la Saison 6 de The Big BangTheory [http://t.co/Sj3YXjAA2U](http://t.co/Sj3YXjAA2U) via @youtube 
+
+Dites, à la base, elle était sous licence libre la photo de ça chat? (Berlin - Septembre 2013 - CC-By-SA) [http://t.co/Y5jgKPiAVP"](http://t.co/Y5jgKPiAVP") 
+
+Le gouvernement UK passe tous ses PC sur des suites bureautiques libre, pour contrer le monopole de Microsoft! :-) [http://t.co/imGIQSiNbM](http://t.co/imGIQSiNbM) 
+
+Quand j'oublie d'incrémenter mon compteur dans une boucle while [http://t.co/ScSOmU3Dwg](http://t.co/ScSOmU3Dwg) 
+
 
 
 Faire travailler sa mémoire avec quelques jeux simples [http://t.co/ZIODv9CshN](http://t.co/ZIODv9CshN) 
