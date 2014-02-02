@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-02 00:35
+Date: 2014-02-03 00:35
 Author: Quack1
 Slug: links
+
+
+Amis iPhoners, si vous voulez continuer à recevoir des SMS : Gardez votre iPhone, ou n'utilisez pas iMessages [http://t.co/Db5rirrQwa](http://t.co/Db5rirrQwa) 
+
+Extra ! \o/ RT @PoufyGB: Une feuille, un crayon, et surtout... beaucoup de talent : [http://t.co/LNxIFrQd8H](http://t.co/LNxIFrQd8H) 
+
+J. K. Rowling sous-entend qu'Hermione aurait dû épouser Harry Potter [http://t.co/mLNUDOZCya](http://t.co/mLNUDOZCya) 
 
 
 Bêtisier de la Saison 6 de The Big BangTheory [http://t.co/Sj3YXjAA2U](http://t.co/Sj3YXjAA2U) via @youtube 
