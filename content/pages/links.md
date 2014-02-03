@@ -1,7 +1,26 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-03 00:35
+Date: 2014-02-04 00:35
 Author: Quack1
 Slug: links
+
+
+Je crois que je vais me mettre ça en sonnerie le matin ! (@sgtpembry &amp; @SemounElie ) [https://t.co/qIHwndzyDI](https://t.co/qIHwndzyDI) (via @ary3ss ) 
+
+Breaking Bad croisé avec les Simpsons par ThomasJakeRoss [http://t.co/1DXtkld5Ts](http://t.co/1DXtkld5Ts) 
+
+Quand je serais grand, je veux être Jimmy Di Resta :D [https://t.co/fHO2WxYqSl](https://t.co/fHO2WxYqSl) 
+
+J'ai rarement aussi bien géré ma batterie! :-) [http://t.co/LkNoKyhN9O](http://t.co/LkNoKyhN9O) 
+
+Dat iz a great one! :D RT @Rob_OEM: @_Quack1 @angel_killah @Joupain @razaina also [http://t.co/AOc65axg9k](http://t.co/AOc65axg9k) 
+
+Les pokémons starters redéssinés par @timburton  (via @MagEntreeLibre ) [http://t.co/l0SxGidvm7](http://t.co/l0SxGidvm7) 
+
+Flippant... - Quel âge a cette femme? [http://t.co/9YBTnDOsCP](http://t.co/9YBTnDOsCP) (via @FlorencePorcel ) 
+
+C'est beau le travail chez Pixar :D [http://t.co/2xNdA8aFOk](http://t.co/2xNdA8aFOk) 
+
+Qui paye pour le développement du kernel Linux? [http://t.co/VjJdkEUhGw](http://t.co/VjJdkEUhGw) 
 
 
 Amis iPhoners, si vous voulez continuer à recevoir des SMS : Gardez votre iPhone, ou n'utilisez pas iMessages [http://t.co/Db5rirrQwa](http://t.co/Db5rirrQwa) 
