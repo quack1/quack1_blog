@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-04 00:35
+Date: 2014-02-05 00:35
 Author: Quack1
 Slug: links
+
+
+Expliquer le Machete Order à sa copine ! \o/ [http://t.co/bLZVPcZn1z](http://t.co/bLZVPcZn1z) 
+
+♫ Reptilia – The Strokes [http://t.co/zAlbBFwpWg](http://t.co/zAlbBFwpWg) #NowPlaying 
+
+♫ Tick Tick Boom – The Hives [http://t.co/08feV6y7TV](http://t.co/08feV6y7TV) #NowPlaying 
+
+Putain, je m'en lasse pas ! (à écouter avec écouteurs) [https://t.co/qIHwndzyDI](https://t.co/qIHwndzyDI) 
 
 
 Je crois que je vais me mettre ça en sonnerie le matin ! (@sgtpembry &amp; @SemounElie ) [https://t.co/qIHwndzyDI](https://t.co/qIHwndzyDI) (via @ary3ss ) 
