@@ -1,7 +1,19 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-05 00:35
+Date: 2014-02-07 00:35
 Author: Quack1
 Slug: links
+
+
+Tiens, un @babozor pas barbu \o/ (ou presque) [http://t.co/e2jvLihdgs](http://t.co/e2jvLihdgs) 
+
+Comment McDonald’s réalise les Chicken McNuggets [http://t.co/Zj0CQGcvZ7](http://t.co/Zj0CQGcvZ7) via @fastandfood 
+
+L'importance de la relecture pré-publication #MISC71 [http://t.co/0mDwzqSPNL](http://t.co/0mDwzqSPNL) 
+
+Quelques exemples de plugins Firefox/Chrome pour surveiller la sécurité de son HTTPS par @vincib #MISC71 #SSL [http://t.co/jgAIu8C2mH](http://t.co/jgAIu8C2mH) 
+
+Elle fonctionne encore cette attaque sur X.509? #MISC71 #SSL [http://t.co/XAEsaZFCh4](http://t.co/XAEsaZFCh4) 
+
 
 
 Expliquer le Machete Order à sa copine ! \o/ [http://t.co/bLZVPcZn1z](http://t.co/bLZVPcZn1z) 
