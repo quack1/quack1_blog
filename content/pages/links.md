@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-07 00:35
+Date: 2014-02-08 00:35
 Author: Quack1
 Slug: links
+
+
+"@_reflets_: )( Aidez-nous a façonner une nouvelle star ! [http://t.co/lwPs7EMRFC"](http://t.co/lwPs7EMRFC") 
+
+Steve Jobs voulait un PC sous Mac OS, et Wozniak un iPhone sous Android [http://t.co/RMsiicADQ2](http://t.co/RMsiicADQ2) 
 
 
 Tiens, un @babozor pas barbu \o/ (ou presque) [http://t.co/e2jvLihdgs](http://t.co/e2jvLihdgs) 
