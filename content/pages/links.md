@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-08 00:35
+Date: 2014-02-11 00:35
 Author: Quack1
 Slug: links
+
+
+Voilà ce qui se serait passé si j’avais essayé de vendre « Dr House » à la télé française - Rue89 [http://t.co/K2lKV3DgFm](http://t.co/K2lKV3DgFm) 
+
+Clavier minimaliste pour programmeur [http://t.co/AEZ5UZEpUw](http://t.co/AEZ5UZEpUw) 
+
+► Créez votre hashtag ILLEGAL avec [http://t.co/rYqeoZSme9](http://t.co/rYqeoZSme9) #illegal #SelonMadameSoleilDeGaulleEmbrasseUneBlogueuseMode 
+
+.@Maitre_Eolas, encore une fois très juste, apporte un avis juridique sur l'affaire #Bluetouff [http://t.co/rBLFEpUQfJ](http://t.co/rBLFEpUQfJ) 
+
+Résumé (en anglais) de l'affaire @bluetouff sur ArsTechnica [http://t.co/LE8jiZwdWS](http://t.co/LE8jiZwdWS) 
+
+Chez @bortzmeyer : Quelques conseils pour générer une bonne clé PGP [http://t.co/AgPcCs3k69](http://t.co/AgPcCs3k69) 
+
+
 
 
 "@_reflets_: )( Aidez-nous a façonner une nouvelle star ! [http://t.co/lwPs7EMRFC"](http://t.co/lwPs7EMRFC") 
