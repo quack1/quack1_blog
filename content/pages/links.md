@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-11 00:35
+Date: 2014-02-12 00:35
 Author: Quack1
 Slug: links
+
+
+Le pouvoir des livres sur les liseuses!  RT @Giribot: "Liseuse" contre "livre" RT"@kristinem5: ^^ [http://t.co/ZzBhzWXepL"](http://t.co/ZzBhzWXepL") 
+
+Write-up d'une faille critique découverte sur @github, et réponse de la team Secu de Github  [http://t.co/Je5dcCkS8T](http://t.co/Je5dcCkS8T) 
 
 
 Voilà ce qui se serait passé si j’avais essayé de vendre « Dr House » à la télé française - Rue89 [http://t.co/K2lKV3DgFm](http://t.co/K2lKV3DgFm) 
