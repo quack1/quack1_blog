@@ -1,7 +1,89 @@
 Title: Liens partagés sur Twitter
-Date: 2014-01-31 00:35
+Date: 2014-02-12 00:35
 Author: Quack1
 Slug: links
+
+
+Le pouvoir des livres sur les liseuses!  RT @Giribot: "Liseuse" contre "livre" RT"@kristinem5: ^^ [http://t.co/ZzBhzWXepL"](http://t.co/ZzBhzWXepL") 
+
+Write-up d'une faille critique découverte sur @github, et réponse de la team Secu de Github  [http://t.co/Je5dcCkS8T](http://t.co/Je5dcCkS8T) 
+
+
+Voilà ce qui se serait passé si j’avais essayé de vendre « Dr House » à la télé française - Rue89 [http://t.co/K2lKV3DgFm](http://t.co/K2lKV3DgFm) 
+
+Clavier minimaliste pour programmeur [http://t.co/AEZ5UZEpUw](http://t.co/AEZ5UZEpUw) 
+
+► Créez votre hashtag ILLEGAL avec [http://t.co/rYqeoZSme9](http://t.co/rYqeoZSme9) #illegal #SelonMadameSoleilDeGaulleEmbrasseUneBlogueuseMode 
+
+.@Maitre_Eolas, encore une fois très juste, apporte un avis juridique sur l'affaire #Bluetouff [http://t.co/rBLFEpUQfJ](http://t.co/rBLFEpUQfJ) 
+
+Résumé (en anglais) de l'affaire @bluetouff sur ArsTechnica [http://t.co/LE8jiZwdWS](http://t.co/LE8jiZwdWS) 
+
+Chez @bortzmeyer : Quelques conseils pour générer une bonne clé PGP [http://t.co/AgPcCs3k69](http://t.co/AgPcCs3k69) 
+
+
+
+
+"@_reflets_: )( Aidez-nous a façonner une nouvelle star ! [http://t.co/lwPs7EMRFC"](http://t.co/lwPs7EMRFC") 
+
+Steve Jobs voulait un PC sous Mac OS, et Wozniak un iPhone sous Android [http://t.co/RMsiicADQ2](http://t.co/RMsiicADQ2) 
+
+
+Tiens, un @babozor pas barbu \o/ (ou presque) [http://t.co/e2jvLihdgs](http://t.co/e2jvLihdgs) 
+
+Comment McDonald’s réalise les Chicken McNuggets [http://t.co/Zj0CQGcvZ7](http://t.co/Zj0CQGcvZ7) via @fastandfood 
+
+L'importance de la relecture pré-publication #MISC71 [http://t.co/0mDwzqSPNL](http://t.co/0mDwzqSPNL) 
+
+Quelques exemples de plugins Firefox/Chrome pour surveiller la sécurité de son HTTPS par @vincib #MISC71 #SSL [http://t.co/jgAIu8C2mH](http://t.co/jgAIu8C2mH) 
+
+Elle fonctionne encore cette attaque sur X.509? #MISC71 #SSL [http://t.co/XAEsaZFCh4](http://t.co/XAEsaZFCh4) 
+
+
+
+Expliquer le Machete Order à sa copine ! \o/ [http://t.co/bLZVPcZn1z](http://t.co/bLZVPcZn1z) 
+
+♫ Reptilia – The Strokes [http://t.co/zAlbBFwpWg](http://t.co/zAlbBFwpWg) #NowPlaying 
+
+♫ Tick Tick Boom – The Hives [http://t.co/08feV6y7TV](http://t.co/08feV6y7TV) #NowPlaying 
+
+Putain, je m'en lasse pas ! (à écouter avec écouteurs) [https://t.co/qIHwndzyDI](https://t.co/qIHwndzyDI) 
+
+
+Je crois que je vais me mettre ça en sonnerie le matin ! (@sgtpembry &amp; @SemounElie ) [https://t.co/qIHwndzyDI](https://t.co/qIHwndzyDI) (via @ary3ss ) 
+
+Breaking Bad croisé avec les Simpsons par ThomasJakeRoss [http://t.co/1DXtkld5Ts](http://t.co/1DXtkld5Ts) 
+
+Quand je serais grand, je veux être Jimmy Di Resta :D [https://t.co/fHO2WxYqSl](https://t.co/fHO2WxYqSl) 
+
+J'ai rarement aussi bien géré ma batterie! :-) [http://t.co/LkNoKyhN9O](http://t.co/LkNoKyhN9O) 
+
+Dat iz a great one! :D RT @Rob_OEM: @_Quack1 @angel_killah @Joupain @razaina also [http://t.co/AOc65axg9k](http://t.co/AOc65axg9k) 
+
+Les pokémons starters redéssinés par @timburton  (via @MagEntreeLibre ) [http://t.co/l0SxGidvm7](http://t.co/l0SxGidvm7) 
+
+Flippant... - Quel âge a cette femme? [http://t.co/9YBTnDOsCP](http://t.co/9YBTnDOsCP) (via @FlorencePorcel ) 
+
+C'est beau le travail chez Pixar :D [http://t.co/2xNdA8aFOk](http://t.co/2xNdA8aFOk) 
+
+Qui paye pour le développement du kernel Linux? [http://t.co/VjJdkEUhGw](http://t.co/VjJdkEUhGw) 
+
+
+Amis iPhoners, si vous voulez continuer à recevoir des SMS : Gardez votre iPhone, ou n'utilisez pas iMessages [http://t.co/Db5rirrQwa](http://t.co/Db5rirrQwa) 
+
+Extra ! \o/ RT @PoufyGB: Une feuille, un crayon, et surtout... beaucoup de talent : [http://t.co/LNxIFrQd8H](http://t.co/LNxIFrQd8H) 
+
+J. K. Rowling sous-entend qu'Hermione aurait dû épouser Harry Potter [http://t.co/mLNUDOZCya](http://t.co/mLNUDOZCya) 
+
+
+Bêtisier de la Saison 6 de The Big BangTheory [http://t.co/Sj3YXjAA2U](http://t.co/Sj3YXjAA2U) via @youtube 
+
+Dites, à la base, elle était sous licence libre la photo de ça chat? (Berlin - Septembre 2013 - CC-By-SA) [http://t.co/Y5jgKPiAVP"](http://t.co/Y5jgKPiAVP") 
+
+Le gouvernement UK passe tous ses PC sur des suites bureautiques libre, pour contrer le monopole de Microsoft! :-) [http://t.co/imGIQSiNbM](http://t.co/imGIQSiNbM) 
+
+Quand j'oublie d'incrémenter mon compteur dans une boucle while [http://t.co/ScSOmU3Dwg](http://t.co/ScSOmU3Dwg) 
+
 
 
 Faire travailler sa mémoire avec quelques jeux simples [http://t.co/ZIODv9CshN](http://t.co/ZIODv9CshN) 
