@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-12 00:35
+Date: 2014-02-13 00:35
 Author: Quack1
 Slug: links
+
+
+Je découvre ça aujourd'hui. Les Them Crooked Vultures coupés en livre pendant les grammys pour passer de la pub :-\ [http://t.co/mJ1jkbzN5e](http://t.co/mJ1jkbzN5e) 
+
+Les barbes des utilisateurs Linux (via @TheBlogPirate ) [http://t.co/kgTTva7Npd](http://t.co/kgTTva7Npd) 
+
+Alors qu'une corne c'est juste de l'ongle RT @Gendarmerie Les cornes se vendent 40k€/kg alors que l'or vaut 30K€/kg ! [http://t.co/PKiU1gT5gW](http://t.co/PKiU1gT5gW) 
 
 
 Le pouvoir des livres sur les liseuses!  RT @Giribot: "Liseuse" contre "livre" RT"@kristinem5: ^^ [http://t.co/ZzBhzWXepL"](http://t.co/ZzBhzWXepL") 
