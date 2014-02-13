@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-13 00:35
+Date: 2014-02-14 00:35
 Author: Quack1
 Slug: links
+
+
+Premiers bouquins que j'achète et que probablement plus personne ne lira (même pas moi) [http://t.co/UTSzv8T8Nu](http://t.co/UTSzv8T8Nu) 
+
+L'importance de la lecture (via @GeorgeRRMartin_ ) #books [http://t.co/W7K1UcJg3f](http://t.co/W7K1UcJg3f) 
+
+Et il est sérieux! Profitez en XD "@CoDBrooKy_Fr: Mes tarifs pour débuter en tant que designer graphiste !! [http://t.co/8MUmmUksLE"](http://t.co/8MUmmUksLE") 
+
+WTF?!? O_o "@Bouletcorp: Facebook, tes pubs me font de plus en plus rêver: [http://t.co/eI8CEhwt0X"](http://t.co/eI8CEhwt0X") 
+
+Le dernier @JimmyDiResta : Un coffre au trésor pirate :) [https://t.co/i2aogoFe9x](https://t.co/i2aogoFe9x) 
+
+- @nail_art_france me suit, c'est bon, je peux me reconvertir en blogueur mode! \o/ [http://t.co/mdmaOKHcKu](http://t.co/mdmaOKHcKu) 
+
+Mettre la stack TCP dans le userland rendrait un serveur Web plus performant (débit x3,5 sur un Linux/nginx) [http://t.co/1ibQsv13uK](http://t.co/1ibQsv13uK) 
+
+Jolie jeu de mot :) RT @VictorPryen: Jsuis mort, c'est le meilleur #Unemarqueunjeudemot [http://t.co/3RNnuHSNHa](http://t.co/3RNnuHSNHa) 
 
 
 Je découvre ça aujourd'hui. Les Them Crooked Vultures coupés en livre pendant les grammys pour passer de la pub :-\ [http://t.co/mJ1jkbzN5e](http://t.co/mJ1jkbzN5e) 
