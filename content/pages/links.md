@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-14 00:35
+Date: 2014-02-15 00:35
 Author: Quack1
 Slug: links
+
+
+Pourquoi les mots de passes sont souvent limités à un faible nombre de caractères [http://t.co/2FpkoAH8zG](http://t.co/2FpkoAH8zG) (via @kartoch ) 
+
+&#35;QOTD par @Joupain "Des petits coeurs pour partager de l'amour entre collaborateurs" [http://t.co/kePwoYdCst](http://t.co/kePwoYdCst) 
 
 
 Premiers bouquins que j'achète et que probablement plus personne ne lira (même pas moi) [http://t.co/UTSzv8T8Nu](http://t.co/UTSzv8T8Nu) 
