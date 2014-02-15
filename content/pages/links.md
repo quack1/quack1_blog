@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-15 00:35
+Date: 2014-02-16 00:35
 Author: Quack1
 Slug: links
+
+
+2 minutes de bonheur : tous les Bazinga des 4 premières saisons de Big Bang Theory [https://t.co/mk8FqmAmJY](https://t.co/mk8FqmAmJY) 
+
+Je crois que j'ai (un peu) coupé un bouquin... #DIY [http://t.co/Q6fY2DFXVS](http://t.co/Q6fY2DFXVS) 
+
+Script Python qui permet d'empêcher qu'un binaire soit détecté, via son hash, sur Virus Total [https://t.co/zQ9ohrepye](https://t.co/zQ9ohrepye) 
 
 
 Pourquoi les mots de passes sont souvent limités à un faible nombre de caractères [http://t.co/2FpkoAH8zG](http://t.co/2FpkoAH8zG) (via @kartoch ) 
