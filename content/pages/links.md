@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-17 00:35
+Date: 2014-02-18 00:35
 Author: Quack1
 Slug: links
+
+
+C'est quand même con si tu veux un bouquin qui est au milieu de ça..."Archway of books" [http://t.co/E1XV7CyM4e](http://t.co/E1XV7CyM4e) 
+
+Truc pour "reset" les cartouches d'encre qui sont jugées vides par l'imprimante [http://t.co/8Ex69j74uD](http://t.co/8Ex69j74uD) 
+
+Maquillage sympa - Sauf que c'est un masque qu'on enlève,et pas un qu'il faut porter... [http://t.co/gilEEyGg5u](http://t.co/gilEEyGg5u) 
+
+&#35;LesBoulets Un trafic de cannabis démantelé après le tweet foireux d'un des types [http://t.co/2qKkwQSFH7](http://t.co/2qKkwQSFH7) 
+
+On peut être joueur PRO de Magic? O_o "@wizards_magicFR: 6 bonnes raisons de suivre le PRO TOUR de ce WE ! [http://t.co/0hjugqBdmb](http://t.co/0hjugqBdmb) " 
+
+Présentation du SIEM Prelude par @Intrinsec_Secu à la dernière réunion de l'@OSSIRFrance [https://t.co/DFnGiOmOcg](https://t.co/DFnGiOmOcg) 
 
 
 Da Internet is falling down... RT @tomchop_: And so it begins. [http://t.co/FP1u6ifoz2](http://t.co/FP1u6ifoz2) #stackoverflow 
