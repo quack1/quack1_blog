@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-18 00:35
+Date: 2014-02-19 00:35
 Author: Quack1
 Slug: links
+
+
+Pour plus d'infos (en attendant les articles de blog), les sources sont sur le repo git de @CONIXSecurity [https://t.co/m98npazlC8](https://t.co/m98npazlC8) #zer0m0n 
+
+Analyse automatique par Cuckoo/zer0m0n de fichiers capturés par #Suricata sur du HTTP \o/ (par @angel_killah @00_ach) [http://t.co/wjr6lfOdNg](http://t.co/wjr6lfOdNg) 
+
+Joli puzzle avec les pièces de monnaie anglaises (via @Renzo_Soprano ) [http://t.co/i5zme5wQqr](http://t.co/i5zme5wQqr) 
 
 
 C'est quand même con si tu veux un bouquin qui est au milieu de ça..."Archway of books" [http://t.co/E1XV7CyM4e](http://t.co/E1XV7CyM4e) 
