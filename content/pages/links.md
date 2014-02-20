@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-20 00:35
+Date: 2014-02-21 00:35
 Author: Quack1
 Slug: links
+
+
+Behind the scenes of Kill Bill [http://t.co/jtQE5JcCAI](http://t.co/jtQE5JcCAI) 
 
 
 Jouer à Pokemon à 30k joueurs sur la même partie [http://t.co/zPaCXAuEIM](http://t.co/zPaCXAuEIM) 
