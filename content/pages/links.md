@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-21 00:35
+Date: 2014-02-22 00:35
 Author: Quack1
 Slug: links
+
+
+Analyse du malware bitcrypt par Cassidian CyberSecurity, ou quand les auteurs de malware sont des breles en crypto [http://t.co/j6KcM992pK](http://t.co/j6KcM992pK) 
 
 
 Behind the scenes of Kill Bill [http://t.co/jtQE5JcCAI](http://t.co/jtQE5JcCAI) 
