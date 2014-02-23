@@ -1,7 +1,13 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-22 00:35
+Date: 2014-02-24 00:35
 Author: Quack1
 Slug: links
+
+
+Votez pour avoir des futures boites de Lego « The Big Bang Theory » [http://t.co/4VkzOIEQJ3](http://t.co/4VkzOIEQJ3) 
+
+On voit que l'auteur n'habite pas à la campagne -- "Les idées reçues sur la nécessité de la voiture" [http://t.co/AynMFd9cjh](http://t.co/AynMFd9cjh) 
+
 
 
 Analyse du malware bitcrypt par Cassidian CyberSecurity, ou quand les auteurs de malware sont des breles en crypto [http://t.co/j6KcM992pK](http://t.co/j6KcM992pK) 
