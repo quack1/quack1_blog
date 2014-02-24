@@ -2,7 +2,7 @@ Title: Apple #gotofail : Explications simples et détaillées de la faille (FR e
 Date: 2014-02-24 14:58
 Author: Quack1
 Category: Securité
-Tags: Securité, Apple, Fail, GotoFail
+Tags: Securité, Apple, Fail, GotoFail, planet-libre
 Slug: apple_goto_fail
 Summary: 
 Lang: fr
@@ -18,3 +18,5 @@ Pour les anglophones, un très bon article (un peu plus technique) est [disponib
 En gros, techiquement, ce qu'il se passe c'est que lors de l'établissement d'une connexion TLS, le serveur échange dans un [Diffie-Hellman](http://fr.wikipedia.org/wiki/Diffie-Hellman) une clé de session qui permettra de chiffrer les connexions. Cette clé est _signée_ par le certificat du serveur. Le problème, c'est qu'une bogue dans le code source a planté la vérification de cette signature par le client. Ce qui permet à un attaquant de réaliser un [_Man-In-The-Middle_] sans que le client ne s'en apercoive.
 
 Si vous utilisez des produits Apple, vous pouvez tester votre système sur [gotofail.com](https://gotofail.com/).
+
+Le code-source est public et disponible sur [les dépots ouverts d'Apple](http://opensource.apple.com/source/Security/Security-55471/libsecurity_ssl/lib/sslKeyExchange.c).
