@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-24 00:35
+Date: 2014-02-25 00:35
 Author: Quack1
 Slug: links
+
+
+Aidez-nous à financer le pourvoir en Cassation de Bluetouff et [http://t.co/MF1TkGV78T](http://t.co/MF1TkGV78T) [http://t.co/4H5gUePj2Y](http://t.co/4H5gUePj2Y) 
+
+Apple #gotofail : Explications simples et détaillées de la faille (FR par @bortzmeyer + article EN) [https://t.co/btJOrMQy70](https://t.co/btJOrMQy70) 
+
+How To Shave Your Beard Like A Man: [http://t.co/Hg1SCBWlt6](http://t.co/Hg1SCBWlt6) 
+
+Compte rendu (court) mais intéressant sur le FIC (tl;dr; La sécurité est (encore) un échec) [http://t.co/W2n7ZLgrhg](http://t.co/W2n7ZLgrhg) 
 
 
 Votez pour avoir des futures boites de Lego « The Big Bang Theory » [http://t.co/4VkzOIEQJ3](http://t.co/4VkzOIEQJ3) 
