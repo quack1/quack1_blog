@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-02-25 00:35
+Date: 2014-02-26 00:35
 Author: Quack1
 Slug: links
+
+
+Il ne faut pas avoir peur de son premier jet. -  [http://t.co/JasWCISGQv](http://t.co/JasWCISGQv) 
+
+Et bim! Excellent billet (encore une fois) par @Zythom: Le pédophile [http://t.co/wO6T7Skql3](http://t.co/wO6T7Skql3) 
+
+Et si J.K. Rowling voulait bien arrêter d’écrire ? [http://t.co/P1SR4SGxBe](http://t.co/P1SR4SGxBe) 
+
+3 choses sont nécessaires pour être écrivain:inspiration,transpiration et désespoir. [H.Coben] (via @jnchaintreuil) [http://t.co/useMv3qkUk](http://t.co/useMv3qkUk) 
 
 
 Aidez-nous à financer le pourvoir en Cassation de Bluetouff et [http://t.co/MF1TkGV78T](http://t.co/MF1TkGV78T) [http://t.co/4H5gUePj2Y](http://t.co/4H5gUePj2Y) 
