@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-04 00:35
+Date: 2014-03-07 00:35
 Author: Quack1
 Slug: links
+
+
+Enfin une vraie barbie :) [http://t.co/JXWtyP504T](http://t.co/JXWtyP504T) via @lesinrocks 
+
+
 
 
 Cette année encore, le programme du @sstic a l'air cool!! :-D  [https://t.co/10WqSPfEig"](https://t.co/10WqSPfEig") 
