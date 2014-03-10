@@ -14,7 +14,7 @@ Lang: fr
 
 Il est pour le moment disponible dans les dépôts d'à peu près toutes les distributions, mais pas (officiellement) en version stable[^1]. Les développeurs du logiciel ont donc lancé il y a peu une opération de [_crowdfunding_](http://fundraiser.pitivi.org/#main) qui devrait, si elle réussi, leur permettre d'embaucher deux salariés pour développer à temps plein de nouvelles fonctionnalités.
 
-<iframe width="640" height="390" src="http://fundraiser.pitivi.org/videos/campaign-launching" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://fundraiser.pitivi.org/videos/campaign-launching" frameborder="0" allowfullscreen></iframe>
 
 Le [calendrier qu'ils se sont fixé](http://fundraiser.pitivi.org/#plan) est simple : 
 
