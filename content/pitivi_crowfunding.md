@@ -6,7 +6,6 @@ Tags: Pitivi, Open-source, Crowdfunding, planet-libre, planet-ubuntu
 Slug: pitivi_crowdfunding
 Summary: 
 Lang: fr
-Status: draft
 
 &nbsp;
 <div align=center><a href="/upload/pitivi_fundraising_banner.jpg"><img src="/upload/pitivi_fundraising_banner.jpg" width="600" align=center /></a></div>
