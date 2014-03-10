@@ -1,4 +1,4 @@
-Title: Apple #gotofail : Explications simples et détaillées de la faille (FR et EN)
+Title: Apple &#35;gotofail : Explications simples et détaillées de la faille (FR et EN)
 Date: 2014-02-24 14:58
 Author: Quack1
 Category: Securité
