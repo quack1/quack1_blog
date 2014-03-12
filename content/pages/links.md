@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-12 00:35
+Date: 2014-03-13 00:35
 Author: Quack1
 Slug: links
+
+
+Oh God. La sexytude (la geekitude aussi) expliquée par Stallman [https://t.co/czpXCB9Z3m](https://t.co/czpXCB9Z3m) 
+
+Coffres de rangement #DIY ~:) [https://t.co/Tiy4PEA4yk](https://t.co/Tiy4PEA4yk) 
 
 
 Je viens de soutenir le Tour de France du @Tattoorialist sur KissKissBankBank [http://t.co/Cov5zYc5Mr](http://t.co/Cov5zYc5Mr) \o/ 
