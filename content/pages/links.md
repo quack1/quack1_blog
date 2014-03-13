@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-13 00:35
+Date: 2014-03-14 00:35
 Author: Quack1
 Slug: links
+
+
+The Big Bang Theory reconduit pour encore 3 saisons, jusqu'en 2016/2017 [http://t.co/1qC7cbKxp9](http://t.co/1qC7cbKxp9) 
 
 
 Oh God. La sexytude (la geekitude aussi) expliquée par Stallman [https://t.co/czpXCB9Z3m](https://t.co/czpXCB9Z3m) 
