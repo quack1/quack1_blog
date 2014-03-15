@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-15 00:35
+Date: 2014-03-16 00:35
 Author: Quack1
 Slug: links
+
+
+Compter sérieusement le nombre d'attaques informatiques ? [http://t.co/OjvSwpf1ws](http://t.co/OjvSwpf1ws) 
+
+Top 20 des meilleures pub pour PornHub, le site porno qui se veut respectable (et drôle) [http://t.co/im1jfILFOw](http://t.co/im1jfILFOw) 
 
 
 &#35;Unix is simple... [http://t.co/A1hWDPmTAf](http://t.co/A1hWDPmTAf) (via @binarytides ) 
