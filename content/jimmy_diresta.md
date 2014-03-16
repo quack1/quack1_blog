@@ -15,7 +15,7 @@ Il construit dans son garage un peu tout et n'importe quoi avec une simplicité 
 
 C'est assez orienté sur le bois, ou sur des petits trucs en métal ou autres. Il ne donne pas beaucoup d'explications et les vidéos sont en accéléré la plupart du temps, donc c'est quand même bien de maîtriser un peu le sujet si vous voulez l'imiter 😉
 
-Je vous ai fait un petit florilège des vidéos que j'ai bien aimé, mais le mieux c'est quand même d'aller sur [sa chaîne Youtube](https://www.youtube.com/user/jimmydiresta) pour voir tout le reste. Notez que la chaîne [MAKE](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg) diffuse également certaines de ses vidéos ([ici](https://www.youtube.com/user/makemagazine/search?query=DiResta)).
+Je vous ai fait un petit florilège des vidéos que j'ai bien aimé, mais le mieux c'est quand même d'aller sur [sa chaîne Youtube](https://www.youtube.com/user/jimmydiresta) pour voir tout le reste. Notez que la chaîne [MAKE](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg) diffuse également certaines de ses vidéos ([ici](https://www.youtube.com/user/makemagazine/search?query=DiResta)), accompagnées d'[articles de blog sur le webzine de Make](http://makezine.com/tag/diresta/).
 
 &nbsp; **☠ Livre avec compartiment secret**
 
