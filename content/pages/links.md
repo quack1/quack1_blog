@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-14 00:35
+Date: 2014-03-16 00:35
 Author: Quack1
 Slug: links
+
+
+Compter sérieusement le nombre d'attaques informatiques ? [http://t.co/OjvSwpf1ws](http://t.co/OjvSwpf1ws) 
+
+Top 20 des meilleures pub pour PornHub, le site porno qui se veut respectable (et drôle) [http://t.co/im1jfILFOw](http://t.co/im1jfILFOw) 
+
+
+&#35;Unix is simple... [http://t.co/A1hWDPmTAf](http://t.co/A1hWDPmTAf) (via @binarytides ) 
+
+.@bayartb se demande s'il doit s'engager pour les européennes (choix difficile au vu des avantages/inconvénients) [http://t.co/FVAQQWJbMc](http://t.co/FVAQQWJbMc) 
 
 
 The Big Bang Theory reconduit pour encore 3 saisons, jusqu'en 2016/2017 [http://t.co/1qC7cbKxp9](http://t.co/1qC7cbKxp9) 
