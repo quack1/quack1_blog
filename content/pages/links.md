@@ -1,7 +1,21 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-16 00:35
+Date: 2014-03-17 00:35
 Author: Quack1
 Slug: links
+
+
+.@JimmyDiResta est génial ! Il peut fabriquer un billard à partir de rien ! Awesome \o/ [https://t.co/9Y4TXV4rqP](https://t.co/9Y4TXV4rqP) 
+
+Oh yeah ! @JimmyDiResta seems to be working on t-shirts and goodies :D 
+For info about him (fr) : [https://t.co/F4jpw7v1X0](https://t.co/F4jpw7v1X0) 
+
+Une version web de ce jeu ruinerait (après 2048) la productivité de toutes les entreprise [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) 
+
+Essayez ce jeu de conception de Métro, et après venez gueuler contre @GroupeRATP ;) [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) 
+
+XD RT @H_Miser: Drôlement pratique ces bureaux pour les stagiaires RT @History_Pics JFK &amp; JFK, Jr. [http://t.co/9LCESWI5ZX](http://t.co/9LCESWI5ZX) 
+
+L'évolution du — public du —  rock (via @CitationsDuRock) [http://t.co/vJPOs8q71i](http://t.co/vJPOs8q71i) 
 
 
 Compter sérieusement le nombre d'attaques informatiques ? [http://t.co/OjvSwpf1ws](http://t.co/OjvSwpf1ws) 
