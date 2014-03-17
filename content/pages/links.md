@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-17 00:35
+Date: 2014-03-18 00:35
 Author: Quack1
 Slug: links
+
+
+So much entropy [http://t.co/SWAMhBO6DR](http://t.co/SWAMhBO6DR) #2048 
+
+Il y a un petit truc sur Wikipédia qui explique ça aussi : [https://t.co/3VP8i7x3Mf](https://t.co/3VP8i7x3Mf) #LTMerde 
 
 
 .@JimmyDiResta est génial ! Il peut fabriquer un billard à partir de rien ! Awesome \o/ [https://t.co/9Y4TXV4rqP](https://t.co/9Y4TXV4rqP) 
