@@ -1,7 +1,13 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-18 00:35
+Date: 2014-03-20 00:35
 Author: Quack1
 Slug: links
+
+
+La contraception efficace à 100% (Ça me fait toujours autant marrer !) via @GchalRo: [http://t.co/0CO94q54AB](http://t.co/0CO94q54AB) 
+
+Pas mal :) | Drummer Covers Every Green Day Song In Five Minutes [http://t.co/5dvy3E3xCS](http://t.co/5dvy3E3xCS) 
+
 
 
 So much entropy [http://t.co/SWAMhBO6DR](http://t.co/SWAMhBO6DR) #2048 
