@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-20 00:35
+Date: 2014-03-21 00:35
 Author: Quack1
 Slug: links
+
+
+Une scientifique danoise pense avoir compris l’utilité du côté bleu des gommes bicolores [http://t.co/mOepTloSkz](http://t.co/mOepTloSkz) 
+
+Ce que la position de vos tatouages peut dire sur vous :p [https://t.co/V3m6tcqz7u](https://t.co/V3m6tcqz7u) (poke @Tattoorialist ) 
 
 
 La contraception efficace à 100% (Ça me fait toujours autant marrer !) via @GchalRo: [http://t.co/0CO94q54AB](http://t.co/0CO94q54AB) 
