@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-22 00:35
+Date: 2014-03-23 00:35
 Author: Quack1
 Slug: links
+
+
+Definition de classe abstraite, par @luc_damas [http://t.co/Eq0d6Umsq5](http://t.co/Eq0d6Umsq5) 
 
 
 Votre première fois résumée en gifs [http://t.co/zx4BhowSMD](http://t.co/zx4BhowSMD) 
