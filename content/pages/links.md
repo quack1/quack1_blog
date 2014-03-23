@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-23 00:35
+Date: 2014-03-24 00:35
 Author: Quack1
 Slug: links
+
+
+Pirate Bay founder runs for MEP [http://t.co/gAc3ZVJsla](http://t.co/gAc3ZVJsla) 
+
+"The second-dumbest tattoo in America" [http://t.co/RV5HpQKG7M](http://t.co/RV5HpQKG7M) 
 
 
 Definition de classe abstraite, par @luc_damas [http://t.co/Eq0d6Umsq5](http://t.co/Eq0d6Umsq5) 
