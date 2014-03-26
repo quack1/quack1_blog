@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-26 00:35
+Date: 2014-03-27 00:35
 Author: Quack1
 Slug: links
+
+
+L'histoire de Marius, le girafon de Copenhague : [http://t.co/sVvqx3Fcpd](http://t.co/sVvqx3Fcpd) 
+
+Après avoir tué et autopsié en public un bébé girafe, le zoo de Copenhague tue 4 de ses lions :-( [http://t.co/qprf0Ope6o](http://t.co/qprf0Ope6o) 
 
 
 Quentin Tarantino dancing on the set of Pulp Fiction [http://t.co/zIAKcdxK60](http://t.co/zIAKcdxK60) 
