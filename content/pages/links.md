@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-28 00:35
+Date: 2014-03-29 00:35
 Author: Quack1
 Slug: links
+
+
+Mine de rien, on commence à avoir un peu de bouquins quand même! [http://t.co/lEO1ZHtBZL](http://t.co/lEO1ZHtBZL) 
+
+Dans "Docteur Sleep" (version FR), le héros de @StephenKing utilise @firefox pour naviguer sur le Web :-D [http://t.co/cb90K3g6Jn](http://t.co/cb90K3g6Jn) 
 
 
 Excellent ! Des blocs de rangement suspendus et un bureau qui forment un escalier #DIY [http://t.co/JWjgVXIFVh](http://t.co/JWjgVXIFVh) 
