@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-29 00:35
+Date: 2014-03-30 00:35
 Author: Quack1
 Slug: links
+
+
+3 ways to escape zip ties - Boing Boing [http://t.co/ev2n23P8LA](http://t.co/ev2n23P8LA) via @BoingBoing 
 
 
 Mine de rien, on commence à avoir un peu de bouquins quand même! [http://t.co/lEO1ZHtBZL](http://t.co/lEO1ZHtBZL) 
