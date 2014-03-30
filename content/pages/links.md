@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-30 00:35
+Date: 2014-03-31 00:35
 Author: Quack1
 Slug: links
+
+
+Comment bien utiliser une serviette en papier pour s'essuyer les mains (tl;dr; "Shake! Fold!") [http://t.co/9HUMz0O5fZ](http://t.co/9HUMz0O5fZ) 
 
 
 3 ways to escape zip ties - Boing Boing [http://t.co/ev2n23P8LA](http://t.co/ev2n23P8LA) via @BoingBoing 
