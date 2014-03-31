@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-31 00:35
+Date: 2014-04-01 00:35
 Author: Quack1
 Slug: links
+
+
+Des objets pas très pratiques à utiliser [http://t.co/9fn6owslS8](http://t.co/9fn6owslS8) 
+
+Magnifique exemple de protestation pacifique:Fauteuils roulants garés sur un parking avec un mot « Je reviens vite » [https://t.co/EFDTfZOHD9](https://t.co/EFDTfZOHD9) 
+
+Comment torturer un {sys,net}admin (par l'excellent @luc_damas [http://t.co/oD05Obq8Qj](http://t.co/oD05Obq8Qj) 
 
 
 Comment bien utiliser une serviette en papier pour s'essuyer les mains (tl;dr; "Shake! Fold!") [http://t.co/9HUMz0O5fZ](http://t.co/9HUMz0O5fZ) 
