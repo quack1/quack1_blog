@@ -1,7 +1,40 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-24 00:35
+Date: 2014-03-31 00:35
 Author: Quack1
 Slug: links
+
+
+Comment bien utiliser une serviette en papier pour s'essuyer les mains (tl;dr; "Shake! Fold!") [http://t.co/9HUMz0O5fZ](http://t.co/9HUMz0O5fZ) 
+
+
+3 ways to escape zip ties - Boing Boing [http://t.co/ev2n23P8LA](http://t.co/ev2n23P8LA) via @BoingBoing 
+
+
+Mine de rien, on commence à avoir un peu de bouquins quand même! [http://t.co/lEO1ZHtBZL](http://t.co/lEO1ZHtBZL) 
+
+Dans "Docteur Sleep" (version FR), le héros de @StephenKing utilise @firefox pour naviguer sur le Web :-D [http://t.co/cb90K3g6Jn](http://t.co/cb90K3g6Jn) 
+
+
+Excellent ! Des blocs de rangement suspendus et un bureau qui forment un escalier #DIY [http://t.co/JWjgVXIFVh](http://t.co/JWjgVXIFVh) 
+
+Marge Simpson Makeup IRL [http://t.co/TDw9NsvuBA](http://t.co/TDw9NsvuBA) 
+
+Hugh Jackman en Wolverine : Avant vs Après [http://t.co/J8lQVZuunN](http://t.co/J8lQVZuunN) 
+
+Making big paper letters with the latest awesome @JimmyDiResta [http://t.co/dG2eGsKkEM](http://t.co/dG2eGsKkEM) 
+
+
+L'histoire de Marius, le girafon de Copenhague : [http://t.co/sVvqx3Fcpd](http://t.co/sVvqx3Fcpd) 
+
+Après avoir tué et autopsié en public un bébé girafe, le zoo de Copenhague tue 4 de ses lions :-( [http://t.co/qprf0Ope6o](http://t.co/qprf0Ope6o) 
+
+
+Quentin Tarantino dancing on the set of Pulp Fiction [http://t.co/zIAKcdxK60](http://t.co/zIAKcdxK60) 
+
+Utiliser meld comme outil de visualitation des diff dans #Git [http://t.co/NC2A5lICSJ](http://t.co/NC2A5lICSJ) 
+
+
+Sur @RTLbe, sûrement une des pages 404 les plus utiles que j'ai vu [http://t.co/Q3twFbwriZ](http://t.co/Q3twFbwriZ) 
 
 
 Pirate Bay founder runs for MEP [http://t.co/gAc3ZVJsla](http://t.co/gAc3ZVJsla) 
