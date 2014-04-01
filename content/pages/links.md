@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-01 00:35
+Date: 2014-04-02 00:35
 Author: Quack1
 Slug: links
+
+
+Aujourd'hui, je goute cette chose... J'ai un peu peur.. (poke @NiightlyCat) [http://t.co/tIFmxh7WiM](http://t.co/tIFmxh7WiM) 
+
+C'est une blague du 1er Avril ça, j'espère... (via @calgarykiaguy)  [http://t.co/cJM4RxPTXg](http://t.co/cJM4RxPTXg) 
+
+À cause de l'armée rouge, @fdevillamil doit fermer son blog [http://t.co/SHhQN2sfqG](http://t.co/SHhQN2sfqG) 
 
 
 Des objets pas très pratiques à utiliser [http://t.co/9fn6owslS8](http://t.co/9fn6owslS8) 
