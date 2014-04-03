@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-03 00:35
+Date: 2014-04-04 00:35
 Author: Quack1
 Slug: links
+
+
+Calculez le temps passé à regarder une série TV [http://t.co/tj9LUuHw32](http://t.co/tj9LUuHw32) 
+
+Passer d'un graphique moche et surchargé, à un graphique light et lisible [http://t.co/SXPxz5Xtkq](http://t.co/SXPxz5Xtkq) 
 
 
 Grille-pain Dark Vador [http://t.co/Nh8g30ogBN](http://t.co/Nh8g30ogBN) 
