@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-05 00:35
+Date: 2014-04-06 00:35
 Author: Quack1
 Slug: links
+
+
+Tatouage fail "@miss_sudo: What a dickhead. [http://t.co/7HUeE1P48H"](http://t.co/7HUeE1P48H") 
 
 
 Petite page Web qui stream votre webcam en Ascii [http://t.co/dfGHtSy7vo](http://t.co/dfGHtSy7vo) 
