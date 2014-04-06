@@ -1,7 +1,11 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-06 00:35
+Date: 2014-04-07 00:35
 Author: Quack1
 Slug: links
+
+
+Quelqu'un a un Streisand de 
+"Je n'ai pas été violée - [http://t.co/WRarsp8hR4".](http://t.co/WRarsp8hR4".) J'ai pas pu le lire et il est en 404 
 
 
 Tatouage fail "@miss_sudo: What a dickhead. [http://t.co/7HUeE1P48H"](http://t.co/7HUeE1P48H") 
