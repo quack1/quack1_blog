@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-07 00:35
+Date: 2014-04-08 00:35
 Author: Quack1
 Slug: links
+
+
+-@JimmyDiResta, maker de génie, vous explique comment transformer une vieille scie en machette [https://t.co/qWRkVbMH9C](https://t.co/qWRkVbMH9C) 
 
 
 Quelqu'un a un Streisand de 
