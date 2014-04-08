@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-08 00:35
+Date: 2014-04-09 00:35
 Author: Quack1
 Slug: links
+
+
+Instant historique, j'ai envie levé mes premiers trolls :D [http://t.co/Uxe7KAMJEC](http://t.co/Uxe7KAMJEC) (Bon, je l'ai un peu cherché aussi :p ) 
 
 
 -@JimmyDiResta, maker de génie, vous explique comment transformer une vieille scie en machette [https://t.co/qWRkVbMH9C](https://t.co/qWRkVbMH9C) 
