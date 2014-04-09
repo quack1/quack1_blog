@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-09 00:35
+Date: 2014-04-10 00:35
 Author: Quack1
 Slug: links
+
+
+Le sexisme dans les deux sens [http://t.co/kUlVvQxyXc](http://t.co/kUlVvQxyXc) 
+
+I really need to test that ! RT @JoclyGames: New game: Modern Circular Chess online 3/2D [http://t.co/02W0Z0CnAy](http://t.co/02W0Z0CnAy) [http://t.co/6wzHqpNYIO](http://t.co/6wzHqpNYIO) 
+
+I'm back online with https :) [https://t.co/Jl9Idk9JFp](https://t.co/Jl9Idk9JFp) 
+
+Tant que je les ai sous la main : 
+Testez #Heartbleed : [https://t.co/OcHKGxpTYU](https://t.co/OcHKGxpTYU) : [http://t.co/xjMPJpVgS9](http://t.co/xjMPJpVgS9) 
 
 
 Instant historique, j'ai envie levé mes premiers trolls :D [http://t.co/Uxe7KAMJEC](http://t.co/Uxe7KAMJEC) (Bon, je l'ai un peu cherché aussi :p ) 
