@@ -1,7 +1,26 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-10 00:35
+Date: 2014-04-11 00:35
 Author: Quack1
 Slug: links
+
+
+Les prix de l'amour en 1915 [http://t.co/sJGF5bDwap](http://t.co/sJGF5bDwap) 
+
+Il semble qu'Assange n'a pas dit que Debian était backdoorée, mais qu'il était possible de backdoorer tous les OS [https://t.co/R7wrXvyrx6](https://t.co/R7wrXvyrx6) 
+
+Diagramme pour savoir quand prendre des selfies (poke @Joupain ) [https://t.co/V6s3TVvE3W](https://t.co/V6s3TVvE3W) 
+
+Pour ceux qui n'ont pas lu « On Writing » de @StephenKing, l'histoire sur l'origine de Carrie : [http://t.co/YXbcVCHDkp](http://t.co/YXbcVCHDkp) 
+
+Un préservatif qui ne laisse personne indifférent! [http://t.co/kOfhEPsQSB](http://t.co/kOfhEPsQSB) 
+
+Si Assange trouve que Linux est vérolé par la NSA, il utilise quoi lui ? OSX ? Windows ? [http://t.co/B21eKc4ttt](http://t.co/B21eKc4ttt) 
+
+Il y aurait une faille dans FreeBSD et ses dérivés (Juniper) mais Theo de Raadt ne semble pas vouloir dire laquelle [https://t.co/hiiLSOSCMJ](https://t.co/hiiLSOSCMJ) 
+
+Si les personnages de films avaient des cartes de visite, ça donnerait quoi ? [http://t.co/BfDamKCxUp](http://t.co/BfDamKCxUp) 
+
+Bonne idée ça. Testez en ligne la sécurité de vos clés privés (via @Zythom ) [http://t.co/XYyKwuYd72](http://t.co/XYyKwuYd72) 
 
 
 Le sexisme dans les deux sens [http://t.co/kUlVvQxyXc](http://t.co/kUlVvQxyXc) 
