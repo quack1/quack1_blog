@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-11 00:35
+Date: 2014-04-12 00:35
 Author: Quack1
 Slug: links
+
+
+Pourquoi Windows utilise un '\' au lieu d'un '/' comme séparateur dans ses chemins de répertoires [http://t.co/QpbFLrZNKU](http://t.co/QpbFLrZNKU) 
+
+"gentlemen and ladies, we have met the enemy, and they are our egos." [http://t.co/Y9dMLniGfg](http://t.co/Y9dMLniGfg) 
+
+Pourquoi les antivirus ne détectent-ils plus rien sur VirusTotal ? [http://t.co/VoyRnYfdja](http://t.co/VoyRnYfdja) 
 
 
 Les prix de l'amour en 1915 [http://t.co/sJGF5bDwap](http://t.co/sJGF5bDwap) 
