@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-12 00:35
+Date: 2014-04-13 00:35
 Author: Quack1
 Slug: links
+
+
+Voilà exactement le genre de questions qu'on pose à ma copine quand elle bosse [http://t.co/P0WExuemza](http://t.co/P0WExuemza) 
+
+J'aime bien @RobertDowneyJr, mais j'ai quand même du mal à comprendre comment ce tweet peut être RT 27k fois [http://t.co/svm64aSi65](http://t.co/svm64aSi65) 
+
+Brian Cranston est en train d'écrire les mémoires de Walter White [http://t.co/qIeUX8On2c](http://t.co/qIeUX8On2c) 
 
 
 Pourquoi Windows utilise un '\' au lieu d'un '/' comme séparateur dans ses chemins de répertoires [http://t.co/QpbFLrZNKU](http://t.co/QpbFLrZNKU) 
