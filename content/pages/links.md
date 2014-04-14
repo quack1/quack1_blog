@@ -1,7 +1,11 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-13 00:35
+Date: 2014-04-15 00:35
 Author: Quack1
 Slug: links
+
+
+Le chef hollandais Jasper van Ramhorst épluche ses pommes comme un pro ! [https://t.co/aOtNW8hpYg](https://t.co/aOtNW8hpYg) 
+
 
 
 Voilà exactement le genre de questions qu'on pose à ma copine quand elle bosse [http://t.co/P0WExuemza](http://t.co/P0WExuemza) 
