@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-15 00:35
+Date: 2014-04-16 00:35
 Author: Quack1
 Slug: links
+
+
+La fin pour AC/DC? [http://t.co/eyriX6eW1m](http://t.co/eyriX6eW1m) 
+
+WTF ? O_o RT @GeoffreyDorne: 7,50€ ce magazine débile: “Beef”, pour les hommes virils qui mangent de la viande. [http://t.co/dgRImtfZrT](http://t.co/dgRImtfZrT) 
+
+Top 12 des citations de Karadoc, philosophe du gras [http://t.co/kt7xejbzf5](http://t.co/kt7xejbzf5) 
+
+Top 11 des lignes de basse qui tiennent à elles seules des chansons [http://t.co/UX2vz1StXU](http://t.co/UX2vz1StXU) 
+
+"what will your kids think of that tattoo?" [http://t.co/4J8ePnQWvL](http://t.co/4J8ePnQWvL) 
+
+US Airways Just Tweeted Out One Of The Most Graphic Things You’ve Ever Seen A Brand Tweet [http://t.co/haXM8IP7bi](http://t.co/haXM8IP7bi) via @ryanpbroderick 
+
+Parfois, la génération automatique des logins/emails, c'est pas la meilleure solution (via @IDisposable) [http://t.co/JV6FUjCxem](http://t.co/JV6FUjCxem) 
 
 
 Le chef hollandais Jasper van Ramhorst épluche ses pommes comme un pro ! [https://t.co/aOtNW8hpYg](https://t.co/aOtNW8hpYg) 
