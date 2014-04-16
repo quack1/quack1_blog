@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-16 00:35
+Date: 2014-04-17 00:35
 Author: Quack1
 Slug: links
+
+
+XP est mort, vive Ubuntu par davidguigui [http://t.co/DmQH0PXXBi](http://t.co/DmQH0PXXBi) 
+
+Demain, 17 Avril 2014, sortie d'Ubuntu 14.04 LTS [http://t.co/c6DlPvgT9O](http://t.co/c6DlPvgT9O) 
+
+Top 5 SOC Analyst Skills [http://t.co/cmvRZv9EXB](http://t.co/cmvRZv9EXB) 
+
+Des objets inconfortables [http://t.co/p71f2LqQri](http://t.co/p71f2LqQri) 
 
 
 La fin pour AC/DC? [http://t.co/eyriX6eW1m](http://t.co/eyriX6eW1m) 
