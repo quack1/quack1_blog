@@ -1,7 +1,159 @@
 Title: Liens partagés sur Twitter
-Date: 2014-03-25 00:35
+Date: 2014-04-16 00:35
 Author: Quack1
 Slug: links
+
+
+La fin pour AC/DC? [http://t.co/eyriX6eW1m](http://t.co/eyriX6eW1m) 
+
+WTF ? O_o RT @GeoffreyDorne: 7,50€ ce magazine débile: “Beef”, pour les hommes virils qui mangent de la viande. [http://t.co/dgRImtfZrT](http://t.co/dgRImtfZrT) 
+
+Top 12 des citations de Karadoc, philosophe du gras [http://t.co/kt7xejbzf5](http://t.co/kt7xejbzf5) 
+
+Top 11 des lignes de basse qui tiennent à elles seules des chansons [http://t.co/UX2vz1StXU](http://t.co/UX2vz1StXU) 
+
+"what will your kids think of that tattoo?" [http://t.co/4J8ePnQWvL](http://t.co/4J8ePnQWvL) 
+
+US Airways Just Tweeted Out One Of The Most Graphic Things You’ve Ever Seen A Brand Tweet [http://t.co/haXM8IP7bi](http://t.co/haXM8IP7bi) via @ryanpbroderick 
+
+Parfois, la génération automatique des logins/emails, c'est pas la meilleure solution (via @IDisposable) [http://t.co/JV6FUjCxem](http://t.co/JV6FUjCxem) 
+
+
+Le chef hollandais Jasper van Ramhorst épluche ses pommes comme un pro ! [https://t.co/aOtNW8hpYg](https://t.co/aOtNW8hpYg) 
+
+
+
+Voilà exactement le genre de questions qu'on pose à ma copine quand elle bosse [http://t.co/P0WExuemza](http://t.co/P0WExuemza) 
+
+J'aime bien @RobertDowneyJr, mais j'ai quand même du mal à comprendre comment ce tweet peut être RT 27k fois [http://t.co/svm64aSi65](http://t.co/svm64aSi65) 
+
+Brian Cranston est en train d'écrire les mémoires de Walter White [http://t.co/qIeUX8On2c](http://t.co/qIeUX8On2c) 
+
+
+Pourquoi Windows utilise un '\' au lieu d'un '/' comme séparateur dans ses chemins de répertoires [http://t.co/QpbFLrZNKU](http://t.co/QpbFLrZNKU) 
+
+"gentlemen and ladies, we have met the enemy, and they are our egos." [http://t.co/Y9dMLniGfg](http://t.co/Y9dMLniGfg) 
+
+Pourquoi les antivirus ne détectent-ils plus rien sur VirusTotal ? [http://t.co/VoyRnYfdja](http://t.co/VoyRnYfdja) 
+
+
+Les prix de l'amour en 1915 [http://t.co/sJGF5bDwap](http://t.co/sJGF5bDwap) 
+
+Il semble qu'Assange n'a pas dit que Debian était backdoorée, mais qu'il était possible de backdoorer tous les OS [https://t.co/R7wrXvyrx6](https://t.co/R7wrXvyrx6) 
+
+Diagramme pour savoir quand prendre des selfies (poke @Joupain ) [https://t.co/V6s3TVvE3W](https://t.co/V6s3TVvE3W) 
+
+Pour ceux qui n'ont pas lu « On Writing » de @StephenKing, l'histoire sur l'origine de Carrie : [http://t.co/YXbcVCHDkp](http://t.co/YXbcVCHDkp) 
+
+Un préservatif qui ne laisse personne indifférent! [http://t.co/kOfhEPsQSB](http://t.co/kOfhEPsQSB) 
+
+Si Assange trouve que Linux est vérolé par la NSA, il utilise quoi lui ? OSX ? Windows ? [http://t.co/B21eKc4ttt](http://t.co/B21eKc4ttt) 
+
+Il y aurait une faille dans FreeBSD et ses dérivés (Juniper) mais Theo de Raadt ne semble pas vouloir dire laquelle [https://t.co/hiiLSOSCMJ](https://t.co/hiiLSOSCMJ) 
+
+Si les personnages de films avaient des cartes de visite, ça donnerait quoi ? [http://t.co/BfDamKCxUp](http://t.co/BfDamKCxUp) 
+
+Bonne idée ça. Testez en ligne la sécurité de vos clés privés (via @Zythom ) [http://t.co/XYyKwuYd72](http://t.co/XYyKwuYd72) 
+
+
+Le sexisme dans les deux sens [http://t.co/kUlVvQxyXc](http://t.co/kUlVvQxyXc) 
+
+I really need to test that ! RT @JoclyGames: New game: Modern Circular Chess online 3/2D [http://t.co/02W0Z0CnAy](http://t.co/02W0Z0CnAy) [http://t.co/6wzHqpNYIO](http://t.co/6wzHqpNYIO) 
+
+I'm back online with https :) [https://t.co/Jl9Idk9JFp](https://t.co/Jl9Idk9JFp) 
+
+Tant que je les ai sous la main : 
+Testez #Heartbleed : [https://t.co/OcHKGxpTYU](https://t.co/OcHKGxpTYU) : [http://t.co/xjMPJpVgS9](http://t.co/xjMPJpVgS9) 
+
+
+Instant historique, j'ai envie levé mes premiers trolls :D [http://t.co/Uxe7KAMJEC](http://t.co/Uxe7KAMJEC) (Bon, je l'ai un peu cherché aussi :p ) 
+
+
+-@JimmyDiResta, maker de génie, vous explique comment transformer une vieille scie en machette [https://t.co/qWRkVbMH9C](https://t.co/qWRkVbMH9C) 
+
+
+Quelqu'un a un Streisand de 
+"Je n'ai pas été violée - [http://t.co/WRarsp8hR4".](http://t.co/WRarsp8hR4".) J'ai pas pu le lire et il est en 404 
+
+
+Tatouage fail "@miss_sudo: What a dickhead. [http://t.co/7HUeE1P48H"](http://t.co/7HUeE1P48H") 
+
+
+Petite page Web qui stream votre webcam en Ascii [http://t.co/dfGHtSy7vo](http://t.co/dfGHtSy7vo) 
+
+15 Personnages des Simpsons Retrouvés Dans la Vraie Vie [http://t.co/3mkA68lgUp](http://t.co/3mkA68lgUp) 
+
+Fin Avril, Quentin Tarantino lira le début de « The Hateful Eight » à Los Angeles, pour $200 la place [http://t.co/I38W7iU6BU](http://t.co/I38W7iU6BU) 
+
+Hommage aux typographes des routes. [http://t.co/fPRlicul2O](http://t.co/fPRlicul2O) 
+
+Des tableaux de peoples façon Renaissance [http://t.co/HjNvwXBNNa](http://t.co/HjNvwXBNNa) 
+
+Ryman : quand la typographie vous fait vraiment économiser de l’encre ! [http://t.co/jBYRjjqczJ](http://t.co/jBYRjjqczJ) 
+
+
+Calculez le temps passé à regarder une série TV [http://t.co/tj9LUuHw32](http://t.co/tj9LUuHw32) 
+
+Passer d'un graphique moche et surchargé, à un graphique light et lisible [http://t.co/SXPxz5Xtkq](http://t.co/SXPxz5Xtkq) 
+
+
+Grille-pain Dark Vador [http://t.co/Nh8g30ogBN](http://t.co/Nh8g30ogBN) 
+
+Sympa le nouveau Jack White \m/ [http://t.co/RW6VFuRXV3](http://t.co/RW6VFuRXV3) 
+
+Petit jeu tyographique. J'ai fait 81/100 :) (cc @GeoffreyDorne) [http://t.co/qj4THvOSv2](http://t.co/qj4THvOSv2) 
+
+Messages de commit personnalisés : [http://t.co/3sbFfh6c1i](http://t.co/3sbFfh6c1i) 
+
+Ces mecs qui écrivent les lettres sur les couloirs de bus sont méga doués ! [http://t.co/n8xnsrzdkd](http://t.co/n8xnsrzdkd) 
+
+Netflix pourrait arriver en France en passant par... le Luxembourg [http://t.co/c5SyVkWzcf](http://t.co/c5SyVkWzcf) 
+
+Tattonomy – Tatouages temporaires pour geeks [http://t.co/vtYdG2SA2Y](http://t.co/vtYdG2SA2Y) 
+
+
+Aujourd'hui, je goute cette chose... J'ai un peu peur.. (poke @NiightlyCat) [http://t.co/tIFmxh7WiM](http://t.co/tIFmxh7WiM) 
+
+C'est une blague du 1er Avril ça, j'espère... (via @calgarykiaguy)  [http://t.co/cJM4RxPTXg](http://t.co/cJM4RxPTXg) 
+
+À cause de l'armée rouge, @fdevillamil doit fermer son blog [http://t.co/SHhQN2sfqG](http://t.co/SHhQN2sfqG) 
+
+
+Des objets pas très pratiques à utiliser [http://t.co/9fn6owslS8](http://t.co/9fn6owslS8) 
+
+Magnifique exemple de protestation pacifique:Fauteuils roulants garés sur un parking avec un mot « Je reviens vite » [https://t.co/EFDTfZOHD9](https://t.co/EFDTfZOHD9) 
+
+Comment torturer un {sys,net}admin (par l'excellent @luc_damas [http://t.co/oD05Obq8Qj](http://t.co/oD05Obq8Qj) 
+
+
+Comment bien utiliser une serviette en papier pour s'essuyer les mains (tl;dr; "Shake! Fold!") [http://t.co/9HUMz0O5fZ](http://t.co/9HUMz0O5fZ) 
+
+
+3 ways to escape zip ties - Boing Boing [http://t.co/ev2n23P8LA](http://t.co/ev2n23P8LA) via @BoingBoing 
+
+
+Mine de rien, on commence à avoir un peu de bouquins quand même! [http://t.co/lEO1ZHtBZL](http://t.co/lEO1ZHtBZL) 
+
+Dans "Docteur Sleep" (version FR), le héros de @StephenKing utilise @firefox pour naviguer sur le Web :-D [http://t.co/cb90K3g6Jn](http://t.co/cb90K3g6Jn) 
+
+
+Excellent ! Des blocs de rangement suspendus et un bureau qui forment un escalier #DIY [http://t.co/JWjgVXIFVh](http://t.co/JWjgVXIFVh) 
+
+Marge Simpson Makeup IRL [http://t.co/TDw9NsvuBA](http://t.co/TDw9NsvuBA) 
+
+Hugh Jackman en Wolverine : Avant vs Après [http://t.co/J8lQVZuunN](http://t.co/J8lQVZuunN) 
+
+Making big paper letters with the latest awesome @JimmyDiResta [http://t.co/dG2eGsKkEM](http://t.co/dG2eGsKkEM) 
+
+
+L'histoire de Marius, le girafon de Copenhague : [http://t.co/sVvqx3Fcpd](http://t.co/sVvqx3Fcpd) 
+
+Après avoir tué et autopsié en public un bébé girafe, le zoo de Copenhague tue 4 de ses lions :-( [http://t.co/qprf0Ope6o](http://t.co/qprf0Ope6o) 
+
+
+Quentin Tarantino dancing on the set of Pulp Fiction [http://t.co/zIAKcdxK60](http://t.co/zIAKcdxK60) 
+
+Utiliser meld comme outil de visualitation des diff dans #Git [http://t.co/NC2A5lICSJ](http://t.co/NC2A5lICSJ) 
 
 
 Sur @RTLbe, sûrement une des pages 404 les plus utiles que j'ai vu [http://t.co/Q3twFbwriZ](http://t.co/Q3twFbwriZ) 
