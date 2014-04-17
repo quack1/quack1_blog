@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-17 00:35
+Date: 2014-04-18 00:35
 Author: Quack1
 Slug: links
+
+
+Longue, mais — très — intéressante, interview de Damien Saez [http://t.co/7Oov4zAadw](http://t.co/7Oov4zAadw) 
+
+Typography joke "@Brilliant_Ads: Typography. Humor :) [http://t.co/Q1pjOcOPY9"](http://t.co/Q1pjOcOPY9") 
+
+Apprendre la photo : 14 tutoriels gratuits pour progresser en photo numérique [http://t.co/7R2yzEFPIf](http://t.co/7R2yzEFPIf) 
+
+Nue, elle peint en pondant des oeufs avec son vagin #SFW [http://t.co/yUTvkU4EUH](http://t.co/yUTvkU4EUH) 
+
+Surveiller Julien Assange coûte 5millions d'euros aux contribuables britanniques [http://t.co/4Vw2449Y5c](http://t.co/4Vw2449Y5c) 
 
 
 XP est mort, vive Ubuntu par davidguigui [http://t.co/DmQH0PXXBi](http://t.co/DmQH0PXXBi) 
