@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-18 00:35
+Date: 2014-04-19 00:35
 Author: Quack1
 Slug: links
+
+
+Génie :) RT @topito_com: Arrêtez-tout. [http://t.co/6nGAxtEQz0](http://t.co/6nGAxtEQz0) #géniepur 
+
+1500€, c'est le vrai prix? O_o [http://t.co/RjIWYOwnuq](http://t.co/RjIWYOwnuq) 
+
+Donc il y a vraiment des gens qui enregistrent des noms de domains de 15 bornes de long O_o [http://t.co/cb6jQGondf](http://t.co/cb6jQGondf) (via @SylvainDeaure) 
 
 
 Longue, mais — très — intéressante, interview de Damien Saez [http://t.co/7Oov4zAadw](http://t.co/7Oov4zAadw) 
