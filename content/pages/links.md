@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-19 00:35
+Date: 2014-04-20 00:35
 Author: Quack1
 Slug: links
+
+
+Just got a new (USB) key \o/ (inspired by @JimmyDiResta work on custom keys) [http://t.co/RaE8gNrEU8](http://t.co/RaE8gNrEU8) 
 
 
 Génie :) RT @topito_com: Arrêtez-tout. [http://t.co/6nGAxtEQz0](http://t.co/6nGAxtEQz0) #géniepur 
