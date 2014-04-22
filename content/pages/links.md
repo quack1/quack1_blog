@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-20 00:35
+Date: 2014-04-23 00:35
 Author: Quack1
 Slug: links
+
+
+POur les gens fous qui veulent débuter sous Emacs [http://t.co/u6K4ojQHJY](http://t.co/u6K4ojQHJY) 
+
+Ceci provient d'une appliance de sécurité #fail [http://t.co/c2JuL1wlx1](http://t.co/c2JuL1wlx1) 
+
+Starting the week with the promise of a new Diresta video :D RT @JimmyDiResta: #newvideo #diresta #imake [http://t.co/QTgr6JKqW2](http://t.co/QTgr6JKqW2) 
+
+
 
 
 Just got a new (USB) key \o/ (inspired by @JimmyDiResta work on custom keys) [http://t.co/RaE8gNrEU8](http://t.co/RaE8gNrEU8) 
