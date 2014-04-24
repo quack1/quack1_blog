@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-24 00:35
+Date: 2014-04-25 00:35
 Author: Quack1
 Slug: links
+
+
+Un joueur a, pour la première fois, obtenu les 2057 achievements disponibles dans World Of Warcraft [http://t.co/tDc0268ORb](http://t.co/tDc0268ORb) 
+
+Vidéo d'un chien qui (ne) se fait (pas) écraser par une voiture. [http://t.co/Y6zOpsvd88](http://t.co/Y6zOpsvd88) À regarder jusqu'à la fin :p 
+
+J'ai toujours du mal à me remettre du talent de @JimmyDiResta pour créer des trucs. Cette AK-47 est magique ! [https://t.co/fHO2WxHnQl](https://t.co/fHO2WxHnQl) 
+
+Encore un con qui tue 2.000 oiseaux menacés [http://t.co/fgdgWwdVIv](http://t.co/fgdgWwdVIv) 
+
+Sympa. Outil de cartographie à partir d'une configuration routeur/firewall [http://t.co/G1zLnwZ1n1](http://t.co/G1zLnwZ1n1) 
+
+Selon Wikipédia, le Kouign-amann « est l'un des desserts de la gastronomie française les plus difficiles à réaliser » [http://t.co/e1ZFGtNFXD](http://t.co/e1ZFGtNFXD) 
+
+Top 10 des signes que vous êtes devenu votre père, sans vous en rendre compte [http://t.co/qBJongrSiN](http://t.co/qBJongrSiN) 
+
+Donc Royal se prend pour Louis XIV [http://t.co/1juuaGKsjG](http://t.co/1juuaGKsjG) 
 
 
 Ubuntu 14.10 sera l'_Utopic Unicorn_ (la Licorne Utopique) [http://t.co/FyxFhs5khJ](http://t.co/FyxFhs5khJ) 
