@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-25 00:35
+Date: 2014-04-26 00:35
 Author: Quack1
 Slug: links
+
+
+Quand Dell sort une version 13" de cette machine (avec un port Ethernet en plus et Ubuntu) j'aurais ma future machine [http://t.co/ps7iJgsH3D](http://t.co/ps7iJgsH3D) 
+
+Classe ! :) RT @JimmyDiResta: Whiskey barrel bar by davidwaelder Joshua Greer Ian bottemly bobbyproof .. I helped. [http://t.co/HpUQPRVBIH](http://t.co/HpUQPRVBIH) 
+
+J'avoue, c'est pas con comme idée. Bizarre qu'Apple n'y ai pas pensé avant [http://t.co/TRL7ySUACU](http://t.co/TRL7ySUACU) 
+
+XD RT @H_Miser: Bad Idea: setting up a honeypot on your LAN  [https://t.co/mttjwzrq4y](https://t.co/mttjwzrq4y) #Friday #BarelySFW via @cnotin and @Siouz 
+
+Making a planetary-scale sandwich - Boing Boing [http://t.co/bxXrTkNBeG](http://t.co/bxXrTkNBeG) 
+
+So, you want to be a full-time writer ? [http://t.co/9nactuFc7x](http://t.co/9nactuFc7x) 
+
+Quentin Tarantino Says He Is Still Working On His 'Hateful Eight' Script - [http://t.co/KTJckGwKCG](http://t.co/KTJckGwKCG) [http://t.co/dWwJVKDnIk](http://t.co/dWwJVKDnIk) 
+
+Beautiful Shots Of Clone Trooper Action Figures IRL [http://t.co/A8UfEFlStU](http://t.co/A8UfEFlStU) 
 
 
 Un joueur a, pour la première fois, obtenu les 2057 achievements disponibles dans World Of Warcraft [http://t.co/tDc0268ORb](http://t.co/tDc0268ORb) 
