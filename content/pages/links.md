@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-26 00:35
+Date: 2014-04-27 00:35
 Author: Quack1
 Slug: links
+
+
+Sur des versions non mises-à-jour d'Ubuntu 14.04, maintenir la touche Entrée permet de délocker un poste verrouillé [https://t.co/c99tsf4BPh](https://t.co/c99tsf4BPh) 
+
+Top 8 des signes que le Pape est un super-héros, c’est bon on t’a grillé [http://t.co/NrKEJJX1wd](http://t.co/NrKEJJX1wd) 
 
 
 Quand Dell sort une version 13" de cette machine (avec un port Ethernet en plus et Ubuntu) j'aurais ma future machine [http://t.co/ps7iJgsH3D](http://t.co/ps7iJgsH3D) 
