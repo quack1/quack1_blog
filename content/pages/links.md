@@ -1,7 +1,96 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-16 00:35
+Date: 2014-04-27 00:35
 Author: Quack1
 Slug: links
+
+
+Sur des versions non mises-à-jour d'Ubuntu 14.04, maintenir la touche Entrée permet de délocker un poste verrouillé [https://t.co/c99tsf4BPh](https://t.co/c99tsf4BPh) 
+
+Top 8 des signes que le Pape est un super-héros, c’est bon on t’a grillé [http://t.co/NrKEJJX1wd](http://t.co/NrKEJJX1wd) 
+
+
+Quand Dell sort une version 13" de cette machine (avec un port Ethernet en plus et Ubuntu) j'aurais ma future machine [http://t.co/ps7iJgsH3D](http://t.co/ps7iJgsH3D) 
+
+Classe ! :) RT @JimmyDiResta: Whiskey barrel bar by davidwaelder Joshua Greer Ian bottemly bobbyproof .. I helped. [http://t.co/HpUQPRVBIH](http://t.co/HpUQPRVBIH) 
+
+J'avoue, c'est pas con comme idée. Bizarre qu'Apple n'y ai pas pensé avant [http://t.co/TRL7ySUACU](http://t.co/TRL7ySUACU) 
+
+XD RT @H_Miser: Bad Idea: setting up a honeypot on your LAN  [https://t.co/mttjwzrq4y](https://t.co/mttjwzrq4y) #Friday #BarelySFW via @cnotin and @Siouz 
+
+Making a planetary-scale sandwich - Boing Boing [http://t.co/bxXrTkNBeG](http://t.co/bxXrTkNBeG) 
+
+So, you want to be a full-time writer ? [http://t.co/9nactuFc7x](http://t.co/9nactuFc7x) 
+
+Quentin Tarantino Says He Is Still Working On His 'Hateful Eight' Script - [http://t.co/KTJckGwKCG](http://t.co/KTJckGwKCG) [http://t.co/dWwJVKDnIk](http://t.co/dWwJVKDnIk) 
+
+Beautiful Shots Of Clone Trooper Action Figures IRL [http://t.co/A8UfEFlStU](http://t.co/A8UfEFlStU) 
+
+
+Un joueur a, pour la première fois, obtenu les 2057 achievements disponibles dans World Of Warcraft [http://t.co/tDc0268ORb](http://t.co/tDc0268ORb) 
+
+Vidéo d'un chien qui (ne) se fait (pas) écraser par une voiture. [http://t.co/Y6zOpsvd88](http://t.co/Y6zOpsvd88) À regarder jusqu'à la fin :p 
+
+J'ai toujours du mal à me remettre du talent de @JimmyDiResta pour créer des trucs. Cette AK-47 est magique ! [https://t.co/fHO2WxHnQl](https://t.co/fHO2WxHnQl) 
+
+Encore un con qui tue 2.000 oiseaux menacés [http://t.co/fgdgWwdVIv](http://t.co/fgdgWwdVIv) 
+
+Sympa. Outil de cartographie à partir d'une configuration routeur/firewall [http://t.co/G1zLnwZ1n1](http://t.co/G1zLnwZ1n1) 
+
+Selon Wikipédia, le Kouign-amann « est l'un des desserts de la gastronomie française les plus difficiles à réaliser » [http://t.co/e1ZFGtNFXD](http://t.co/e1ZFGtNFXD) 
+
+Top 10 des signes que vous êtes devenu votre père, sans vous en rendre compte [http://t.co/qBJongrSiN](http://t.co/qBJongrSiN) 
+
+Donc Royal se prend pour Louis XIV [http://t.co/1juuaGKsjG](http://t.co/1juuaGKsjG) 
+
+
+Ubuntu 14.10 sera l'_Utopic Unicorn_ (la Licorne Utopique) [http://t.co/FyxFhs5khJ](http://t.co/FyxFhs5khJ) 
+
+Nirvana - Lithium (Live at Reading 1992): [http://t.co/SwFULk4Pm3](http://t.co/SwFULk4Pm3) 
+
+Je crois que les gens de chez Lexsi ont un peu cracké... [http://t.co/IS8D858RX2](http://t.co/IS8D858RX2) 
+
+Top 20 des photos qui vont réveiller les TOC qui sont en vous [http://t.co/yV5U2ct9ns](http://t.co/yV5U2ct9ns) 
+
+Simple stools by @JimmyDiResta [https://t.co/9P4Ck9TyTk](https://t.co/9P4Ck9TyTk) 
+
+
+POur les gens fous qui veulent débuter sous Emacs [http://t.co/u6K4ojQHJY](http://t.co/u6K4ojQHJY) 
+
+Ceci provient d'une appliance de sécurité #fail [http://t.co/c2JuL1wlx1](http://t.co/c2JuL1wlx1) 
+
+Starting the week with the promise of a new Diresta video :D RT @JimmyDiResta: #newvideo #diresta #imake [http://t.co/QTgr6JKqW2](http://t.co/QTgr6JKqW2) 
+
+
+
+
+Just got a new (USB) key \o/ (inspired by @JimmyDiResta work on custom keys) [http://t.co/RaE8gNrEU8](http://t.co/RaE8gNrEU8) 
+
+
+Génie :) RT @topito_com: Arrêtez-tout. [http://t.co/6nGAxtEQz0](http://t.co/6nGAxtEQz0) #géniepur 
+
+1500€, c'est le vrai prix? O_o [http://t.co/RjIWYOwnuq](http://t.co/RjIWYOwnuq) 
+
+Donc il y a vraiment des gens qui enregistrent des noms de domains de 15 bornes de long O_o [http://t.co/cb6jQGondf](http://t.co/cb6jQGondf) (via @SylvainDeaure) 
+
+
+Longue, mais — très — intéressante, interview de Damien Saez [http://t.co/7Oov4zAadw](http://t.co/7Oov4zAadw) 
+
+Typography joke "@Brilliant_Ads: Typography. Humor :) [http://t.co/Q1pjOcOPY9"](http://t.co/Q1pjOcOPY9") 
+
+Apprendre la photo : 14 tutoriels gratuits pour progresser en photo numérique [http://t.co/7R2yzEFPIf](http://t.co/7R2yzEFPIf) 
+
+Nue, elle peint en pondant des oeufs avec son vagin #SFW [http://t.co/yUTvkU4EUH](http://t.co/yUTvkU4EUH) 
+
+Surveiller Julien Assange coûte 5millions d'euros aux contribuables britanniques [http://t.co/4Vw2449Y5c](http://t.co/4Vw2449Y5c) 
+
+
+XP est mort, vive Ubuntu par davidguigui [http://t.co/DmQH0PXXBi](http://t.co/DmQH0PXXBi) 
+
+Demain, 17 Avril 2014, sortie d'Ubuntu 14.04 LTS [http://t.co/c6DlPvgT9O](http://t.co/c6DlPvgT9O) 
+
+Top 5 SOC Analyst Skills [http://t.co/cmvRZv9EXB](http://t.co/cmvRZv9EXB) 
+
+Des objets inconfortables [http://t.co/p71f2LqQri](http://t.co/p71f2LqQri) 
 
 
 La fin pour AC/DC? [http://t.co/eyriX6eW1m](http://t.co/eyriX6eW1m) 
