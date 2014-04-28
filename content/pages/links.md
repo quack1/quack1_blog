@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-28 00:35
+Date: 2014-04-29 00:35
 Author: Quack1
 Slug: links
+
+
+Dat troll sur Wikipédia :] [http://t.co/y4UcGyhKMQ](http://t.co/y4UcGyhKMQ) 
+
+Géant ! Une partie de Snake déssinée au sol à la craie en trompe l'oeil 3D [https://t.co/5Hxi3PbLpd](https://t.co/5Hxi3PbLpd) 
+
+Google annonce la fin de ses services pour se concentrer sur l'essentiel [http://t.co/yF4CWdcsrO](http://t.co/yF4CWdcsrO) 
+
+Après son dérapage, Michel Platini protégé par les médias français ? [http://t.co/aLZiw7TNch](http://t.co/aLZiw7TNch) 
+
+CERT Societe Generale: Spamvertizing : du malware dans votre boîte mail [http://t.co/yifJnXK5Dk](http://t.co/yifJnXK5Dk) 
 
 
 Le pangolin, animal impossible à élever en captivité, serait le mammifère le plus « trafiqué » au monde [http://t.co/v7NgUEXvdx](http://t.co/v7NgUEXvdx) 
