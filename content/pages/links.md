@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-29 00:35
+Date: 2014-04-30 00:35
 Author: Quack1
 Slug: links
+
+
+Génial ! RT @MaylisAlloCine: Tintin Quarantino [http://t.co/lM0QmOFJhH](http://t.co/lM0QmOFJhH) 
+
+Pourquoi ? Juste pourquoi ? | Top 20 des T-shirts qui devraient être interdits à la vente (surtout à ces gens là) [http://t.co/3HdY3eOCCZ](http://t.co/3HdY3eOCCZ) 
+
+Google, les genres musicaux les plus populaires à travers les âges [Infographie] [http://t.co/hLOsaDJM3h](http://t.co/hLOsaDJM3h) 
+
+Trumpton Blog: Asus X200CA Touchpad Configuration on Ubuntu 13.10... [http://t.co/gpMms44AXX](http://t.co/gpMms44AXX) 
+
+Une vulnérabilité dans Facebook Notes permet de lancer des attaques DDoS contre une source externe [http://t.co/dRuuVq48s0](http://t.co/dRuuVq48s0) 
 
 
 Dat troll sur Wikipédia :] [http://t.co/y4UcGyhKMQ](http://t.co/y4UcGyhKMQ) 
