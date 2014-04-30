@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-30 00:35
+Date: 2014-05-01 00:35
 Author: Quack1
 Slug: links
+
+
+Faut qu'on fasse ça au bureau aux stagiaires ! :D RT @LDLC: Demain on offre du muguet, ça porte chance in game ! [http://t.co/kUVCbWIbaD](http://t.co/kUVCbWIbaD) 
+
+8 Writing Strategies for People Who Say They Can't Write   [http://t.co/RwyoUKQ1Hl](http://t.co/RwyoUKQ1Hl) 
 
 
 Génial ! RT @MaylisAlloCine: Tintin Quarantino [http://t.co/lM0QmOFJhH](http://t.co/lM0QmOFJhH) 
