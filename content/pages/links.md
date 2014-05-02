@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-02 00:35
+Date: 2014-05-03 00:35
 Author: Quack1
 Slug: links
+
+
+Après 3+ heures, la guitare à perdu 1 bon kilo! Demain, rabotage/ponçage de la finition du dos \o/ [http://t.co/oOs7Abo9RX](http://t.co/oOs7Abo9RX) 
+
+Behind the scenes #guitar2bass [http://t.co/ihBViODtRs](http://t.co/ihBViODtRs) 
+
+In progress 2... #guitar2bass [http://t.co/d3rpLjFFGc](http://t.co/d3rpLjFFGc) 
+
+In progress... #guitar2bass [http://t.co/N6HabX1sqi](http://t.co/N6HabX1sqi) 
+
+Serious work is coming #guitar2bass [http://t.co/MHgIzq6Ryu](http://t.co/MHgIzq6Ryu) 
+
+Et un micro en moins! #guitar2bass [http://t.co/BbXZbdPjGx](http://t.co/BbXZbdPjGx) 
+
+"Guitar to Bass" - démontage en cours [http://t.co/cCfhqyq9ta](http://t.co/cCfhqyq9ta) 
 
 
 Scooby and Sammy were here. [http://t.co/stvF0kuRr8](http://t.co/stvF0kuRr8) 
