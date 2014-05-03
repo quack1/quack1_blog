@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-03 00:35
+Date: 2014-05-04 00:35
 Author: Quack1
 Slug: links
+
+
+Profilage du manche en cours (avant ponçage) (avant/après) #guitar2bass [http://t.co/K83MlkaEkH](http://t.co/K83MlkaEkH) 
+
+Et merde, le moteur de ma défonceuse à grillé :-( À quand un rurallab29 pour m'en prêter une? Cc @ruralLab36 [https://t.co/D6x6irWot6](https://t.co/D6x6irWot6) 
+
+"The product VS The experience " RT @PimVerlaan: UI vs UX [http://t.co/UhGPQmvNiU](http://t.co/UhGPQmvNiU) 
 
 
 Après 3+ heures, la guitare à perdu 1 bon kilo! Demain, rabotage/ponçage de la finition du dos \o/ [http://t.co/oOs7Abo9RX](http://t.co/oOs7Abo9RX) 
