@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-04 00:35
+Date: 2014-05-05 00:35
 Author: Quack1
 Slug: links
+
+
+Ça dénature le Zippo, mais c'est sympathique comme design ! :) RT @AshKetchum151: Cool lighter [http://t.co/QjmIhlZCvM](http://t.co/QjmIhlZCvM) 
+
+"A razor is a sharp blade used to shave men's face until it gets downgraded to shaving women's genitals" [http://t.co/KFJU8lUpcp](http://t.co/KFJU8lUpcp) 
+
+SUBLIMINAL – Pourquoi le code A113 se cache-t-il dans presque tous les films de Pixar ? - [http://t.co/HOEGmBKHLN](http://t.co/HOEGmBKHLN) 
+
+Lassé du tatouage « propre », ils se lancent dans le tatouage homemade DIY [http://t.co/qQYtyOUFXf](http://t.co/qQYtyOUFXf) 
+
+"ParisHilton.js removes everything between the &lt;head&gt;&lt;/head&gt; tags" [https://t.co/JQz0JNXNQU](https://t.co/JQz0JNXNQU) 
 
 
 Profilage du manche en cours (avant ponçage) (avant/après) #guitar2bass [http://t.co/K83MlkaEkH](http://t.co/K83MlkaEkH) 
