@@ -1,7 +1,67 @@
 Title: Liens partagés sur Twitter
-Date: 2014-04-29 00:35
+Date: 2014-05-05 00:35
 Author: Quack1
 Slug: links
+
+
+Ça dénature le Zippo, mais c'est sympathique comme design ! :) RT @AshKetchum151: Cool lighter [http://t.co/QjmIhlZCvM](http://t.co/QjmIhlZCvM) 
+
+"A razor is a sharp blade used to shave men's face until it gets downgraded to shaving women's genitals" [http://t.co/KFJU8lUpcp](http://t.co/KFJU8lUpcp) 
+
+SUBLIMINAL – Pourquoi le code A113 se cache-t-il dans presque tous les films de Pixar ? - [http://t.co/HOEGmBKHLN](http://t.co/HOEGmBKHLN) 
+
+Lassé du tatouage « propre », ils se lancent dans le tatouage homemade DIY [http://t.co/qQYtyOUFXf](http://t.co/qQYtyOUFXf) 
+
+"ParisHilton.js removes everything between the &lt;head&gt;&lt;/head&gt; tags" [https://t.co/JQz0JNXNQU](https://t.co/JQz0JNXNQU) 
+
+
+Profilage du manche en cours (avant ponçage) (avant/après) #guitar2bass [http://t.co/K83MlkaEkH](http://t.co/K83MlkaEkH) 
+
+Et merde, le moteur de ma défonceuse à grillé :-( À quand un rurallab29 pour m'en prêter une? Cc @ruralLab36 [https://t.co/D6x6irWot6](https://t.co/D6x6irWot6) 
+
+"The product VS The experience " RT @PimVerlaan: UI vs UX [http://t.co/UhGPQmvNiU](http://t.co/UhGPQmvNiU) 
+
+
+Après 3+ heures, la guitare à perdu 1 bon kilo! Demain, rabotage/ponçage de la finition du dos \o/ [http://t.co/oOs7Abo9RX](http://t.co/oOs7Abo9RX) 
+
+Behind the scenes #guitar2bass [http://t.co/ihBViODtRs](http://t.co/ihBViODtRs) 
+
+In progress 2... #guitar2bass [http://t.co/d3rpLjFFGc](http://t.co/d3rpLjFFGc) 
+
+In progress... #guitar2bass [http://t.co/N6HabX1sqi](http://t.co/N6HabX1sqi) 
+
+Serious work is coming #guitar2bass [http://t.co/MHgIzq6Ryu](http://t.co/MHgIzq6Ryu) 
+
+Et un micro en moins! #guitar2bass [http://t.co/BbXZbdPjGx](http://t.co/BbXZbdPjGx) 
+
+"Guitar to Bass" - démontage en cours [http://t.co/cCfhqyq9ta](http://t.co/cCfhqyq9ta) 
+
+
+Scooby and Sammy were here. [http://t.co/stvF0kuRr8](http://t.co/stvF0kuRr8) 
+
+Custom "USB" Key [https://t.co/mInJ9ZWz8G](https://t.co/mInJ9ZWz8G) 
+
+Ready for work! [http://t.co/oIkhzNEPrh](http://t.co/oIkhzNEPrh) 
+
+Cuillère à sucre « Tête de Mort » [http://t.co/N6TaTIzTUm](http://t.co/N6TaTIzTUm) 
+
+Comment rendre beau des extincteurs ! :) RT @SabEnBzh: Équipements de sécurité stylés. [http://t.co/ucMUPCV3DC](http://t.co/ucMUPCV3DC) 
+
+
+Faut qu'on fasse ça au bureau aux stagiaires ! :D RT @LDLC: Demain on offre du muguet, ça porte chance in game ! [http://t.co/kUVCbWIbaD](http://t.co/kUVCbWIbaD) 
+
+8 Writing Strategies for People Who Say They Can't Write   [http://t.co/RwyoUKQ1Hl](http://t.co/RwyoUKQ1Hl) 
+
+
+Génial ! RT @MaylisAlloCine: Tintin Quarantino [http://t.co/lM0QmOFJhH](http://t.co/lM0QmOFJhH) 
+
+Pourquoi ? Juste pourquoi ? | Top 20 des T-shirts qui devraient être interdits à la vente (surtout à ces gens là) [http://t.co/3HdY3eOCCZ](http://t.co/3HdY3eOCCZ) 
+
+Google, les genres musicaux les plus populaires à travers les âges [Infographie] [http://t.co/hLOsaDJM3h](http://t.co/hLOsaDJM3h) 
+
+Trumpton Blog: Asus X200CA Touchpad Configuration on Ubuntu 13.10... [http://t.co/gpMms44AXX](http://t.co/gpMms44AXX) 
+
+Une vulnérabilité dans Facebook Notes permet de lancer des attaques DDoS contre une source externe [http://t.co/dRuuVq48s0](http://t.co/dRuuVq48s0) 
 
 
 Dat troll sur Wikipédia :] [http://t.co/y4UcGyhKMQ](http://t.co/y4UcGyhKMQ) 
