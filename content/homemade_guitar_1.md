@@ -1,17 +1,13 @@
 Title: Guitare électrique « Homemade » – Partie 1
-Date: 2014-05-04 14:03
+Date: 2014-05-05 22:43
 Author: Quack1
 Category: DIY
 Tags: DIY, Guitare, Lutherie, I Make
 Slug: homemade_guitar_1
-Summary: 
+Summary: Une guitare électrique _solid body_ est, comparé à une guitare acoustique, assez simple à fabriquer. Mais, pour rendre la fabrication « simple », il faut une bonne préparation.
 Lang: fr
 
-Je continue la série d'articles que j'ai commencé sur le [DIY](/tag/diy.html) avec une série d'articles sur une guitare électrique que je me suis fabriquée il y a quatre ans.
-
-_DISCLAIMER : Je ne suis ni luthier, ni menuisier, ni expert en instruments à cordes. J'aime juste beaucoup la guitare et [me fabriquer des trucs](tag/i-make.html). Les conseils donnés ici sont issus uniquement de ma propre expérience et seront (à priori) moins bons que ceux d'un professionnel._
-
-Une guitare électrique _solid body_ est, comparé à une guitare acoustique, assez simple à fabriquer. Évidemment, tout est relatif, ce n'est donc pas quelque chose qui peut se faire un dimanche après-midi quand on a fini de regarder [GoT](http://fr.wikipedia.org/wiki/Games_of_Thrones).
+Une guitare électrique _solid body_ est, comparé à une guitare acoustique, assez simple à fabriquer. Évidemment, tout est relatif, ce n'est donc pas quelque chose qui peut se faire un dimanche après-midi quand on a fini de regarder [GoT](http://fr.wikipedia.org/wiki/Games_of_Thrones). 
 
 # Pour commencer...
 
@@ -102,7 +98,7 @@ Donc, si je résume ce premier article, vous devez :
 - Vous avez réussi à récupérer tous les outils et machines dont vous aurez besoin ;
 - Vous êtes armés de courage et vous avez fait vos réserves d'huile de coude :)
 
-La suite bientôt !
+La suite [ici]({filename}/homemade_guitar_2.md) !
 
 <div align=center><a href="/upload/homemade_guitar_pieces.jpg"><img src="/upload/homemade_guitar_pieces.jpg" align="center" height="300" /></a></div>
 
