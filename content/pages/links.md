@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-05 00:35
+Date: 2014-05-06 00:35
 Author: Quack1
 Slug: links
+
+
+Idem ! RT @H_Miser: +1 RT @legrugru Waaaaaaaaaaaaaaaaaaaaant [http://t.co/wiMXtDnWYI](http://t.co/wiMXtDnWYI) 
+
+La logique appliquée [http://t.co/b6LpFEunHO](http://t.co/b6LpFEunHO) 
+
+Pour bien commencer la journée : #meatporn pour un méga hamburger ! [https://t.co/mHtTp5XVtR](https://t.co/mHtTp5XVtR) 
 
 
 Ça dénature le Zippo, mais c'est sympathique comme design ! :) RT @AshKetchum151: Cool lighter [http://t.co/QjmIhlZCvM](http://t.co/QjmIhlZCvM) 
