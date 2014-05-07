@@ -38,7 +38,7 @@ Pour la conception proprement dite, ce que j'avais fait, et je pense que c'est u
 - Du carton fin ça se roule et ça se transporte facilement, donc on peut l'emmener avec soi dans un magasin de musique pour comparer notre modèle à des guitares existantes ;
 - On peut également disposer dessus les différents accessoires, et le travail qui suivra n'en sera que facilité.
 
-Quand vous avez votre modèle parfaitement dessiné, vous pouvez commencer à regarder l'accastillage que vous poserez sur la guitare : micro, potentiomètres, chevalet, mécaniques, etc. Pensez également à tout ce qui ne se voit pas mais qui est important : fil électrique pour la cablage des micros, prise jack, _Truss Road_[^1], vis diverses, frettes, etc.
+Quand vous avez votre modèle parfaitement dessiné, vous pouvez commencer à regarder l'accastillage que vous poserez sur la guitare : micro, potentiomètres, chevalet, mécaniques, etc. Pensez également à tout ce qui ne se voit pas mais qui est important : fil électrique pour la cablage des micros, prise jack, _Truss Rod_[^1], vis diverses, frettes, etc.
 
 Pour l'achat, les sites d'achat en ligne d'accessoires de musique proposent souvent ces pièces détachées, sinon orientez vous vers des sites spécialisés. Perso, j'avais fait mes achats chez [Thomann](http://www.thomann.de/fr/) (attention, ils spamment un peu par courrier en envoyant régulièrement les nouveaux catalogues) et [Guitare Shop](http://www.guitare-shop.com).
 
