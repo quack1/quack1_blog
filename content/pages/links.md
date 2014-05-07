@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-06 00:35
+Date: 2014-05-07 00:35
 Author: Quack1
 Slug: links
+
+
+Où l'on apprend que Gibson implante des puces RFID dans les manches de ses guitares [http://t.co/1EVdgqAAEp](http://t.co/1EVdgqAAEp) 
+
+Before Ink Dries on Army Rules, Soldiers Rush to Get Tattoos [http://t.co/YKNCLkeGRY](http://t.co/YKNCLkeGRY) 
+
+Saez - Marianne: [http://t.co/DSn9aSsTT6](http://t.co/DSn9aSsTT6) 
+
+Replay de mon article de cette nuit, avant que mon blog soit down pour la journée [http://t.co/D4NpLAo4qI](http://t.co/D4NpLAo4qI) 
 
 
 Idem ! RT @H_Miser: +1 RT @legrugru Waaaaaaaaaaaaaaaaaaaaant [http://t.co/wiMXtDnWYI](http://t.co/wiMXtDnWYI) 
