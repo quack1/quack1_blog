@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-07 00:35
+Date: 2014-05-08 00:35
 Author: Quack1
 Slug: links
+
+
+Et un super article pour expliquer comment on décoche une checkbox dans un installeur, un! [http://t.co/kUtsbTG60R](http://t.co/kUtsbTG60R) 
+
+« Et toi, c'est quoi ton signe Pokémon ? » [https://t.co/yjLQleggP3](https://t.co/yjLQleggP3) 
+
+How passwords length wins the Internet [https://t.co/iYIScxbsng](https://t.co/iYIScxbsng) 
+
+Si vous dormiez, j'ai mis à jour l'article sur la fabrication maison d'une guitare électrique :) #DIY [https://t.co/ImrFdnOijb](https://t.co/ImrFdnOijb) 
+
+24/07/2013 - Théatre de Verdure (Nice) - Damien Saez - Au Bar-Tabac du populaire [http://t.co/bJaccJqW6v](http://t.co/bJaccJqW6v) 
 
 
 Où l'on apprend que Gibson implante des puces RFID dans les manches de ses guitares [http://t.co/1EVdgqAAEp](http://t.co/1EVdgqAAEp) 
