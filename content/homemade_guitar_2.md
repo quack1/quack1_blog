@@ -89,7 +89,7 @@ Enfin, récapitulatif de l'article :
 	- Les emplacements de vos frettes sont taillés ;
 	- Les inlays sont en place.
 
-Dans le prochain article (#teasing), je vous parlerais de la découpe du corps et des différentes défonces pour les micros et autres parties électroniques. Stay Tuned ;)
+Dans [le prochain article]({filename}/homemade_guitar_3.md) (#teasing), je vous parlerais de la découpe du corps et des différentes défonces pour les micros et autres parties électroniques. Stay Tuned ;)
 
 [^2]: On est assez proche du diapason d'une basse.
 [^1]: Chez Fender, on est dans les 650mm.
