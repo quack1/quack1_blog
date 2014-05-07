@@ -20,3 +20,9 @@ En français, et en plus court, le même genre de vidéo existe sur le fabricant
 **Partie 2**
 
 <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/mIaGtf8MJGE" frameborder="0" allowfullscreen></iframe>
+
+# EDIT - 2014-05-07 12:30 
+
+Youtube m'a aussi proposé la visite de l'atelier de chez Fender !
+
+<iframe width="640" height="480" src="//www.youtube-nocookie.com/embed/9cO3OvKbaQ8" frameborder="0" allowfullscreen></iframe>
