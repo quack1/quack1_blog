@@ -44,6 +44,8 @@ Enfin, faites gaffe à centrer le _Truss Rod_ bien au milieu du manche, et à la
 
 Enfin, on fini le travail du bois avec le percage des trous pour le passage des molettes de réglage des potentiomètres, ceux pour faire tenir le chevalet et le cordier (suivant les modèles), on perce les trous pour les mécaniques, puis on repasse un petit coup de ponceuse, histoire de.
 
+Petite astuce pour placer le chevalet au bon endroit : la longueur de corde entre le sillet et le chevalet doit être **exactement** deux fois la longueur entre le sillet et la douzième frette (sachant que le sillet est la frette zéro).
+
 # Façonnage du manche
 
 Maintenant, votre guitare doit normalement commencer à ressembler à quelque chose. Il reste cependant un point que l'on n'a pas encore abordé : le manche.
@@ -60,9 +62,9 @@ Pendant que vous travaillez le manche, ajustez également la jonction entre le c
 
 Votre guitare est maintenant presque terminée ! 
 
-Le plus gros est fait, il ne restera plus que les finitions et monter tout l'accastillage pour pouvoir commencer à jouer :) 
+Le plus gros est fait, il ne restera plus que les finitions et monter tout l'accastillage pour pouvoir commencer à jouer :) [La suite ici]({filename}/homemade_guitar_4.md)...
 
-La suite, au prochain épisode.
+La suite, [au prochain épisode]({filename}/homemade_guitar_4.md).
 
 [^1]: Adéquate, adj. f. : Désigne une coiffure. _Fifi Brindacier adéquate._[^2]
 
