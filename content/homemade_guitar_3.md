@@ -64,7 +64,7 @@ Votre guitare est maintenant presque terminée !
 
 Le plus gros est fait, il ne restera plus que les finitions et monter tout l'accastillage pour pouvoir commencer à jouer :) [La suite ici]({filename}/homemade_guitar_4.md)...
 
-La suite, au prochain épisode.
+La suite, [au prochain épisode]({filename}/homemade_guitar_4.md).
 
 [^1]: Adéquate, adj. f. : Désigne une coiffure. _Fifi Brindacier adéquate._[^2]
 
