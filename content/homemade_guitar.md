@@ -16,6 +16,6 @@ _DISCLAIMER : Je ne suis ni luthier, ni menuisier, ni expert en instruments à c
 
 1. [Réflexion, théorie et shopping]({filename}/homemade_guitar_1.md) ;
 1. [Préparation du bois et premières étapes du montage]({filename}/homemade_guitar_2.md) ;
-1. Premières découpes : forme générale et percages/défonces ;
-1. Finitions : poncage, peinture, vernis, etc ;o
-1. Montage finale et essais ! \m/
+1. [Premières découpes : forme générale et percages/défonces]({filename}/homemade_guitar_3.md) ;
+1. [Finitions : poncage, peinture, vernis, etc]({filename}/homemade_guitar_4.md) ;
+1. [Montage final et essais ! \m/]({filename}/homemade_guitar_5.md)

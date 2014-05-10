@@ -66,7 +66,7 @@ Enfin, faites de même avec le vernis. Plusieurs couches et des temps de séchag
 
 &nbsp;
 
-À la fin de ce — long — processus, votre guitare devrait avoir un très beau look et l'envie de jouer devrait être plus forte que jamais ! Un peu de patience, le calvaire est bientôt terminé :)
+À la fin de ce — long — processus, votre guitare devrait avoir un très beau look et l'envie de jouer devrait être plus forte que jamais ! Un peu de patience, [le calvaire est bientôt terminé]({filename}/homemade_guitar_5.md) :)
 
 [^1]: Chez [Gibson]({filename}/gibson_factory.md), ils appliquent la colle avec un petit rouleau. Moi je la mets toujours à l'arrache, mais cette technique permet de bien la répartir partout (en même temps, sur des guitares à 4K€, ils peuvent bien faire ça...).
 
