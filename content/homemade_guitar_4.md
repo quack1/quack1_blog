@@ -4,7 +4,7 @@ Author: Quack1
 Category: DIY
 Tags: DIY, Guitare, Lutherie, I Make
 Slug: homemade_guitar_4
-Summary: 
+Summary: On commence à toucher à la fin de notre projet, et on va donc s'attaquer aux finitions.
 Lang: fr
 
 On commence à toucher à la fin de notre projet, et on va donc s'attaquer aux finitions.
