@@ -4,7 +4,7 @@ Author: Quack1
 Category: DIY
 Tags: DIY, Guitare, Lutherie, I Make
 Slug: homemade_guitar_rex
-Summary: 
+Summary: En fin de compte, après [5 articles]({filename}/homemade_guitar.md) et des dizaines d'heures à travailler, est ce que se fabriquer soi-même sa guitare électrique est une bonne idée ?
 Lang: fr
 
 En fin de compte, après [5 articles]({filename}/homemade_guitar.md) et des dizaines d'heures à travailler, est ce que se fabriquer soi-même sa guitare électrique est une bonne idée ?
