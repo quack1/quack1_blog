@@ -74,7 +74,7 @@ Enfin, le meilleur moyen de bien faire est de prendre exemple sur une de vos gui
 
 &nbsp;
 
-Cet article présente une (ma) méthode pour fabriquer une guitare électrique. Ce n'est sûrement pas la meilleure et il doit manquer certaines informations. D'ailleurs, j'ai fait plusieurs « fautes » au cours de la fabrication de ma guitare, ce qui fera l'objet d'un nouvel article bientôt (vu que ça a également lancé un nouveau projet ;)).
+Cet article présente une (ma) méthode pour fabriquer une guitare électrique. Ce n'est sûrement pas la meilleure et il doit manquer certaines informations. D'ailleurs, j'ai fait plusieurs « fautes » au cours de la fabrication de ma guitare, ce qui fera l'objet d'[un nouvel article bientôt]({filename}/homemade_guitar_rex.md) (vu que ça a également lancé un nouveau projet ;)).
 
 [^1]: Non, j'déconne ! ;)
 
