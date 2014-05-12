@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-11 00:35
+Date: 2014-05-13 00:35
 Author: Quack1
 Slug: links
+
+
+Le prochain Unreal Tournament sera complètement ouvert [http://t.co/7bN7PmnmZi](http://t.co/7bN7PmnmZi) 
+
+L'avenir est-il au travail debout pluqtôt qu'assis ? [VIDEO] (5min) [http://t.co/a4szyQ5yUQ](http://t.co/a4szyQ5yUQ) 
+
+Une nouvelle guitare au @HRCParis \o/ ( La guitare Ibanez de @stevevai ) #ThisIsHardRock ! @HARDROCK [http://t.co/rTsEYV7Bcb](http://t.co/rTsEYV7Bcb) 
+
+Chez @newosft : Les mails du CAC 40 sont-ils dans un cloud « souverain » ? [http://t.co/LtdyB96wBl](http://t.co/LtdyB96wBl) 
+
 
 
 Quand j'étais petit, je pensais que ça marchait comme ça quand on roulait en voiture... [http://t.co/MkDJw7T3hD](http://t.co/MkDJw7T3hD) 
