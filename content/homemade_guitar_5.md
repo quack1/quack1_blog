@@ -58,9 +58,9 @@ Normalement, votre guitare est bien accordée mais elle ne le restera pas longte
 
 # Branchez !
 
-C'est bon, votre guitare est prête, vous pouvez la brancher à votre ampli et commencer à jouer \m/
+C'est bon, votre guitare est prête, vous pouvez la brancher à votre ampli et commencer à jouer \m/ Je ne me suis jamais enregistré avec cette guitare, donc malheureusement je ne pourrais pas vous faire écouter ce que ça donne :/
 
-J'espère qu'elle sonne bien, que mes conseils vous auront servi et que vous aurez réussi à obtenir l'instrument de vos rêves !
+J'espère que la votre sonne bien, que mes conseils vous auront servi et que vous aurez réussi à obtenir l'instrument de vos rêves !
 
 <div align=center><a href="/upload/homemade_guitar_final_2_HD.png"><img src="/upload/homemade_guitar_final_2.png" align="center" width="250" /></a>     <a href="/upload/homemade_guitar_final_1_HD.png"><img src="/upload/homemade_guitar_final_1.png" align="center" width="250" /></a></div>
 &nbsp;

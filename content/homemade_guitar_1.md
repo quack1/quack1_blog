@@ -83,7 +83,7 @@ Au final, je me suis retrouvé avec :
 
 <div align=center><a href="/upload/homemade_guitar_bois_brut.jpg"><img src="/upload/homemade_guitar_bois_brut.jpg" align="center" height="300" /></a></div>
 
-Concernant le prix, 'ai pu négocier tout ça contre quelques paquets de clopes, donc c'était tout bénef'. Et en plus, j'ai pu profiter des machines de la scierie pour rainurer le bois pour préparer mon collage[^2]. S'il me lit, merci au propriétaire de la scierie \o/.
+Concernant le prix, j'ai pu négocier tout ça contre quelques paquets de clopes, donc c'était tout bénef'. Et en plus, j'ai pu profiter des machines de la scierie pour rainurer le bois pour préparer mon collage[^2]. S'il me lit, merci au propriétaire de la scierie \o/.
 
 À titre de comparaison, chez Guitare-Shop, le kit « corps Acajou 45mm », en 2 pièces de 500x200x45 ça vaut déjà [68€](http://www.guitare-shop.com/index.php?cPath=160_54), et un corps type Les Paul, tout usiné, c'est [151€](http://www.guitare-shop.com/product_info.php?cPath=160_204&products_id=1202).
 
