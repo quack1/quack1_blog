@@ -62,12 +62,10 @@ Pendant que vous travaillez le manche, ajustez également la jonction entre le c
 
 Votre guitare est maintenant presque terminée ! 
 
-Le plus gros est fait, il ne restera plus que les finitions et monter tout l'accastillage pour pouvoir commencer à jouer :) [La suite ici]({filename}/homemade_guitar_4.md)...
+Le plus gros est fait, il ne restera plus que les finitions et monter tout l'accastillage pour pouvoir commencer à jouer :)
 
 La suite, [au prochain épisode]({filename}/homemade_guitar_4.md).
 
 [^1]: Adéquate, adj. f. : Désigne une coiffure. _Fifi Brindacier adéquate._[^2]
-
-[^2]: Depuis le temps que je voulais caser cette vanne \o/ (_adéquate ⇔ « à des couettes »)
-
+[^2]: Depuis le temps que je voulais caser cette vanne \o/ (_adéquate ⇔ « à des couettes »). D'ailleurs, on me signale que c'est une vanne de Coluche :)
 [^3]: Une râpe, et [non une lime](http://fr.wikipedia.org/wiki/Lime_%28outil%29).

@@ -9,7 +9,7 @@ Lang: fr
 
 À la fin du [premier article]({filename}/homemade_guitar_1.md) de [cette série]({filename}/homemade_guitar.md), on a normalement préparé toute la fabrication de notre guitare. On sait quel modèle on va fabriquer, quelles seront les pièces que l'on y mettra (on a pour cela réalisé un plan 1:1 de la guitare), les pièces et le bois sont achetées, on a réuni pas mal d'outils, on est donc près à commencer !
 
-Pour vous donner une idée de mon projet, j'étais parti sur une guitare type [Les Paul Junior], en _grande_ taille. La longueur totale de la guitare (du bas du corps à la tête) dépassait le mètre 10, pour avoir plus d'aigus le diapason prévu mesure 774mm[^2] (sur une Les Paul Junior standard c'est 625mm[^1]), et au niveau de l'électronique un seul micro humbucker ([EMG H4](http://fr.audiofanzine.com/micro-guitare/emg/Hz-H4/avis/)) est commandé, et deux potentiomètres seront utilisés : un volume et une tonalité.
+Pour vous donner une idée de mon projet, j'étais parti sur une guitare type [Les Paul Junior](http://fr.wikipedia.org/wiki/Gibson_Les_Paul#la_Les_Paul_Junior), en _grande_ taille. La longueur totale de la guitare (du bas du corps à la tête) dépassait le mètre 10, pour avoir plus d'aigus le diapason prévu mesure 774mm[^2] (sur une Les Paul Junior standard c'est 625mm[^1]), et au niveau de l'électronique un seul micro humbucker ([EMG H4](http://fr.audiofanzine.com/micro-guitare/emg/Hz-H4/avis/)) est commandé, et deux potentiomètres seront utilisés : un volume et une tonalité.
 
 # Préparation du bois
 

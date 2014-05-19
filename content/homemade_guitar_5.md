@@ -58,9 +58,9 @@ Normalement, votre guitare est bien accordée mais elle ne le restera pas longte
 
 # Branchez !
 
-C'est bon, votre guitare est prête, vous pouvez la brancher à votre ampli et commencer à jouer \m/
+C'est bon, votre guitare est prête, vous pouvez la brancher à votre ampli et commencer à jouer \m/ Je ne me suis jamais enregistré avec cette guitare, donc malheureusement je ne pourrais pas vous faire écouter ce que ça donne :/
 
-J'espère qu'elle sonne bien, que mes conseils vous auront servi et que vous aurez réussi à obtenir l'instrument de vos rêves !
+J'espère que la votre sonne bien, que mes conseils vous auront servi et que vous aurez réussi à obtenir l'instrument de vos rêves !
 
 <div align=center><a href="/upload/homemade_guitar_final_2_HD.png"><img src="/upload/homemade_guitar_final_2.png" align="center" width="250" /></a>     <a href="/upload/homemade_guitar_final_1_HD.png"><img src="/upload/homemade_guitar_final_1.png" align="center" width="250" /></a></div>
 &nbsp;
@@ -74,7 +74,7 @@ Enfin, le meilleur moyen de bien faire est de prendre exemple sur une de vos gui
 
 &nbsp;
 
-Cet article présente une (ma) méthode pour fabriquer une guitare électrique. Ce n'est sûrement pas la meilleure et il doit manquer certaines informations. D'ailleurs, j'ai fait plusieurs « fautes » au cours de la fabrication de ma guitare, ce qui fera l'objet d'un nouvel article bientôt (vu que ça a également lancé un nouveau projet ;)).
+Cet article présente une (ma) méthode pour fabriquer une guitare électrique. Ce n'est sûrement pas la meilleure et il doit manquer certaines informations. D'ailleurs, j'ai fait plusieurs « fautes » au cours de la fabrication de ma guitare, ce qui fera l'objet d'[un nouvel article bientôt]({filename}/homemade_guitar_rex.md) (vu que ça a également lancé un nouveau projet ;)).
 
 [^1]: Non, j'déconne ! ;)
 

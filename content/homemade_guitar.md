@@ -14,8 +14,13 @@ Je continue la série d'articles que j'ai commencé sur le [DIY](/tag/diy.html) 
 
 _DISCLAIMER : Je ne suis ni luthier, ni menuisier, ni expert en instruments à cordes. J'aime juste beaucoup la guitare et [me fabriquer des trucs](tag/i-make.html). Les conseils donnés ici sont issus uniquement de ma propre expérience et seront (à priori) moins bons que ceux d'un professionnel._
 
+Il est, à mon avis, très utile de lire la totalité des articles pour bien préparer la fabrication de la guitare avant de se lancer. Ça vous permettra de tout bien repérer, ne serait-ce que les outils et pièces dont vous aurez besoin.
+
+_Si vous souhaitez lire tous les articles d'un seul coup, ou en télécharger une version PDF, tout est regroupé [ici]({filename}pages/homemade_guitar.md)_
+
 1. [Réflexion, théorie et shopping]({filename}/homemade_guitar_1.md) ;
 1. [Préparation du bois et premières étapes du montage]({filename}/homemade_guitar_2.md) ;
 1. [Premières découpes : forme générale et percages/défonces]({filename}/homemade_guitar_3.md) ;
 1. [Finitions : poncage, peinture, vernis, etc]({filename}/homemade_guitar_4.md) ;
-1. [Montage final et essais ! \m/]({filename}/homemade_guitar_5.md)
+1. [Montage final et essais ! \m/]({filename}/homemade_guitar_5.md) ;
+1. [Réflexions, avis et retour d'expérience]({filename}/homemade_guitar_rex.md)
