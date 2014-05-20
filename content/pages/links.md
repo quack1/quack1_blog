@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-20 00:35
+Date: 2014-05-21 00:35
 Author: Quack1
 Slug: links
+
+
+Ultimate makeup [http://t.co/kxQlgeZiTa](http://t.co/kxQlgeZiTa) 
+
+Des classiques de la peinture photoshoppés comme les magazines actuels [http://t.co/7tNKk6FWL8](http://t.co/7tNKk6FWL8) 
+
+"George R.R. Martin is an american novelist best known for his lengthy _Game of Thrones_ spoilers." [http://t.co/Ve5T1MuVpx](http://t.co/Ve5T1MuVpx) 
+
+La playlist de Doctor Sleep, composée par @StephenKing [http://t.co/Wt1l7492HD](http://t.co/Wt1l7492HD) 
+
+Hier il manquait des URL sur mon dernier article. C'est corrigé ! #guitar2bass – Quand une guitare devient une basse [https://t.co/O6fAVlLjx7](https://t.co/O6fAVlLjx7) 
 
 
 Mozilla et les DRM : une autre perspective [http://t.co/wbOkUK7Ivk](http://t.co/wbOkUK7Ivk) 
