@@ -52,8 +52,9 @@ TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
 TAG_CLOUD_STEPS = 10
 TAG_CLOUD_MAX_ITEMS = 1000
 
-# Timezone
-PLUGINS=['pelican.plugins.sitemap','pelican.plugins.global_license']
+# Extensions
+PLUGINS = ['pelican.plugins.sitemap','pelican.plugins.global_license']
+MD_EXTENSIONS = ['headerid', 'codehilite(css_class=highlight)']
 
 # Firefox Affiliates
 FIREFOX_BANNERS = (('35549', '/theme/images/download_firefox.png', u'Télécharger Firefox : facile, amusant, génial'),

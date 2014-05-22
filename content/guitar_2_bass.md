@@ -31,7 +31,7 @@ La première étape avant de commencer tout travail sur la guitare est de **dém
 
 <div align=center><a href="/upload/guitar2bass_demontage_HD.png"><img src="/upload/guitar2bass_demontage.png" align="center" /></a></div>
 
-Ensuite, on peut s'attaquer au premier chantier : réduire le poids de la guitare. C'est assez compliqué de réduire l'épaisseur d'une guitare terminée. Pendant la fabrication, on peut utiliser une [raboteuse](TK) ou une [degauchisseuse ??](TK) pour réduire l'épaisseur, mais sur un instrument déjà fini ce n'est plus aussi simple. Et en plus, je n'avais pas ce type d'outils et machines à ma disposition.
+Ensuite, on peut s'attaquer au premier chantier : réduire le poids de la guitare. C'est assez compliqué de réduire l'épaisseur d'une guitare terminée. Pendant la fabrication, on peut utiliser une [raboteuse](http://fr.wikipedia.org/wiki/Raboteuse_%28bois%29) pour réduire l'épaisseur, mais sur un instrument déjà fini ce n'est plus aussi simple. Et en plus, je n'avais pas ce type d'outils et machines à ma disposition.
 
 Du coup, j'ai utilisé une technique un peu plus bourrine : la défonceuse. Avec une fraise adéquate on peut, petit à petit, enlever tailler le bois pour le dégrossir. C'est bien, ça va vite, mais ça fait de la sciure :)
 
@@ -53,7 +53,7 @@ Manque de bol, ça a aussi été le dernier voyage de la défonceuse :/
 
 Enfin, j'ai ressorti ma grosse râpe, et je me suis attaqué au manche.
 
-C'est, incontestablement, ce qui aura été le plus dur pendant cette première séance de travail. Comme j'en parlais [ici](TK), mon manche en frêne est très dur et donc difficile à travailler.
+C'est, incontestablement, ce qui aura été le plus dur pendant cette première séance de travail. Comme j'en parlais [ici](https://quack1.me/homemade_guitar_rex.html), mon manche en frêne est très dur et donc difficile à travailler.
 
 J'y suis allé à la râpe, petit à petit, pour dégrossir et reformer le manche proprement, pour lui donner un bel arrondi plus facile à prendre en main. J'ai commencé par faire presque tout le côté gauche, et j'ai entamé l'autre côté. Il faut faire gaffe, avec la râpe, de ne pas aller trop loin et, soit arriver jusqu'au _Truss Rod_, soit « casser » l'arrondi et avoir un manche qui fini par être triangulaire. Pour ça, rien de mieux que d'y aller petit à petit et s'arrêter souvent pour toucher et sentir où on en est du travail.
 
