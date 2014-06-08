@@ -7,7 +7,7 @@ Tags: SSTIC, SSTIC 2013, Sécurité, planet-libre, planet-ubuntu, Job, Stage
 Summary:  SSTIC 2013 : Présentations courtes
 Lang: fr
 
-# Persifal, ou comment écrire des parsers résistants (par O. Levillain)
+# Parsifal, ou comment écrire des parsers résistants (par O. Levillain)
 
 [Slides](https://www.sstic.org/media/SSTIC2013/SSTIC-actes/parsifal/SSTIC2013-Slides-parsifal-levillain.pdf) & [Sources](https://t.co/ZGw0dwxaVL)
 
