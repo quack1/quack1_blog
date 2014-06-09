@@ -16,7 +16,8 @@ DATE_FORMATS = {
 }
 DEFAULT_LANG = u'fr'
 
-THEME = "notebook"
+#THEME = "notebook"
+THEME = "./themes/notebook"
 PDF_GENERATOR = False
 
 # Blogroll
