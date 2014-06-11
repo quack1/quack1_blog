@@ -29,6 +29,8 @@ Il a mis en ligne sur [natisbad.org](http://natisbad.org/NAS) les images du kern
 
 # SELKS par Eric Leblond
 
+[Slides](https://home.regit.org/2014/06/lets-talk-about-selks/)
+
 Eric Leblond, membre de la _core team_ de Suricata déplore que tous les trucs un peu sexy en infosec soient tournés sur l'offensif. Il essaye de corriger ça en nous montrant une brique orientée défense : [SELKS](https://github.com/StamusNetworks/SELKS).
 
 SELKS, pour « Suricata - ElastikSearch - Logstash - Kibana - Scirius », est une distribution basée sur Debian qui embarque Suricata 2 et tout ce qu'il faut pour avoir une interface Web un peu classe pour visualiser les évènements et surtout créer des règles qui vont lancer des actions en fonction des _events_ reçus.
