@@ -13,7 +13,7 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=dobby.quack1.me
 SSH_PORT=8080
-SSH_USER=root
+SSH_USER=quack
 SSH_TARGET_DIR=/var/www/blog_pelican
 
 DROPBOX_DIR=~/Dropbox/Public/
