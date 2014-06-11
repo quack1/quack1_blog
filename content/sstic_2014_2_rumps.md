@@ -136,6 +136,8 @@ Pas de rump sur [photorec](http://www.cgsecurity.org/wiki/PhotoRec_FR) cette ann
 
 # TCP Fast Open par Synactiv
 
+[Slides](http://www.synacktiv.com/ressources/tcp_fast_open_sstic_2014_en.pdf)
+
 TFO est une amélioration de TCP massivement poussée par Gogole qui permet de réduire le temps d'établissement des sessions TCP. Comme généralement tout se passe bien, avec TFO on commence à envoyer de la data dès le premier SYN. Sauf que les IDS attendent d'avoir un ` SYN - SYNACK - ACK` pour détecter des attaques. 
 
 Si on commence à envoyer des patterns malicieux dans le premier SYN, on peut pouttrer Snort et Suricata _finger in the nose_.
@@ -160,7 +162,7 @@ Troll sur la déclaration d'impôts en ligne. Il manquait certains champs dans l
 
 _Incident Response & Malware Analysis_ est un outil en ligne qui permet de combiner plusieurs moteurs d'analyse de fichiers pour obtenir plus d'informations, et des informations plus précises. On peut combiner des analyses anti-virus, Hashdb, des analyses statiques, des sandbox, etc
 
-C'est disponible sous licence Apache 2.0, en ligne sur les dépôts GitHub de Quarkslab (quarkslab@github/irma-*) et une version de test est en ligne : [http://frontend.irma.qb](http://frontend.irma.qb).
+C'est disponible sous licence Apache 2.0, en ligne sur les dépôts GitHub de Quarkslab (quarkslab@github/irma-*) et <s>une version de test est en ligne : [http://frontend.irma.qb](http://frontend.irma.qb)</s> il n'y a pas encore de version de test en ligne.
 
 # Android 0dayz hunting, again
 
