@@ -359,7 +359,7 @@ C'est pour cette raison qu'il faut faire très attention à l'endroit où vous p
 
 Si vous ne vous êtes pas trop foirés, normalement vous devriez avoir un accordage à la 12ème frette qui est _presque_ bon. Pour régler cet accordage, votre chevalet est normalement pourvu de petites vis sous chaque pontet sur lequel repose les cordes. [Serrez ou dévissez](http://www.reparationguitare.com/Reglage-harmoniques) chacune des vis pour régler l'accordage. Une fois ceci fait, ré-accordez vos cordes à vide, puis re-vérifiez l'accordage à la douzième frette, et ainsi de suite jusqu'à avoir un accordage optimal.
 
-![](./vibstrat.bmp)
+!["Stratocaster Vibrato"](./vibstrat.bmp)
 
 Plus généralement, [cette page](http://www.partoch.com/cours/cours_guitare,183,regler+une+guitare.html) est plutôt complète.
 
