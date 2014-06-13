@@ -1,8 +1,88 @@
 Title: Liens partagés sur Twitter
-Date: 2014-05-24 00:35
+Date: 2014-06-12 17:42
 Author: Quack1
 Slug: links
 
+
+:D RT @H_Miser: Quand on t'applaudit avant la fin de ta RUMP au #SSTIC [http://t.co/6KcGszMSp8](http://t.co/6KcGszMSp8)
+
+Félicitations ! C'est mérité ~:) RT @JimmyDiResta: Finally in the million viewer club ! Thank you ! [http://t.co/eyNOecyb3Y](http://t.co/eyNOecyb3Y)
+
+Stephen King dénonce Amazon « le voyou » [http://t.co/H5kiMKAph9](http://t.co/H5kiMKAph9)
+
+Vie De Merde n'a pas de droit d'auteur. Les VDM dans le domaine public ? [http://t.co/O8pCWBR89Q](http://t.co/O8pCWBR89Q)
+
+11 ans de prison pour deux cannibales pakistanais qui avaient cuisiné un bébé mort en curry... [http://t.co/9xh2t1mpbK](http://t.co/9xh2t1mpbK)
+
+Les actes #SSTIC sont en ligne ! [https://t.co/tdSFntY0WA](https://t.co/tdSFntY0WA) Les slides ne devraient plus tarder :)
+
+&#35;SSTIC 2014 - « Voilàààà, c'est finiiiii... » [http://t.co/jQtLwHFAKP](http://t.co/jQtLwHFAKP) 
+
+Les slides de la rump de @Regiteric sur une solution IDS avancée et sexy basé sur Suricata #SELKS [https://t.co/8AZxJydXHD](https://t.co/8AZxJydXHD) 
+
+poke @angel_killah RT @dr4goonis: PHP Streetfighter :) #php [http://t.co/NfGkhig6ft](http://t.co/NfGkhig6ft) 
+
+Il est sympa le programme « Sécurité » des @rmll2014! [https://t.co/0vgnS7OXhE](https://t.co/0vgnS7OXhE) (avec @bortzmeyer @angealbertini @Regiteric @xme @gentilkiwi )
+
+No, A 'Supercomputer' Did **NOT** Pass The Turing Test For The First Time And Everyone Should Know Better [https://t.co/9erFeIjDrD](https://t.co/9erFeIjDr)
+
+Un ordinateur réussit pour la première fois le test de Turing en se faisant passer pour un garçon de 13 ans [http://t.co/6shC9uVyqe](http://t.co/6shC9uVyqe)
+
+
+Bilan du #SSTIC 2014 par @g4l4drim, un des rares à l'avoir blogué (et le seul à le faire en live !) [http://t.co/JKTEAj9sf6](http://t.co/JKTEAj9sf6)
+
+Miasm tuto in a nutshell #SSTIC RT @newsoft: #miasm #sstic [http://t.co/U78ABLfAU8](http://t.co/U78ABLfAU8)
+
+#SSTIC 2014 - Premier jour [http://t.co/KOtiinyL3D](http://t.co/KOtiinyL3D)
+
+Pour tester miasm : 
+
+- La proc d'install [https://t.co/m4b7olD4H5](https://t.co/m4b7olD4H5)
+- Le package de test (/!\ malware inside) [http://t.co/xsqzILlrW8](http://t.co/xsqzILlrW8) #SSTIC
+
+Après ça, vous n'aurez plus envie de regarder du foot ... [http://t.co/drSYbuKJxa](http://t.co/drSYbuKJxa)
+
+Obscurcissement de code Python au #SSTIC par @quarkslab [http://t.co/e5c21hbbY7](http://t.co/e5c21hbbY7)
+
+. @qb_irma, outil d'_Incident Response &amp; Malware Analysis_ de @quarkslab : [https://t.co/yHf0MOsngW](https://t.co/yHf0MOsngW)
+
+Les actes du #SSTIC 2014 en epub [http://t.co/R9sZ4yY8xU](http://t.co/R9sZ4yY8xU)
+
+Recommandations pour l'écriture sécurisée de code source [https://t.co/QxyvmzSdDj]https://t.co/QxyvmzSdDj (par @veorq) #SSTIC
+
+Quelques perles dans le code d' #openSSL par @OpenSSLFact #SSTIC [http://t.co/jXFEQHbJEL](http://t.co/jXFEQHbJEL)
+
+Les plateformes supportées par #openSSL #SSTIC (même Windows 16bits y est) [http://t.co/0xakAi60Qs](http://t.co/0xakAi60Qs)
+
+Une partie des protocoles supportés par #openSSL #SSTIC [http://t.co/A9Mq5mqCAl](http://t.co/A9Mq5mqCAl)
+
+Grace à @BernezB, @travisgoodspeed a pu traduire le titre de sa conf en breton ! #SSTIC. [http://t.co/2Ky91LMgOD](http://t.co/2Ky91LMgOD)
+
+Les sources de BTA [https://t.co/NSZmeR0KU4](https://t.co/NSZmeR0KU4) #SSTIC
+
+RT @angealbertini: si vous voulez plus de détails sur AngeCryption #SSTIC [https://t.co/775X4s74Qk](https://t.co/775X4s74Qk)
+
+How To Take The Perfect Photo - An Interactive Guide from Shutterfly - [http://t.co/zso01AWQ9Z](http://t.co/zso01AWQ9Z)
+
+Le danger des services de stockage de données trop centralisés [http://t.co/i7YGLjhAXu](http://t.co/i7YGLjhAXu)
+
+Pour retrouver l'ancienne police de caractères sur twitter, par @laurentchemla [http://t.co/E4hPkngDfF](http://t.co/E4hPkngDfF)
+
+Pirate Bay co-founder Peter Sunde arrested in Sweden [http://t.co/ylaAavHmmF](http://t.co/ylaAavHmmF)
+
+Bon courage à @Tattoorialist qui commence son #tourdefrancedestatoues demain \o/ [http://t.co/CZOEgyJhVK](http://t.co/CZOEgyJhVK)
+
+. @JimmyDiResta pants seems to weight 5kgs O_o [https://t.co/dt1pRu56fO](https://t.co/dt1pRu56fO)
+
+Le déblocage des iPhone via l'iCloud d'Apple serait vulnérable à des MiTM [http://t.co/Ipjsxz9sPR](http://t.co/Ipjsxz9sPR)
+
+"Who says you need to buy a guitar ?" #jackwhite #diy [https://t.co/WgNb8kDv64](https://t.co/WgNb8kDv64)
+
+The Overlook Hotel : le préquel de Shining sur la bonne voie [http://t.co/Tjte64kPER](http://t.co/Tjte64kPER)
+
+Lettre ouverte aux défenseurs du Libre bienveillants… [http://t.co/oKIGu1STfe](http://t.co/oKIGu1STfe)
+
+Très bon article sur les excès d'alcool dans les conférences de sécurité #infosec #AA [http://t.co/BafI5UA95q](http://t.co/BafI5UA95q)
 
 Début Juillet, embarquez pour Néons sur Creuse pour le #barbufest, organisé par @babozor et le @ruralLab36 ! [http://t.co/EYtB3eZtDQ](http://t.co/EYtB3eZtDQ) 
 
