@@ -2,7 +2,7 @@ Title: Analysez vos configurations firewall avec #Springbok
 Date: 2014-06-12 20:36
 Author: Quack1
 Category: Sécurité
-Tags: Sécurité, Job, Firewall, Springbok
+Tags: Sécurité, Job, Firewall, Springbok, planet-libre
 Slug: springbok
 Summary: Springbok est un outil tout juste sorti qui permet d'analyser les configurations de vos _firewall_.
 Lang: fr
