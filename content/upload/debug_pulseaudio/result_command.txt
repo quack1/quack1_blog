@@ -1,0 +1,562 @@
+Advanced Linux Sound Architecture Driver Version k3.13.0-29-generic.
+ 0 [PCH            ]: HDA-Intel - HDA Intel PCH
+                      HDA Intel PCH at 0xf7e10000 irq 44
+  1:        : sequencer
+  2: [ 0- 3]: digital audio playback
+  3: [ 0- 0]: digital audio playback
+  4: [ 0- 0]: digital audio capture
+  5: [ 0- 3]: hardware dependent
+  6: [ 0- 0]: hardware dependent
+  7: [ 0]   : control
+ 33:        : timer
+00-03: HDA Codec 3
+00-00: HDA Codec 0
+00-00: CX20751/2 Analog : CX20751/2 Analog : playback 1 : capture 1
+00-03: HDMI 0 : HDMI 0 : playback 1
+Client info
+  cur  clients : 1
+  peak clients : 1
+  max  clients : 192
+
+Client   0 : "System" [Kernel]
+  Port   0 : "Timer" (Rwe-)
+  Port   1 : "Announce" (R-e-)
+Client  14 : "Midi Through" [Kernel]
+  Port   0 : "Midi Through Port-0" (RWe-)
+[sudo] password for quack: 
+rm: impossible de supprimer «/etc/asound.conf»: Aucun fichier ou dossier de ce type
+zsh: no matches found: /home/quack/.asound*
+rm: impossible de supprimer «/home/quack/.pulse-cookie»: Aucun fichier ou dossier de ce type
+Ign http://extras.ubuntu.com trusty InRelease
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Atteint http://repository.spotify.com stable InRelease                         
+Réception de : 1 http://extras.ubuntu.com trusty Release.gpg [72 B]            
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://ppa.launchpad.net trusty InRelease                                  
+Ign http://fr.archive.ubuntu.com trusty InRelease                              
+Ign http://security.ubuntu.com trusty-security InRelease                       
+Atteint http://extras.ubuntu.com trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Ign http://fr.archive.ubuntu.com trusty-updates InRelease                      
+Réception de : 2 http://security.ubuntu.com trusty-security Release.gpg [933 B]
+Réception de : 3 http://ppa.launchpad.net trusty Release.gpg [316 B]           
+Atteint http://repository.spotify.com stable/non-free amd64 Packages           
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://repository.spotify.com stable/non-free i386 Packages            
+Atteint http://extras.ubuntu.com trusty/main Sources                           
+Atteint http://extras.ubuntu.com trusty/main amd64 Packages                    
+Atteint http://extras.ubuntu.com trusty/main i386 Packages                     
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Ign http://fr.archive.ubuntu.com trusty-backports InRelease                    
+Atteint http://ppa.launchpad.net trusty Release.gpg                            
+Atteint http://ppa.launchpad.net trusty Release                                
+Réception de : 4 http://security.ubuntu.com trusty-security Release [58,5 kB]  
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://fr.archive.ubuntu.com trusty Release.gpg                        
+Atteint http://ppa.launchpad.net trusty Release                                
+Réception de : 5 http://ppa.launchpad.net trusty Release [19,5 kB]             
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Atteint http://ppa.launchpad.net trusty Release                                
+Ign http://extras.ubuntu.com trusty/main Translation-fr_FR                     
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Ign http://extras.ubuntu.com trusty/main Translation-fr                        
+Ign http://repository.spotify.com stable/non-free Translation-fr_FR            
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Ign http://extras.ubuntu.com trusty/main Translation-en                        
+Réception de : 6 http://fr.archive.ubuntu.com trusty-updates Release.gpg [933 B]
+Ign http://repository.spotify.com stable/non-free Translation-fr               
+Ign http://repository.spotify.com stable/non-free Translation-en               
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Atteint http://fr.archive.ubuntu.com trusty-backports Release.gpg              
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Atteint http://fr.archive.ubuntu.com trusty Release                     
+Réception de : 7 http://security.ubuntu.com trusty-security/main Sources [17,9 kB]
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Réception de : 8 http://fr.archive.ubuntu.com trusty-updates Release [58,5 kB] 
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Réception de : 9 http://security.ubuntu.com trusty-security/restricted Sources [14 B]
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                    
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                     
+Réception de : 10 http://security.ubuntu.com trusty-security/universe Sources [4 212 B]
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                                            
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                                                 
+Réception de : 11 http://security.ubuntu.com trusty-security/multiverse Sources [688 B]                    
+Réception de : 12 http://ppa.launchpad.net trusty/main amd64 Packages [12,4 kB]                           
+Réception de : 13 http://ppa.launchpad.net trusty/main i386 Packages [12,4 kB]                             
+Atteint http://fr.archive.ubuntu.com trusty-backports Release                                              
+Réception de : 14 http://security.ubuntu.com trusty-security/main amd64 Packages [56,3 kB]                 
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                                               
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                                               
+Atteint http://fr.archive.ubuntu.com trusty/main Sources                                                 
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                                                
+Atteint http://fr.archive.ubuntu.com trusty/restricted Sources                                             
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                                                
+Réception de : 15 http://security.ubuntu.com trusty-security/restricted amd64 Packages [14 B]             
+Atteint http://ppa.launchpad.net trusty/main amd64 Packages                                               
+Atteint http://ppa.launchpad.net trusty/main i386 Packages                                                
+Atteint http://fr.archive.ubuntu.com trusty/universe Sources                                              
+Réception de : 16 http://security.ubuntu.com trusty-security/universe amd64 Packages [17,9 kB]            
+Atteint http://fr.archive.ubuntu.com trusty/multiverse Sources                                             
+Réception de : 17 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [1 157 B]          
+Atteint http://fr.archive.ubuntu.com trusty/main amd64 Packages                                            
+Réception de : 18 http://security.ubuntu.com trusty-security/main i386 Packages [53,6 kB]                  
+Atteint http://fr.archive.ubuntu.com trusty/restricted amd64 Packages                                      
+Atteint http://fr.archive.ubuntu.com trusty/universe amd64 Packages                                      
+Atteint http://fr.archive.ubuntu.com trusty/multiverse amd64 Packages                                    
+Atteint http://fr.archive.ubuntu.com trusty/main i386 Packages                                             
+Réception de : 19 http://security.ubuntu.com trusty-security/restricted i386 Packages [14 B]              
+Atteint http://fr.archive.ubuntu.com trusty/restricted i386 Packages                                       
+Réception de : 20 http://security.ubuntu.com trusty-security/universe i386 Packages [17,9 kB]             
+Réception de : 21 http://security.ubuntu.com trusty-security/multiverse i386 Packages [1 392 B]            
+Atteint http://fr.archive.ubuntu.com trusty/universe i386 Packages                                         
+Atteint http://fr.archive.ubuntu.com trusty/multiverse i386 Packages                                      
+Atteint http://security.ubuntu.com trusty-security/main Translation-en                                    
+Atteint http://fr.archive.ubuntu.com trusty/main Translation-fr                                           
+Atteint http://fr.archive.ubuntu.com trusty/main Translation-en                                           
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-en                                                   
+Atteint http://fr.archive.ubuntu.com trusty/multiverse Translation-fr                                     
+Atteint http://security.ubuntu.com trusty-security/multiverse Translation-en                              
+Atteint http://fr.archive.ubuntu.com trusty/multiverse Translation-en   
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR              
+Ign http://ppa.launchpad.net trusty/main Translation-fr                 
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR              
+Ign http://ppa.launchpad.net trusty/main Translation-fr                 
+Ign http://ppa.launchpad.net trusty/main Translation-en                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR              
+Ign http://ppa.launchpad.net trusty/main Translation-fr                 
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Atteint http://fr.archive.ubuntu.com trusty/restricted Translation-fr                                      
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                    
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Atteint http://security.ubuntu.com trusty-security/restricted Translation-en
+Atteint http://fr.archive.ubuntu.com trusty/restricted Translation-en                                     
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-en                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR              
+Ign http://ppa.launchpad.net trusty/main Translation-fr                 
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR              
+Ign http://ppa.launchpad.net trusty/main Translation-fr                 
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Ign http://ppa.launchpad.net trusty/main Translation-fr_FR                                                
+Ign http://ppa.launchpad.net trusty/main Translation-fr                                                   
+Ign http://ppa.launchpad.net trusty/main Translation-en                 
+Atteint http://fr.archive.ubuntu.com trusty/universe Translation-fr     
+Atteint http://security.ubuntu.com trusty-security/universe Translation-en
+Atteint http://fr.archive.ubuntu.com trusty/universe Translation-en
+Réception de : 22 http://fr.archive.ubuntu.com trusty-updates/main Sources [60,1 kB]
+Réception de : 23 http://fr.archive.ubuntu.com trusty-updates/restricted Sources [14 B]
+Réception de : 24 http://fr.archive.ubuntu.com trusty-updates/universe Sources [30,1 kB]       
+Réception de : 25 http://fr.archive.ubuntu.com trusty-updates/multiverse Sources [2 228 B]     
+Réception de : 26 http://fr.archive.ubuntu.com trusty-updates/main amd64 Packages [149 kB]
+Réception de : 27 http://fr.archive.ubuntu.com trusty-updates/restricted amd64 Packages [14 B]
+Réception de : 28 http://fr.archive.ubuntu.com trusty-updates/universe amd64 Packages [81,0 kB] 
+Réception de : 29 http://fr.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [7 090 B]
+Réception de : 30 http://fr.archive.ubuntu.com trusty-updates/main i386 Packages [145 kB]       
+Réception de : 31 http://fr.archive.ubuntu.com trusty-updates/restricted i386 Packages [14 B]              
+Réception de : 32 http://fr.archive.ubuntu.com trusty-updates/universe i386 Packages [81,4 kB]             
+Réception de : 33 http://fr.archive.ubuntu.com trusty-updates/multiverse i386 Packages [7 282 B]           
+Atteint http://fr.archive.ubuntu.com trusty-updates/main Translation-en                                    
+Atteint http://fr.archive.ubuntu.com trusty-updates/multiverse Translation-en                              
+Atteint http://fr.archive.ubuntu.com trusty-updates/restricted Translation-en                              
+Ign http://security.ubuntu.com trusty-security/main Translation-fr_FR                                      
+Ign http://security.ubuntu.com trusty-security/main Translation-fr                                         
+Ign http://security.ubuntu.com trusty-security/multiverse Translation-fr_FR                                
+Atteint http://fr.archive.ubuntu.com trusty-updates/universe Translation-en                                
+Ign http://security.ubuntu.com trusty-security/multiverse Translation-fr                                   
+Ign http://security.ubuntu.com trusty-security/restricted Translation-fr_FR                                
+Atteint http://fr.archive.ubuntu.com trusty-backports/main Sources                                         
+Ign http://security.ubuntu.com trusty-security/restricted Translation-fr                                   
+Atteint http://fr.archive.ubuntu.com trusty-backports/restricted Sources                                   
+Ign http://security.ubuntu.com trusty-security/universe Translation-fr_FR                                  
+Atteint http://fr.archive.ubuntu.com trusty-backports/universe Sources                                     
+Ign http://security.ubuntu.com trusty-security/universe Translation-fr                                     
+Atteint http://fr.archive.ubuntu.com trusty-backports/multiverse Sources                                   
+Atteint http://fr.archive.ubuntu.com trusty-backports/main amd64 Packages                                  
+Atteint http://fr.archive.ubuntu.com trusty-backports/restricted amd64 Packages                            
+Atteint http://fr.archive.ubuntu.com trusty-backports/universe amd64 Packages                              
+Atteint http://fr.archive.ubuntu.com trusty-backports/multiverse amd64 Packages                            
+Atteint http://fr.archive.ubuntu.com trusty-backports/main i386 Packages                                   
+Atteint http://fr.archive.ubuntu.com trusty-backports/restricted i386 Packages                             
+Atteint http://fr.archive.ubuntu.com trusty-backports/universe i386 Packages                               
+Atteint http://fr.archive.ubuntu.com trusty-backports/multiverse i386 Packages                             
+Atteint http://fr.archive.ubuntu.com trusty-backports/main Translation-en                                  
+Atteint http://fr.archive.ubuntu.com trusty-backports/multiverse Translation-en                            
+Atteint http://fr.archive.ubuntu.com trusty-backports/restricted Translation-en                            
+Atteint http://fr.archive.ubuntu.com trusty-backports/universe Translation-en                              
+Ign http://fr.archive.ubuntu.com trusty/main Translation-fr_FR                                             
+Ign http://fr.archive.ubuntu.com trusty/multiverse Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty/restricted Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty/universe Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-updates/main Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-updates/main Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-updates/multiverse Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-updates/multiverse Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-updates/restricted Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-updates/restricted Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-updates/universe Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-updates/universe Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-backports/main Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-backports/main Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-backports/multiverse Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-backports/multiverse Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-backports/restricted Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-backports/restricted Translation-fr
+Ign http://fr.archive.ubuntu.com trusty-backports/universe Translation-fr_FR
+Ign http://fr.archive.ubuntu.com trusty-backports/universe Translation-fr
+898 ko réceptionnés en 21s (42,8 ko/s)
+Lecture des listes de paquets... Fait
+W: Duplicate sources.list entry http://repository.spotify.com/ stable/non-free amd64 Packages (/var/lib/apt/lists/repository.spotify.com_dists_stable_non-free_binary-amd64_Packages)
+W: Duplicate sources.list entry http://repository.spotify.com/ stable/non-free i386 Packages (/var/lib/apt/lists/repository.spotify.com_dists_stable_non-free_binary-i386_Packages)
+W: Vous pouvez lancer « apt-get update » pour corriger ces problèmes.
+Lecture des listes de paquets... Fait
+Construction de l'arbre des dépendances       
+Lecture des informations d'état... Fait
+aptitude est déjà la plus récente version disponible.
+Les paquets suivants ont été installés automatiquement et ne sont plus nécessaires :
+  linux-headers-3.13.0-24 linux-headers-3.13.0-24-generic linux-image-3.13.0-24-generic
+  linux-image-extra-3.13.0-24-generic
+Veuillez utiliser « apt-get autoremove » pour les supprimer.
+0 mis à jour, 0 nouvellement installés, 0 à enlever et 1 non mis à jour.
+Pas de version candidate trouvée pour libsdl1.2debian-pulseaudio
+Pas de version candidate trouvée pour libsdl1.2debian-pulseaudio
+Aucun paquet ne va être installé, mis à jour ou enlevé.
+0 paquets mis à jour, 0 nouvellement installés, 0 à enlever et 1 non mis à jour.
+Il est nécessaire de télécharger 0 o d'archives. Après dépaquetage, 0 o seront utilisés.
+                                              
+Chemin matériel  Périphérique  Classe         Description
+============================================================
+                                  system         X200CA (ASUS-NotebookSKU)
+/0                                bus            X200CA
+/0/0                              memory         64KiB BIOS
+/0/8                              memory         512KiB L2 cache
+/0/9                              memory         128KiB L1 cache
+/0/a                              memory         2MiB L3 cache
+/0/b                              memory         4GiB Mémoire Système
+/0/b/0                            memory         4GiB SODIMM DDR3 Synchrone 1600 MHz (0,6 ns)
+/0/b/1                            memory         DIMMProject-Id-Version: @(#) $Id$Report-Msgid-Bugs-To: POT-
+/0/b/2                            memory         DIMMProject-Id-Version: @(#) $Id$Report-Msgid-Bugs-To: POT-
+/0/b/3                            memory         DIMMProject-Id-Version: @(#) $Id$Report-Msgid-Bugs-To: POT-
+/0/c                              processor      Intel(R) Celeron(R) CPU 1007U @ 1.50GHz
+/0/100                            bridge         3rd Gen Core processor DRAM Controller
+/0/100/2                          display        3rd Gen Core processor Graphics Controller
+/0/100/14                         bus            7 Series/C210 Series Chipset Family USB xHCI Host Controlle
+/0/100/16                         communication  7 Series/C210 Series Chipset Family MEI Controller #1
+/0/100/1a                         bus            7 Series/C210 Series Chipset Family USB Enhanced Host Contr
+/0/100/1b                         multimedia     7 Series/C210 Series Chipset Family High Definition Audio C
+/0/100/1c                         bridge         7 Series/C210 Series Chipset Family PCI Express Root Port 1
+/0/100/1c.1                       bridge         7 Series/C210 Series Chipset Family PCI Express Root Port 2
+/0/100/1c.1/0     wlan0           network        AR9485 Wireless Network Adapter
+/0/100/1c.3                       bridge         7 Series/C210 Series Chipset Family PCI Express Root Port 4
+/0/100/1c.3/0     eth0            network        QCA8172 Fast Ethernet
+/0/100/1d                         bus            7 Series/C210 Series Chipset Family USB Enhanced Host Contr
+/0/100/1f                         bridge         7 Series Chipset Family LPC Controller
+/0/100/1f.2                       storage        7 Series Chipset Family 6-port SATA Controller [AHCI mode]
+/0/100/1f.3                       bus            7 Series/C210 Series Chipset Family SMBus Controller
+/0/1              scsi0           storage        
+/0/1/0.0.0        /dev/sda        disk           500GB HGST HTS545050A7
+/0/1/0.0.0/1      /dev/sda1       volume         243MiB Linux filesystem partition
+/0/1/0.0.0/2      /dev/sda2       volume         465GiB Extended partition
+/0/1/0.0.0/2/5    /dev/sda5       volume         465GiB Linux filesystem partition
+total 0
+crw-rw----+  1 root audio 116, 33 juin  13 13:26 timer
+crw-rw----+  1 root audio 116,  1 juin  13 13:26 seq
+crw-rw----+  1 root audio 116,  5 juin  13 13:26 hwC0D3
+crw-rw----+  1 root audio 116,  6 juin  13 13:26 hwC0D0
+crw-rw----+  1 root audio 116,  7 juin  13 13:26 controlC0
+drwxr-xr-x   2 root root       60 juin  13 13:26 by-path
+drwxr-xr-x   3 root root      220 juin  13 13:26 .
+crw-rw----+  1 root audio 116,  2 juin  13 13:27 pcmC0D3p
+crw-rw----+  1 root audio 116,  4 juin  16 16:27 pcmC0D0c
+crw-rw----+  1 root audio 116,  3 juin  16 16:27 pcmC0D0p
+drwxr-xr-x  19 root root     4300 juin  16 16:40 ..
+cat: /dev/sndstat: Aucun fichier ou dossier de ce type
+00:00.0 Host bridge [0600]: Intel Corporation 3rd Gen Core processor DRAM Controller [8086:0154] (rev 09)
+00:02.0 VGA compatible controller [0300]: Intel Corporation 3rd Gen Core processor Graphics Controller [8086:0156] (rev 09)
+00:14.0 USB controller [0c03]: Intel Corporation 7 Series/C210 Series Chipset Family USB xHCI Host Controller [8086:1e31] (rev 04)
+00:16.0 Communication controller [0780]: Intel Corporation 7 Series/C210 Series Chipset Family MEI Controller #1 [8086:1e3a] (rev 04)
+00:1a.0 USB controller [0c03]: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2 [8086:1e2d] (rev 04)
+00:1b.0 Audio device [0403]: Intel Corporation 7 Series/C210 Series Chipset Family High Definition Audio Controller [8086:1e20] (rev 04)
+00:1c.0 PCI bridge [0604]: Intel Corporation 7 Series/C210 Series Chipset Family PCI Express Root Port 1 [8086:1e10] (rev c4)
+00:1c.1 PCI bridge [0604]: Intel Corporation 7 Series/C210 Series Chipset Family PCI Express Root Port 2 [8086:1e12] (rev c4)
+00:1c.3 PCI bridge [0604]: Intel Corporation 7 Series/C210 Series Chipset Family PCI Express Root Port 4 [8086:1e16] (rev c4)
+00:1d.0 USB controller [0c03]: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1 [8086:1e26] (rev 04)
+00:1f.0 ISA bridge [0601]: Intel Corporation 7 Series Chipset Family LPC Controller [8086:1e5e] (rev 04)
+00:1f.2 SATA controller [0106]: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] [8086:1e03] (rev 04)
+00:1f.3 SMBus [0c05]: Intel Corporation 7 Series/C210 Series Chipset Family SMBus Controller [8086:1e22] (rev 04)
+02:00.0 Network controller [0280]: Qualcomm Atheros AR9485 Wireless Network Adapter [168c:0032] (rev 01)
+03:00.0 Ethernet controller [0200]: Qualcomm Atheros QCA8172 Fast Ethernet [1969:10a0] (rev 10)
+Bus 002 Device 003: ID 0bda:5605 Realtek Semiconductor Corp. 
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 0457:1028 Silicon Integrated Systems Corp. 
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 002: ID 046d:c52b Logitech, Inc. Unifying Receiver
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+/usr/sbin/alsactl
+Le nom de fichier /dev/dsp n'existe pas.
+                     UTIL.       PID ACCÈS  COMMANDE
+/dev/snd/controlC0:  quack      3330 F.... pulseaudio
+dpkg-query: aucun chemin ne correspond à *bin/slmodemd*
+[    0.000000] No AGP bridge found
+[    0.000000] Found optimal setting for mtrr clean up
+[    0.000000] found SMP MP-table at [mem 0x000fd7b0-0x000fd7bf] mapped at [ffff8800000fd7b0]
+[    0.000000] No NUMA configuration found
+[    0.000000] No AGP bridge found
+[    0.139701] ACPI : EC: EC description table is found, configuring boot EC
+[    0.150924] [Firmware Bug]: ACPI: BIOS _OSI(Linux) query ignored
+[    0.191593] ACPI: No dock devices found.
+[    0.229364] Found 1 acpi root devices
+[    0.242575] pnp: PnP ACPI: found 14 devices
+[    0.985369] audit: initializing netlink socket (disabled)
+[    0.985381] type=2000 audit(1402658758.976:1): initialized
+[    1.290184] libphy: Fixed MDIO Bus: probed
+[    1.306242] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.306389] hub 1-0:1.0: USB hub found
+[    1.322245] usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.322653] hub 2-0:1.0: USB hub found
+[    1.323253] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.323467] hub 3-0:1.0: USB hub found
+[    1.323670] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+[    1.323875] hub 4-0:1.0: USB hub found
+[    1.346047] IMA: No TPM chip found, activating TPM-bypass!
+[    1.347046] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+[    1.790613] usb 1-1: New USB device found, idVendor=8087, idProduct=0024
+[    1.791061] hub 1-1:1.0: USB hub found
+[    2.034532] usb 2-1: New USB device found, idVendor=8087, idProduct=0024
+[    2.034943] hub 2-1:1.0: USB hub found
+[    2.221199] usb 3-2: New USB device found, idVendor=046d, idProduct=c52b
+[    2.404043] usb 1-1.3: New USB device found, idVendor=0457, idProduct=1028
+[    2.496603] psmouse serio4: elantech: assuming hardware version 4 (with firmware version 0x361f01)
+[    2.602728] usb 2-1.4: New USB device found, idVendor=0bda, idProduct=5605
+[   38.966102] lp: driver loaded but no devices found
+[   39.189279] lpc_ich: Resource conflict(s) found affecting gpio_ich
+[   39.417481] type=1400 audit(1402658798.577:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=521 comm="apparmor_parser"
+[   39.417491] type=1400 audit(1402658798.577:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=521 comm="apparmor_parser"
+[   39.417497] type=1400 audit(1402658798.577:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=521 comm="apparmor_parser"
+[   39.419923] type=1400 audit(1402658798.581:5): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=521 comm="apparmor_parser"
+[   39.419931] type=1400 audit(1402658798.581:6): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=521 comm="apparmor_parser"
+[   39.420279] type=1400 audit(1402658798.581:7): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=521 comm="apparmor_parser"
+[   39.514238] snd_hda_codec: module verification failed: signature and/or  required key missing - tainting kernel
+[   39.516201] snd_hda_codec: module has bad taint, not creating trace events
+[   39.654107] snd_hda_controller: module has bad taint, not creating trace events
+[   39.706508] snd_hda_intel 0000:00:1b.0: irq 44 for MSI/MSI-X
+[   39.912190] sound hdaudioC0D0: CX20751/2: BIOS auto-probing.
+[   39.912422] sound hdaudioC0D0: autoconfig: line_outs=1 (0x17/0x0/0x0/0x0/0x0) type:speaker
+[   39.912425] sound hdaudioC0D0:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+[   39.912428] sound hdaudioC0D0:    hp_outs=1 (0x16/0x0/0x0/0x0/0x0)
+[   39.912430] sound hdaudioC0D0:    mono: mono_out=0x0
+[   39.912432] sound hdaudioC0D0:    inputs:
+[   39.912435] sound hdaudioC0D0:      Internal Mic=0x1a
+[   39.912438] sound hdaudioC0D0:      Headphone Mic=0x18
+[   39.913276] sound hdaudioC0D0: Enable sync_write for stable communication
+[   39.991025] input: HDA Intel PCH HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:1b.0/sound/card0/input15
+[   39.991212] input: HDA Intel PCH Headphone Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input14
+[   40.558101] uvcvideo: Found UVC 1.00 device USB2.0 HD UVC WebCam (0bda:5605)
+[   40.796908] type=1400 audit(1402658799.957:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=795 comm="apparmor_parser"
+[   40.796919] type=1400 audit(1402658799.957:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd" pid=795 comm="apparmor_parser"
+[   40.803634] type=1400 audit(1402658799.965:10): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=795 comm="apparmor_parser"
+[   41.236325] type=1400 audit(1402658800.397:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/x86_64-linux-gnu/lightdm-remote-session-freerdp/freerdp-session-wrapper" pid=932 comm="apparmor_parser"
+[   45.646702] vboxdrv: Found 2 processor cores.
+[   45.678888] vboxpci: IOMMU not found (not registered)
+[   48.075337] wlan0: direct probe to 28:10:7b:cf:ce:82 (try 1/3)
+[   48.279291] wlan0: direct probe to 28:10:7b:cf:ce:82 (try 2/3)
+[   49.660855] wlan0: direct probe to 28:10:7b:cf:ce:82 (try 1/3)
+[   71.105135] audit_printk_skb: 210 callbacks suppressed
+[   71.105140] type=1400 audit(1402658830.269:82): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=4068 comm="apparmor_parser"
+[   71.105150] type=1400 audit(1402658830.269:83): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=4068 comm="apparmor_parser"
+[   71.105806] type=1400 audit(1402658830.269:84): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=4068 comm="apparmor_parser"
+[ 5817.409702] usb 4-1: New USB device found, idVendor=13fe, idProduct=5200
+[ 5962.499845] usb 4-1: New USB device found, idVendor=13fe, idProduct=5200
+[ 6085.968767] usb 4-1: New USB device found, idVendor=13fe, idProduct=5200
+[ 7566.345656] usb 2-1.3: New USB device found, idVendor=18d1, idProduct=4ee2
+[10279.574762] usb 2-1.3: New USB device found, idVendor=18d1, idProduct=4ee2
+[15080.470186] snd_hda_intel 0000:00:1b.0: irq 44 for MSI/MSI-X
+[17014.863238] snd_hda_intel 0000:00:1b.0: irq 44 for MSI/MSI-X
+[17023.481691] snd_hda_intel 0000:00:1b.0: irq 44 for MSI/MSI-X
+[17932.305534] snd_hda_intel 0000:00:1b.0: irq 44 for MSI/MSI-X
+[19452.513405] type=1400 audit(1402904782.185:85): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=15439 comm="apparmor_parser"
+[19452.513428] type=1400 audit(1402904782.185:86): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=15439 comm="apparmor_parser"
+[19452.514353] type=1400 audit(1402904782.189:87): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=15439 comm="apparmor_parser"
+[34222.444569] usb 2-1.3: New USB device found, idVendor=18d1, idProduct=4ee2
+[40901.860684] usb 2-1.3: New USB device found, idVendor=18d1, idProduct=4ee2
+sudo: /etc/init.d/sl-modem-daemon: command not found
+	Release Date: 09/18/2013
+		Serial services are supported (int 14h)
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: X200CA
+	Serial Number: E1N0CX73051304B     
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: X200CA
+	Serial Number: BSN12345678901234567
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Serial Number: E1N0CX73051304B     
+	Manufacturer: Intel(R) Corporation
+	Serial Number: Not Specified
+	Manufacturer: Elpida
+	Serial Number: 00000000
+	Manufacturer: [Empty]
+	Serial Number: [Empty]
+	Manufacturer: [Empty]
+	Serial Number: [Empty]
+	Manufacturer: [Empty]
+	Serial Number: [Empty]
+snd_seq_dummy          12798  0 
+usb_storage            62209  0 
+snd_hda_codec_hdmi     47548  1 
+snd_hda_codec_conexant    22962  1 
+snd_hda_codec_generic    68937  1 snd_hda_codec_conexant
+snd_hda_intel          30522  3 
+snd_hda_controller     31056  1 snd_hda_intel
+snd_hda_codec         139682  5 snd_hda_codec_hdmi,snd_hda_codec_conexant,snd_hda_codec_generic,snd_hda_intel,snd_hda_controller
+snd_hwdep              13602  1 snd_hda_codec
+snd_pcm               102099  4 snd_hda_codec_hdmi,snd_hda_codec,snd_hda_intel,snd_hda_controller
+snd_page_alloc         18710  3 snd_pcm,snd_hda_intel,snd_hda_controller
+snd_seq_midi           13324  0 
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_rawmidi            30144  1 snd_seq_midi
+snd_seq                61560  3 snd_seq_midi_event,snd_seq_dummy,snd_seq_midi
+snd_seq_device         14497  4 snd_seq,snd_rawmidi,snd_seq_dummy,snd_seq_midi
+snd_timer              29482  2 snd_pcm,snd_seq
+snd                    69238  19 snd_hwdep,snd_timer,snd_hda_codec_hdmi,snd_hda_codec_conexant,snd_pcm,snd_seq,snd_rawmidi,snd_hda_codec_generic,snd_hda_codec,snd_hda_intel,snd_seq_device,snd_seq_dummy,snd_seq_midi
+soundcore              12680  2 snd,snd_hda_codec
+usbhid                 52570  0 
+hid                   106148  4 hid_multitouch,usbhid,hid_logitech_dj
+Welcome to PulseAudio! Use "help" for usage information.
+>>> 1 sink(s) available.
+  * index: 0
+	name: <alsa_output.pci-0000_00_1b.0.analog-stereo>
+	driver: <module-alsa-card.c>
+	flags: HARDWARE HW_MUTE_CTRL HW_VOLUME_CTRL DECIBEL_VOLUME LATENCY DYNAMIC_LATENCY
+	state: SUSPENDED
+	suspend cause: IDLE 
+	priority: 9959
+	volume: 0:   4% 1:   4%
+	        0: -83,94 dB 1: -83,94 dB
+	        balance 0,00
+	base volume: 100%
+	             0,00 dB
+	volume steps: 65537
+	muted: no
+	current latency: 0,00 ms
+	max request: 0 KiB
+	max rewind: 0 KiB
+	monitor source: 0
+	sample spec: s16le 2ch 44100Hz
+	channel map: front-left,front-right
+	             Stéréo
+	used by: 0
+	linked by: 1
+	configured latency: 0,00 ms; range is 0,50 .. 371,52 ms
+	card: 0 <alsa_card.pci-0000_00_1b.0>
+	module: 5
+	properties:
+		alsa.resolution_bits = "16"
+		device.api = "alsa"
+		device.class = "sound"
+		alsa.class = "generic"
+		alsa.subclass = "generic-mix"
+		alsa.name = "CX20751/2 Analog"
+		alsa.id = "CX20751/2 Analog"
+		alsa.subdevice = "0"
+		alsa.subdevice_name = "subdevice #0"
+		alsa.device = "0"
+		alsa.card = "0"
+		alsa.card_name = "HDA Intel PCH"
+		alsa.long_card_name = "HDA Intel PCH at 0xf7e10000 irq 44"
+		alsa.driver_name = "snd_hda_intel"
+		device.bus_path = "pci-0000:00:1b.0"
+		sysfs.path = "/devices/pci0000:00/0000:00:1b.0/sound/card0"
+		device.bus = "pci"
+		device.vendor.id = "8086"
+		device.vendor.name = "Intel Corporation"
+		device.product.id = "1e20"
+		device.product.name = "7 Series/C210 Series Chipset Family High Definition Audio Controller"
+		device.form_factor = "internal"
+		device.string = "front:0"
+		device.buffering.buffer_size = "65536"
+		device.buffering.fragment_size = "32768"
+		device.access_mode = "mmap+timer"
+		device.profile.name = "analog-stereo"
+		device.profile.description = "Stéréo analogique"
+		device.description = "Audio interne Stéréo analogique"
+		alsa.mixer_name = "Intel PantherPoint HDMI"
+		alsa.components = "HDA:14f1510f,1043138d,00100100 HDA:80862806,80860101,00100000"
+		module-udev-detect.discovered = "1"
+		device.icon_name = "audio-card-pci"
+	ports:
+		analog-output-speaker: Haut-parleurs (priority 10000, latency offset 0 usec, available: unknown)
+			properties:
+				device.icon_name = "audio-speakers"
+		analog-output-headphones: Casques analogiques (priority 9000, latency offset 0 usec, available: yes)
+			properties:
+				device.icon_name = "audio-headphones"
+	active port: <analog-output-headphones>
+>>> **** Liste des Périphériques Matériels PLAYBACK ****
+carte 0: PCH [HDA Intel PCH], périphérique 0: CX20751/2 Analog [CX20751/2 Analog]
+  Sous-périphériques: 1/1
+  Sous-périphérique #0: subdevice #0
+carte 0: PCH [HDA Intel PCH], périphérique 3: HDMI 0 [HDMI 0]
+  Sous-périphériques: 1/1
+  Sous-périphérique #0: subdevice #0
+Unloading ALSA sound driver modules: snd-seq-dummy snd-hda-codec-hdmi snd-hda-codec-conexant snd-hda-codec-generic snd-hda-intel snd-hda-controller snd-hda-codec snd-hwdep snd-pcm snd-page-alloc snd-seq-midi snd-seq-midi-event snd-rawmidi snd-seq snd-seq-device snd-timer (failed: modules still loaded: snd-hda-codec-hdmi snd-hda-codec-conexant snd-hda-codec-generic snd-hda-intel snd-hda-controller snd-hda-codec snd-hwdep snd-pcm snd-page-alloc snd-timer).
+Loading ALSA sound driver modules: snd-seq-dummy snd-hda-codec-hdmi snd-hda-codec-conexant snd-hda-codec-generic snd-hda-intel snd-hda-controller snd-hda-codec snd-hwdep snd-pcm snd-page-alloc snd-seq-midi snd-seq-midi-event snd-rawmidi snd-seq snd-seq-device snd-timer.
+Résumé de l'état du support de « potter » :
+
+Vous avez 155 paquets (5.4%) pris en charge jusqu'à mai 2017 (3y)
+Vous avez 8 paquets (0.3%) pris en charge jusqu'à mars 2015 (9m)
+Vous avez 174 paquets (6.0%) pris en charge jusqu'à février 2015 (9m)
+Vous avez 2281 paquets (79.0%) pris en charge jusqu'à mai 2019 (5y)
+
+Vous avez 10 paquets (0.3%) qui ne peuvent pas ou plus être téléchargés
+Vous avez 258 paquets (8.9%) qui ne sont pas pris en charge
+
+Exécuter avec --show-unsupported, --show-supported ou --show-all pour voir plus de détails
+  *-multimedia            
+       description: Audio device
+       produit: 7 Series/C210 Series Chipset Family High Definition Audio Controller
+       fabriquant: Intel Corporation
+       identifiant matériel: 1b
+       information bus: pci@0000:00:1b.0
+       version: 04
+       bits: 64 bits
+       horloge: 33MHz
+       fonctionnalités: pm msi pciexpress bus_master cap_list
+       configuration: driver=snd_hda_intel latency=0
+       ressources: irq:44 mémoire:f7e10000-f7e13fff
