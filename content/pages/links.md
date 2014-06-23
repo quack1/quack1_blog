@@ -1,6 +1,29 @@
 Title: Liens partagés sur Twitter
-Date: 2014-06-22 00:35
-Author: Quack1
+	Date: 2014-06-23 04:29
+	Author: Quack1
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
+
+
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
 Slug: links
 
 
