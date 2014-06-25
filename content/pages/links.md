@@ -1,7 +1,112 @@
 Title: Liens partagés sur Twitter
-Date: 2014-06-12 17:42
-Author: Quack1
+	Date: 2014-06-25 00:35
+	Author: Quack1
+
+
+Poser une question à propos d'informatique sur Internet RT [@Bouletcorp](https://twitter.com/Bouletcorp): Pourquoi? [http://t.co/f4Dqu7wBfR](http://t.co/f4Dqu7wBfR) 
+
+Tribute to Starsky and Hutch, par [[@sgtpembry](https://twitter.com/sgtpembry)](https://twitter.com/sgtpembry [http://t.co/HxsntHlpxi](http://t.co/HxsntHlpxi) 
+
+Revivez le #Hellfest2014 avec [@LaChaineGuitare](https://twitter.com/LaChaineGuitare), [[@pjournel](https://twitter.com/pjournel)](https://twitter.com/pjournel et [[@jcfrog](https://twitter.com/jcfrog)](https://twitter.com/jcfrog :
+Day 1 : [https://t.co/UUfsjvvjDc](https://t.co/UUfsjvvjDc) 2: [https://t.co/0UjUHVsd2H](https://t.co/0UjUHVsd2H) 
+
+
+
+Idée pas trop conne de [[@manudwarf](https://twitter.com/manudwarf)](https://twitter.com/manudwarf sur la rétribution des créateurs [http://t.co/00fp9ybvug](http://t.co/00fp9ybvug) 
+
+Marshmallow Crossbow #DIY [https://t.co/C5Ks6Jsizz](https://t.co/C5Ks6Jsizz) 
+
+Mettons nous de la bonne musique pour bosser cet après midi \m/ [https://t.co/lw75Yprd4x](https://t.co/lw75Yprd4x) 
+
+Mignonne image :) RT [@topito_com](https://twitter.com/topito_com): "Qu'est-ce qu'ils foutent tous dans ma rue les cons ?" [http://t.co/b409szQmBj](http://t.co/b409szQmBj) 
+
+
+Idée pas trop conne de @manudwarf sur la rétribution des créateurs [http://t.co/00fp9ybvug](http://t.co/00fp9ybvug) 
+
+Marshmallow Crossbow #DIY [https://t.co/C5Ks6Jsizz](https://t.co/C5Ks6Jsizz) 
+
+Mettons nous de la bonne musique pour bosser cet après midi \m/ [https://t.co/lw75Yprd4x](https://t.co/lw75Yprd4x) 
+
+Mignonne image :) RT @topito_com: "Qu'est-ce qu'ils foutent tous dans ma rue les cons ?" [http://t.co/b409szQmBj](http://t.co/b409szQmBj) 
+
+« J'AIME LES BISCUITS SALES », ou pourquoi les accents — même sur les majuscules — c'est important ! [http://t.co/Q5ux6vl8r7](http://t.co/Q5ux6vl8r7) 
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
+
+
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
+
+
+La procrastination des auteurs (ou des créatifs) (via @Stealinghome et @garfieldair ) [http://t.co/s3KeT4ybNX](http://t.co/s3KeT4ybNX) 
+
+Pardonnez les retards sur le métro, gérer des lignes, c'est pas facile ! [http://t.co/EhOqmtYztF](http://t.co/EhOqmtYztF) (poke @GroupeRATP ) 
+
+Stephen King est jaloux de G.R.R. Martin | BrainDamaged.fr [http://t.co/dbDa7mNedK](http://t.co/dbDa7mNedK) 
 Slug: links
+
+
+Ya plus qu'à attendre qu'Unicode 7 arrive sur Ubuntu \o/  [http://t.co/RcSxlqrx9u](http://t.co/RcSxlqrx9u) 
+
+Attributs privés en Python: [http://t.co/B58Et13JOy](http://t.co/B58Et13JOy) 
+
+
+Tu en ramènes en France ? :) RT @garfieldair: Owls ! ( Poke @DitiPengi ) #gpn14 [http://t.co/m72etHkSsE](http://t.co/m72etHkSsE) 
+
+
+Piratage des cartes NFC : le plan de crise secret des banques françaises [http://t.co/jtaqXtoYyr](http://t.co/jtaqXtoYyr) 
+
+Un jour, je changerais les mécaniques de ma guitare.... #lutherie #DIY [http://t.co/1rj0TY7GD8](http://t.co/1rj0TY7GD8) 
+
+Bach Cello Suite 1 Prelude Bass Solo [https://t.co/dhaNqD336x](https://t.co/dhaNqD336x) 
+
+Faut que je teste ça ! #silkscreening (by @JimmyDiResta) [https://t.co/cdWthd1BMu](https://t.co/cdWthd1BMu) 
+
+&#35;NP Damien Saez - Au Bar-Tabac du populaire [https://t.co/mgB44GgYNE](https://t.co/mgB44GgYNE) 
+
+Les bureaux de @mozilla_fr *_* #need [http://t.co/zwFj8QgSr8](http://t.co/zwFj8QgSr8) 
+
+Can you survive the LEGO Firewalk?! (RT @EmilStenstrom: ) [http://t.co/Sl4h56x9nd](http://t.co/Sl4h56x9nd) 
+
+IRMA, l'outil d'analyse statique et dynamique de @quarkslab est désormais disponible en ligne sur [http://t.co/xTiEsZHKMp](http://t.co/xTiEsZHKMp) (cc @qb_irma) 
+
+Je découvre que _Little-Endian_ se traduit par « Petit Boutisme » #pointGrammaire [https://t.co/EN0kuSXYHN](https://t.co/EN0kuSXYHN) 
+
+Si vous avez du mal à comprendre un #XKCD → [http://t.co/FShdc84NIO](http://t.co/FShdc84NIO) 
+
+Comment synchroniser les sous dossiers dans Thunderbird [http://t.co/0Wnl4EoHB8](http://t.co/0Wnl4EoHB8) 
+
+Are hackers’ passwords stronger than regular passwords?  [https://t.co/ugsladnBB7](https://t.co/ugsladnBB7) 
+
+
+&#35;infosec RT @Regiteric: La sécurité internet a un nouveau leader. [http://t.co/R8wLOZY2SG](http://t.co/R8wLOZY2SG) 
+
+Programme espion d’usine dans un clone Android [https://t.co/fSOzkvjADU](https://t.co/fSOzkvjADU) 
+
+Si des fois quelqu'un aurait une idée pour mon bug #alsa/#pulseaudio, je suis preneur :) [http://t.co/6JaIQB4eLX](http://t.co/6JaIQB4eLX) 
+
+Récap du #SSTIC à l'@OSSIRFrance [http://t.co/MOmQk3p3Me](http://t.co/MOmQk3p3Me) 
+
+Un message écrit en Latin caché sur le site de Truecrypt [http://t.co/GB7dVAmLDj](http://t.co/GB7dVAmLDj) Such Paranoid... 
+
+
+Zythom: L'interrogatoire [http://t.co/mlM4oK7LJD](http://t.co/mlM4oK7LJD) 
+
+Prez du #SSTIC : Faire crasher le driver USB de Win 8.1 en fuzzant de l'USB : [http://t.co/TPxzGZrzKC](http://t.co/TPxzGZrzKC) 
+
+
+
+Kenya: Mort d'un des plus grands éléphants d'Afrique, tué par des braconniers [http://t.co/xIQiT02K0H](http://t.co/xIQiT02K0H) 
 
 
 :D RT @H_Miser: Quand on t'applaudit avant la fin de ta RUMP au #SSTIC [http://t.co/6KcGszMSp8](http://t.co/6KcGszMSp8)
