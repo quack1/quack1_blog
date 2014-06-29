@@ -11,6 +11,6 @@ L'échange de clés [Diffie-Hellman](fr.wikipedia.org/wiki/Échange_de_clés_Dif
 
 Une vidéo mentionnée par [Geoffrey Couprie](https://twitter.com/gcouprie) à #PSES2014 et partagée par [Stéphane Bortzmeyer](https://twitter.com/bortzmeyer) explique simplement ce concept en vidéo :
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/YEBfamv-_?start=139&amp;end=270" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/YEBfamv-_do?start=139&amp;end=270" frameborder="0" allowfullscreen></iframe>
 
 La suite de la vidéo présente les concepts mathématiques (modulo, groupes et corps) utilisés par Diffie-Hellman.
