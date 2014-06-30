@@ -1,6 +1,30 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-06-25 00:35
+	Date: 2014-06-30 00:35
 	Author: Quack1
+
+
+
+Ah, dans sa conf à #PSES2014, [[@jbfavre](https://twitter.com/jbfavre)](https://twitter.com/jbfavre parle du boulot de [[@Regiteric](https://twitter.com/Regiteric)](https://twitter.com/Regiteric sur Suricata/Kibana/ElasticSearch [http://t.co/5O9Q5Leqq0](http://t.co/5O9Q5Leqq0) 
+
+Soutenez, participez ou aidez #Caliopen [https://t.co/mwHIx73xM9](https://t.co/mwHIx73xM9) #PSES2014 
+
+J.R.R Tolkien, Le Seigneur des Anneaux, et le politiquement correct [http://t.co/ZsNyLQ87ps](http://t.co/ZsNyLQ87ps) 
+
+
+-[@fredraynal](https://twitter.com/fredraynal) lance un blog pour présenter la création de [[@quarkslab](https://twitter.com/quarkslab)](https://twitter.com/quarkslab  [http://t.co/dn6OLcnR24](http://t.co/dn6OLcnR24) 
+
+
+Ne jetez plus vos vieilles bûches, recyclez ! (with [[@JimmyDiResta](https://twitter.com/JimmyDiResta)](https://twitter.com/JimmyDiResta ) [https://t.co/342tF9Rs1U](https://t.co/342tF9Rs1U) 
+
+Non mais #WTF ?!? O_o RT [@Petit_Prof](https://twitter.com/Petit_Prof): C'est parti, avec un très beau texte. #brevet 
+#sujetbrevet [http://t.co/MtPzjP6Dzr](http://t.co/MtPzjP6Dzr) 
+
+
+Exploiting wildcard expansion on Bash [https://t.co/PTy24sleHJ](https://t.co/PTy24sleHJ) 
+
+&#35;Sunorcell - Pour ceux qui n'auraient pas tout compris à l'affaire #Assange / #Wikileaks [http://t.co/hFkmvMzs9i](http://t.co/hFkmvMzs9i) 
+
+UK secretary of state: "There is no surveillance state" (ou pas) [http://t.co/sLvbiUDgV0](http://t.co/sLvbiUDgV0) 
 
 
 Poser une question à propos d'informatique sur Internet RT [@Bouletcorp](https://twitter.com/Bouletcorp): Pourquoi? [http://t.co/f4Dqu7wBfR](http://t.co/f4Dqu7wBfR) 
