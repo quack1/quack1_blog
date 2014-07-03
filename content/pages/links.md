@@ -1,6 +1,11 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-02 00:35
+	Date: 2014-07-03 00:35
 	Author: Quack1
+
+
+Facebook vs Twitter RT [@hugoroyd](https://twitter.com/hugoroyd): Facebook performance art! [http://t.co/v60dSirXFf](http://t.co/v60dSirXFf) [http://t.co/r7AnRDVi4r](http://t.co/r7AnRDVi4r) 
+
+Reconnaissez vous bien les couleurs des marques ? [http://t.co/Lh8x2ZzN2S](http://t.co/Lh8x2ZzN2S) 
 
 
 
