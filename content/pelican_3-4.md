@@ -11,7 +11,7 @@ Une nouvelle mouture du moteur de blog [Pelican](http://getpelican.com), la 3.4,
 
 La principale nouveauté est la meilleure gestion de la regénération du blog. Auparavant, à chaque mise à jour (ajout/suppression d'un article, ajout/suppression d'une catégorie, ajout d'une ligne à un article), tout le blog était regénéré de zéro.
 
-Désormais ce n'est plus le cas, puisqu'uniquement le contenu modifié est regénéré. C'est donc beaucoup plus rapide à deux niveaux : lors de la génération et lors de l'upload sur le serveur Web (puisque seuls les fichiers modifiés sont envoyés).
+Désormais ce n'est plus le cas, puisqu'uniquement le contenu modifié est regénéré.
 
 &nbsp;
 
