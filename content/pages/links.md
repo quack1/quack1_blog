@@ -1,6 +1,34 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-06-30 00:35
+	Date: 2014-07-04 00:35
 	Author: Quack1
+
+
+Alexandre Astier parle de son prochain spectacle, "L'Exoconférence" [http://t.co/ZxnGd6Mj5x](http://t.co/ZxnGd6Mj5x) 
+
+Venez essayer le système d'analyse de malwares distribué basé sur Cuckoo Sandbox de [[@CONIXSecurity](https://twitter.com/CONIXSecurity)](https://twitter.com/CONIXSecurity [https://t.co/5UQ3AGxYab](https://t.co/5UQ3AGxYab) 
+
+Le premier teaser d’Astérix et le Domaine des Dieux (écrit et réalisé par [@sgtpembry](https://twitter.com/sgtpembry)) est en ligne [http://t.co/K7fOwGqN38](http://t.co/K7fOwGqN38) #AsterixDDD 
+
+Si les langages de programmation étaient des rapports [http://t.co/WQB1hUpqZ4](http://t.co/WQB1hUpqZ4) 
+
+Pourquoi self en Python ?: [http://t.co/tBqlNWOtoW](http://t.co/tBqlNWOtoW) 
+
+Goldman Sachs demands that Google "unsend" a fatfingered email to avoid "reputational damage"  [http://t.co/s6qA5Lnmnp](http://t.co/s6qA5Lnmnp) 
+
+
+Facebook vs Twitter RT [@hugoroyd](https://twitter.com/hugoroyd): Facebook performance art! [http://t.co/v60dSirXFf](http://t.co/v60dSirXFf) [http://t.co/r7AnRDVi4r](http://t.co/r7AnRDVi4r) 
+
+Reconnaissez vous bien les couleurs des marques ? [http://t.co/Lh8x2ZzN2S](http://t.co/Lh8x2ZzN2S) 
+
+
+
+De l'importance de `www.` dans les noms de domaines Web [http://t.co/inHu3PWeMb](http://t.co/inHu3PWeMb) 
+
+Réponse à incidents, forensics et analyse de malwares version #FrenchTouch [http://t.co/bHp4J41175](http://t.co/bHp4J41175) 
+
+Concert le plus court du monde : une note (par les White Stripes) [https://t.co/8dqQC00Wnm](https://t.co/8dqQC00Wnm) 
+
+-[@Vinvin](https://twitter.com/Vinvin) disparaîtra demain d'Internet et ne réapparaîtra que le 1er Octobre. Bon courage ! :) [http://t.co/xFSKnvWeOw](http://t.co/xFSKnvWeOw) 
 
 
 
