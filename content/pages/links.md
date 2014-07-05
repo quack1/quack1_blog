@@ -1,6 +1,17 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-04 00:35
+	Date: 2014-07-05 00:35
 	Author: Quack1
+
+
+BTW, si vous voulez tout savoir du mail et des bonnes pratiques de conf, regardez l'excellente conférence de [[@vincib](https://twitter.com/vincib)](https://twitter.com/vincib [http://t.co/ApA2lBeToL](http://t.co/ApA2lBeToL) 
+
+And THIS is what we call an Internet access ! [http://t.co/roaO7yXFsN](http://t.co/roaO7yXFsN) 
+
+Pendant que les collègues regardent le foot au bureau, je configure mon SMTP pour avoir une bonne note sur [https://t.co/MHYCMbYIj9](https://t.co/MHYCMbYIj9) #geek 
+
+le plus long saut en voiture au monde (à ce jour) [http://t.co/w3Y4ERsmet](http://t.co/w3Y4ERsmet) 
+
+Yohan Cabaye pirate la série "24 heures chrono", et le montre ! [http://t.co/x0EpkFhcdF](http://t.co/x0EpkFhcdF) via [[@Numerama](https://twitter.com/Numerama)](https://twitter.com/Numerama 
 
 
 Alexandre Astier parle de son prochain spectacle, "L'Exoconférence" [http://t.co/ZxnGd6Mj5x](http://t.co/ZxnGd6Mj5x) 
