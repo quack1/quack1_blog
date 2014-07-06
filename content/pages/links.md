@@ -1,6 +1,11 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-05 00:35
+	Date: 2014-07-06 00:35
 	Author: Quack1
+
+
+Les jointures SQL expliquées en image [https://t.co/gJSrQjo782](https://t.co/gJSrQjo782) 
+
+Arriverez-vous à suivre la balle bleue de la « Blue Ball Machine » ? [http://t.co/vnYwAIfrF8](http://t.co/vnYwAIfrF8) 
 
 
 BTW, si vous voulez tout savoir du mail et des bonnes pratiques de conf, regardez l'excellente conférence de [[@vincib](https://twitter.com/vincib)](https://twitter.com/vincib [http://t.co/ApA2lBeToL](http://t.co/ApA2lBeToL) 
