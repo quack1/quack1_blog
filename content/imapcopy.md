@@ -2,7 +2,7 @@ Title: Migration de comptes mails IMAP
 Date: 2014-06-30 19:36
 Author: Quack1
 Category: Linux
-Tags: Linux, Mail, IMAP
+Tags: Linux, Mail, IMAP, planet-libre, planet-ubuntu
 Summary: Changer de provider de mails, notamment pour avoir une meilleure vie privée, c'est bien. Garder l'histoirique de ses anciens mails, c'est mieux. **imapcopy** est là pour ça.
 
 Depuis l'affaire Snowden, tout le monde nous rebat les oreilles à coup de « GMail c'est nul », « bouh, Microsoft vole votre vie privée » et autres joyeusetés. Méticuleux comme vous êtes, vous avez donc changé de _provider_ de mails pour un service plus respectueux de la vie privée ou — mieux — pour votre propre serveur de mails.
@@ -13,7 +13,7 @@ Il va se connecter à votre ancien serveur, récupérer tous les mails, puis les
 
 &nbsp;
 
-Sur toutes les bonnes distribs, ça s'installe simplement.
+Sur toutes les bonnes distribs (ici Debian/Ubuntu), ça s'installe simplement.
 
     :::bash
     sudo apt-get install imapcopy

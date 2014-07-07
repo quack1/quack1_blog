@@ -2,7 +2,7 @@ Title: Pelican 3.4 is out !
 Date: 2014-07-04 09:37
 Author: Quack1
 Category: Blog
-Tags: Blog, Pelican
+Tags: Blog, Pelican, planet-libre
 Slug: pelican_3-4
 Summary: 
 Lang: fr
