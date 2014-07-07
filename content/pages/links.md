@@ -1,6 +1,13 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-06 00:35
+	Date: 2014-07-07 00:35
 	Author: Quack1
+
+
+Le système métrique vs le système US [https://t.co/ExsjVxOJW5](https://t.co/ExsjVxOJW5) 
+
+Good idea ! \o/ RT [@Mr_Mike_Clarke](https://twitter.com/Mr_Mike_Clarke): "Here you go Grandma..." [http://t.co/mSb4hjViVf](http://t.co/mSb4hjViVf) 
+
+Business #lolcat [http://t.co/vcxfKh4hSP](http://t.co/vcxfKh4hSP) 
 
 
 Les jointures SQL expliquées en image [https://t.co/gJSrQjo782](https://t.co/gJSrQjo782) 
