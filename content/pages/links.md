@@ -1,6 +1,15 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-09 00:35
+	Date: 2014-07-10 00:35
 	Author: Quack1
+
+
+Venez jouer à décentraliser l'Internet le 30/07 chez Mozilla Paris avec [@nitot](https://twitter.com/nitot), [[@tarek_ziade](https://twitter.com/tarek_ziade)](https://twitter.com/tarek_ziade et [[@mozilla_fr](https://twitter.com/mozilla_fr)](https://twitter.com/mozilla_fr [http://t.co/XoHhhgs3Bd](http://t.co/XoHhhgs3Bd) 
+
+Fake Google subdomain certificates found in the wild [http://t.co/xrcPrKXmpR](http://t.co/xrcPrKXmpR) 
+
+Internet Oldie but Goodie: [http://t.co/kueY9rrOB9](http://t.co/kueY9rrOB9) 
+
+En Slovaquie, on cherche à remplacer un tramway par une palette ! [http://t.co/t03jRDZFuA](http://t.co/t03jRDZFuA) 
 
 
 Man At Arms tease à mort pour la nouvelle prog' de l'été, avec « MAN AT ARMS: REFORGED » \o/ [https://t.co/3pY8cgAhkM](https://t.co/3pY8cgAhkM) 
