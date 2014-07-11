@@ -1,6 +1,19 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-10 00:35
+	Date: 2014-07-11 00:35
 	Author: Quack1
+
+
+Celui là est génial ! « Quand on t’applaudit avant la fin de ta RUMP au SSTIC ! » [http://t.co/sGmGfA7kV7](http://t.co/sGmGfA7kV7) 
+
+Haan ! [[@H_Miser](https://twitter.com/H_Miser)](https://twitter.com/H_Miser lance son Tumblr avec des gifs sur « La sécurité informatique à la Française ! » \o/ [http://t.co/TzzIR8auwA](http://t.co/TzzIR8auwA) 
+
+Upgrade d'un nerf pour afficher la quantité de flechettes en réserve sur un Arduino [http://t.co/sW1RzF1M0P](http://t.co/sW1RzF1M0P) (poke [[@virtualabs](https://twitter.com/virtualabs)](https://twitter.com/virtualabs ) 
+
+These photos are taken from exactly the right angle [http://t.co/FPmshwMOmL](http://t.co/FPmshwMOmL) 
+
+Le simulateur [http://t.co/KRF6CFdGIe](http://t.co/KRF6CFdGIe) 
+
+&#35;Suricata powa \o/ RT [@NiightlyCat](https://twitter.com/NiightlyCat): J'arrive au travail, et ... [http://t.co/yALp7hOixG](http://t.co/yALp7hOixG) 
 
 
 Venez jouer à décentraliser l'Internet le 30/07 chez Mozilla Paris avec [@nitot](https://twitter.com/nitot), [[@tarek_ziade](https://twitter.com/tarek_ziade)](https://twitter.com/tarek_ziade et [[@mozilla_fr](https://twitter.com/mozilla_fr)](https://twitter.com/mozilla_fr [http://t.co/XoHhhgs3Bd](http://t.co/XoHhhgs3Bd) 
