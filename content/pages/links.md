@@ -1,6 +1,13 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-11 00:35
+	Date: 2014-07-12 00:35
 	Author: Quack1
+
+
+Comment se débarasser de 14 années de mauvaises habitudes ?  [http://t.co/t7FP5wSKnR](http://t.co/t7FP5wSKnR) 
+
+Livre numérique: et si Amazon avait raison contre Hachette? [http://t.co/HlIsIp98g9](http://t.co/HlIsIp98g9) 
+
+Chinese pancake chef can flip faster than an eyeblink via [[@BoingBoing](https://twitter.com/BoingBoing)](https://twitter.com/BoingBoing [http://t.co/9vVzPbslOO](http://t.co/9vVzPbslOO) 
 
 
 Celui là est génial ! « Quand on t’applaudit avant la fin de ta RUMP au SSTIC ! » [http://t.co/sGmGfA7kV7](http://t.co/sGmGfA7kV7) 
