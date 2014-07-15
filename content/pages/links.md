@@ -1,6 +1,9 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-14 00:35
+	Date: 2014-07-15 00:35
 	Author: Quack1
+
+
+[http://t.co/yCof41NU2O](http://t.co/yCof41NU2O) Captvty répond aux menaces de Canal+ par des menaces 
 
 
 
