@@ -1,6 +1,27 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-16 00:35
+	Date: 2014-07-17 00:35
 	Author: Quack1
+
+
+Un manifestant propalestinien condamné à quatre mois ferme pour rébellion [http://t.co/fe6WJCwCkK](http://t.co/fe6WJCwCkK) 
+
+Le sort d'Assange entre les mains d'un tribunal de Stockholm [http://t.co/DIwDAE9gay](http://t.co/DIwDAE9gay) 
+
+J'annonce : je paye une bière au collègue qui viendra au boulot avec ce t-shirt ! [https://t.co/cibEfX2GDh](https://t.co/cibEfX2GDh) (via [[@ChrisJohnRiley](https://twitter.com/ChrisJohnRiley)](https://twitter.com/ChrisJohnRiley ) 
+
+... ou comment écrire des titres de chapitres courts, simples et significatifs. [http://t.co/qEBUwCcEL9](http://t.co/qEBUwCcEL9) 
+
+Les ayants-droits de Conan Doyle s'opposent à des romans sur Sherlock Holmes (pourtant dans le domaine publique) [http://t.co/MUAA26WWAz](http://t.co/MUAA26WWAz) 
+
+Spotify sait me parler \m/ [http://t.co/Kb96qsULLu](http://t.co/Kb96qsULLu) 
+
+Offline Malware Analysis with Host-Only VirtualBox Networks | /dev/random [http://t.co/bqZ4eXUOjo](http://t.co/bqZ4eXUOjo) 
+
+Une charte pour les photos dans les musées et leur partage en ligne [http://t.co/UjaXbil8jj](http://t.co/UjaXbil8jj) 
+
+Chris Vogler s' "auto #pointGodwin" [http://t.co/pyH8lBFm0n](http://t.co/pyH8lBFm0n) 
+
+Et là, tu vois que certains groupes ont un peu vieilli quand même.. [http://t.co/Gxa59Z4TtJ](http://t.co/Gxa59Z4TtJ) 
 
 
 Un papa fait un incroyable costume Lego Star Wars pour son fils [http://t.co/aLEmBr523W](http://t.co/aLEmBr523W) 
