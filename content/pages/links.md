@@ -1,6 +1,23 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-17 17:12
+	Date: 2014-07-18 00:35
 	Author: Quack1
+
+
+SSL Blacklist : SHA1 des certificats X.509 utilisés par des malwares ou botnets [https://t.co/2gCrcQ7RJ9](https://t.co/2gCrcQ7RJ9) 
+
+À l'heure de l'autopublication sur Internet, les éditeurs sont-ils encore utiles ? [http://t.co/jNAI1oFtUL](http://t.co/jNAI1oFtUL) 
+
+Début de la dernière saison de Sons of Anarchy le 9 Septembre ! :D [http://t.co/qKuEqOL1JH](http://t.co/qKuEqOL1JH) 
+
+Pangolin is (my) new Firefox !  RT [@_Bintje](https://twitter.com/_Bintje): gniii RT [@WOLLANDFR](https://twitter.com/WOLLANDFR): La sieste du bébé pangolin [http://t.co/4UgGgmCaNr](http://t.co/4UgGgmCaNr) 
+
+Quand tu dois installer un soft WIndows sans te manger les saloperies “packagées” dans l’installeur…  [http://t.co/dOX7yhVIWN](http://t.co/dOX7yhVIWN) via [[@H_Miser](https://twitter.com/H_Miser)](https://twitter.com/H_Miser 
+
+La même ! Let's kickstarter it :) RT [@Bouletcorp](https://twitter.com/Bouletcorp): J'ai si chaud. [http://t.co/KDZDvQolzM](http://t.co/KDZDvQolzM) 
+
+These are.... weird tattoos [http://t.co/RjJMzTnBbd](http://t.co/RjJMzTnBbd) (photo by [[@Tattoorialist](https://twitter.com/Tattoorialist)](https://twitter.com/Tattoorialist ) 
+
+Oubliez Skype pour vos vidéoconférences, utilisez plutôt des services Web : [https://t.co/SJe9O5jfhz](https://t.co/SJe9O5jfhz) ou [https://t.co/87LWD6rFtk](https://t.co/87LWD6rFtk) ~:) 
 
 
 Un manifestant propalestinien condamné à quatre mois ferme pour rébellion [http://t.co/fe6WJCwCkK](http://t.co/fe6WJCwCkK) 
