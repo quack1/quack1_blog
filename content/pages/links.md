@@ -1,6 +1,11 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-18 00:35
+	Date: 2014-07-19 00:35
 	Author: Quack1
+
+
+Le premier rendez-vous Tinder : cet immense moment de gêne - Les Inrocks: [http://t.co/18Jqe9ykVb](http://t.co/18Jqe9ykVb) 
+
+La gloire. J'ai été contacté pour parler d'un service Web et pour « vendre de l'espace publicitaire » [http://t.co/Uqu1c08hhW](http://t.co/Uqu1c08hhW) 
 
 
 SSL Blacklist : SHA1 des certificats X.509 utilisés par des malwares ou botnets [https://t.co/2gCrcQ7RJ9](https://t.co/2gCrcQ7RJ9) 
