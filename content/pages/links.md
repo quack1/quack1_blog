@@ -1,6 +1,11 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-19 00:35
+	Date: 2014-07-20 00:35
 	Author: Quack1
+
+
+Le premier résultat google pour des outils de timelines sur Linux me propose Gnuplot et Tikz sur LaTeX... [http://t.co/iBsoTeWEyU](http://t.co/iBsoTeWEyU) (ou pas) 
+
+Je viens de me faire la première saison de « Silicon Valley ». Hâte à l'année prochaine pour la suite ! :D [http://t.co/q2a6hEBUsp](http://t.co/q2a6hEBUsp) 
 
 
 Le premier rendez-vous Tinder : cet immense moment de gêne - Les Inrocks: [http://t.co/18Jqe9ykVb](http://t.co/18Jqe9ykVb) 
