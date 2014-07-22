@@ -30,11 +30,23 @@ Si je veux pouvoir avancer convenablement, je pense qu'il va bientôt falloir qu
 
 J'ai pris 2–3 photos <s>dans mon atelier</s> sur mon balcon pendant que je bossais histoire de vous donner une idée de l'avancement :)
 
-<div align=center><a href="/upload/guitar2bass_atelier_chaise.jpg"><img src="/upload/guitar2bass_atelier_chaise.jpg" align="center" height="400px" /></a> &nbsp; <a href="/upload/guitar2bass_rape_corps.jpg"><img src="/upload/guitar2bass_rape_corps.jpg" align="center" height="400px" /></a></div>
+<div align=center><a href="/upload/guitar2bass_manche-tete_avant.jpg"><img src="/upload/guitar2bass_manche-tete_avant.jpg" align="center" height="400px" /></a> &nbsp; <a href="/upload/guitar2bass_manche-tete_apres.jpg"><img src="/upload/guitar2bass_manche-tete_apres.jpg" align="center" height="400px" /></a> <br>Finition du haut du manche et de la jonction avec la tête.</div>
 
 &nbsp;
 
-<div align=center><a href="/upload/guitar2bass_outils.jpg"><img src="/upload/guitar2bass_outils.jpg" align="center" height="400px" /></a></div>
+<div align=center><a href="/upload/guitar2bass_manche-corps_avant.jpg"><img src="/upload/guitar2bass_manche-corps_avant.jpg" align="center" height="400px" /></a> &nbsp; <a href="/upload/guitar2bass_manche-corps_apres.jpg"><img src="/upload/guitar2bass_manche-corps_apres.jpg" align="center" height="400px" /></a> <br>Finition de la jonction corps–manche et de l'accès aux aigus.</div>
+
+&nbsp;
+
+<div align=center><a href="/upload/guitar2bass_touche.jpg"><img src="/upload/guitar2bass_touche.jpg" align="center" height="400px" /></a> <br>Radius de la touche. Les <i>inlays</i> seront repeints en noir ou vernis après ponçage.</div>
+
+&nbsp;
+
+<div align=center><a href="/upload/guitar2bass_atelier_chaise.jpg"><img src="/upload/guitar2bass_atelier_chaise.jpg" align="center" height="400px" /></a> &nbsp; <a href="/upload/guitar2bass_rape_corps.jpg"><img src="/upload/guitar2bass_rape_corps.jpg" align="center" height="400px" /></a> <br> Travailler sur un balcon, c'est pas toujours pratique !</div>
+
+&nbsp;
+
+<div align=center><a href="/upload/guitar2bass_outils.jpg"><img src="/upload/guitar2bass_outils.jpg" align="center" height="400px" /></a> <br> Ça commence à devenir un peu le bordel chez moi...</div>
 
 [^1] D'ailleurs, le trajet en métro+RER a été assez sportif avec un Akibag, une valise et une guitare X]
 [^2] J'ai eu un petit problème avec ma scie sauteuse, mais j'ai pu rattraper le coup pour obtenir un résultat plutôt sympa.
