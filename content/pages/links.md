@@ -1,6 +1,13 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-22 00:35
+	Date: 2014-07-23 00:35
 	Author: Quack1
+
+
+Dat bufferoverflow ! (via [[@H_Miser](https://twitter.com/H_Miser)](https://twitter.com/H_Miser ) [http://t.co/VLx53w6moA](http://t.co/VLx53w6moA) 
+
+La présentation prévue à la Black Hat sur la dé-anonymisation des utilisateurs de Tor a été annulée [http://t.co/dk0VMH8g2H](http://t.co/dk0VMH8g2H) 
+
+"'Sons of Anarchy' creator says series ending not yet decided" [http://t.co/7p8AAohUGD](http://t.co/7p8AAohUGD) 
 
 
 Pokemon Jaune terminé en 0 minutes et 0 secondes [https://t.co/EkkXUhDQAa](https://t.co/EkkXUhDQAa) (via [[@Serianox_](https://twitter.com/Serianox_)](https://twitter.com/Serianox_ ) 
