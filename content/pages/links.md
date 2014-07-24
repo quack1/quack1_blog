@@ -1,6 +1,9 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-23 00:35
+	Date: 2014-07-24 00:35
 	Author: Quack1
+
+
+Green Day Singer Billie Joe Armstrong Has The Greatest Summer Job Ever [http://t.co/wYnTc9Ioa5](http://t.co/wYnTc9Ioa5) 
 
 
 Dat bufferoverflow ! (via [[@H_Miser](https://twitter.com/H_Miser)](https://twitter.com/H_Miser ) [http://t.co/VLx53w6moA](http://t.co/VLx53w6moA) 
