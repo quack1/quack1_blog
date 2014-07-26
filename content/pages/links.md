@@ -1,6 +1,11 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-25 00:35
+	Date: 2014-07-26 00:35
 	Author: Quack1
+
+
+Dans Firefox, empêcher les sites Web d'interdire les copier/coller dans des champs [http://t.co/z8VLfRv9eL](http://t.co/z8VLfRv9eL) (via [[@newsoft](https://twitter.com/newsoft)](https://twitter.com/newsoft ) 
+
+Happy sysadmin day everyone :) (via [@nbs_system](https://twitter.com/nbs_system)) [http://t.co/M76OMahHGj](http://t.co/M76OMahHGj) 
 
 
 Rendre un site web consultable uniquement par IPv6 [https://t.co/FbxM1ebLxE](https://t.co/FbxM1ebLxE) 
