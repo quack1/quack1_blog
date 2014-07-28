@@ -1,9 +1,17 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-26 00:35
-	Author: Quack1
+Date: 2014-07-28 00:35
+Author: Quack1
+Slug: links
 
 
-Dans Firefox, empêcher les sites Web d'interdire les copier/coller dans des champs [http://t.co/z8VLfRv9eL](http://t.co/z8VLfRv9eL) (via [[@newsoft](https://twitter.com/newsoft)](https://twitter.com/newsoft ) 
+Chercher dans plusieurs dicts à la fois avec ChainMap #python [http://t.co/nvHGoSAHdY](http://t.co/nvHGoSAHdY) 
+
+Microsoft, à propos d'ODF : « imposer un format  unique a un impact négatif sur la concurrence et l’innovation » [http://t.co/uCFc8My4Ai](http://t.co/uCFc8My4Ai) 
+
+Advanced Exploitation of VirtualBox 3D Acceleration VM Escape Vulnerability (CVE-2014-0983)  [http://t.co/xBfS6mkqCp](http://t.co/xBfS6mkqCp) 
+
+
+Dans Firefox, empêcher les sites Web d'interdire les copier/coller dans des champs [http://t.co/z8VLfRv9eL](http://t.co/z8VLfRv9eL) (via [@newsoft](https://twitter.com/newsoft) ) 
 
 Happy sysadmin day everyone :) (via [@nbs_system](https://twitter.com/nbs_system)) [http://t.co/M76OMahHGj](http://t.co/M76OMahHGj) 
 
