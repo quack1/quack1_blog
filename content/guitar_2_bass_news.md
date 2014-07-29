@@ -48,7 +48,7 @@ J'ai pris 2–3 photos <s>dans mon atelier</s> sur mon balcon pendant que je bos
 
 <div align=center><a href="/upload/guitar2bass_outils.jpg"><img src="/upload/guitar2bass_outils.jpg" align="center" height="400px" /></a> <br> Ça commence à devenir un peu le bordel chez moi...</div>
 
-[^1] D'ailleurs, le trajet en métro+RER a été assez sportif avec un Akibag, une valise et une guitare X]
-[^2] J'ai eu un petit problème avec ma scie sauteuse, mais j'ai pu rattraper le coup pour obtenir un résultat plutôt sympa.
-[^3] À défaut de perceuse, j'ai dû agrandir les trous à la râpe, ce qui fait que pour le moment ils ne sont pas parfaitement ronds. J'attends de recevoir les pièces pour les ajuster.
-[^4] [Sans défonceuse](https://vine.co/v/MrPgwxxYvgL/), ça risque d'être sportif !
+[^1]: D'ailleurs, le trajet en métro+RER a été assez sportif avec un Akibag, une valise et une guitare X]
+[^2]: J'ai eu un petit problème avec ma scie sauteuse, mais j'ai pu rattraper le coup pour obtenir un résultat plutôt sympa.
+[^3]: À défaut de perceuse, j'ai dû agrandir les trous à la râpe, ce qui fait que pour le moment ils ne sont pas parfaitement ronds. J'attends de recevoir les pièces pour les ajuster.
+[^4]: [Sans défonceuse](https://vine.co/v/MrPgwxxYvgL/), ça risque d'être sportif !
