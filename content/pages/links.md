@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-07-28 00:35
+Date: 2014-07-29 00:35
 Author: Quack1
 Slug: links
+
+
+Exactly what happens every time... RT @phdcomics: The Neurobiology of Writing: [http://t.co/BohzWt7kMa](http://t.co/BohzWt7kMa) [http://t.co/CggDCI0NBD](http://t.co/CggDCI0NBD) 
+
+Ceci pourrait valoir $1,000,000 #yo [http://t.co/RPgJTBSi8q](http://t.co/RPgJTBSi8q) 
+
+. [@Vinvin](https://twitter.com/Vinvin) veut changer la France, et il a raison [http://t.co/KcQfnd2u3r](http://t.co/KcQfnd2u3r) 
+
+3 exemples avancés d'utilisation des regex Python [http://t.co/Rb4vxmWjgz](http://t.co/Rb4vxmWjgz) 
 
 
 Chercher dans plusieurs dicts à la fois avec ChainMap #python [http://t.co/nvHGoSAHdY](http://t.co/nvHGoSAHdY) 
