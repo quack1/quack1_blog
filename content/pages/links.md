@@ -1,6 +1,41 @@
 Title: Liens partagés sur Twitter
-	Date: 2014-07-22 00:35
-	Author: Quack1
+Date: 2014-07-29 00:35
+Author: Quack1
+Slug: links
+
+
+Exactly what happens every time... RT @phdcomics: The Neurobiology of Writing: [http://t.co/BohzWt7kMa](http://t.co/BohzWt7kMa) [http://t.co/CggDCI0NBD](http://t.co/CggDCI0NBD) 
+
+Ceci pourrait valoir $1,000,000 #yo [http://t.co/RPgJTBSi8q](http://t.co/RPgJTBSi8q) 
+
+. [@Vinvin](https://twitter.com/Vinvin) veut changer la France, et il a raison [http://t.co/KcQfnd2u3r](http://t.co/KcQfnd2u3r) 
+
+3 exemples avancés d'utilisation des regex Python [http://t.co/Rb4vxmWjgz](http://t.co/Rb4vxmWjgz) 
+
+
+Chercher dans plusieurs dicts à la fois avec ChainMap #python [http://t.co/nvHGoSAHdY](http://t.co/nvHGoSAHdY) 
+
+Microsoft, à propos d'ODF : « imposer un format  unique a un impact négatif sur la concurrence et l’innovation » [http://t.co/uCFc8My4Ai](http://t.co/uCFc8My4Ai) 
+
+Advanced Exploitation of VirtualBox 3D Acceleration VM Escape Vulnerability (CVE-2014-0983)  [http://t.co/xBfS6mkqCp](http://t.co/xBfS6mkqCp) 
+
+
+Dans Firefox, empêcher les sites Web d'interdire les copier/coller dans des champs [http://t.co/z8VLfRv9eL](http://t.co/z8VLfRv9eL) (via [@newsoft](https://twitter.com/newsoft) ) 
+
+Happy sysadmin day everyone :) (via [@nbs_system](https://twitter.com/nbs_system)) [http://t.co/M76OMahHGj](http://t.co/M76OMahHGj) 
+
+
+Rendre un site web consultable uniquement par IPv6 [https://t.co/FbxM1ebLxE](https://t.co/FbxM1ebLxE) 
+
+
+Green Day Singer Billie Joe Armstrong Has The Greatest Summer Job Ever [http://t.co/wYnTc9Ioa5](http://t.co/wYnTc9Ioa5) 
+
+
+Dat bufferoverflow ! (via [[@H_Miser](https://twitter.com/H_Miser)](https://twitter.com/H_Miser ) [http://t.co/VLx53w6moA](http://t.co/VLx53w6moA) 
+
+La présentation prévue à la Black Hat sur la dé-anonymisation des utilisateurs de Tor a été annulée [http://t.co/dk0VMH8g2H](http://t.co/dk0VMH8g2H) 
+
+"'Sons of Anarchy' creator says series ending not yet decided" [http://t.co/7p8AAohUGD](http://t.co/7p8AAohUGD) 
 
 
 Pokemon Jaune terminé en 0 minutes et 0 secondes [https://t.co/EkkXUhDQAa](https://t.co/EkkXUhDQAa) (via [[@Serianox_](https://twitter.com/Serianox_)](https://twitter.com/Serianox_ ) 
