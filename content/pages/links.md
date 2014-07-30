@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-07-29 00:35
+Date: 2014-07-30 00:35
 Author: Quack1
 Slug: links
+
+
+Résultats du challenge présent sur le badge collector de la #NdH2K14 [http://t.co/FrAegAOIF5](http://t.co/FrAegAOIF5) (cc [@NiightlyCat](https://twitter.com/NiightlyCat) ) 
+
+Fonctionnement de #GPG dans les grandes lignes #crypto [http://t.co/PZV0R1nCTP](http://t.co/PZV0R1nCTP) 
+
+Pip (gestionnaire de paquets Python) vulnérables aux MiTM sur des réseaux non trustés [http://t.co/0qqMN1dLpT](http://t.co/0qqMN1dLpT) (corrigé à priori dans pip 1.3) 
 
 
 Exactly what happens every time... RT @phdcomics: The Neurobiology of Writing: [http://t.co/BohzWt7kMa](http://t.co/BohzWt7kMa) [http://t.co/CggDCI0NBD](http://t.co/CggDCI0NBD) 
