@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-07-30 00:35
+Date: 2014-07-31 00:35
 Author: Quack1
 Slug: links
+
+
+MySQL last_insert_id() performance issues [http://t.co/w5tSfqOSoz](http://t.co/w5tSfqOSoz) 
+
+Si les environnements de bureau Linux étaient des couteaux [http://t.co/zUueQ6Fjnu](http://t.co/zUueQ6Fjnu) (via [@_Skunnyk_](https://twitter.com/_Skunnyk_) 
+
+Principaux programmes d'espionnage de la population de la NSA (Replay de la conf de [@Skhaen](https://twitter.com/Skhaen) à #PSES2014) [http://t.co/2WGPP2mADu](http://t.co/2WGPP2mADu) 
+
+Métriques de mesure des performances de la réponse à incidents [http://t.co/PZdZdLH4kl](http://t.co/PZdZdLH4kl) 
+
+NXT, une nouvelle cryptomonnaie a tester! [http://t.co/dzxtWnWTRN](http://t.co/dzxtWnWTRN) 
 
 
 Résultats du challenge présent sur le badge collector de la #NdH2K14 [http://t.co/FrAegAOIF5](http://t.co/FrAegAOIF5) (cc [@NiightlyCat](https://twitter.com/NiightlyCat) ) 
