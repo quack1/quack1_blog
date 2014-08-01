@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-07-31 00:35
+Date: 2014-08-01 00:35
 Author: Quack1
 Slug: links
+
+
+&#35;sysadmin, vous voulez jouer avec la prod ? roulette russe? [http://t.co/qz2PsDqhWu](http://t.co/qz2PsDqhWu) ou Suicide? [http://t.co/v4HHunhPfD](http://t.co/v4HHunhPfD) (via [@cedricpernet](https://twitter.com/cedricpernet) ) 
+
+Un artiste improvise des scènes amusantes dans Paris avec un bonhomme et un carnet [http://t.co/U0xpWpju2R](http://t.co/U0xpWpju2R) 
+
+Le projet Tor supprime un groupe de relays qui auraient été utilisés pour désanonymiser des utilisateurs  [https://t.co/5bMSNvzyu1](https://t.co/5bMSNvzyu1) 
+
+Aux US, [@BradPaisley](https://twitter.com/BradPaisley) bataille depuis ce week end contre son label pour leaker ses nouvelles chansons online [http://t.co/7WZzDoHsDq](http://t.co/7WZzDoHsDq) 
 
 
 MySQL last_insert_id() performance issues [http://t.co/w5tSfqOSoz](http://t.co/w5tSfqOSoz) 
