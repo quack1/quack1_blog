@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-01 00:35
+Date: 2014-08-02 00:35
 Author: Quack1
 Slug: links
+
+
+Il m'est arrivé exactement la même chose avec le code de la stagiaire cette semaine &gt;&lt;'
+ [http://t.co/RfltGhdcT5](http://t.co/RfltGhdcT5) [http://t.co/tdsxKSJ65Y](http://t.co/tdsxKSJ65Y) 
+
+Dumb people and medics... [http://t.co/DIOy93j4yv](http://t.co/DIOy93j4yv) 
+
+Utiliser un fichier hosts spécifique pour Wireshark pour éviter les résolutions DNS de l'outil [http://t.co/Jop4N4XwMC](http://t.co/Jop4N4XwMC) 
+
+Calculer la précision des règles IDS [http://t.co/UYAzc0VC1J](http://t.co/UYAzc0VC1J) Bon indicateur pour les SOC ? 
 
 
 &#35;sysadmin, vous voulez jouer avec la prod ? roulette russe? [http://t.co/qz2PsDqhWu](http://t.co/qz2PsDqhWu) ou Suicide? [http://t.co/v4HHunhPfD](http://t.co/v4HHunhPfD) (via [@cedricpernet](https://twitter.com/cedricpernet) ) 
