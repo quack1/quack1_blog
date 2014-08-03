@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-02 00:35
+Date: 2014-08-03 00:35
 Author: Quack1
 Slug: links
+
+
+Belle faute sur les panneaux de l'assemblée nationale cc [@Bescherelle](https://twitter.com/Bescherelle) [http://t.co/4jJzNHbHyP](http://t.co/4jJzNHbHyP) 
+
+Feds Receive Requests to Shut Down The Pirate Bay [http://t.co/3w1kQRZfHE](http://t.co/3w1kQRZfHE) 
 
 
 Il m'est arrivé exactement la même chose avec le code de la stagiaire cette semaine &gt;&lt;'
