@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-04 00:35
+Date: 2014-08-05 00:35
 Author: Quack1
 Slug: links
+
+
+Guitare recablée et entièrement fonctionnelle. Enfin! [http://t.co/qrXU42oUU4](http://t.co/qrXU42oUU4) 
+
+On pourra donc apprécier toute l'ironie de cet autocollant (cc @UPS) #previoustweet [http://t.co/w5Uag4hIjh](http://t.co/w5Uag4hIjh) 
+
+Heureusement que le carton était plus grand que le contenu... Merci [@UPS](https://twitter.com/UPS) (cc @thomann) [http://t.co/cW9tfiYHTS](http://t.co/cW9tfiYHTS) 
+
+Thousands of Mozilla developers' emails, passwords exposed [http://t.co/pxLEwGzhRm](http://t.co/pxLEwGzhRm) 
+
+Nostalgie... — How Harry Potter shaped a generation [http://t.co/1i02TXmcTd](http://t.co/1i02TXmcTd) 
 
 
 Des fans de Tintin traînés devant le tribunal par Moulinsart [http://t.co/o7iccjzoR5](http://t.co/o7iccjzoR5) 
