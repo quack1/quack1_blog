@@ -1,7 +1,74 @@
 Title: Liens partagés sur Twitter
-Date: 2014-07-29 00:35
+Date: 2014-08-06 00:35
 Author: Quack1
 Slug: links
+
+
+C'est trop vrai ! RT @H_Miser: Quand tu racontes ta journée à des gens qui ne travaillent pas dans l'infosec [http://t.co/O7TJoAugHi](http://t.co/O7TJoAugHi) 
+
+Stack Overflow supporte ses 560 millions de pages vues avec 25 servers (boostés à 384GB ram et 2To SSD pour les BDD) [http://t.co/JWSgaqHm9n](http://t.co/JWSgaqHm9n) 
+
+Les FAI commencent à faire leur pub sur Youporn \o/   [https://t.co/TM4hRSbJLB](https://t.co/TM4hRSbJLB) 
+
+
+Guitare recablée et entièrement fonctionnelle. Enfin! [http://t.co/qrXU42oUU4](http://t.co/qrXU42oUU4) 
+
+On pourra donc apprécier toute l'ironie de cet autocollant (cc @UPS) #previoustweet [http://t.co/w5Uag4hIjh](http://t.co/w5Uag4hIjh) 
+
+Heureusement que le carton était plus grand que le contenu... Merci [@UPS](https://twitter.com/UPS) (cc @thomann) [http://t.co/cW9tfiYHTS](http://t.co/cW9tfiYHTS) 
+
+Thousands of Mozilla developers' emails, passwords exposed [http://t.co/pxLEwGzhRm](http://t.co/pxLEwGzhRm) 
+
+Nostalgie... — How Harry Potter shaped a generation [http://t.co/1i02TXmcTd](http://t.co/1i02TXmcTd) 
+
+
+Des fans de Tintin traînés devant le tribunal par Moulinsart [http://t.co/o7iccjzoR5](http://t.co/o7iccjzoR5) 
+
+Cordless Drill/Driver vs Impact Driver: Which Do You Need? [http://t.co/133TOPqt7J](http://t.co/133TOPqt7J) 
+
+Green Day on a Gibson [http://t.co/Arzbzmeiuu](http://t.co/Arzbzmeiuu) 
+
+
+Belle faute sur les panneaux de l'assemblée nationale cc [@Bescherelle](https://twitter.com/Bescherelle) [http://t.co/4jJzNHbHyP](http://t.co/4jJzNHbHyP) 
+
+Feds Receive Requests to Shut Down The Pirate Bay [http://t.co/3w1kQRZfHE](http://t.co/3w1kQRZfHE) 
+
+
+Il m'est arrivé exactement la même chose avec le code de la stagiaire cette semaine &gt;&lt;'
+ [http://t.co/RfltGhdcT5](http://t.co/RfltGhdcT5) [http://t.co/tdsxKSJ65Y](http://t.co/tdsxKSJ65Y) 
+
+Dumb people and medics... [http://t.co/DIOy93j4yv](http://t.co/DIOy93j4yv) 
+
+Utiliser un fichier hosts spécifique pour Wireshark pour éviter les résolutions DNS de l'outil [http://t.co/Jop4N4XwMC](http://t.co/Jop4N4XwMC) 
+
+Calculer la précision des règles IDS [http://t.co/UYAzc0VC1J](http://t.co/UYAzc0VC1J) Bon indicateur pour les SOC ? 
+
+
+&#35;sysadmin, vous voulez jouer avec la prod ? roulette russe? [http://t.co/qz2PsDqhWu](http://t.co/qz2PsDqhWu) ou Suicide? [http://t.co/v4HHunhPfD](http://t.co/v4HHunhPfD) (via [@cedricpernet](https://twitter.com/cedricpernet) ) 
+
+Un artiste improvise des scènes amusantes dans Paris avec un bonhomme et un carnet [http://t.co/U0xpWpju2R](http://t.co/U0xpWpju2R) 
+
+Le projet Tor supprime un groupe de relays qui auraient été utilisés pour désanonymiser des utilisateurs  [https://t.co/5bMSNvzyu1](https://t.co/5bMSNvzyu1) 
+
+Aux US, [@BradPaisley](https://twitter.com/BradPaisley) bataille depuis ce week end contre son label pour leaker ses nouvelles chansons online [http://t.co/7WZzDoHsDq](http://t.co/7WZzDoHsDq) 
+
+
+MySQL last_insert_id() performance issues [http://t.co/w5tSfqOSoz](http://t.co/w5tSfqOSoz) 
+
+Si les environnements de bureau Linux étaient des couteaux [http://t.co/zUueQ6Fjnu](http://t.co/zUueQ6Fjnu) (via [@_Skunnyk_](https://twitter.com/_Skunnyk_) 
+
+Principaux programmes d'espionnage de la population de la NSA (Replay de la conf de [@Skhaen](https://twitter.com/Skhaen) à #PSES2014) [http://t.co/2WGPP2mADu](http://t.co/2WGPP2mADu) 
+
+Métriques de mesure des performances de la réponse à incidents [http://t.co/PZdZdLH4kl](http://t.co/PZdZdLH4kl) 
+
+NXT, une nouvelle cryptomonnaie a tester! [http://t.co/dzxtWnWTRN](http://t.co/dzxtWnWTRN) 
+
+
+Résultats du challenge présent sur le badge collector de la #NdH2K14 [http://t.co/FrAegAOIF5](http://t.co/FrAegAOIF5) (cc [@NiightlyCat](https://twitter.com/NiightlyCat) ) 
+
+Fonctionnement de #GPG dans les grandes lignes #crypto [http://t.co/PZV0R1nCTP](http://t.co/PZV0R1nCTP) 
+
+Pip (gestionnaire de paquets Python) vulnérables aux MiTM sur des réseaux non trustés [http://t.co/0qqMN1dLpT](http://t.co/0qqMN1dLpT) (corrigé à priori dans pip 1.3) 
 
 
 Exactly what happens every time... RT @phdcomics: The Neurobiology of Writing: [http://t.co/BohzWt7kMa](http://t.co/BohzWt7kMa) [http://t.co/CggDCI0NBD](http://t.co/CggDCI0NBD) 
