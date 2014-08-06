@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-05 00:35
+Date: 2014-08-06 00:35
 Author: Quack1
 Slug: links
+
+
+C'est trop vrai ! RT @H_Miser: Quand tu racontes ta journée à des gens qui ne travaillent pas dans l'infosec [http://t.co/O7TJoAugHi](http://t.co/O7TJoAugHi) 
+
+Stack Overflow supporte ses 560 millions de pages vues avec 25 servers (boostés à 384GB ram et 2To SSD pour les BDD) [http://t.co/JWSgaqHm9n](http://t.co/JWSgaqHm9n) 
+
+Les FAI commencent à faire leur pub sur Youporn \o/   [https://t.co/TM4hRSbJLB](https://t.co/TM4hRSbJLB) 
 
 
 Guitare recablée et entièrement fonctionnelle. Enfin! [http://t.co/qrXU42oUU4](http://t.co/qrXU42oUU4) 
