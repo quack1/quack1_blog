@@ -1,7 +1,26 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-06 00:35
+Date: 2014-08-07 00:35
 Author: Quack1
 Slug: links
+
+
+Quand ta sécurité est assurée par le NAT de ta box ! [http://t.co/rfSRLePm4B](http://t.co/rfSRLePm4B) 
+
+Le premier livre du [@Tattoorialist](https://twitter.com/Tattoorialist) sortira le 2 octobre \o/ [http://t.co/hlW6K16zgv](http://t.co/hlW6K16zgv) 
+
+Wikipedia refuses to delete photo as 'monkey owns it' [http://t.co/qRjOdMYmtO](http://t.co/qRjOdMYmtO) 
+
+Green Day cover Misfits "Hybrid Moments" for Metallica 30th: [http://t.co/mwTGI79EHd](http://t.co/mwTGI79EHd) 
+
+Thunderstruck from AC/DC covered by Steve'n'Seagulls (via [@pjournel](https://twitter.com/pjournel) et @SinShaark) [https://t.co/ulJj1994Lt](https://t.co/ulJj1994Lt) 
+
+How to cut cheese ! [http://t.co/MWgZt6sErZ](http://t.co/MWgZt6sErZ) 
+
+How to pack for one night [http://t.co/wJWMhPFOE5](http://t.co/wJWMhPFOE5) 
+
+Quand j'aurais des enfants, je leur achèterais ça [http://t.co/chC4CmwPMv](http://t.co/chC4CmwPMv) 
+
+Creating malicious backdoored version of SHA-1 algorithm with exploitable collisions [http://t.co/L4GW3mFfVl](http://t.co/L4GW3mFfVl) 
 
 
 C'est trop vrai ! RT @H_Miser: Quand tu racontes ta journée à des gens qui ne travaillent pas dans l'infosec [http://t.co/O7TJoAugHi](http://t.co/O7TJoAugHi) 
