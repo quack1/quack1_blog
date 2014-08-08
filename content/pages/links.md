@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-07 00:35
+Date: 2014-08-08 00:35
 Author: Quack1
 Slug: links
+
+
+Est-il possible d'écrire en restant connecté au Net ? [http://t.co/PkQmdoPQfA](http://t.co/PkQmdoPQfA) 
 
 
 Quand ta sécurité est assurée par le NAT de ta box ! [http://t.co/rfSRLePm4B](http://t.co/rfSRLePm4B) 
