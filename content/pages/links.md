@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-08 00:35
+Date: 2014-08-09 00:35
 Author: Quack1
 Slug: links
+
+
+Nostalgie (again) — Les acteurs de Malcolm de nos jours [http://t.co/38AHaMKMus](http://t.co/38AHaMKMus) 
+
+Let's CC, moteur de recherche de contenu sous licence Creative Commons [http://t.co/bZpZTAwUhx](http://t.co/bZpZTAwUhx) 
+
+SaaS, Paas, Iaas et selfhosting expliqué avec des pizzas (via [@Timothy_Hughes](https://twitter.com/Timothy_Hughes) ) [http://t.co/iLO9wMXGMg](http://t.co/iLO9wMXGMg) 
+
+L'étrange immeuble du 145 rue la Fayette [http://t.co/ll5TPmAgIp](http://t.co/ll5TPmAgIp) 
+
+Aide mémoire pour passer des vieilles commandes ifconfig/arp/route/etc aux nouvelles commandes d'iproute2 #linux [http://t.co/d55wZA3hoJ](http://t.co/d55wZA3hoJ) 
 
 
 Est-il possible d'écrire en restant connecté au Net ? [http://t.co/PkQmdoPQfA](http://t.co/PkQmdoPQfA) 
