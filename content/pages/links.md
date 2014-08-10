@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-09 00:35
+Date: 2014-08-10 00:35
 Author: Quack1
 Slug: links
+
+
+Et la tête (alouette) en cours de finition (avec deux mécaniques pour avoir une idée du résultat) #DIY #guitar [http://t.co/23GeJqtq9B](http://t.co/23GeJqtq9B) 
+
+Design du pickguard de ma future basse (type Les Paul) #DIY #guitar [http://t.co/63iuI1M4bf](http://t.co/63iuI1M4bf) 
+
+Les [@FatalsPicards](https://twitter.com/FatalsPicards) se passent de producteurs et « crowdfund-ent » leur prochain DVD live ! [http://t.co/OxBJqTTwHx](http://t.co/OxBJqTTwHx) 
 
 
 Nostalgie (again) — Les acteurs de Malcolm de nos jours [http://t.co/38AHaMKMus](http://t.co/38AHaMKMus) 
