@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-10 00:35
+Date: 2014-08-11 00:35
 Author: Quack1
 Slug: links
+
+
+Homemade Tattoos : retour aux origines underground du tatouage [http://t.co/b5cwXl4fYh](http://t.co/b5cwXl4fYh) via @ARTECreative 
 
 
 Et la tête (alouette) en cours de finition (avec deux mécaniques pour avoir une idée du résultat) #DIY #guitar [http://t.co/23GeJqtq9B](http://t.co/23GeJqtq9B) 
