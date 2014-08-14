@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-13 00:35
+Date: 2014-08-14 00:35
 Author: Quack1
 Slug: links
+
+
+Pourquoi la colle n'adhère-t-elle pas au tube ? (Oui, question existentielle) [http://t.co/FevmNhRCQR](http://t.co/FevmNhRCQR) 
+
+WTF ?! O_o « La malédiction Aaron Ramsey », le buteur d'Arsenal qui annonce la mort des célébrités [http://t.co/d2munjwJCO](http://t.co/d2munjwJCO) 
+
+Je découvre le « B-Bender », pour bender mécaniquement d'un ton la corde de Si sur une guitare [http://t.co/wbx3HscZ3m](http://t.co/wbx3HscZ3m) 
 
 
 Je veux la 2, la 6 et la 7 *_* [http://t.co/RIIjKQolOp](http://t.co/RIIjKQolOp) #bookPorn 
