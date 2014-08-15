@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-14 00:35
+Date: 2014-08-15 00:35
 Author: Quack1
 Slug: links
+
+
+Joe Bonamassa, une guitare : 8 sons différents [https://t.co/LhheXxVXyi](https://t.co/LhheXxVXyi) 
+
+Does malware still detect virtual machines? | Symantec Connect [http://t.co/Ic50SVs5ZB](http://t.co/Ic50SVs5ZB) 
+
+Robin Williams sera honoré dans World of Warcraft [http://t.co/JdaiKmzGYw](http://t.co/JdaiKmzGYw) 
 
 
 Pourquoi la colle n'adhère-t-elle pas au tube ? (Oui, question existentielle) [http://t.co/FevmNhRCQR](http://t.co/FevmNhRCQR) 
