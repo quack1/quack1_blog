@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-16 00:35
+Date: 2014-08-17 00:35
 Author: Quack1
 Slug: links
+
+
+How to efficiently cut fruits [http://t.co/sHxQdUkisI](http://t.co/sHxQdUkisI) 
+
+Donc, pépère, le clavier Google bloque par défaut les "termes choquants".. Fucking conformisme [http://t.co/nBNlgRRrOK](http://t.co/nBNlgRRrOK) 
+
+DiResta's Old School Dog House: [http://t.co/gXVdAZapnI](http://t.co/gXVdAZapnI) via @Jimmydiresta 
 
 
 
