@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-17 00:35
+Date: 2014-08-18 00:35
 Author: Quack1
 Slug: links
+
+
+Quand les hommes sont violés [http://t.co/wZsTjgM8hu](http://t.co/wZsTjgM8hu) 
+
+Cheatsheet pour écrire du code compatible Python 2 et 3 [http://t.co/Gtt23dnkQg](http://t.co/Gtt23dnkQg) 
+
+Donc je ne suis pas le seul à toujours dormir avec un pied en dehors de la couette [http://t.co/6JUugV3kyx](http://t.co/6JUugV3kyx) 
 
 
 How to efficiently cut fruits [http://t.co/sHxQdUkisI](http://t.co/sHxQdUkisI) 
