@@ -1,7 +1,30 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-18 00:35
+Date: 2014-08-19 00:35
 Author: Quack1
 Slug: links
+
+
+Zone de séchage #DIY #guitar2bass #woodwork [http://t.co/6FglgsF84b](http://t.co/6FglgsF84b) 
+
+Working... #DIY #guitar2bass #woodwork [http://t.co/rNk8LpAQ9K](http://t.co/rNk8LpAQ9K) 
+
+Deuxième couche de peinture sur la bête! #DIY #guitar2bass #woodwork [http://t.co/vlipJbu041](http://t.co/vlipJbu041) 
+
+C'est toujours aussi hallucinant RT @mubix: Mind.. blown.. you know.. 'cause #Science - [http://t.co/HVmlEHQKkX](http://t.co/HVmlEHQKkX) 
+
+Hand-making a rustic/industrial chessboard and pieces #woodworking [http://t.co/3XGGUKGpFV](http://t.co/3XGGUKGpFV) 
+
+Bravo à [@NeilJomunsi](https://twitter.com/NeilJomunsi) qui a écrit 52 nouvelles en 52 semaines ! [http://t.co/ewtO802Y3U](http://t.co/ewtO802Y3U) 
+
+Julian Assange : « Je quitterai bientôt l'ambassade de l'Equateur » [http://t.co/ew6tX1EKif](http://t.co/ew6tX1EKif) 
+
+Design d'une plaquette de médicaments #fail (N)SFW [http://t.co/dqeyeUqwLh](http://t.co/dqeyeUqwLh) 
+
+Wikimedia lance Wikipedia Zero et va à contre-sens de la neutralité du net [https://t.co/kIpejaz7VN](https://t.co/kIpejaz7VN) 
+
+« SeaWorld coulé par ses orques » J'aurais plutôt dit par sa connerie, perso... [http://t.co/Dq69tyeGRj](http://t.co/Dq69tyeGRj) 
+
+[http://t.co/A2A9RlR3Cd](http://t.co/A2A9RlR3Cd) for Android fails to validate server certificates (via [@Sniperovitch](https://twitter.com/Sniperovitch) ) [http://t.co/Cyi10IhrOz](http://t.co/Cyi10IhrOz) 
 
 
 Quand les hommes sont violés [http://t.co/wZsTjgM8hu](http://t.co/wZsTjgM8hu) 
