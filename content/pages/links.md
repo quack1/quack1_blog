@@ -1,7 +1,34 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-19 00:35
+Date: 2014-08-20 00:35
 Author: Quack1
 Slug: links
+
+
+A tester aussi! [http://t.co/kwAedqT8R9](http://t.co/kwAedqT8R9) RT @TcitWorld: [@_Quack1](https://twitter.com/_Quack1) Également, Light Table [...] 
+
+Première couche de peinture noire sur la basse #woodwork #guitar2bass #DIY [http://t.co/fjlrctDOEh](http://t.co/fjlrctDOEh) 
+
+Tous les outils de Gimp décortiqués et expliqués pour les débutants (et confirmés) [http://t.co/Gu8sJIDXjQ](http://t.co/Gu8sJIDXjQ) À bookmarker ! 
+
+Lime Text - Clone open source de l'excellent Sublime Text — À surveiller... [http://t.co/0xfnfPyrr0](http://t.co/0xfnfPyrr0) 
+
+The Tattoorialist : ode à un costume d'encre [http://t.co/0zgxFhAWYk](http://t.co/0zgxFhAWYk) 
+
+Un avis intéressant de [@cabusar](https://twitter.com/cabusar) sur le féminisme [http://t.co/uAFlBRlZ0j](http://t.co/uAFlBRlZ0j) 
+
+Tip pour XUbuntu/Xfce : Alt + Molette horizontale permet de changer la transparence des fenêtres [http://t.co/ZD1uZmCYl8](http://t.co/ZD1uZmCYl8) 
+
+Même [@StephenKing](https://twitter.com/StephenKing) participe au Ice Bucket Challenge. Le monde part vraiment en cacahuètes... [https://t.co/S8yXZ5WCth](https://t.co/S8yXZ5WCth) 
+
+J'ouvre mon Twitter et je tombe sur ça [https://t.co/QJ9QML6Yfw](https://t.co/QJ9QML6Yfw) Merci [@H_Miser](https://twitter.com/H_Miser) et [@Sebdraven](https://twitter.com/Sebdraven) ! 
+
+♫ #NP « Ces Gens Là » par Noir Désir (Jacques Brel Cover) ♫ ♫ Ces Gens Là – Noir Désir [http://t.co/EplDiMDfi8](http://t.co/EplDiMDfi8) #NowPlaying 
+
+Tous les morts des films de Tarantino en 4 minutes hallucinantes - Les Inrocks [http://t.co/e1h0H8rbD3](http://t.co/e1h0H8rbD3) 
+
+Snort on home routers [http://t.co/vVJGOBeLjI](http://t.co/vVJGOBeLjI) 
+
+(Presque) #NSFW RT @Sniperovitch: Car il n'y a pas que 69 comme nombre de plaisir. [http://t.co/NPw6X4zCJC](http://t.co/NPw6X4zCJC) 
 
 
 Zone de séchage #DIY #guitar2bass #woodwork [http://t.co/6FglgsF84b](http://t.co/6FglgsF84b) 
