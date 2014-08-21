@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-20 00:35
+Date: 2014-08-21 00:35
 Author: Quack1
 Slug: links
+
+
+D'accord avec @Barbayellow.  Les journalistes n'ont pas forcément vocation à monter des serveurs. [http://t.co/XwyEu6vbPx](http://t.co/XwyEu6vbPx) 
+
+Donc un mec a créé un disque dur d'1KB dans Minecraft. Normal. [http://t.co/SiFD2XWGin](http://t.co/SiFD2XWGin) 
+
+Dave Grohl fait son Ice Bucket Challenge à la sauce _Carrie_, de Stephen King [http://t.co/iIBaIT35GD](http://t.co/iIBaIT35GD) 
 
 
 A tester aussi! [http://t.co/kwAedqT8R9](http://t.co/kwAedqT8R9) RT @TcitWorld: [@_Quack1](https://twitter.com/_Quack1) Également, Light Table [...] 
