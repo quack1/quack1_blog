@@ -1,7 +1,152 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-06 00:35
+Date: 2014-08-21 00:35
 Author: Quack1
 Slug: links
+
+
+D'accord avec @Barbayellow.  Les journalistes n'ont pas forcément vocation à monter des serveurs. [http://t.co/XwyEu6vbPx](http://t.co/XwyEu6vbPx) 
+
+Donc un mec a créé un disque dur d'1KB dans Minecraft. Normal. [http://t.co/SiFD2XWGin](http://t.co/SiFD2XWGin) 
+
+Dave Grohl fait son Ice Bucket Challenge à la sauce _Carrie_, de Stephen King [http://t.co/iIBaIT35GD](http://t.co/iIBaIT35GD) 
+
+
+A tester aussi! [http://t.co/kwAedqT8R9](http://t.co/kwAedqT8R9) RT @TcitWorld: [@_Quack1](https://twitter.com/_Quack1) Également, Light Table [...] 
+
+Première couche de peinture noire sur la basse #woodwork #guitar2bass #DIY [http://t.co/fjlrctDOEh](http://t.co/fjlrctDOEh) 
+
+Tous les outils de Gimp décortiqués et expliqués pour les débutants (et confirmés) [http://t.co/Gu8sJIDXjQ](http://t.co/Gu8sJIDXjQ) À bookmarker ! 
+
+Lime Text - Clone open source de l'excellent Sublime Text — À surveiller... [http://t.co/0xfnfPyrr0](http://t.co/0xfnfPyrr0) 
+
+The Tattoorialist : ode à un costume d'encre [http://t.co/0zgxFhAWYk](http://t.co/0zgxFhAWYk) 
+
+Un avis intéressant de [@cabusar](https://twitter.com/cabusar) sur le féminisme [http://t.co/uAFlBRlZ0j](http://t.co/uAFlBRlZ0j) 
+
+Tip pour XUbuntu/Xfce : Alt + Molette horizontale permet de changer la transparence des fenêtres [http://t.co/ZD1uZmCYl8](http://t.co/ZD1uZmCYl8) 
+
+Même [@StephenKing](https://twitter.com/StephenKing) participe au Ice Bucket Challenge. Le monde part vraiment en cacahuètes... [https://t.co/S8yXZ5WCth](https://t.co/S8yXZ5WCth) 
+
+J'ouvre mon Twitter et je tombe sur ça [https://t.co/QJ9QML6Yfw](https://t.co/QJ9QML6Yfw) Merci [@H_Miser](https://twitter.com/H_Miser) et [@Sebdraven](https://twitter.com/Sebdraven) ! 
+
+♫ #NP « Ces Gens Là » par Noir Désir (Jacques Brel Cover) ♫ ♫ Ces Gens Là – Noir Désir [http://t.co/EplDiMDfi8](http://t.co/EplDiMDfi8) #NowPlaying 
+
+Tous les morts des films de Tarantino en 4 minutes hallucinantes - Les Inrocks [http://t.co/e1h0H8rbD3](http://t.co/e1h0H8rbD3) 
+
+Snort on home routers [http://t.co/vVJGOBeLjI](http://t.co/vVJGOBeLjI) 
+
+(Presque) #NSFW RT @Sniperovitch: Car il n'y a pas que 69 comme nombre de plaisir. [http://t.co/NPw6X4zCJC](http://t.co/NPw6X4zCJC) 
+
+
+Zone de séchage #DIY #guitar2bass #woodwork [http://t.co/6FglgsF84b](http://t.co/6FglgsF84b) 
+
+Working... #DIY #guitar2bass #woodwork [http://t.co/rNk8LpAQ9K](http://t.co/rNk8LpAQ9K) 
+
+Deuxième couche de peinture sur la bête! #DIY #guitar2bass #woodwork [http://t.co/vlipJbu041](http://t.co/vlipJbu041) 
+
+C'est toujours aussi hallucinant RT @mubix: Mind.. blown.. you know.. 'cause #Science - [http://t.co/HVmlEHQKkX](http://t.co/HVmlEHQKkX) 
+
+Hand-making a rustic/industrial chessboard and pieces #woodworking [http://t.co/3XGGUKGpFV](http://t.co/3XGGUKGpFV) 
+
+Bravo à [@NeilJomunsi](https://twitter.com/NeilJomunsi) qui a écrit 52 nouvelles en 52 semaines ! [http://t.co/ewtO802Y3U](http://t.co/ewtO802Y3U) 
+
+Julian Assange : « Je quitterai bientôt l'ambassade de l'Equateur » [http://t.co/ew6tX1EKif](http://t.co/ew6tX1EKif) 
+
+Design d'une plaquette de médicaments #fail (N)SFW [http://t.co/dqeyeUqwLh](http://t.co/dqeyeUqwLh) 
+
+Wikimedia lance Wikipedia Zero et va à contre-sens de la neutralité du net [https://t.co/kIpejaz7VN](https://t.co/kIpejaz7VN) 
+
+« SeaWorld coulé par ses orques » J'aurais plutôt dit par sa connerie, perso... [http://t.co/Dq69tyeGRj](http://t.co/Dq69tyeGRj) 
+
+[http://t.co/A2A9RlR3Cd](http://t.co/A2A9RlR3Cd) for Android fails to validate server certificates (via [@Sniperovitch](https://twitter.com/Sniperovitch) ) [http://t.co/Cyi10IhrOz](http://t.co/Cyi10IhrOz) 
+
+
+Quand les hommes sont violés [http://t.co/wZsTjgM8hu](http://t.co/wZsTjgM8hu) 
+
+Cheatsheet pour écrire du code compatible Python 2 et 3 [http://t.co/Gtt23dnkQg](http://t.co/Gtt23dnkQg) 
+
+Donc je ne suis pas le seul à toujours dormir avec un pied en dehors de la couette [http://t.co/6JUugV3kyx](http://t.co/6JUugV3kyx) 
+
+
+How to efficiently cut fruits [http://t.co/sHxQdUkisI](http://t.co/sHxQdUkisI) 
+
+Donc, pépère, le clavier Google bloque par défaut les "termes choquants".. Fucking conformisme [http://t.co/nBNlgRRrOK](http://t.co/nBNlgRRrOK) 
+
+DiResta's Old School Dog House: [http://t.co/gXVdAZapnI](http://t.co/gXVdAZapnI) via @Jimmydiresta 
+
+
+
+Joe Bonamassa, une guitare : 8 sons différents [https://t.co/LhheXxVXyi](https://t.co/LhheXxVXyi) 
+
+Does malware still detect virtual machines? | Symantec Connect [http://t.co/Ic50SVs5ZB](http://t.co/Ic50SVs5ZB) 
+
+Robin Williams sera honoré dans World of Warcraft [http://t.co/JdaiKmzGYw](http://t.co/JdaiKmzGYw) 
+
+
+Pourquoi la colle n'adhère-t-elle pas au tube ? (Oui, question existentielle) [http://t.co/FevmNhRCQR](http://t.co/FevmNhRCQR) 
+
+WTF ?! O_o « La malédiction Aaron Ramsey », le buteur d'Arsenal qui annonce la mort des célébrités [http://t.co/d2munjwJCO](http://t.co/d2munjwJCO) 
+
+Je découvre le « B-Bender », pour bender mécaniquement d'un ton la corde de Si sur une guitare [http://t.co/wbx3HscZ3m](http://t.co/wbx3HscZ3m) 
+
+
+Je veux la 2, la 6 et la 7 *_* [http://t.co/RIIjKQolOp](http://t.co/RIIjKQolOp) #bookPorn 
+
+Making a Mega Oreo [http://t.co/g426aUI3R5](http://t.co/g426aUI3R5) 
+
+L'acteur américain Robin Williams est mort et semble s'être suicidé [http://t.co/WXdvVHaiFj](http://t.co/WXdvVHaiFj) 
+
+
+Editeur d'équations LaTeX en ligne (via @Keltounet) [http://t.co/Bl6eXW7GnO](http://t.co/Bl6eXW7GnO) 
+
+This man is crazy... [https://t.co/hcZPWOJgI9](https://t.co/hcZPWOJgI9) 
+
+poke [@NiightlyCat](https://twitter.com/NiightlyCat) RT @zoothoiry: Le jeune suricate vous souhaite une bonne semaine ! [http://t.co/H9gxbt6f8X](http://t.co/H9gxbt6f8X) 
+
+This guy is a fucking crazy genius ! — [@JimmyDiResta](https://twitter.com/JimmyDiResta) Brass Bell: [http://t.co/T29ff80J4Q](http://t.co/T29ff80J4Q) 
+
+
+Homemade Tattoos : retour aux origines underground du tatouage [http://t.co/b5cwXl4fYh](http://t.co/b5cwXl4fYh) via @ARTECreative 
+
+
+Et la tête (alouette) en cours de finition (avec deux mécaniques pour avoir une idée du résultat) #DIY #guitar [http://t.co/23GeJqtq9B](http://t.co/23GeJqtq9B) 
+
+Design du pickguard de ma future basse (type Les Paul) #DIY #guitar [http://t.co/63iuI1M4bf](http://t.co/63iuI1M4bf) 
+
+Les [@FatalsPicards](https://twitter.com/FatalsPicards) se passent de producteurs et « crowdfund-ent » leur prochain DVD live ! [http://t.co/OxBJqTTwHx](http://t.co/OxBJqTTwHx) 
+
+
+Nostalgie (again) — Les acteurs de Malcolm de nos jours [http://t.co/38AHaMKMus](http://t.co/38AHaMKMus) 
+
+Let's CC, moteur de recherche de contenu sous licence Creative Commons [http://t.co/bZpZTAwUhx](http://t.co/bZpZTAwUhx) 
+
+SaaS, Paas, Iaas et selfhosting expliqué avec des pizzas (via [@Timothy_Hughes](https://twitter.com/Timothy_Hughes) ) [http://t.co/iLO9wMXGMg](http://t.co/iLO9wMXGMg) 
+
+L'étrange immeuble du 145 rue la Fayette [http://t.co/ll5TPmAgIp](http://t.co/ll5TPmAgIp) 
+
+Aide mémoire pour passer des vieilles commandes ifconfig/arp/route/etc aux nouvelles commandes d'iproute2 #linux [http://t.co/d55wZA3hoJ](http://t.co/d55wZA3hoJ) 
+
+
+Est-il possible d'écrire en restant connecté au Net ? [http://t.co/PkQmdoPQfA](http://t.co/PkQmdoPQfA) 
+
+
+Quand ta sécurité est assurée par le NAT de ta box ! [http://t.co/rfSRLePm4B](http://t.co/rfSRLePm4B) 
+
+Le premier livre du [@Tattoorialist](https://twitter.com/Tattoorialist) sortira le 2 octobre \o/ [http://t.co/hlW6K16zgv](http://t.co/hlW6K16zgv) 
+
+Wikipedia refuses to delete photo as 'monkey owns it' [http://t.co/qRjOdMYmtO](http://t.co/qRjOdMYmtO) 
+
+Green Day cover Misfits "Hybrid Moments" for Metallica 30th: [http://t.co/mwTGI79EHd](http://t.co/mwTGI79EHd) 
+
+Thunderstruck from AC/DC covered by Steve'n'Seagulls (via [@pjournel](https://twitter.com/pjournel) et @SinShaark) [https://t.co/ulJj1994Lt](https://t.co/ulJj1994Lt) 
+
+How to cut cheese ! [http://t.co/MWgZt6sErZ](http://t.co/MWgZt6sErZ) 
+
+How to pack for one night [http://t.co/wJWMhPFOE5](http://t.co/wJWMhPFOE5) 
+
+Quand j'aurais des enfants, je leur achèterais ça [http://t.co/chC4CmwPMv](http://t.co/chC4CmwPMv) 
+
+Creating malicious backdoored version of SHA-1 algorithm with exploitable collisions [http://t.co/L4GW3mFfVl](http://t.co/L4GW3mFfVl) 
 
 
 C'est trop vrai ! RT @H_Miser: Quand tu racontes ta journée à des gens qui ne travaillent pas dans l'infosec [http://t.co/O7TJoAugHi](http://t.co/O7TJoAugHi) 
