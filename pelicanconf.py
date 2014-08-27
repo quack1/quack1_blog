@@ -55,7 +55,7 @@ TAG_CLOUD_MAX_ITEMS = 1000
 
 # Extensions
 PLUGINS = ['pelican.plugins.sitemap','pelican.plugins.global_license']
-MD_EXTENSIONS = ['headerid', 'codehilite(css_class=highlight)', 'extra']
+MD_EXTENSIONS = ['headerid', 'codehilite(css_class=highlight)', 'footnotes']
 
 # Firefox Affiliates
 FIREFOX_BANNERS = (('35549', '/theme/images/download_firefox.png', u'Télécharger Firefox : facile, amusant, génial'),
