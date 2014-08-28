@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-27 00:35
+Date: 2014-08-28 00:35
 Author: Quack1
 Slug: links
+
+
+Vim par les humains, un ebook libre pour apprendre vim vite et simplement ! [http://t.co/zhkdGzHbYw](http://t.co/zhkdGzHbYw) 
+
+21 Popular Computer Forensics Tools [http://t.co/XHmhjpkreO](http://t.co/XHmhjpkreO) 
+
+No comment RT @trutherbot: [http://t.co/weABMVJULd](http://t.co/weABMVJULd) 
+
+Un wifi bien de chez nous: [http://t.co/7kBH1gSPa7](http://t.co/7kBH1gSPa7) 
+
+Poumons de fumeurs vs poumons sains [https://t.co/SGOf3PEZf1](https://t.co/SGOf3PEZf1) 
 
 
 
