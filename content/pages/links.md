@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-08-29 00:35
+Date: 2014-08-30 00:35
 Author: Quack1
 Slug: links
+
+
+Militons et encourageons l'utilisation massive d'HTTPS [https://t.co/5V6uZr4p18](https://t.co/5V6uZr4p18) 
+
+Ice Bucket Challenge : l'association ALS veut s'approprier la marque - [http://t.co/XjpIsxV9e1](http://t.co/XjpIsxV9e1) 
+
+« Déploiement **sécurisé** d'Internet Explorer » #oxymore [http://t.co/WpvBUwrvBf](http://t.co/WpvBUwrvBf) 
+
+Apple interdit aux développeurs la revente des données HealthKit - [http://t.co/f3vqTNMslc](http://t.co/f3vqTNMslc) 
 
 
 .@JimmyDiResta is doing a (not ice) bucket ! [https://t.co/J9ctHsAuwi](https://t.co/J9ctHsAuwi) 
