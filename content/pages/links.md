@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-01 00:35
+Date: 2014-09-02 00:35
 Author: Quack1
 Slug: links
+
+
+Facebook n'aime pas le #DIY. Pas de catégorie « Making » dans son « What are you doing ? » :( [http://t.co/TiI2JPDRnT](http://t.co/TiI2JPDRnT) 
 
 
 Profile of a porn video sound effects creator [http://t.co/iTsdkwlncb](http://t.co/iTsdkwlncb) 
