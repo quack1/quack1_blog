@@ -20,3 +20,7 @@ Si vous en connaissez d'autres, je suis preneur :)
 Et si vous voulez tester vos configurations SSL hors-ligne, l'outil [sslscan](http://sourceforge.net/projects/sslscan "SSLScan - Fast SSL Scanner | SourceForge.net") dispose d'une _checklist_ assez complète.
 
 Enfin, pour avoir quelques bonnes pratiques sur SSL/TLS ainsi que des connaissances théoriques sur le sujet, la conférence de [Benjamin Sonntag](https://twitter.com/vincib "@vincib sur Twitter") au cours d'[Il était une fois Internet](http://www.iletaitunefoisinternet.fr/ "Il était une fois internet") est très complète ! Voir la vidéo et les slides [ici](http://www.iletaitunefoisinternet.fr/lemail-par-benjamin-sonntag/ "L'email, Benjamin Sonntag").
+
+========
+
+EDIT : 27/08/2014 22:16 — [Aeris](https://twitter.com/aeris22 "@aeris22 sur Twitter") me signale aussi [SSL Tools](https://ssl-tools.net/ "SSL, STARTTLS and certificate tester") qui permet de tester la sécurité de serveurs Web, mails, et de vos certificats X.509.
