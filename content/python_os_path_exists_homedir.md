@@ -28,4 +28,12 @@ Selon la documentation, le problème pourrait provenir d'un appel à la méthode
 
 Bizarre. À l'avenir, je saurais que le problème peut venir de là !
 
+===
+
+**EDIT 04/09/2014**
+
+La raison de cette particularité est en fait beaucoup plus simple. Le symbole `~` est un caractère qui est substitué par un shell. Or, dans ce cas présent, aucun shell n'est appelé. Donc la méthode Python `os.path.exists` cherche le fichier `.my.cnf` dans le dossier `~`, qui n'existe pas sur le système. D'où la nécessité d'utiliser `os.path.expanduser()`  pour demander à Python d'effectuer la substitution. 
+
+Merci aux commentaires et aux réponses sur Twitter qui m'ont expliqué tout ça ! :)
+
 [^1]: Ici en version 2.7.6 sur une xUbuntu. Le bug est le même sur Python 3.4.0
