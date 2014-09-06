@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-05 00:35
+Date: 2014-09-06 00:35
 Author: Quack1
 Slug: links
+
+
+Utilisez Firefox Nightly et remplacez Skype par du WebRTC ! [https://t.co/l6HHcWgoCm](https://t.co/l6HHcWgoCm) (j'ai testé, ça marche bien :) ) 
+
+« What If ? », le livre de Randall Munroe (@xkcd) est enfin sorti ! [http://t.co/IvPMZKGorQ](http://t.co/IvPMZKGorQ) Sinon online → [http://t.co/K4uaPci8T7](http://t.co/K4uaPci8T7) 
+
+Merci [@Rob_OEM](https://twitter.com/Rob_OEM) pour cette bonne info matinale ! [http://t.co/66oPEc9roD](http://t.co/66oPEc9roD) il éjacule dans le café de sa collègue pour qu'elle le remarque 
+
+Enfin ! Standardisation de Markdown : [http://t.co/QTrm87qvz3](http://t.co/QTrm87qvz3) 
 
 
 
