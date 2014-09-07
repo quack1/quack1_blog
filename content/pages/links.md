@@ -1,7 +1,29 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-03 00:35
+Date: 2014-09-07 00:35
 Author: Quack1
 Slug: links
+
+
+Standard Markdown is now Common Markdown [http://t.co/4DY5DRsLdf](http://t.co/4DY5DRsLdf) 
+
+Donc Gimp peut exporter une image dans un code C. Cool ! [http://t.co/Ww16BfrdSr](http://t.co/Ww16BfrdSr) 
+
+
+Utilisez Firefox Nightly et remplacez Skype par du WebRTC ! [https://t.co/l6HHcWgoCm](https://t.co/l6HHcWgoCm) (j'ai testé, ça marche bien :) ) 
+
+« What If ? », le livre de Randall Munroe (@xkcd) est enfin sorti ! [http://t.co/IvPMZKGorQ](http://t.co/IvPMZKGorQ) Sinon online → [http://t.co/K4uaPci8T7](http://t.co/K4uaPci8T7) 
+
+Merci [@Rob_OEM](https://twitter.com/Rob_OEM) pour cette bonne info matinale ! [http://t.co/66oPEc9roD](http://t.co/66oPEc9roD) il éjacule dans le café de sa collègue pour qu'elle le remarque 
+
+Enfin ! Standardisation de Markdown : [http://t.co/QTrm87qvz3](http://t.co/QTrm87qvz3) 
+
+
+
+Même l'huile de palme bio et « durable » tue des orangs-outans et détruit des forêts [https://t.co/SK68jibVwB](https://t.co/SK68jibVwB) 
+
+Hâte !  RT @Tattoorialist: 5,4,3,2,1,0 [http://t.co/F7iGSGj1JC](http://t.co/F7iGSGj1JC) 
+
+Et si le #celebgate ne provenait en fait pas d'une faille dans iCloud et Dropbox ? [https://t.co/rNGfM7Qk5K](https://t.co/rNGfM7Qk5K) (via [@Breaking3zero](https://twitter.com/Breaking3zero) ) 
 
 
 Photos piratées et distribution de claques [http://t.co/X0tbD5XcLg](http://t.co/X0tbD5XcLg) 
