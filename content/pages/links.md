@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-06 00:35
+Date: 2014-09-07 00:35
 Author: Quack1
 Slug: links
+
+
+Standard Markdown is now Common Markdown [http://t.co/4DY5DRsLdf](http://t.co/4DY5DRsLdf) 
+
+Donc Gimp peut exporter une image dans un code C. Cool ! [http://t.co/Ww16BfrdSr](http://t.co/Ww16BfrdSr) 
 
 
 Utilisez Firefox Nightly et remplacez Skype par du WebRTC ! [https://t.co/l6HHcWgoCm](https://t.co/l6HHcWgoCm) (j'ai testé, ça marche bien :) ) 
