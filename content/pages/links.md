@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-07 00:35
+Date: 2014-09-08 00:35
 Author: Quack1
 Slug: links
+
+
+L'avantage d'habiter dans un appart neuf:écouter du Linkin park fort, même à 1h du mat', ça fait chier personne! \m/ [https://t.co/qEdOFbRADp](https://t.co/qEdOFbRADp) 
+
+Analyse de l'organisation interne d'un binaire ELF [http://t.co/utA1odwxDL](http://t.co/utA1odwxDL) 
+
+Script d'audit de système Linux [https://t.co/9v6LNk0a6C](https://t.co/9v6LNk0a6C) (via [@Rob_OEM](https://twitter.com/Rob_OEM) ) 
 
 
 Standard Markdown is now Common Markdown [http://t.co/4DY5DRsLdf](http://t.co/4DY5DRsLdf) 
