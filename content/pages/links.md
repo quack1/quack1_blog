@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-08 00:35
+Date: 2014-09-09 00:35
 Author: Quack1
 Slug: links
+
+
+Chouette interview de [@Bouletcorp](https://twitter.com/Bouletcorp) (si vous ne connaissez, lisez ses notes sur son blog : [http://t.co/9MrnqGhveD](http://t.co/9MrnqGhveD) ) [https://t.co/SgZVfMTqDY](https://t.co/SgZVfMTqDY) 
+
+.@angealbertini continue les polyglottes en créant un fichier PDF qui contient sa propre source TeX [https://t.co/JoAXdG176U](https://t.co/JoAXdG176U) 
+
+Hadopi cherche à rendre tolérable le piratage [http://t.co/Va3uxKucRC](http://t.co/Va3uxKucRC) 
+
+Fact checking : Jacques Attali est-il fiable ? par Jean-Paul Richier [http://t.co/1TtdcQ7Rue](http://t.co/1TtdcQ7Rue) #csoj #chouard [@jattali](https://twitter.com/jattali) 
+
+Les forgerons de Men At Arms revisitent My Little Pony [https://t.co/hlbQURZv0w](https://t.co/hlbQURZv0w) #mlp 
+
+"Votre raisonnement, qui est intéressant, .... est complètement absurde" #csoj #attali #chouard [http://t.co/6gGymIjRvZ](http://t.co/6gGymIjRvZ) 
 
 
 L'avantage d'habiter dans un appart neuf:écouter du Linkin park fort, même à 1h du mat', ça fait chier personne! \m/ [https://t.co/qEdOFbRADp](https://t.co/qEdOFbRADp) 
