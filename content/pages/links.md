@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-09 00:35
+Date: 2014-09-10 00:35
 Author: Quack1
 Slug: links
+
+
+C'est un troll ou c'est vraiment ça ? #Apple [https://t.co/ejqfkYfusb](https://t.co/ejqfkYfusb) 
+
+Trouver un nom pour les bébés pandas du zoo de Pessac (33) : les votes sont ouverts [http://t.co/6HB5SO2Pnv](http://t.co/6HB5SO2Pnv) 
+
+Bolloré s'associe à Renault pour construire ses Bluecar en France [http://t.co/RoVciO09pa](http://t.co/RoVciO09pa) 
+
+Comment le doigt dans l'anus de Valérie Trierweiler s'est retrouvé dans la bouche de Jean-Marie Le Pen [http://t.co/S8qySW5I9Z](http://t.co/S8qySW5I9Z) 
 
 
 Chouette interview de [@Bouletcorp](https://twitter.com/Bouletcorp) (si vous ne connaissez, lisez ses notes sur son blog : [http://t.co/9MrnqGhveD](http://t.co/9MrnqGhveD) ) [https://t.co/SgZVfMTqDY](https://t.co/SgZVfMTqDY) 
