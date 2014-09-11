@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-10 00:35
+Date: 2014-09-11 00:35
 Author: Quack1
 Slug: links
+
+
+J'adore les mails que je reçois... et c'est même pas du spam ! [http://t.co/mQNsglBHLz](http://t.co/mQNsglBHLz) 
+
+Quand deux pourris jouent à « oui mais non, lui il est pire que moi » #thevenoud #cahuzac #guignols [http://t.co/Eb2YEqusCi](http://t.co/Eb2YEqusCi) 
+
+The Satoshi Nakamoto Email Hacker Says He's Negotiating with the Bitcoin Founder [http://t.co/g2W1YVdVbf](http://t.co/g2W1YVdVbf) 
 
 
 C'est un troll ou c'est vraiment ça ? #Apple [https://t.co/ejqfkYfusb](https://t.co/ejqfkYfusb) 
