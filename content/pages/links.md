@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-11 00:35
+Date: 2014-09-12 00:35
 Author: Quack1
 Slug: links
+
+
+Si on fait souvent des pauses cafés, c'est pas pour glander, c'est pour faire nos 5 minutes de marche par heure :] [http://t.co/1pg4BgeeCx](http://t.co/1pg4BgeeCx) 
+
+OSSEC corrige une faille qui permettait d'obtenir un accès root via des fichiers temporaires [https://t.co/rwaXla1EN1](https://t.co/rwaXla1EN1) 
 
 
 J'adore les mails que je reçois... et c'est même pas du spam ! [http://t.co/mQNsglBHLz](http://t.co/mQNsglBHLz) 
