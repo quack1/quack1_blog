@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-12 00:35
+Date: 2014-09-13 00:35
 Author: Quack1
 Slug: links
+
+
+'Apple, soyons honnêtes' : la vidéo sur l'iPhone 6 qui ne se fout pas de vous [http://t.co/59GoQgb6QK](http://t.co/59GoQgb6QK) 
+
+Good idea ! RT @JimmyDiResta: Plywood hook separates my wire and ground cables once and for all. #diresta [http://t.co/dVwRy6GHbJ](http://t.co/dVwRy6GHbJ) 
 
 
 Si on fait souvent des pauses cafés, c'est pas pour glander, c'est pour faire nos 5 minutes de marche par heure :] [http://t.co/1pg4BgeeCx](http://t.co/1pg4BgeeCx) 
