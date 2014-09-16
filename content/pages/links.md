@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-15 00:35
+Date: 2014-09-16 00:35
 Author: Quack1
 Slug: links
+
+
+Le mythe s'effondre. James Hetfield porte des bracelets Loom [http://t.co/dCmf8Hj4GP](http://t.co/dCmf8Hj4GP) 
+
+IVRE, il développe un nouvel outil de reconnaissance de réseaux (basé sur p0f, nmap et bro) [http://t.co/WbSHFDaems](http://t.co/WbSHFDaems) 
+
+Je ne suis donc pas le seul à me poser des questions sur les casquettes à peine posées sur la tête ! [http://t.co/oUiAYQS5Rv](http://t.co/oUiAYQS5Rv) 
 
 
 
