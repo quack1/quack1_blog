@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-16 00:35
+Date: 2014-09-17 00:35
 Author: Quack1
 Slug: links
+
+
+So true RT @thereaIbanksy: [http://t.co/wGBsD8LKCI](http://t.co/wGBsD8LKCI) 
+
+Find the email address formats in use at thousands of companies [http://t.co/Uxlls473Ka](http://t.co/Uxlls473Ka) 
 
 
 Le mythe s'effondre. James Hetfield porte des bracelets Loom [http://t.co/dCmf8Hj4GP](http://t.co/dCmf8Hj4GP) 
