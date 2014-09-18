@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-17 00:35
+Date: 2014-09-18 00:35
 Author: Quack1
 Slug: links
+
+
+Pourquoi « Selon Mediapart » alors que c'est en réalité selon « un livre d'un journaliste qui bosse pour Mediapart » [http://t.co/Lgwp9c0jd3](http://t.co/Lgwp9c0jd3) 
+
+Stop à la guerre init.d vs systemd. Passons tous à vim \o/ [https://t.co/8ZyQjHtIP1](https://t.co/8ZyQjHtIP1) (vu que personne n'utilise emacs [http://t.co/AP8r5FtGTo](http://t.co/AP8r5FtGTo) ) 
 
 
 So true RT @thereaIbanksy: [http://t.co/wGBsD8LKCI](http://t.co/wGBsD8LKCI) 
