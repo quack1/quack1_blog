@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-19 00:35
+Date: 2014-09-20 00:35
 Author: Quack1
 Slug: links
+
+
+Le livre du [@Tattoorialist](https://twitter.com/Tattoorialist) est pré-commandé \o/ [http://t.co/mf74227MqC](http://t.co/mf74227MqC) 
+
+Mozilla crée un abonnement pour financer des sites Web et accéder à un Web sans pubs [https://t.co/CFKU9LFknV](https://t.co/CFKU9LFknV) 
+
+Que ce monde est beau #ios8 RT @87jvc: Mais mais.... c'est magnifique ! [http://t.co/B9UG8VwPBa](http://t.co/B9UG8VwPBa) 
+
+Chrome connects to three random domains at startup [https://t.co/H1XrXzNIgQ](https://t.co/H1XrXzNIgQ) 
+
+L'Europe des séparatistes [http://t.co/Vu9NweK1jI](http://t.co/Vu9NweK1jI) [http://t.co/yjCR2oFIRx](http://t.co/yjCR2oFIRx) 
+
+Sympa le mail de phishing Gmail de cette nuit [http://t.co/cuyOoN6cKd](http://t.co/cuyOoN6cKd) 
 
 
 Franck Miller, retour à Sin City sans repentance [http://t.co/JFb9LrSTR1](http://t.co/JFb9LrSTR1) 
