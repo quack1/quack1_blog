@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-21 00:35
+Date: 2014-09-22 00:35
 Author: Quack1
 Slug: links
+
+
+L'offre légale RT "@tomchop_: Reaction to the French Netflix catalog [http://t.co/MO63QwndGN"](http://t.co/MO63QwndGN") 
+
+22 gâteaux que vous ne voudriez manger pour rien au monde [http://t.co/OJ1BQy0hYA](http://t.co/OJ1BQy0hYA) 
 
 
 
