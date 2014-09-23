@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-22 00:35
+Date: 2014-09-23 00:35
 Author: Quack1
 Slug: links
+
+
+Des « anti-drogues » forcent McDo aux US à arrêter de donner des cuillères en plastique avec les cafés [http://t.co/su1JjU764Q](http://t.co/su1JjU764Q) 
 
 
 L'offre légale RT "@tomchop_: Reaction to the French Netflix catalog [http://t.co/MO63QwndGN"](http://t.co/MO63QwndGN") 
