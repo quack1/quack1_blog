@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-23 00:35
+Date: 2014-09-24 00:35
 Author: Quack1
 Slug: links
+
+
+Le site jquery[.]com compromis pour distribuer un malware [http://t.co/XCZSExuh0E](http://t.co/XCZSExuh0E) 
+
+Come to the dark side, we have des crêpes!! [http://t.co/iyAaO7CVNy](http://t.co/iyAaO7CVNy) 
+
+Pour ceux que ça intéresse, le dépôt Ubuntu pour Firefox Nightly est de nouveau mis à jour (cc [@FirefoxNightly](https://twitter.com/FirefoxNightly) ) [https://t.co/BpxDug3pYx](https://t.co/BpxDug3pYx) 
 
 
 Des « anti-drogues » forcent McDo aux US à arrêter de donner des cuillères en plastique avec les cafés [http://t.co/su1JjU764Q](http://t.co/su1JjU764Q) 
