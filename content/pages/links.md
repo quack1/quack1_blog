@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-24 00:35
+Date: 2014-09-25 00:35
 Author: Quack1
 Slug: links
+
+
+Une intégriste religieuse réecrit Harry Potter pour éviter que ses enfants ne deviennent des sorciers... [http://t.co/b5S8Pid4o7](http://t.co/b5S8Pid4o7) 
 
 
 Le site jquery[.]com compromis pour distribuer un malware [http://t.co/XCZSExuh0E](http://t.co/XCZSExuh0E) 
