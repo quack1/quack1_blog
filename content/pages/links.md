@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-25 00:35
+Date: 2014-09-26 00:35
 Author: Quack1
 Slug: links
+
+
+&#35;Shellshock déjà exploité _in the wild_ [http://t.co/hsqhhHphIF](http://t.co/hsqhhHphIF) 
+
+Everything you need to know about the Shellshock Bash bug - [http://t.co/Wvc4DNpzdb](http://t.co/Wvc4DNpzdb) 
+
+Un client me fait découvrir l'expression « manche à couilles » [http://t.co/l6zueNayou](http://t.co/l6zueNayou) 
+
+Bash specially-crafted environment variables code injection attack [https://t.co/IDueNdMYkc](https://t.co/IDueNdMYkc) 
+
+Kevin Mitnick, Once the World's Most Wanted Hacker, Is Now Selling Zero-Day Exploits - [http://t.co/Y2BgksLOwx](http://t.co/Y2BgksLOwx) 
+
+Apple’s new iOS will predict what you type—including, it seems, your passwords – [http://t.co/GhZE0yKmxe](http://t.co/GhZE0yKmxe) 
 
 
 Une intégriste religieuse réecrit Harry Potter pour éviter que ses enfants ne deviennent des sorciers... [http://t.co/b5S8Pid4o7](http://t.co/b5S8Pid4o7) 
