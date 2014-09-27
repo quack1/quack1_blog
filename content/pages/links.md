@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-26 00:35
+Date: 2014-09-27 00:35
 Author: Quack1
 Slug: links
+
+
+Pas mal, [@thomyorke](https://twitter.com/thomyorke) (de Radiohead) sort un album, sans aucune pub, et disponible sur BitTorrent à prix réduit (6$) [https://t.co/IyNesW8cKZ](https://t.co/IyNesW8cKZ) 
+
+Alexandre Astier, itinéraire d'un touche-à-tout [http://t.co/llGLCgRBkm](http://t.co/llGLCgRBkm) 
+
+Gibson annonce ses modèles 2015 [http://t.co/bD61dNJmFR](http://t.co/bD61dNJmFR) 
+
+Droit de réponse de [@prototux](https://twitter.com/prototux) à [@babozor](https://twitter.com/babozor) sur le [@ruralLab36](https://twitter.com/ruralLab36) [http://t.co/BNQYvAZ9IC](http://t.co/BNQYvAZ9IC) 
 
 
 &#35;Shellshock déjà exploité _in the wild_ [http://t.co/hsqhhHphIF](http://t.co/hsqhhHphIF) 
