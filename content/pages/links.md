@@ -1,7 +1,141 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-07 00:35
+Date: 2014-09-29 00:35
 Author: Quack1
 Slug: links
+
+
+Hey, dans un peu plus d'un mois c'est le début du #NaNoWriMo ! [http://t.co/0YCKyyBe8S](http://t.co/0YCKyyBe8S) 
+
+Liste de PoCs pour #shellshock [https://t.co/JtZlFoAdO6](https://t.co/JtZlFoAdO6) 
+
+Bravo Jacques-Olivier Travers pour avoir fait voler son oiseau au dessus de la Tour Eiffel! [http://t.co/2eEhp8uO8V](http://t.co/2eEhp8uO8V) 
+
+Aigle imperial du projet #freedom (Les Aigles du Leman) [http://t.co/3OUqhIrUAi](http://t.co/3OUqhIrUAi) 
+
+Cet après midi, venez voir un aigle s'envoler du haut de la tour Eiffel (au Trocadéro dès 13h) ! [http://t.co/vkfQ6VoN0O](http://t.co/vkfQ6VoN0O) 
+
+
+
+Pas mal, [@thomyorke](https://twitter.com/thomyorke) (de Radiohead) sort un album, sans aucune pub, et disponible sur BitTorrent à prix réduit (6$) [https://t.co/IyNesW8cKZ](https://t.co/IyNesW8cKZ) 
+
+Alexandre Astier, itinéraire d'un touche-à-tout [http://t.co/llGLCgRBkm](http://t.co/llGLCgRBkm) 
+
+Gibson annonce ses modèles 2015 [http://t.co/bD61dNJmFR](http://t.co/bD61dNJmFR) 
+
+Droit de réponse de [@prototux](https://twitter.com/prototux) à [@babozor](https://twitter.com/babozor) sur le [@ruralLab36](https://twitter.com/ruralLab36) [http://t.co/BNQYvAZ9IC](http://t.co/BNQYvAZ9IC) 
+
+
+&#35;Shellshock déjà exploité _in the wild_ [http://t.co/hsqhhHphIF](http://t.co/hsqhhHphIF) 
+
+Everything you need to know about the Shellshock Bash bug - [http://t.co/Wvc4DNpzdb](http://t.co/Wvc4DNpzdb) 
+
+Un client me fait découvrir l'expression « manche à couilles » [http://t.co/l6zueNayou](http://t.co/l6zueNayou) 
+
+Bash specially-crafted environment variables code injection attack [https://t.co/IDueNdMYkc](https://t.co/IDueNdMYkc) 
+
+Kevin Mitnick, Once the World's Most Wanted Hacker, Is Now Selling Zero-Day Exploits - [http://t.co/Y2BgksLOwx](http://t.co/Y2BgksLOwx) 
+
+Apple’s new iOS will predict what you type—including, it seems, your passwords – [http://t.co/GhZE0yKmxe](http://t.co/GhZE0yKmxe) 
+
+
+Une intégriste religieuse réecrit Harry Potter pour éviter que ses enfants ne deviennent des sorciers... [http://t.co/b5S8Pid4o7](http://t.co/b5S8Pid4o7) 
+
+
+Le site jquery[.]com compromis pour distribuer un malware [http://t.co/XCZSExuh0E](http://t.co/XCZSExuh0E) 
+
+Come to the dark side, we have des crêpes!! [http://t.co/iyAaO7CVNy](http://t.co/iyAaO7CVNy) 
+
+Pour ceux que ça intéresse, le dépôt Ubuntu pour Firefox Nightly est de nouveau mis à jour (cc [@FirefoxNightly](https://twitter.com/FirefoxNightly) ) [https://t.co/BpxDug3pYx](https://t.co/BpxDug3pYx) 
+
+
+Des « anti-drogues » forcent McDo aux US à arrêter de donner des cuillères en plastique avec les cafés [http://t.co/su1JjU764Q](http://t.co/su1JjU764Q) 
+
+
+L'offre légale RT "@tomchop_: Reaction to the French Netflix catalog [http://t.co/MO63QwndGN"](http://t.co/MO63QwndGN") 
+
+22 gâteaux que vous ne voudriez manger pour rien au monde [http://t.co/OJ1BQy0hYA](http://t.co/OJ1BQy0hYA) 
+
+
+
+Le livre du [@Tattoorialist](https://twitter.com/Tattoorialist) est pré-commandé \o/ [http://t.co/mf74227MqC](http://t.co/mf74227MqC) 
+
+Mozilla crée un abonnement pour financer des sites Web et accéder à un Web sans pubs [https://t.co/CFKU9LFknV](https://t.co/CFKU9LFknV) 
+
+Que ce monde est beau #ios8 RT @87jvc: Mais mais.... c'est magnifique ! [http://t.co/B9UG8VwPBa](http://t.co/B9UG8VwPBa) 
+
+Chrome connects to three random domains at startup [https://t.co/H1XrXzNIgQ](https://t.co/H1XrXzNIgQ) 
+
+L'Europe des séparatistes [http://t.co/Vu9NweK1jI](http://t.co/Vu9NweK1jI) [http://t.co/yjCR2oFIRx](http://t.co/yjCR2oFIRx) 
+
+Sympa le mail de phishing Gmail de cette nuit [http://t.co/cuyOoN6cKd](http://t.co/cuyOoN6cKd) 
+
+
+Franck Miller, retour à Sin City sans repentance [http://t.co/JFb9LrSTR1](http://t.co/JFb9LrSTR1) 
+
+
+Pourquoi « Selon Mediapart » alors que c'est en réalité selon « un livre d'un journaliste qui bosse pour Mediapart » [http://t.co/Lgwp9c0jd3](http://t.co/Lgwp9c0jd3) 
+
+Stop à la guerre init.d vs systemd. Passons tous à vim \o/ [https://t.co/8ZyQjHtIP1](https://t.co/8ZyQjHtIP1) (vu que personne n'utilise emacs [http://t.co/AP8r5FtGTo](http://t.co/AP8r5FtGTo) ) 
+
+
+So true RT @thereaIbanksy: [http://t.co/wGBsD8LKCI](http://t.co/wGBsD8LKCI) 
+
+Find the email address formats in use at thousands of companies [http://t.co/Uxlls473Ka](http://t.co/Uxlls473Ka) 
+
+
+Le mythe s'effondre. James Hetfield porte des bracelets Loom [http://t.co/dCmf8Hj4GP](http://t.co/dCmf8Hj4GP) 
+
+IVRE, il développe un nouvel outil de reconnaissance de réseaux (basé sur p0f, nmap et bro) [http://t.co/WbSHFDaems](http://t.co/WbSHFDaems) 
+
+Je ne suis donc pas le seul à me poser des questions sur les casquettes à peine posées sur la tête ! [http://t.co/oUiAYQS5Rv](http://t.co/oUiAYQS5Rv) 
+
+
+
+
+'Apple, soyons honnêtes' : la vidéo sur l'iPhone 6 qui ne se fout pas de vous [http://t.co/59GoQgb6QK](http://t.co/59GoQgb6QK) 
+
+Good idea ! RT @JimmyDiResta: Plywood hook separates my wire and ground cables once and for all. #diresta [http://t.co/dVwRy6GHbJ](http://t.co/dVwRy6GHbJ) 
+
+
+Si on fait souvent des pauses cafés, c'est pas pour glander, c'est pour faire nos 5 minutes de marche par heure :] [http://t.co/1pg4BgeeCx](http://t.co/1pg4BgeeCx) 
+
+OSSEC corrige une faille qui permettait d'obtenir un accès root via des fichiers temporaires [https://t.co/rwaXla1EN1](https://t.co/rwaXla1EN1) 
+
+
+J'adore les mails que je reçois... et c'est même pas du spam ! [http://t.co/mQNsglBHLz](http://t.co/mQNsglBHLz) 
+
+Quand deux pourris jouent à « oui mais non, lui il est pire que moi » #thevenoud #cahuzac #guignols [http://t.co/Eb2YEqusCi](http://t.co/Eb2YEqusCi) 
+
+The Satoshi Nakamoto Email Hacker Says He's Negotiating with the Bitcoin Founder [http://t.co/g2W1YVdVbf](http://t.co/g2W1YVdVbf) 
+
+
+C'est un troll ou c'est vraiment ça ? #Apple [https://t.co/ejqfkYfusb](https://t.co/ejqfkYfusb) 
+
+Trouver un nom pour les bébés pandas du zoo de Pessac (33) : les votes sont ouverts [http://t.co/6HB5SO2Pnv](http://t.co/6HB5SO2Pnv) 
+
+Bolloré s'associe à Renault pour construire ses Bluecar en France [http://t.co/RoVciO09pa](http://t.co/RoVciO09pa) 
+
+Comment le doigt dans l'anus de Valérie Trierweiler s'est retrouvé dans la bouche de Jean-Marie Le Pen [http://t.co/S8qySW5I9Z](http://t.co/S8qySW5I9Z) 
+
+
+Chouette interview de [@Bouletcorp](https://twitter.com/Bouletcorp) (si vous ne connaissez, lisez ses notes sur son blog : [http://t.co/9MrnqGhveD](http://t.co/9MrnqGhveD) ) [https://t.co/SgZVfMTqDY](https://t.co/SgZVfMTqDY) 
+
+.@angealbertini continue les polyglottes en créant un fichier PDF qui contient sa propre source TeX [https://t.co/JoAXdG176U](https://t.co/JoAXdG176U) 
+
+Hadopi cherche à rendre tolérable le piratage [http://t.co/Va3uxKucRC](http://t.co/Va3uxKucRC) 
+
+Fact checking : Jacques Attali est-il fiable ? par Jean-Paul Richier [http://t.co/1TtdcQ7Rue](http://t.co/1TtdcQ7Rue) #csoj #chouard [@jattali](https://twitter.com/jattali) 
+
+Les forgerons de Men At Arms revisitent My Little Pony [https://t.co/hlbQURZv0w](https://t.co/hlbQURZv0w) #mlp 
+
+"Votre raisonnement, qui est intéressant, .... est complètement absurde" #csoj #attali #chouard [http://t.co/6gGymIjRvZ](http://t.co/6gGymIjRvZ) 
+
+
+L'avantage d'habiter dans un appart neuf:écouter du Linkin park fort, même à 1h du mat', ça fait chier personne! \m/ [https://t.co/qEdOFbRADp](https://t.co/qEdOFbRADp) 
+
+Analyse de l'organisation interne d'un binaire ELF [http://t.co/utA1odwxDL](http://t.co/utA1odwxDL) 
+
+Script d'audit de système Linux [https://t.co/9v6LNk0a6C](https://t.co/9v6LNk0a6C) (via [@Rob_OEM](https://twitter.com/Rob_OEM) ) 
 
 
 Standard Markdown is now Common Markdown [http://t.co/4DY5DRsLdf](http://t.co/4DY5DRsLdf) 
