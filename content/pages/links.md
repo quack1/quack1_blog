@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-28 00:35
+Date: 2014-09-29 00:35
 Author: Quack1
 Slug: links
+
+
+Hey, dans un peu plus d'un mois c'est le début du #NaNoWriMo ! [http://t.co/0YCKyyBe8S](http://t.co/0YCKyyBe8S) 
+
+Liste de PoCs pour #shellshock [https://t.co/JtZlFoAdO6](https://t.co/JtZlFoAdO6) 
+
+Bravo Jacques-Olivier Travers pour avoir fait voler son oiseau au dessus de la Tour Eiffel! [http://t.co/2eEhp8uO8V](http://t.co/2eEhp8uO8V) 
+
+Aigle imperial du projet #freedom (Les Aigles du Leman) [http://t.co/3OUqhIrUAi](http://t.co/3OUqhIrUAi) 
+
+Cet après midi, venez voir un aigle s'envoler du haut de la tour Eiffel (au Trocadéro dès 13h) ! [http://t.co/vkfQ6VoN0O](http://t.co/vkfQ6VoN0O) 
 
 
 
