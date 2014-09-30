@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-29 00:35
+Date: 2014-09-30 00:35
 Author: Quack1
 Slug: links
+
+
+Simply Secure — Initiative intéressante visant à rendre la sécurité plus simple et intuitive pour le grand public [https://t.co/87LRmEswnu](https://t.co/87LRmEswnu) 
+
+Victor, l’aigle qui a filmé Paris [http://t.co/c1JghDeX9e](http://t.co/c1JghDeX9e) 
+
+&lt;3 #freedom (@Ushuaia_TV) [http://t.co/SiMqa5LwVY](http://t.co/SiMqa5LwVY) 
+
+Analyse détaillée de plusieurs exploits ShellShock (via @cedricpernet) [http://t.co/ZoiT3LsftM](http://t.co/ZoiT3LsftM) 
 
 
 Hey, dans un peu plus d'un mois c'est le début du #NaNoWriMo ! [http://t.co/0YCKyyBe8S](http://t.co/0YCKyyBe8S) 
