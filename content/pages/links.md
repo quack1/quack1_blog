@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-30 00:35
+Date: 2014-10-01 00:35
 Author: Quack1
 Slug: links
+
+
+Donc les pilotes de ligne vont faire grève pour être payés pendant qu'ils font grève  [http://t.co/U1NxPH8LHv](http://t.co/U1NxPH8LHv) 
+
+C'est vraiment utile d'infliger du « scalloping » à sa guitare ? O_o [http://t.co/EusJ5g1ZoK](http://t.co/EusJ5g1ZoK) 
+
+Zythom: Yelena [http://t.co/jKrcEwC6qs](http://t.co/jKrcEwC6qs) 
 
 
 Simply Secure — Initiative intéressante visant à rendre la sécurité plus simple et intuitive pour le grand public [https://t.co/87LRmEswnu](https://t.co/87LRmEswnu) 
