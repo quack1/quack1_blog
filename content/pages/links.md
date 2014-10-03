@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-02 00:35
+Date: 2014-10-03 00:35
 Author: Quack1
 Slug: links
+
+
+Bernard Werber : "Le bonheur est dans la création" [http://t.co/OM9JeMZ6uC](http://t.co/OM9JeMZ6uC) 
+
+Harlan Coben : "J'ai assez d'argent pour arrêter d'écrire demain" [http://t.co/xehh0jIW2m](http://t.co/xehh0jIW2m) 
+
+« Installez-vous à la campagne, on va vous mettre la fibre optique, vous serez en vidéo-conférence » [http://t.co/tkSJPbolET](http://t.co/tkSJPbolET) 
 
 
 Décès du père du journaliste de Rue89, harcelé par un pseudo-hacker franco-israélien  [http://t.co/WSdKjt88Kc](http://t.co/WSdKjt88Kc) 
