@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-03 00:35
+Date: 2014-10-04 00:35
 Author: Quack1
 Slug: links
+
+
+Les Inrocks - "American Sniper" : la bande-annonce du nouveau film de Clint Eastwood: [http://t.co/DVpTJAxOWF](http://t.co/DVpTJAxOWF) 
 
 
 Bernard Werber : "Le bonheur est dans la création" [http://t.co/OM9JeMZ6uC](http://t.co/OM9JeMZ6uC) 
