@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-13 00:35
+Date: 2014-10-14 00:35
 Author: Quack1
 Slug: links
+
+
+Dès que tu veux te lancer dans un nouveau projet (par [@Bouletcorp](https://twitter.com/Bouletcorp) ) [http://t.co/i1OaUmwJ4A](http://t.co/i1OaUmwJ4A) 
+
+Si c'est basé sur les vraies données Twitter, c'est assez balèse [http://t.co/l270TD8JTj](http://t.co/l270TD8JTj) 
+
+Droit d’auteur : votre tatouage vous appartient-il vraiment ? [http://t.co/NKg9IiWZ3G](http://t.co/NKg9IiWZ3G) 
+
+Faut-il avoir honte d’écrire des romans de vampires, du space opera ou de la romance érotique ? [http://t.co/CRYtZ2xm3z](http://t.co/CRYtZ2xm3z) 
 
 
 En Italie, j'ai découvert les « Panzerottis », sorte de pizza/ravioli frits [http://t.co/VDj89EFZOU](http://t.co/VDj89EFZOU) 
