@@ -1,7 +1,79 @@
 Title: Liens partagés sur Twitter
-Date: 2014-09-29 00:35
+Date: 2014-10-15 00:35
 Author: Quack1
 Slug: links
+
+
+Nice tool to test ! RT @Rob_OEM: This looks awesome [http://t.co/pPRkDAGcqA](http://t.co/pPRkDAGcqA) (network flow analysis gui) 
+
+Est-il possible de bien terminer une histoire ? [http://t.co/LfuZRZT6fq](http://t.co/LfuZRZT6fq) 
+
+
+Dès que tu veux te lancer dans un nouveau projet (par [@Bouletcorp](https://twitter.com/Bouletcorp) ) [http://t.co/i1OaUmwJ4A](http://t.co/i1OaUmwJ4A) 
+
+Si c'est basé sur les vraies données Twitter, c'est assez balèse [http://t.co/l270TD8JTj](http://t.co/l270TD8JTj) 
+
+Droit d’auteur : votre tatouage vous appartient-il vraiment ? [http://t.co/NKg9IiWZ3G](http://t.co/NKg9IiWZ3G) 
+
+Faut-il avoir honte d’écrire des romans de vampires, du space opera ou de la romance érotique ? [http://t.co/CRYtZ2xm3z](http://t.co/CRYtZ2xm3z) 
+
+
+En Italie, j'ai découvert les « Panzerottis », sorte de pizza/ravioli frits [http://t.co/VDj89EFZOU](http://t.co/VDj89EFZOU) 
+
+
+
+Col du Joux Plane. 
+Alt. 1700m
+Over the clouds... [http://t.co/sS3VhSVdCH](http://t.co/sS3VhSVdCH) 
+
+Avant/Après [http://t.co/YMCd0bnlLN](http://t.co/YMCd0bnlLN) 
+
+
+Raclette, bitches ! [http://t.co/oWc8HmvNdT](http://t.co/oWc8HmvNdT) 
+
+Col de la Colombiere. 
+Alt. 1618m [http://t.co/2PtLm7Z30X](http://t.co/2PtLm7Z30X) 
+
+Plateau de Solaison. 
+Alt. 1500m [http://t.co/ac8hXP3R35](http://t.co/ac8hXP3R35) 
+
+
+
+
+Je suis en vacances près du cloud [http://t.co/TeYFNI502V](http://t.co/TeYFNI502V) 
+
+
+
+
+Les Inrocks - "American Sniper" : la bande-annonce du nouveau film de Clint Eastwood: [http://t.co/DVpTJAxOWF](http://t.co/DVpTJAxOWF) 
+
+
+Bernard Werber : "Le bonheur est dans la création" [http://t.co/OM9JeMZ6uC](http://t.co/OM9JeMZ6uC) 
+
+Harlan Coben : "J'ai assez d'argent pour arrêter d'écrire demain" [http://t.co/xehh0jIW2m](http://t.co/xehh0jIW2m) 
+
+« Installez-vous à la campagne, on va vous mettre la fibre optique, vous serez en vidéo-conférence » [http://t.co/tkSJPbolET](http://t.co/tkSJPbolET) 
+
+
+Décès du père du journaliste de Rue89, harcelé par un pseudo-hacker franco-israélien  [http://t.co/WSdKjt88Kc](http://t.co/WSdKjt88Kc) 
+
+May the Force be with your sleeves [http://t.co/3j92VHEnj8](http://t.co/3j92VHEnj8) 
+
+
+Donc les pilotes de ligne vont faire grève pour être payés pendant qu'ils font grève  [http://t.co/U1NxPH8LHv](http://t.co/U1NxPH8LHv) 
+
+C'est vraiment utile d'infliger du « scalloping » à sa guitare ? O_o [http://t.co/EusJ5g1ZoK](http://t.co/EusJ5g1ZoK) 
+
+Zythom: Yelena [http://t.co/jKrcEwC6qs](http://t.co/jKrcEwC6qs) 
+
+
+Simply Secure — Initiative intéressante visant à rendre la sécurité plus simple et intuitive pour le grand public [https://t.co/87LRmEswnu](https://t.co/87LRmEswnu) 
+
+Victor, l’aigle qui a filmé Paris [http://t.co/c1JghDeX9e](http://t.co/c1JghDeX9e) 
+
+&lt;3 #freedom (@Ushuaia_TV) [http://t.co/SiMqa5LwVY](http://t.co/SiMqa5LwVY) 
+
+Analyse détaillée de plusieurs exploits ShellShock (via @cedricpernet) [http://t.co/ZoiT3LsftM](http://t.co/ZoiT3LsftM) 
 
 
 Hey, dans un peu plus d'un mois c'est le début du #NaNoWriMo ! [http://t.co/0YCKyyBe8S](http://t.co/0YCKyyBe8S) 
