@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-15 00:35
+Date: 2014-10-16 00:35
 Author: Quack1
 Slug: links
+
+
+Google annonce le Nexus 6 [http://t.co/BP0F0IVk5P](http://t.co/BP0F0IVk5P) Prometteur. Vivement qu'on ai les prix 
+
+Une carte Magic, d'une valeur de plus de 10k€, le « Lotus Noir », découverte dans un vieux paquet de cartes [http://t.co/kSq1LZ95Gn](http://t.co/kSq1LZ95Gn) 
+
+Très bonne explication de la Neutralité du Net par [@pigeonsfrance4](https://twitter.com/pigeonsfrance4) (avec @nitot, [@laquadrature](https://twitter.com/laquadrature) et @mozilla_fr) [https://t.co/7guEdYL1uv](https://t.co/7guEdYL1uv) 
 
 
 Nice tool to test ! RT @Rob_OEM: This looks awesome [http://t.co/pPRkDAGcqA](http://t.co/pPRkDAGcqA) (network flow analysis gui) 
