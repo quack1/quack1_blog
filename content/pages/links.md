@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-16 00:35
+Date: 2014-10-17 00:35
 Author: Quack1
 Slug: links
+
+
+Tous les mois, des milliers de personnes versent $1,000,000+ à des créateurs sur Patreon \o/ [http://t.co/mmXYZg74eW](http://t.co/mmXYZg74eW) 
+
+Le Nexus 6 coûterait donc près de 650$ aux US [http://t.co/R15TRZFqyS](http://t.co/R15TRZFqyS) Pas sûr de l'acheter à ce prix là... Une invit' pour le One Plus ? :] 
 
 
 Google annonce le Nexus 6 [http://t.co/BP0F0IVk5P](http://t.co/BP0F0IVk5P) Prometteur. Vivement qu'on ai les prix 
