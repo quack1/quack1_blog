@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-19 00:35
+Date: 2014-10-20 00:35
 Author: Quack1
 Slug: links
+
+
+« Where do birds go when it rains ? » La fin est géniale ! [http://t.co/vngbn4IVf2](http://t.co/vngbn4IVf2) 
+
+Quand tu es un mec et que tu parles à des féministes... [http://t.co/gBwJsavO9D](http://t.co/gBwJsavO9D) 
+
+Décès d’un motard après une banale altercation avec un automobiliste [http://t.co/88sIqDUlPx](http://t.co/88sIqDUlPx) 
 
 
 
