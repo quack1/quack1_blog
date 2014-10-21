@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-20 00:35
+Date: 2014-10-21 00:35
 Author: Quack1
 Slug: links
+
+
+« Petit conseil aux auteurs, autopubliez vos manuscrits, soumettez vos projets. », par [@crouzet](https://twitter.com/crouzet)  [http://t.co/4gpynp7tiu](http://t.co/4gpynp7tiu) 
+
+Soumettez à [@sstic](https://twitter.com/sstic) ! \o/ [http://t.co/qjXTzd7z9o](http://t.co/qjXTzd7z9o) 
+
+♫ Enemy – Papa Roach [http://t.co/V4dsVDeIVr](http://t.co/V4dsVDeIVr) #NowPlaying 
 
 
 « Where do birds go when it rains ? » La fin est géniale ! [http://t.co/vngbn4IVf2](http://t.co/vngbn4IVf2) 
