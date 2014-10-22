@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-21 00:35
+Date: 2014-10-22 00:35
 Author: Quack1
 Slug: links
+
+
+L’encyclopédie visuelle des tatouages des prisonniers russes [http://t.co/dwTmz4JxqX](http://t.co/dwTmz4JxqX) 
 
 
 « Petit conseil aux auteurs, autopubliez vos manuscrits, soumettez vos projets. », par [@crouzet](https://twitter.com/crouzet)  [http://t.co/4gpynp7tiu](http://t.co/4gpynp7tiu) 
