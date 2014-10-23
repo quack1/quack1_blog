@@ -2,7 +2,7 @@ Title: Bonnes pratiques de mise en place de la cryptographie
 Date: 2014-10-23 10:18
 Author: Quack1
 Category: Sécurité
-Tags: Sécurité, Crypto
+Tags: Sécurité, Crypto, planet-libre
 Slug: applied_crypto_hardening
 Summary: Le projet [bettercrypto.org](https://bettercrypto.org "BetterCrypto⸱org") a récemment mis en ligne un [long document](https://bettercrypto.org/static/applied-crypto-hardening.pdf "applied-crypto-hardening.pdf") permettant aux adiminstrateurs systèmes de mettre en place de la cryptographie sur les principaux services réseaux, en respectant l'état de l'art des bonnes pratiques.
 Lang: fr
