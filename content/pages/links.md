@@ -1,7 +1,51 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-15 00:35
+Date: 2014-10-23 00:35
 Author: Quack1
 Slug: links
+
+
+Pour le CAPSLOCK DAY, puis-je rédiger tous mes mails pro en capitales ? [http://t.co/tLis5EUxoW](http://t.co/tLis5EUxoW) 
+
+Je me demandais quand sortait Ubuntu 14.10. Et en fait, c'est demain ! [http://t.co/BFxbNt6XdS](http://t.co/BFxbNt6XdS) 
+
+Elle dénonce un cartel mexicain sur Twitter, le cartel diffuse son meurtre sur Twitter [http://t.co/ZvTMQHheSm](http://t.co/ZvTMQHheSm) 
+
+J'ai enfin les bonnes clés de lecture pour comprendre la ISO27001 \o/ [http://t.co/Yew9LoFYTj](http://t.co/Yew9LoFYTj) 
+
+Aah, la Blue Ball Machine :D RT @Zythom: Un dernier pour la route : [http://t.co/vnYwAHXir0](http://t.co/vnYwAHXir0) 
+
+
+L’encyclopédie visuelle des tatouages des prisonniers russes [http://t.co/dwTmz4JxqX](http://t.co/dwTmz4JxqX) 
+
+
+« Petit conseil aux auteurs, autopubliez vos manuscrits, soumettez vos projets. », par [@crouzet](https://twitter.com/crouzet)  [http://t.co/4gpynp7tiu](http://t.co/4gpynp7tiu) 
+
+Soumettez à [@sstic](https://twitter.com/sstic) ! \o/ [http://t.co/qjXTzd7z9o](http://t.co/qjXTzd7z9o) 
+
+♫ Enemy – Papa Roach [http://t.co/V4dsVDeIVr](http://t.co/V4dsVDeIVr) #NowPlaying 
+
+
+« Where do birds go when it rains ? » La fin est géniale ! [http://t.co/vngbn4IVf2](http://t.co/vngbn4IVf2) 
+
+Quand tu es un mec et que tu parles à des féministes... [http://t.co/gBwJsavO9D](http://t.co/gBwJsavO9D) 
+
+Décès d’un motard après une banale altercation avec un automobiliste [http://t.co/88sIqDUlPx](http://t.co/88sIqDUlPx) 
+
+
+
+Harley Davidson Street 750 : bonne petite urbaine ?  [http://t.co/UYf52dkDZn](http://t.co/UYf52dkDZn) 
+
+
+Tous les mois, des milliers de personnes versent $1,000,000+ à des créateurs sur Patreon \o/ [http://t.co/mmXYZg74eW](http://t.co/mmXYZg74eW) 
+
+Le Nexus 6 coûterait donc près de 650$ aux US [http://t.co/R15TRZFqyS](http://t.co/R15TRZFqyS) Pas sûr de l'acheter à ce prix là... Une invit' pour le One Plus ? :] 
+
+
+Google annonce le Nexus 6 [http://t.co/BP0F0IVk5P](http://t.co/BP0F0IVk5P) Prometteur. Vivement qu'on ai les prix 
+
+Une carte Magic, d'une valeur de plus de 10k€, le « Lotus Noir », découverte dans un vieux paquet de cartes [http://t.co/kSq1LZ95Gn](http://t.co/kSq1LZ95Gn) 
+
+Très bonne explication de la Neutralité du Net par [@pigeonsfrance4](https://twitter.com/pigeonsfrance4) (avec @nitot, [@laquadrature](https://twitter.com/laquadrature) et @mozilla_fr) [https://t.co/7guEdYL1uv](https://t.co/7guEdYL1uv) 
 
 
 Nice tool to test ! RT @Rob_OEM: This looks awesome [http://t.co/pPRkDAGcqA](http://t.co/pPRkDAGcqA) (network flow analysis gui) 
