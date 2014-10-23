@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-22 00:35
+Date: 2014-10-23 00:35
 Author: Quack1
 Slug: links
+
+
+Pour le CAPSLOCK DAY, puis-je rédiger tous mes mails pro en capitales ? [http://t.co/tLis5EUxoW](http://t.co/tLis5EUxoW) 
+
+Je me demandais quand sortait Ubuntu 14.10. Et en fait, c'est demain ! [http://t.co/BFxbNt6XdS](http://t.co/BFxbNt6XdS) 
+
+Elle dénonce un cartel mexicain sur Twitter, le cartel diffuse son meurtre sur Twitter [http://t.co/ZvTMQHheSm](http://t.co/ZvTMQHheSm) 
+
+J'ai enfin les bonnes clés de lecture pour comprendre la ISO27001 \o/ [http://t.co/Yew9LoFYTj](http://t.co/Yew9LoFYTj) 
+
+Aah, la Blue Ball Machine :D RT @Zythom: Un dernier pour la route : [http://t.co/vnYwAHXir0](http://t.co/vnYwAHXir0) 
 
 
 L’encyclopédie visuelle des tatouages des prisonniers russes [http://t.co/dwTmz4JxqX](http://t.co/dwTmz4JxqX) 
