@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-23 00:35
+Date: 2014-10-24 00:35
 Author: Quack1
 Slug: links
+
+
+Est ce que ça marcherait vraiment ? Un tatouage à base de e-ink et qui serait reprogrammable pour pouvoir le modifier [http://t.co/U6psrEivHi](http://t.co/U6psrEivHi) 
+
+Awesome !!  RT @GibsonFr: Les Paul Custom in Candy Apple Red with Bigsby ! [http://t.co/R7txPcFsGe](http://t.co/R7txPcFsGe) 
+
+Toutes les pièces dans un jeu d'échecs ont-elles toutes les même chances de survie ? [http://t.co/igCa35aJGW](http://t.co/igCa35aJGW) 
 
 
 Pour le CAPSLOCK DAY, puis-je rédiger tous mes mails pro en capitales ? [http://t.co/tLis5EUxoW](http://t.co/tLis5EUxoW) 
