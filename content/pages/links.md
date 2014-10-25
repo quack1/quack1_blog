@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-24 00:35
+Date: 2014-10-25 00:35
 Author: Quack1
 Slug: links
+
+
+Oh putain, ils nous les feront toutes.... RT @Sniperovitch: J'en peux plus  [http://t.co/BdRLMNAMtB](http://t.co/BdRLMNAMtB) via [@manudwarf](https://twitter.com/manudwarf) [http://t.co/bsksuuHWWr](http://t.co/bsksuuHWWr) 
+
+Pour empêcher les SQLi, mysql_real_escape_string ne fait pas tout, il faut aussi du code propre et des bons devs [http://t.co/HvfSTFzvnX](http://t.co/HvfSTFzvnX) 
+
+TextSecure c'est bien. Mais TextSecure, c'est mauvais pour ta batterie... [http://t.co/nckqWHrO0S](http://t.co/nckqWHrO0S) 
+
+Xubuntu 14.10 released! [http://t.co/LyDs7CUCTT](http://t.co/LyDs7CUCTT) 
+
+15 (bonnes ?) raisons de ne pas avoir d'anti-virus [http://t.co/7g3hGJMXkb](http://t.co/7g3hGJMXkb) 
+
+Un ultra portable à moins de 2 euros, pour les journalistes et pour les auteurs [http://t.co/kwdCwYE9dx](http://t.co/kwdCwYE9dx) 
+
+Certains nœuds de sortie Tor patchent et infectent les binaires téléchargés par les utilisateurs du réseau [http://t.co/SIt1BjWfjc](http://t.co/SIt1BjWfjc) 
+
+Le #NaNoWriMo commence dans 1 semaine. Et si, finalement, ce n'était pas une bonne méthode pour écrire ? [http://t.co/MKl4vUf3IM](http://t.co/MKl4vUf3IM) 
 
 
 Est ce que ça marcherait vraiment ? Un tatouage à base de e-ink et qui serait reprogrammable pour pouvoir le modifier [http://t.co/U6psrEivHi](http://t.co/U6psrEivHi) 
