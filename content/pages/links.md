@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-25 00:35
+Date: 2014-10-26 00:35
 Author: Quack1
 Slug: links
+
+
+En immense fan d'Harry Potter, j'adore la 3 ! [http://t.co/fglBZApYge](http://t.co/fglBZApYge) 
+
+J'ai enfin trouvé une application Android qui ne demande **aucune** autorisation ! [http://t.co/Cddk1fxOvv](http://t.co/Cddk1fxOvv) 
+
+George R.R. Martin invité de « La grande librairie » sur France 5 le 13 Novembre [https://t.co/31tchKvrna](https://t.co/31tchKvrna) 
+
+Utile. Un script Python qui identifie l'algorithme de hachage utilisé [https://t.co/zkrPV94hi3](https://t.co/zkrPV94hi3) 
+
+Faudra que je teste ça. « How to draw a perfect circle freehand » [http://t.co/zUM0evdjk4](http://t.co/zUM0evdjk4) 
+
+Never trust user input #SFW [http://t.co/GYt06jwjqG](http://t.co/GYt06jwjqG) 
 
 
 Oh putain, ils nous les feront toutes.... RT @Sniperovitch: J'en peux plus  [http://t.co/BdRLMNAMtB](http://t.co/BdRLMNAMtB) via [@manudwarf](https://twitter.com/manudwarf) [http://t.co/bsksuuHWWr](http://t.co/bsksuuHWWr) 
