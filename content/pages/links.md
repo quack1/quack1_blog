@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-26 00:35
+Date: 2014-10-27 00:35
 Author: Quack1
 Slug: links
+
+
+Idée intéressante concernant le rachat de Minecraft par Microsoft [http://t.co/EAurUqTRps](http://t.co/EAurUqTRps) 
+
+Ce soir, c'est panzerottis maison ! #foodporn [http://t.co/VDj89EFZOU](http://t.co/VDj89EFZOU) [http://t.co/ZS7f5FujkJ](http://t.co/ZS7f5FujkJ) 
 
 
 En immense fan d'Harry Potter, j'adore la 3 ! [http://t.co/fglBZApYge](http://t.co/fglBZApYge) 
