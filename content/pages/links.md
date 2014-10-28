@@ -1,7 +1,49 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-24 00:35
+Date: 2014-10-28 00:35
 Author: Quack1
 Slug: links
+
+
+Le formulaire d'inscription de Kimsufi d'@OVH est schizophrène [http://t.co/fMt6iDkocZ](http://t.co/fMt6iDkocZ) 
+
+Génial ! À quand la même avec les expr. FR ? RT @Bouletcorp: Les expressions U.S. traduites littéralement en français [http://t.co/EQQkRM66HM](http://t.co/EQQkRM66HM) 
+
+Donc [@Numerama](https://twitter.com/Numerama) relaie l'appel aux dons de Wikipedia mais sans donner d'URL pour faire un don #fail [http://t.co/Pk30m2GTiV](http://t.co/Pk30m2GTiV) 
+
+
+Idée intéressante concernant le rachat de Minecraft par Microsoft [http://t.co/EAurUqTRps](http://t.co/EAurUqTRps) 
+
+Ce soir, c'est panzerottis maison ! #foodporn [http://t.co/VDj89EFZOU](http://t.co/VDj89EFZOU) [http://t.co/ZS7f5FujkJ](http://t.co/ZS7f5FujkJ) 
+
+
+En immense fan d'Harry Potter, j'adore la 3 ! [http://t.co/fglBZApYge](http://t.co/fglBZApYge) 
+
+J'ai enfin trouvé une application Android qui ne demande **aucune** autorisation ! [http://t.co/Cddk1fxOvv](http://t.co/Cddk1fxOvv) 
+
+George R.R. Martin invité de « La grande librairie » sur France 5 le 13 Novembre [https://t.co/31tchKvrna](https://t.co/31tchKvrna) 
+
+Utile. Un script Python qui identifie l'algorithme de hachage utilisé [https://t.co/zkrPV94hi3](https://t.co/zkrPV94hi3) 
+
+Faudra que je teste ça. « How to draw a perfect circle freehand » [http://t.co/zUM0evdjk4](http://t.co/zUM0evdjk4) 
+
+Never trust user input #SFW [http://t.co/GYt06jwjqG](http://t.co/GYt06jwjqG) 
+
+
+Oh putain, ils nous les feront toutes.... RT @Sniperovitch: J'en peux plus  [http://t.co/BdRLMNAMtB](http://t.co/BdRLMNAMtB) via [@manudwarf](https://twitter.com/manudwarf) [http://t.co/bsksuuHWWr](http://t.co/bsksuuHWWr) 
+
+Pour empêcher les SQLi, mysql_real_escape_string ne fait pas tout, il faut aussi du code propre et des bons devs [http://t.co/HvfSTFzvnX](http://t.co/HvfSTFzvnX) 
+
+TextSecure c'est bien. Mais TextSecure, c'est mauvais pour ta batterie... [http://t.co/nckqWHrO0S](http://t.co/nckqWHrO0S) 
+
+Xubuntu 14.10 released! [http://t.co/LyDs7CUCTT](http://t.co/LyDs7CUCTT) 
+
+15 (bonnes ?) raisons de ne pas avoir d'anti-virus [http://t.co/7g3hGJMXkb](http://t.co/7g3hGJMXkb) 
+
+Un ultra portable à moins de 2 euros, pour les journalistes et pour les auteurs [http://t.co/kwdCwYE9dx](http://t.co/kwdCwYE9dx) 
+
+Certains nœuds de sortie Tor patchent et infectent les binaires téléchargés par les utilisateurs du réseau [http://t.co/SIt1BjWfjc](http://t.co/SIt1BjWfjc) 
+
+Le #NaNoWriMo commence dans 1 semaine. Et si, finalement, ce n'était pas une bonne méthode pour écrire ? [http://t.co/MKl4vUf3IM](http://t.co/MKl4vUf3IM) 
 
 
 Est ce que ça marcherait vraiment ? Un tatouage à base de e-ink et qui serait reprogrammable pour pouvoir le modifier [http://t.co/U6psrEivHi](http://t.co/U6psrEivHi) 
