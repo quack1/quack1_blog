@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-27 00:35
+Date: 2014-10-28 00:35
 Author: Quack1
 Slug: links
+
+
+Le formulaire d'inscription de Kimsufi d'@OVH est schizophrène [http://t.co/fMt6iDkocZ](http://t.co/fMt6iDkocZ) 
+
+Génial ! À quand la même avec les expr. FR ? RT @Bouletcorp: Les expressions U.S. traduites littéralement en français [http://t.co/EQQkRM66HM](http://t.co/EQQkRM66HM) 
+
+Donc [@Numerama](https://twitter.com/Numerama) relaie l'appel aux dons de Wikipedia mais sans donner d'URL pour faire un don #fail [http://t.co/Pk30m2GTiV](http://t.co/Pk30m2GTiV) 
 
 
 Idée intéressante concernant le rachat de Minecraft par Microsoft [http://t.co/EAurUqTRps](http://t.co/EAurUqTRps) 
