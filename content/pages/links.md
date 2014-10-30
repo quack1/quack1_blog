@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-28 00:35
+Date: 2014-10-29 00:35
 Author: Quack1
 Slug: links
+
+
+Un moule pour faire des œufs durs en forme de tête de mort [http://t.co/biyJdGFuPR](http://t.co/biyJdGFuPR) 
+
+Pour résoudre les bugs d'écran noir au déverouillage d'un PC sur Xubuntu 14.04+ [http://t.co/EqPt4oYbdx](http://t.co/EqPt4oYbdx) 
+
+Découverte de « Royal Blood ». Un son énorme avec seulement une basse et une batterie [http://t.co/J6zk2crD5P](http://t.co/J6zk2crD5P) 
+
+Simple, but still pretty, tattoos (by [@Tattoorialist](https://twitter.com/Tattoorialist) ) [http://t.co/Ml1D2bL7aR](http://t.co/Ml1D2bL7aR) 
+
+Pour se mettre en forme dès le matin \m/ || Red Hot Chili Peppers Can't Stop Live At Tarata [http://t.co/6T76lnG5XE](http://t.co/6T76lnG5XE) 
+
+Un criminel démasqué parce qu'il s'était fait tatouer le crime qu'il avait commis [http://t.co/bnWEvjTjOG](http://t.co/bnWEvjTjOG) 
 
 
 Le formulaire d'inscription de Kimsufi d'@OVH est schizophrène [http://t.co/fMt6iDkocZ](http://t.co/fMt6iDkocZ) 
