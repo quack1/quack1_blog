@@ -9,7 +9,7 @@ Lang: fr
 
 [Tor](https://www.torproject.org/ "Tor Project: Anonymity Online") est un logiciel bien connu permettant d'anonymiser votre trafic Internet en le relayant à travers 3 machines du réseau Tor (un nœud d'entrée, un nœud relai puis enfin un nœud de sortie). À aucun moment un nœud du réseau ne peut savoir, **simultanément**, qui vous êtes et à qui vous parlez.
 
-Tor est donc un outil incroyable puisqu'il permet à de nombreuses personnes, dans des pays par toujours amis des libertés sur Internet, d'accéder à un Internet non-filtré sans danger.
+Tor est donc un outil incroyable puisqu'il permet à de nombreuses personnes, dans des pays pas toujours amis des libertés sur Internet, d'accéder à un Internet non-filtré sans danger.
 
 Hier, la société Leviathan Security a publié [un article de blog](http://www.leviathansecurity.com/blog/the-case-of-the-modified-binaries/ "The Case of the Modified Binaries") présentant les résultats de certains de leurs tests qui ont permis de montrer que certains nœuds de sortie (1 seul, dans ce cas précis) modifiaient les exécutables téléchargés par les utilisateurs.
 
