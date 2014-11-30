@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2014-11-30 00:35
+Date: 2014-12-01 00:35
 Author: Quack1
 Slug: links
+
+
+En attendant, j'ai déjà recollé la tête. Résultat dans 2j #thebrokenguitar [http://t.co/6MlZoJjTJs](http://t.co/6MlZoJjTJs) 
+
+Prochain défi, recoller ensemble les morceaux du corps #thebrokenguitar [http://t.co/50kgjRGAos](http://t.co/50kgjRGAos) 
+
+J'ai donc commencé à déshabiller ma nouvelle maitresse #thebrokenguitar [http://t.co/KcGb870gtA](http://t.co/KcGb870gtA) 
+
+Bon, l'état du dos laisse quand même un peu à désirer... La réparation de cette partie sera plus compliquée.. [http://t.co/bqAXJ4T07f](http://t.co/bqAXJ4T07f) 
+
+Sortir de chez soi et tomber sur une guitare acoustique un peu cassée. Et si on la réparait ? :] #DIY [http://t.co/Zaxi3v17rY](http://t.co/Zaxi3v17rY) 
+
+Hier au cinéma j'ai vu cette très jolie pub pour Lego et la créativité des enfants [https://t.co/pJx9fPTGF5](https://t.co/pJx9fPTGF5) 
+
+La dernière vidéo de @jcfrog, _Quoi Google ?_, est même passée sur France Inter ! Bravo [@jcfrog](https://twitter.com/jcfrog) :) [http://t.co/ANMEcjgZZU](http://t.co/ANMEcjgZZU) 
 
 
 Je viens de backer WikiCheese [http://t.co/Yf7uydrpiN](http://t.co/Yf7uydrpiN) et _Tea and Biscuits_, le nouvel album du trio de [@beurks](https://twitter.com/beurks) [http://t.co/xyxM3PNLRb](http://t.co/xyxM3PNLRb) 
