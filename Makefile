@@ -11,7 +11,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=quack1.me
+SSH_HOST=granger.quack1.me
 SSH_PORT=22
 SSH_USER=quack
 SSH_TARGET_DIR=/var/www/blog.quack1.me
