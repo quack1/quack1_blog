@@ -2,7 +2,7 @@ Title: Custom "USB" Key
 Date: 2014-04-28 20:00
 Author: Quack1
 Category: DIY
-Tags: DIY, USB, Clé, Jimmy DiResta, Hack, I Make
+Tags: DIY, USB, Clé, Jimmy DiResta, Hack, I Make, Vidéo
 Lang: en
 Slug: custom_usb_key
 Summary: 
