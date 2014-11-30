@@ -7,7 +7,7 @@ Slug: video_pitivi_lightworks
 Summary: 
 Lang: fr
 
-J'ai commencé à monter quelques vidéos donc certaines sont [sur ce blog](/tag/video.html) et j'ai été vite limité par les outils libres disponibles.
+J'ai commencé à monter quelques vidéos donc certaines sont [sur ce blog](/tag/my-videos.html) et j'ai été vite limité par les outils libres disponibles.
 
 J'avais testé [OpenShot](http://www.openshot.org/), sans succès, puis [PiTiVi]({filename}/pitivi_crowfunding.md), que j'ai d'ailleurs soutenu, qui ne disposait pas de fonctions permettant d'accélérer ou ralentir des vidéos.
 
