@@ -9,7 +9,7 @@ Lang: fr
 
 J'ai commencé à monter quelques vidéos donc certaines sont [sur ce blog](/tag/video.html) et j'ai été vite limité par les outils libres disponibles.
 
-J'avais testé [OpenShot](http://www.openshot.org/), sans succès, puis [PiTiVi]({filename}/pitivi_crowdfunding.md), que j'ai d'ailleurs soutenu, qui ne disposait pas de fonctions permettant d'accélérer ou ralentir des vidéos.
+J'avais testé [OpenShot](http://www.openshot.org/), sans succès, puis [PiTiVi]({filename}/pitivi_crowfunding.md), que j'ai d'ailleurs soutenu, qui ne disposait pas de fonctions permettant d'accélérer ou ralentir des vidéos.
 
 J'utilise donc désormais [Lightworks](http://www.lwks.com/) qui n'est pas libre mais qui propose une version Linux.
 
