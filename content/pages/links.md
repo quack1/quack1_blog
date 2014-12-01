@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-01 00:35
+Date: 2014-12-02 00:35
 Author: Quack1
 Slug: links
+
+
+Intéressant. Un utilisateur saoûlé par OSX 10.10 passe à Fedora (no troll inside, avis argumentés) [http://t.co/CNDkYYXqQF](http://t.co/CNDkYYXqQF) 
+
+La tête est recollée ! #thebrokenguitar [http://t.co/DtDCCkTp7v](http://t.co/DtDCCkTp7v) 
+
+Le nouvel album d'AC/DC n'étant pas disponible en streaming, dois-je le télécharger (légalement) sur Amazon ? [http://t.co/lrbLdvuQzx](http://t.co/lrbLdvuQzx) 
+
+\m/ RT [@Sniperovitch](https://twitter.com/Sniperovitch) REVEIL!!!!!!!! #NowPlaying Basket Case
+Green Day • Dookie sur #Spotify  [http://t.co/8BnC79SpoF](http://t.co/8BnC79SpoF) 
 
 
 En attendant, j'ai déjà recollé la tête. Résultat dans 2j #thebrokenguitar [http://t.co/6MlZoJjTJs](http://t.co/6MlZoJjTJs) 
