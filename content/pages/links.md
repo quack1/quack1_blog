@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-02 00:35
+Date: 2014-12-03 00:35
 Author: Quack1
 Slug: links
+
+
+Pub « Kamasutra » en prévention du SIDA [http://t.co/ifjhoCW3q6](http://t.co/ifjhoCW3q6) 
+
+Poke [@NiightlyCat](https://twitter.com/NiightlyCat) RT [@unixmen](https://twitter.com/unixmen) How To Delete Oracle 11g Database Manually ? [http://t.co/tnbf3sFxb0“](http://t.co/tnbf3sFxb0“) 
+
+Des collisions trouvées pour tous les ID (32bits) de clés GPG [https://t.co/lz9VHwVOu6](https://t.co/lz9VHwVOu6) 
 
 
 Intéressant. Un utilisateur saoûlé par OSX 10.10 passe à Fedora (no troll inside, avis argumentés) [http://t.co/CNDkYYXqQF](http://t.co/CNDkYYXqQF) 
