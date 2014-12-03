@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-03 00:35
+Date: 2014-12-04 00:35
 Author: Quack1
 Slug: links
+
+
+Dans mes mails. Non, ce n'est pas ce que vous croyez. [http://t.co/yvxFXIj5nX](http://t.co/yvxFXIj5nX) 
+
+Expliquer clairement la multiplication à des jeunes enfants [http://t.co/0fN7gb7yFh](http://t.co/0fN7gb7yFh) 
 
 
 Pub « Kamasutra » en prévention du SIDA [http://t.co/ifjhoCW3q6](http://t.co/ifjhoCW3q6) 
