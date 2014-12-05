@@ -1,7 +1,283 @@
 Title: Liens partagés sur Twitter
-Date: 2014-10-29 00:35
+Date: 2014-12-05 00:35
 Author: Quack1
 Slug: links
+
+
+
+Dans mes mails. Non, ce n'est pas ce que vous croyez. [http://t.co/yvxFXIj5nX](http://t.co/yvxFXIj5nX) 
+
+Expliquer clairement la multiplication à des jeunes enfants [http://t.co/0fN7gb7yFh](http://t.co/0fN7gb7yFh) 
+
+
+Pub « Kamasutra » en prévention du SIDA [http://t.co/ifjhoCW3q6](http://t.co/ifjhoCW3q6) 
+
+Poke [@NiightlyCat](https://twitter.com/NiightlyCat) RT [@unixmen](https://twitter.com/unixmen) How To Delete Oracle 11g Database Manually ? [http://t.co/tnbf3sFxb0“](http://t.co/tnbf3sFxb0“) 
+
+Des collisions trouvées pour tous les ID (32bits) de clés GPG [https://t.co/lz9VHwVOu6](https://t.co/lz9VHwVOu6) 
+
+
+Intéressant. Un utilisateur saoûlé par OSX 10.10 passe à Fedora (no troll inside, avis argumentés) [http://t.co/CNDkYYXqQF](http://t.co/CNDkYYXqQF) 
+
+La tête est recollée ! #thebrokenguitar [http://t.co/DtDCCkTp7v](http://t.co/DtDCCkTp7v) 
+
+Le nouvel album d'AC/DC n'étant pas disponible en streaming, dois-je le télécharger (légalement) sur Amazon ? [http://t.co/lrbLdvuQzx](http://t.co/lrbLdvuQzx) 
+
+\m/ RT [@Sniperovitch](https://twitter.com/Sniperovitch) REVEIL!!!!!!!! #NowPlaying Basket Case
+Green Day • Dookie sur #Spotify  [http://t.co/8BnC79SpoF](http://t.co/8BnC79SpoF) 
+
+
+En attendant, j'ai déjà recollé la tête. Résultat dans 2j #thebrokenguitar [http://t.co/6MlZoJjTJs](http://t.co/6MlZoJjTJs) 
+
+Prochain défi, recoller ensemble les morceaux du corps #thebrokenguitar [http://t.co/50kgjRGAos](http://t.co/50kgjRGAos) 
+
+J'ai donc commencé à déshabiller ma nouvelle maitresse #thebrokenguitar [http://t.co/KcGb870gtA](http://t.co/KcGb870gtA) 
+
+Bon, l'état du dos laisse quand même un peu à désirer... La réparation de cette partie sera plus compliquée.. [http://t.co/bqAXJ4T07f](http://t.co/bqAXJ4T07f) 
+
+Sortir de chez soi et tomber sur une guitare acoustique un peu cassée. Et si on la réparait ? :] #DIY [http://t.co/Zaxi3v17rY](http://t.co/Zaxi3v17rY) 
+
+Hier au cinéma j'ai vu cette très jolie pub pour Lego et la créativité des enfants [https://t.co/pJx9fPTGF5](https://t.co/pJx9fPTGF5) 
+
+La dernière vidéo de @jcfrog, _Quoi Google ?_, est même passée sur France Inter ! Bravo [@jcfrog](https://twitter.com/jcfrog) :) [http://t.co/ANMEcjgZZU](http://t.co/ANMEcjgZZU) 
+
+
+Je viens de backer WikiCheese [http://t.co/Yf7uydrpiN](http://t.co/Yf7uydrpiN) et _Tea and Biscuits_, le nouvel album du trio de [@beurks](https://twitter.com/beurks) [http://t.co/xyxM3PNLRb](http://t.co/xyxM3PNLRb) 
+
+ETPLC, outil permettant de faire passer des règles IDS sur des logs proxy ou Apache [http://t.co/IsQ66M2xzt](http://t.co/IsQ66M2xzt) 
+
+Allumer sa télé et tomber sur « Tous Tatoués » sur ARTE \o/ [http://t.co/seroXuOPcK](http://t.co/seroXuOPcK) 
+
++1 RT [@Faskil](https://twitter.com/Faskil) “Want. [http://t.co/veYu25DXIi“](http://t.co/veYu25DXIi“) 
+
+Cette appli permet de lire les infos de votre carte NFC [https://t.co/K0jWcMfpnx](https://t.co/K0jWcMfpnx) (Pas d'accès au net, donc safe à priori) via [@TcitWorld](https://twitter.com/TcitWorld) 
+
+
+Thread sympa pour trouver le matos utilisé par Royal Blood pour avoir leur son avec une basse et pas de guitare [http://t.co/wvSc2f4SgK](http://t.co/wvSc2f4SgK) 
+
+Liste de malwares triée par les ports utilisés (ou taille, nom, actions, systèmes impactés, etc) [http://t.co/kb1MuQXnUU](http://t.co/kb1MuQXnUU) (p-e pas à jour) 
+
+
+Slow Motion d'un hibou qui se pose sur un gant de fauconnier. Quand les serres s'ouvrent, c'est un peu flippant.. [https://t.co/vZOOhymVoV](https://t.co/vZOOhymVoV) 
+
+« Surtout faut pas instrumentaliser les enfants » #ohWait RT [@HellaRatchet](https://twitter.com/HellaRatchet) “Best Ferguson interview I've seen so far [http://t.co/Nc11acLDrq“](http://t.co/Nc11acLDrq“) 
+
+
+Alexandre Astier [@sgtpembry](https://twitter.com/sgtpembry) répond aux questions Post-It de Télérama [http://t.co/vjHyDxdzpi](http://t.co/vjHyDxdzpi) 
+
+Je bloque sur cette chanson depuis qu'elle est sortie \m/ | _Something from Nothing_ by the Foo Fighters #NP [http://t.co/M6c066SvAQ](http://t.co/M6c066SvAQ) 
+
+Enrichissement au Smithsonian's National Zoo : Fêtons l'anniversaire d'un éléphant :) [http://t.co/ASqaUZb4Tr](http://t.co/ASqaUZb4Tr) 
+
+Ma guitare^Wbasse est enfin finie :) Photos et vidéo en ligne #guitar2bass [https://t.co/s6LMiGcku2](https://t.co/s6LMiGcku2) 
+
+Nouvelles vulnérabilités critiques corrigées par Adobe dans le player Flash [http://t.co/YUlfjW6NUs](http://t.co/YUlfjW6NUs) 
+
+
+Youtube a donc une nouvelle option pour l'intégration des vidéos #privacy [http://t.co/ZCow4CAEuy](http://t.co/ZCow4CAEuy) 
+
+
+Adobe publie un bulletin de sécurité annoncant la correction de 18 vulnérabilités (+ ou -) critiques [http://t.co/XrhcvAHM1g](http://t.co/XrhcvAHM1g) 
+
+Harley-Davidson veut rajeunir sa clientèle (moyenne d'âge des clients : 45 ans) [http://t.co/yCTp3ioUAw](http://t.co/yCTp3ioUAw) 
+
+Kaspersky se fend également d'un rapport d'analyse de #Regin [http://t.co/cVOoA0TuMt](http://t.co/cVOoA0TuMt) 
+
+Ah, et demain ça fera 3 ans que j'ai publié la première vraie note sur mon blog \o/ [https://t.co/gcHwixs4s2](https://t.co/gcHwixs4s2) #personalbranling 
+
+Je retombe sur le tatouage « Tim » sur mon blog... Je trouve ce truc toujours aussi macabre et un peu spécial... [https://t.co/pk72lpWkdj](https://t.co/pk72lpWkdj) 
+
+Pas mal. Un guide de rédaction de document regroupant plein de règles grammaticales (via @newsoft) [http://t.co/TALWiDdU0n](http://t.co/TALWiDdU0n) (Attention, 250p.) 
+
+Vous voulez aider Wikimedia (et manger du fromage) ? Soutenez WIkiCheese [http://t.co/1Y75UznWoN](http://t.co/1Y75UznWoN) 
+
+
+Les mercenaires de la cyberguerre [http://t.co/IWqw5dhtd8](http://t.co/IWqw5dhtd8) 
+
+Le travail de cet artiste est excellent | Joe Fenton custom painted PRS Guitar for Mark Tremonti [https://t.co/idRhRZRFdk](https://t.co/idRhRZRFdk) 
+
+Je découvre que certains punks ne sont pas très hardcore. "Straight Edge: I don't drink, don't smoke, don't fuck" [https://t.co/2TUHg41HkN](https://t.co/2TUHg41HkN) 
+
+
+La billetterie du Mondial du Tatouage 2015 est ouverte [http://t.co/uGL4Wz6jdM](http://t.co/uGL4Wz6jdM) 
+
+Ce tatouage est assez impressionnant... [http://t.co/Ntuscu8pKw](http://t.co/Ntuscu8pKw) (Les autres sont pas mal non plus [http://t.co/H527snl6Yo](http://t.co/H527snl6Yo) ) 
+
+
+♫ Something From Nothing – Foo Fighters [http://t.co/sZWJD2387Q](http://t.co/sZWJD2387Q) #NowPlaying 
+
+Une fille joue de la guitare sur Youtube, les mecs se sentent obligés de parler de sa poitrine en commentaires.. [https://t.co/KiO3XAHy7p](https://t.co/KiO3XAHy7p) 
+
+Qui sont ces gens qui sortent un IDA pour tout reverser dès la moindre faille de sécu découverte ? &gt;&lt;" [http://t.co/IzL3sL7f3Q](http://t.co/IzL3sL7f3Q) 
+
+Nouvel épisode de MakingIt, excellent podcast DIY par @iliketomakestuff, [@JimmyDiResta](https://twitter.com/JimmyDiResta) and [@drunkenwood](https://twitter.com/drunkenwood) [http://t.co/AMZ8t3xLm8](http://t.co/AMZ8t3xLm8) 
+
+
+Mettez **vite** à jour vos Wordpress : 1 vulnérabilité critique et 8 failles de sécurités corrigées [https://t.co/JbW3qiXXHl](https://t.co/JbW3qiXXHl) 
+
+Sortie de la version 3.5 de Pelican [http://t.co/8bhOuvLEG6](http://t.co/8bhOuvLEG6) 
+
+Really nice sign made of old tools, with a nice patina look made by the great [@JimmyDiResta](https://twitter.com/JimmyDiResta)  [http://t.co/xFEqQN1hlr](http://t.co/xFEqQN1hlr) 
+
+Avant-Première d'Asterix et le Domaine des Dieux, interview d'@sgtpembry et Louis Clichy #AsterixDDD [http://t.co/Y4V6ArQGME](http://t.co/Y4V6ArQGME) 
+
+
+OpenSOC — « SIEM » modulable open-source et basé sur une (à terme) forte communauté [http://t.co/nvrYERGRgn](http://t.co/nvrYERGRgn) 
+
+NoSuchCon est streamé en live, pour ceux qui ne peuvent pas y être, ici → [http://t.co/9F7FiGebwS](http://t.co/9F7FiGebwS) 
+
+
+Test de recette : Arancinis rapides (recette de Gordon Ramsey : [https://t.co/LcSbWCupiG)](https://t.co/LcSbWCupiG)) [http://t.co/levIAyQDQd](http://t.co/levIAyQDQd) 
+
+♫ Prayer Of The Refugee – Rise Against [http://t.co/7L7a1txaZD](http://t.co/7L7a1txaZD) #NowPlaying 
+
+
+Le créateur de WhatsApp fait un don d'$1M à la fondation FreeBSD [https://t.co/xbri9QXHaf](https://t.co/xbri9QXHaf) &amp; [http://t.co/w1jX2P2gUh](http://t.co/w1jX2P2gUh) 
+
+Oh putain *_* RT [@iMilnb](https://twitter.com/iMilnb) T'avais pas faim ? nan ? sûr ? [https://t.co/b8pDK3uIlc](https://t.co/b8pDK3uIlc) 
+
+OK. Cette année j'ai vraiment envie d'aller au Hellfest. Très très grosse affiche #hellfest2015 [http://t.co/LfVLup0s9X](http://t.co/LfVLup0s9X) 
+
+TO TEST: CIRCLean - USB key sanitizer by [@circl_lu](https://twitter.com/circl_lu) [http://t.co/kIs0hN2Wm9](http://t.co/kIs0hN2Wm9) 
+
+WTF O_o RT [@metronews](https://twitter.com/metronews) Stressé par ses examens, il viole une brebis pour se détendre [http://t.co/Kr4ZM6KMQS](http://t.co/Kr4ZM6KMQS) [http://t.co/AgJPfkB2uv](http://t.co/AgJPfkB2uv) 
+
+
+Positions des membres de 50 groupes connus sur scène [http://t.co/MJIvda065z](http://t.co/MJIvda065z) [http://t.co/5DSOQ79bMz](http://t.co/5DSOQ79bMz) 
+
+Mettre en place une bonne réponse à incidents, par Bruce Schneier [https://t.co/BmBOD0wcdu](https://t.co/BmBOD0wcdu) 
+
+Convertir des vidéos au bon format pour LightWorks avec avconv sur Linux [http://t.co/0MKuWLJ72c](http://t.co/0MKuWLJ72c) 
+
+Liste (non officielle) des formats vidéo supportés par Lightworks [http://t.co/BGnGKCEKyr](http://t.co/BGnGKCEKyr) 
+
+PiTiVi — Créer des transitions et fondus au noir (fade-in/fade-out) [http://t.co/psplW906gO](http://t.co/psplW906gO) 
+
+Très bons arguments contre le watermarking et comment mieux partager ses photos, par [@adulau](https://twitter.com/adulau) [http://t.co/2e1TbNNfXg](http://t.co/2e1TbNNfXg) 
+
+
+Petite liste des fonctionnalités sympa de zsh [http://t.co/Gcp3FingNl](http://t.co/Gcp3FingNl) 
+
+_Hardcore_, 1er film d'action tourné en POV, en crowdfunding sur Indiegogo [https://t.co/XgRLAWoS1F](https://t.co/XgRLAWoS1F) 
+
+Gibson annonce la ES-335 Signature Dave Grohl \m/ [http://t.co/RMLiK2ZFME](http://t.co/RMLiK2ZFME) 
+
+Pour Zep, l'érection est la solution contre la guerre (en gros) [http://t.co/FqKq5Mf7YC](http://t.co/FqKq5Mf7YC) 
+
+
+Instant Karma - John lennon #NP [http://t.co/0jvBrmLrNo](http://t.co/0jvBrmLrNo) 
+
+Le jour où Sarkozy propose un poste à un militant UMP pour éviter des questions sur Bygmalion [http://t.co/ufIdhd0kPJ](http://t.co/ufIdhd0kPJ) 
+
+Ça à l'air sympa et ça tourne sur Linux :) RT [@Sniperovitch](https://twitter.com/Sniperovitch) "This war of mine" Le jeu qui montre la guerre côté civil [http://t.co/9x4vnXX7df](http://t.co/9x4vnXX7df) 
+
+Quand je vois ça, je me dis « Mince, les auteurs ont à peine 5% par chanson » [http://t.co/dewnx0mcmz](http://t.co/dewnx0mcmz) 
+
+Pour une fois que du tir à l'arc est dans les Top Videos de Youtube :) | Archery Trick Shots [http://t.co/k6TLGWyqbL](http://t.co/k6TLGWyqbL) 
+
+Airbus DS lance son challenge de sécu et offre..... 1 seul Raspberry Pi à l'équipe vainqueur.... - [http://t.co/4vY9GACK7f](http://t.co/4vY9GACK7f) 
+
+
+Quelqu'un saurait pourquoi certains bassistes jouent avec des gants ? RT [@TWIT4SHKPNK](https://twitter.com/TWIT4SHKPNK) “BALANCES #LeDomeMarseille [http://t.co/IyqqwqIJcp“](http://t.co/IyqqwqIJcp“) 
+
+Donc un tigre est en liberté en Seine-Et-Marne (pas d'information sur sa provenance) [http://t.co/JUQ5nfGoXk](http://t.co/JUQ5nfGoXk) 
+
+→ [@mggtTaylor](https://twitter.com/mggtTaylor) RT [@pipthunder](https://twitter.com/pipthunder) Look at those tattoos! He'll never get a real job! *lands spacecraft on a fucking comet* [http://t.co/CYEpTnVnHJ](http://t.co/CYEpTnVnHJ) 
+
+Airbus Helicopters a-t-il été victime d'un piratage informatique américain? - [http://t.co/iXfTpuX6IZ](http://t.co/iXfTpuX6IZ) 
+
+Seedfeeder, l’homme qui illustre le sexe sur Wikipédia [http://t.co/c1kP290RS3](http://t.co/c1kP290RS3) 
+
+
+
+Sympa, des Mac G5 recyclés en mobilier (bancs, tables, tiroirs, etc.) [http://t.co/DbMu3VYWx5](http://t.co/DbMu3VYWx5) #DIY 
+
+Il faudrait les mêmes graphiques avec les guitares | Combien de fois sont pressées les touches du piano [http://t.co/yvWb5iOXQW](http://t.co/yvWb5iOXQW) 
+
+To test: Timesketch, outil collaboratif de création de timelines d'analyse forensique (via [@adulau](https://twitter.com/adulau) ) [https://t.co/Yxbx5Zkwtg](https://t.co/Yxbx5Zkwtg) 
+
+.@nitot arrive à troller les fanboys Apple : « Firefox bénéficie même aux gens qui n'utilisent que Safari ! » :) [http://t.co/gXftV5QvBN](http://t.co/gXftV5QvBN) 
+
+Vulnérabilité critique dans la pile SSL/TLS de Microsoft (Schannel) [https://t.co/bZhvRmmefc](https://t.co/bZhvRmmefc) 
+
+Configuration pour le logging SMTP dans Suricata (via [@inliniac](https://twitter.com/inliniac) ) [http://t.co/44DYsvAoJK](http://t.co/44DYsvAoJK) 
+
+WireEdit, éditeur WYSIWYG de paquets réseaux (ça charge des pcap, ça le fait pas en live) [https://t.co/fRgHPBiFXo](https://t.co/fRgHPBiFXo) 
+
+
+Vous voulez développer un projet mais vous n'avez pas d'idée ? Sur le blog de [@sam_et_max](https://twitter.com/sam_et_max) il y en a pour vous [http://t.co/Y345X99nH6](http://t.co/Y345X99nH6) 
+
+Don't talk, just try and do it ! [http://t.co/pjUJzmx07B](http://t.co/pjUJzmx07B) 
+
+Une pensée pour Sid (merci @Zythom) [http://t.co/Z2zLBzwEvJ](http://t.co/Z2zLBzwEvJ) 
+
+
+Wikipédia bloque des IP pendant 5 ans. 5 ans putain. C'est pas un peu exagéré ? [http://t.co/G1LZEmnIIC](http://t.co/G1LZEmnIIC) 
+
+
+Ce soir je teste les « Penne rigate, sauce aux brocolis, roquefort et amandes grillées » de [@Sniperovitch](https://twitter.com/Sniperovitch) [http://t.co/4ImHQ8ma06](http://t.co/4ImHQ8ma06) 
+
+Pour plus de télétravail ! #BD [http://t.co/Ar4loFaT1c](http://t.co/Ar4loFaT1c) 
+
+Zep est bien loin de Titeuf et son amour innocent ;-) [http://t.co/XcTFYVcRSV](http://t.co/XcTFYVcRSV) 
+
+
+Vidéo sympathique de présentation de CerberHost par [@nbs_system](https://twitter.com/nbs_system) [http://t.co/1mr6u30lTG](http://t.co/1mr6u30lTG) ( [https://t.co/Sb5iuLaxZ9](https://t.co/Sb5iuLaxZ9) ) 
+
+
+Reportage de TF1 sur OVH [http://t.co/RCKSR0PHvg](http://t.co/RCKSR0PHvg) (Désolé pour la pub pourrie avant la vidéo) 
+
+Recette du soir, simple et rapide | Blancs de poulet sauce miel [http://t.co/QatnlRJaEG](http://t.co/QatnlRJaEG) 
+
+Suricata can now extract files from SMTP sessions \o/ [http://t.co/42gcxAcMxF](http://t.co/42gcxAcMxF) 
+
+Listening to some good old songs #NP [http://t.co/s878dk3ydx](http://t.co/s878dk3ydx) 
+
+
+Sting. Le swag. [http://t.co/WYFjSFAZC6](http://t.co/WYFjSFAZC6) 
+
+Cheatsheet des principales fonctions Python (via [@nixcraft](https://twitter.com/nixcraft) &amp; @imilnb ) [http://t.co/L5vdnX48ys](http://t.co/L5vdnX48ys) 
+
+
+Je suis un immense fan d'Harry Potter, et [@Bouletcorp](https://twitter.com/Bouletcorp) vient de tout ruiner (OK, avec de très bons arguments) [http://t.co/POv1Ld0zhR](http://t.co/POv1Ld0zhR) 
+
+C'est quoi le pire ? La faute, ou la politique de mots de passe ? [http://t.co/y5zeoWXTv7](http://t.co/y5zeoWXTv7) 
+
+
+Repo. de dictionnaires pour la correction orthographie de Sublime Text [https://t.co/EiRV0jz313](https://t.co/EiRV0jz313) 
+
+Plus je vois cet onglet ouvert dans mon Firefox, plus j'ai envie de passer mon permis moto [http://t.co/3w98pvoQRF](http://t.co/3w98pvoQRF) 
+
+Quand Orange te parle d'IP fixe (publique)  [http://t.co/5eBy3v8qvG](http://t.co/5eBy3v8qvG) le lien vers l'assistance te fait faire un ipconfig pour l'avoir #fail 
+
+Les cartes Visa autorisent tous les paiements NFC demandés dans une devise étrangère (sans limite max. de montant) [http://t.co/pxZfI4iWAm](http://t.co/pxZfI4iWAm) 
+
+L'homme derrière DMPranks (les vidéos de clowns tueurs sur Youtube) est en fait italien [http://t.co/0yGtqpNRKL](http://t.co/0yGtqpNRKL) 
+
+Atteinte d'un cancer du cerveau en phase terminale, elle décide de mettre fin à ses jours à 29 ans [http://t.co/tYEb7b3KKj](http://t.co/tYEb7b3KKj) 
+
+Pour le mois d'Octobre, mes Flattrs valaient 38cts, pour 13 contenus soutenus ! [http://t.co/4IL54TyGyI](http://t.co/4IL54TyGyI) 
+
+
+
+Dave Grohl, American Idol, Nirvana, et devenir musicien (RT [@HarryShannon](https://twitter.com/HarryShannon) ) [http://t.co/GZVCx6AZzd“](http://t.co/GZVCx6AZzd“) 
+
+Les dernières nouveautés de World of Warcraft me donnent vraiment envie de m'y remettre :) [http://t.co/liyUCIP2Oj](http://t.co/liyUCIP2Oj) 
+
+
+
+Current mood : Rocking \m/^_^\m/ [https://t.co/dMDIpSUauY](https://t.co/dMDIpSUauY) #foofighters #wastinglights 
+
+Je découvre que Gottfrid (de The Pirate Bay [http://t.co/jvzZ52wnDD](http://t.co/jvzZ52wnDD) ) a une _neckbeard_ [http://t.co/bULKZJi7D1](http://t.co/bULKZJi7D1) 
+
+Reverse Enginneering for beginners (pdf) [http://t.co/xyHzSfzza7](http://t.co/xyHzSfzza7) via [@Sebdraven](https://twitter.com/Sebdraven) [@brutelogic](https://twitter.com/brutelogic) 
+
+
+Une journaliste se voit morte, en photo, dans la vitrine d’un magasin de pompes funèbres [http://t.co/FmE1qWNU2s](http://t.co/FmE1qWNU2s) 
+
+sqlite4 est sorti (sqlite3 sera toujours maintenu et mis à jour) [https://t.co/QjT3QbJfBQ](https://t.co/QjT3QbJfBQ) 
+
+L'intérieur d'une femme pendant la grossesse [http://t.co/dYCv0lDDyM](http://t.co/dYCv0lDDyM) (via [@JackxParker](https://twitter.com/JackxParker)  ) 
 
 
 Un moule pour faire des œufs durs en forme de tête de mort [http://t.co/biyJdGFuPR](http://t.co/biyJdGFuPR) 
