@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-07 00:35
+Date: 2014-12-08 00:35
 Author: Quack1
 Slug: links
+
+
+En fait c'est pas compliqué d'être CERT. Tu as juste à publier un lien vers le site de l'éditeur et c'est fini [https://t.co/FgITaRpQr1](https://t.co/FgITaRpQr1) 
+
+Note. L'ordre dans lequel se déroulent les opérations SQL : FROM - WHERE - GROUP BY - HAVING - SELECT - ORDER BY [http://t.co/Ut2PhlocWQ](http://t.co/Ut2PhlocWQ) 
+
+J'ai donc une nouvelle femme à la maison \o/ #thebrokenguitar Reste plus qu'à lui trouver un nom... [http://t.co/WfjRBjhFdS](http://t.co/WfjRBjhFdS) 
 
 
 
