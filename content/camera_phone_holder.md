@@ -6,7 +6,6 @@ Tags: DIY, I Make, Go Pro, Hack, My Videos
 Slug: camera_phone_holder
 Summary: Projet #DIY où je réalise un support simple pour tenir mon portable en mode GoPro histoire de pouvoir filmer sans avoir à le tenir.
 Lang: fr
-Status: draft
 
 Pour filmer les [quelques vidéos que je fais chez moi](/tag/my-videos.html "Tag - My Videos"), comme je n'ai pas encore de GoPro, je filme tout avec mon téléphone. Mais du coup, j'avais besoin d'un truc genre trépied d'appareil photo pour pouvoir le faire tenir simplement et régler l'angle de prise de vue sans trop galérer.
 
