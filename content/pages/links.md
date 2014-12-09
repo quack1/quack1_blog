@@ -1,7 +1,17 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-09 00:35
+Date: 2014-12-10 00:35
 Author: Quack1
 Slug: links
+
+
+Note. Définir des alias pour git:
+$ git config --global alias.st 'status' [http://t.co/TsSg6GLgpE](http://t.co/TsSg6GLgpE) 
+
+&#35;DIY  Support pour téléphone portable (photo/caméra) [https://t.co/gFiPJQM3Cd](https://t.co/gFiPJQM3Cd) 
+
+Serge Lazarevic, dernier otage français à l'étranger, aurait donc été libéré aujourd'hui (ou hier) [http://t.co/vkhmhHm8GC](http://t.co/vkhmhHm8GC) 
+
+Paul Rosolie n'a finalement pas voulu se faire manger vivant par un anaconda. Au moins ça aura sauvé l'animal [http://t.co/t6oKnHOsJT](http://t.co/t6oKnHOsJT) 
 
 
 
