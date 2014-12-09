@@ -1,7 +1,8 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-08 00:35
+Date: 2014-12-09 00:35
 Author: Quack1
 Slug: links
+
 
 
 En fait c'est pas compliqué d'être CERT. Tu as juste à publier un lien vers le site de l'éditeur et c'est fini [https://t.co/FgITaRpQr1](https://t.co/FgITaRpQr1) 
