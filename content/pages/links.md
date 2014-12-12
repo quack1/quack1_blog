@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-12 00:35
+Date: 2014-12-13 00:35
 Author: Quack1
 Slug: links
+
+
+I'm supporting Making It [@Patreon](https://twitter.com/Patreon) [http://t.co/w8LFwzl9gg](http://t.co/w8LFwzl9gg) 
+
+Canal+ cachait de la drogue dans la marionnette de Jacques Chirac [http://t.co/ncyuefDEa0](http://t.co/ncyuefDEa0) 
+
+HSC et Deloitte France annoncent leur rapprochement [http://t.co/1yQbBcIHFB](http://t.co/1yQbBcIHFB) 
 
 
 
