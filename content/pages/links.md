@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-13 00:35
+Date: 2014-12-14 00:35
 Author: Quack1
 Slug: links
+
+
+L'équipe de sécurité de Chromium propose d'informer que la connexion n'est pas sécurisée quand HTTP est utilisé [https://t.co/n3SnUsbBdz](https://t.co/n3SnUsbBdz) 
+
+Recette simple et rapide de fish &amp; chips :) [http://t.co/12Q2zKPYT5](http://t.co/12Q2zKPYT5) 
+
+Quand [@Zythom](https://twitter.com/Zythom) perquisitionne un informaticien, ça donne encore un bon article :) [http://t.co/9LD97kuQVo](http://t.co/9LD97kuQVo) 
 
 
 I'm supporting Making It [@Patreon](https://twitter.com/Patreon) [http://t.co/w8LFwzl9gg](http://t.co/w8LFwzl9gg) 
