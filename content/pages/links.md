@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-14 00:35
+Date: 2014-12-15 00:35
 Author: Quack1
 Slug: links
+
+
+Désormais, choisissez vos sites de porn en fonction de leur support d'SSL/TLS :) [https://t.co/3oQ18Z9nTi](https://t.co/3oQ18Z9nTi) (via [@aeris22](https://twitter.com/aeris22) [@Skhaen](https://twitter.com/Skhaen) ) 
 
 
 L'équipe de sécurité de Chromium propose d'informer que la connexion n'est pas sécurisée quand HTTP est utilisé [https://t.co/n3SnUsbBdz](https://t.co/n3SnUsbBdz) 
