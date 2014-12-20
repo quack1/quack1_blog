@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-20 00:35
+Date: 2014-12-21 00:35
 Author: Quack1
 Slug: links
+
+
+Et si la légalisation du cannabis était la bonne solution ? [http://t.co/TR6F49p0EI](http://t.co/TR6F49p0EI) 
+
+Mozilla assume son besoin d'argent et ses choix pour en avoir [http://t.co/UaKhST69Tj](http://t.co/UaKhST69Tj) 
+
+Sea Shepherd en état d'alerte ! Des braconniers fonçent sur eux au sud de l'Australie [http://t.co/0vq9dJhSRw](http://t.co/0vq9dJhSRw) 
+
+Bons conseils pour les débutants en Python [http://t.co/rB8G5m5rjV](http://t.co/rB8G5m5rjV) 
+
+&#35;chocolatPourTous [http://t.co/e5kEV7ix8d](http://t.co/e5kEV7ix8d) 
 
 
 Ils ont pas un peu craqué à l'ANSSI hier ? X] [http://t.co/454yktjxaR](http://t.co/454yktjxaR) 
