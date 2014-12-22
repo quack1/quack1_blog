@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-22 00:35
+Date: 2014-12-23 00:35
 Author: Quack1
 Slug: links
+
+
+Après Nirvana, Foo Fighters et Them Crooked Vultures, Dave Grohl lance les "Teenage Time Killer" en 2015 \m/ [http://t.co/pwCxPikNWB](http://t.co/pwCxPikNWB) 
+
+&#35;TheBrokenGuitar — Réparation d'un dos et d'une tête de guitare accoustique cassés [https://t.co/QGDLAC7xWA](https://t.co/QGDLAC7xWA) 
+
+Suite du lien de ce midi, très bonne page regroupant les luthiers fr [http://t.co/fgoRvxTTFt](http://t.co/fgoRvxTTFt) (par la non-moins excellente [@LaChaineGuitare](https://twitter.com/LaChaineGuitare) ) 
+
+Belles vidéos du luthier breton Franck Chérubin sur la fabrication d'une Telecaster sans outils électriques [http://t.co/mW1oJdxh2X](http://t.co/mW1oJdxh2X) 
+
+HTTP Considered Unethical – Ou pourquoi il faudrait utiliser HTTPS partout #LetsEncryptTheWorld [https://t.co/RFT2AxFP5v](https://t.co/RFT2AxFP5v) 
+
+Après la pile LAMP, la pile LEMH ? [http://t.co/FSJJ5WmqW2](http://t.co/FSJJ5WmqW2) 
 
 
 
