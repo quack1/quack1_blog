@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-23 00:35
+Date: 2014-12-24 00:35
 Author: Quack1
 Slug: links
+
+
+Paul Watson, boss de Sea Shepherd, lance un SOS à la France [http://t.co/r1p0eSLJq7](http://t.co/r1p0eSLJq7) 
+
+Teenage Time Killer redéfinit le terme de "supergroupe" [https://t.co/BO1n5Ms9U1](https://t.co/BO1n5Ms9U1) [http://t.co/4v3p0FXqum](http://t.co/4v3p0FXqum) 
+
+1 morceau de bois + 10 coups de couteau = 1 pince :) [http://t.co/Aknt0INUtm](http://t.co/Aknt0INUtm) 
+
+:D RT [@Tristan_Brtloot](https://twitter.com/Tristan_Brtloot) “Le moment où la vitre se brise est incroyable [http://t.co/BwZn8zNABU“](http://t.co/BwZn8zNABU“) 
 
 
 Après Nirvana, Foo Fighters et Them Crooked Vultures, Dave Grohl lance les "Teenage Time Killer" en 2015 \m/ [http://t.co/pwCxPikNWB](http://t.co/pwCxPikNWB) 
