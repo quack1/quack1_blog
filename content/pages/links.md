@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-25 00:35
+Date: 2014-12-26 00:35
 Author: Quack1
 Slug: links
+
+
+Utilisation des licences Creative Commons en 2014 [https://t.co/yGcCUbF7To](https://t.co/yGcCUbF7To) 
+
+Myths about /dev/urandom [http://t.co/o23wh2ddsA](http://t.co/o23wh2ddsA) 
 
 
 Il crache sur des passants en hurlant : « Par Saint Georges ! » [http://t.co/DafoLqqwLV](http://t.co/DafoLqqwLV) 
