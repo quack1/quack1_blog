@@ -9,7 +9,7 @@ Lang: fr
 
 Ce week-end j'ai mis en pause pendant une journée mon projet [#guitar2bass](/tag/guitar2bass.html) pour remplacer un des micros de mon actuelle guitare électrique.
 
-J'ai récupéré un micro [EMG H4](TK) sur la guitare qui est devenue basse ainsi que des mécaniques « 3+3 » pour donner un petit coup de jeune à ma vieille guitare qui ne doit pas être bien loin de ses 40 ans.
+J'ai récupéré un micro [EMG H4](http://www.emgpickups.com/h4.html) sur la guitare qui est devenue basse ainsi que des mécaniques « 3+3 » pour donner un petit coup de jeune à ma vieille guitare qui ne doit pas être bien loin de ses 40 ans.
 
 Remplacer un micro de guitare est assez simple : on démonte le _pickguard_, on désoude le vieux micro, on soude le nouveau et enfin on remonte le _pickguard_. Dans mon cas, le problème était un peu plus complexe, pour deux raisons :
 
