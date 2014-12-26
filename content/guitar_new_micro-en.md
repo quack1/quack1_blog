@@ -2,7 +2,7 @@ Title: Changing one pickup and the tuning pegs on my guitar
 Date: 2014-07-28 09:37
 Author: Quack1
 Category: DIY
-Tags: DIY, Guitar, I Make, Lutherie
+Tags: DIY, Guitar, I Make, Lutherie, en
 Slug: guitar_new_micro
 Summary: 
 Lang: en

@@ -3,7 +3,7 @@ Date: 2013-11-05 18:43
 Author: Quack1
 Category: Blog
 Lang: en
-Tags: Blog, Pelican, Python, Git, pelican_auto_tweet
+Tags: Blog, Pelican, Python, Git, pelican_auto_tweet, en
 Slug: git_hooks_pelican
 Summary: 
 

@@ -2,7 +2,7 @@ Title: #TheBrokenGuitar — Fixing a broken headstock and back on an acosutic gu
 Date: 2014-12-22 01:04
 Author: Quack1
 Category: DIY
-Tags: thebrokenguitar, DIY, I Make, Guitare, Lutherie, Hack, My Videos
+Tags: thebrokenguitar, DIY, I Make, Guitare, Lutherie, Hack, My Videos, en
 Slug: the_broken_guitar
 Summary: 
 Lang: en

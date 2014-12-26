@@ -2,7 +2,7 @@ Title: &#35;guitar2bass – End of the project, photos and vidéo !
 Date: 2014-11-25 23:39
 Author: Quack1
 Category: DIY
-Tags: guitar2bass, DIY, I Make, Guitare, Lutherie, Basse, Hack, My Videos
+Tags: guitar2bass, DIY, I Make, Guitare, Lutherie, Basse, Hack, My Videos, en
 Slug: guitar_2_bass_fin
 Summary: 
 Lang: en

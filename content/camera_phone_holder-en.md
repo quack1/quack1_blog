@@ -2,7 +2,7 @@ Title: Camera Phone Holder
 Date: 2014-12-06 21:55
 Author: Quack1
 Category: DIY
-Tags: DIY, I Make, Go Pro, Hack, My Videos
+Tags: DIY, I Make, Go Pro, Hack, My Videos, en
 Slug: camera_phone_holder
 Summary: #DIY project where I made a simple holder to hang my phone "GoPro style" to film without keeping it in my hand.
 Lang: en
