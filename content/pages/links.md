@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-26 00:35
+Date: 2014-12-27 00:35
 Author: Quack1
 Slug: links
+
+
+Nice talk by @jimmydiresta about creativity, breakthroughs and happy accidents. "Feed your mind!" [http://t.co/ZRAeQw1Tr2](http://t.co/ZRAeQw1Tr2) 
+
+Pour éviter les disputes pendant les repas de famille : comment bien couper le fromage [http://t.co/1zQ6AX5CIE](http://t.co/1zQ6AX5CIE) 
 
 
 Utilisation des licences Creative Commons en 2014 [https://t.co/yGcCUbF7To](https://t.co/yGcCUbF7To) 
