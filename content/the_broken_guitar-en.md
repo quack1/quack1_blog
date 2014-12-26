@@ -1,4 +1,4 @@
-Title: #TheBrokenGuitar — Réparation d'un dos et d'une tête de guitare accoustique cassés
+Title: #TheBrokenGuitar — Fixing a broken headstock and back on an acosutic guitar
 Date: 2014-12-22 01:04
 Author: Quack1
 Category: DIY
