@@ -2,7 +2,7 @@ Title: &#35;guitar2bass – Fin du projet, photos et vidéo !
 Date: 2014-11-25 23:39
 Author: Quack1
 Category: DIY
-Tags: guitar2bass, DIY, I Make, Guitare, Lutherie, Basse, Hack, I Make, My Videos
+Tags: guitar2bass, DIY, I Make, Guitare, Lutherie, Basse, Hack, My Videos
 Slug: guitar_2_bass_fin
 Summary: 
 Lang: fr
@@ -11,7 +11,7 @@ Mon projet de transformation de ma guitare « [homemade]({filename}/homemade_gui
 
 En fait, la basse est finie depuis début septembre déjà, mais je n'avais pas fait assez de photos de la bête terminée pour pouvoir les publier.
 
-Je me suis donc un peu bougé ce week-end pour organiser une session photo et pour en même temps bricoler une petite vidéo de la fabrication. J'avais pu commencer à [filmer]() les travaux au début puis j'ai dû arrêter de filmer, c'est pourquoi la fin de la vidéo ne contient que des photos que j'avais pu prendre pendant que je bricolais.
+Je me suis donc un peu bougé ce week-end pour organiser une session photo et pour en même temps bricoler une petite vidéo de la fabrication. J'avais pu commencer à [filmer](/tag/my-videos.html) les travaux au début puis j'ai dû arrêter de filmer, c'est pourquoi la fin de la vidéo ne contient que des photos que j'avais pu prendre pendant que je bricolais.
 
 La vidéo est là, et quelques photos en dessous :) (pas de _soundseeing_ pour le moment, je n'ai pas d'ampli de basse ni de bon moyen de l'enregistrer).
 
