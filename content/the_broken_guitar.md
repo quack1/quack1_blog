@@ -2,7 +2,7 @@ Title: #TheBrokenGuitar — Réparation d'un dos et d'une tête de guitare accou
 Date: 2014-12-22 01:04
 Author: Quack1
 Category: DIY
-Tags: thebrokenguitar, DIY, I Make, Guitare, Lutherie, Hack, I Make, My Videos
+Tags: thebrokenguitar, DIY, I Make, Guitare, Lutherie, Hack, My Videos
 Slug: the_broken_guitar
 Summary: 
 Lang: fr
@@ -33,7 +33,7 @@ J'aurais pu je pense retravailler les pièces complètement pour leur donner une
 
 <div align="center" style="color:#ccc;">☠</div>
 
-Le collage de la tête a quant à lui été très simple puisque la cassure étaitr très nette. Un bon coup de colle et des serres-joints lui ont redonné toute sa jeunesse :)
+Le collage de la tête a quant à lui été très simple puisque la cassure était très nette. Un bon coup de colle et des serres-joints lui ont redonné toute sa jeunesse :)
 
 <div align="center"><a href="/upload/the_broken_guitar_1_head0.jpg"><img src="/upload/the_broken_guitar_1_head0.jpg" align="center" width="200px" /></a> &nbsp; <a href="/upload/the_broken_guitar_1_head1.jpg"><img src="/upload/the_broken_guitar_1_head1.jpg" align="center" width="200px" /></a></div>
 
@@ -43,7 +43,7 @@ Le collage de la tête a quant à lui été très simple puisque la cassure éta
 
 <div align="center" style="color:#ccc;">☠</div>
 
-J'ai fini l'instrument avec un peu de poncage sur le dos et au niveau du joint de la tête puis un deux couches de peinture noire brillante en bombe et un bon coup de vernis brillant. Je n'ai pas poli le vernis pour le rendre complètement « miroir » comme le reste de l'instrument puisque je ne suis tout simplement pas équipé pour le faire.
+J'ai fini l'instrument avec un peu de poncage sur le dos et au niveau du joint de la tête puis deux couches de peinture noire brillante en bombe et un bon coup de vernis brillant. Je n'ai pas poli le vernis pour le rendre complètement « miroir » comme le reste de l'instrument puisque je ne suis tout simplement pas équipé pour le faire.
 
 Enfin, j'ai monté un jeu de cordes _Light_, en .011-.052, pour ne pas trop tirer sur la tête dès le début. Comme je n'ai pour le moment pas eu de problèmes je pense passer à un tirant un peu plus fort la prochaine fois, histoire de tester et voir la différence, surtout au niveau du son et de la résonance.
 
