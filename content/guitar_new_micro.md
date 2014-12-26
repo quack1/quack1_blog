@@ -40,7 +40,7 @@ Normalement, j'aurais agrandi la cavité du micro avec une défonceuse mais n'é
 
 C'est là que tout a commencé à se compliquer. Je ne suis pas du tout expert en électronique, encore moins en câblage de guitare. 
 
-Pour essayer de sortir un truc propre, je me suis inspiré du câblage d'origine de ma guitare ainsi que des schémas mis à disposition par [Seymour Duncan](https://twitter.com/SeymourDuncan) sur [leur site](TK).
+Pour essayer de sortir un truc propre, je me suis inspiré du câblage d'origine de ma guitare ainsi que des schémas mis à disposition par [Seymour Duncan](https://twitter.com/SeymourDuncan) sur [leur site](http://www.seymourduncan.com/support/wiring-diagrams/).
 
 L'inconvénient pour moi est que les guitares d'aujourd'hui sont généralement pourvues d'un sélecteur à _x_ positions, alors que j'ai ici 3 _switchs_ « on/off » permettant d'allumer ou non chacun des micros, suivis d'un volume par micro et d'une tonalité générale.
 
