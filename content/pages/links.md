@@ -1,7 +1,97 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-09 00:35
+Date: 2014-12-26 00:35
 Author: Quack1
 Slug: links
+
+
+Utilisation des licences Creative Commons en 2014 [https://t.co/yGcCUbF7To](https://t.co/yGcCUbF7To) 
+
+Myths about /dev/urandom [http://t.co/o23wh2ddsA](http://t.co/o23wh2ddsA) 
+
+
+Il crache sur des passants en hurlant : « Par Saint Georges ! » [http://t.co/DafoLqqwLV](http://t.co/DafoLqqwLV) 
+
+
+Paul Watson, boss de Sea Shepherd, lance un SOS à la France [http://t.co/r1p0eSLJq7](http://t.co/r1p0eSLJq7) 
+
+Teenage Time Killer redéfinit le terme de "supergroupe" [https://t.co/BO1n5Ms9U1](https://t.co/BO1n5Ms9U1) [http://t.co/4v3p0FXqum](http://t.co/4v3p0FXqum) 
+
+1 morceau de bois + 10 coups de couteau = 1 pince :) [http://t.co/Aknt0INUtm](http://t.co/Aknt0INUtm) 
+
+:D RT [@Tristan_Brtloot](https://twitter.com/Tristan_Brtloot) “Le moment où la vitre se brise est incroyable [http://t.co/BwZn8zNABU“](http://t.co/BwZn8zNABU“) 
+
+
+Après Nirvana, Foo Fighters et Them Crooked Vultures, Dave Grohl lance les "Teenage Time Killer" en 2015 \m/ [http://t.co/pwCxPikNWB](http://t.co/pwCxPikNWB) 
+
+&#35;TheBrokenGuitar — Réparation d'un dos et d'une tête de guitare accoustique cassés [https://t.co/QGDLAC7xWA](https://t.co/QGDLAC7xWA) 
+
+Suite du lien de ce midi, très bonne page regroupant les luthiers fr [http://t.co/fgoRvxTTFt](http://t.co/fgoRvxTTFt) (par la non-moins excellente [@LaChaineGuitare](https://twitter.com/LaChaineGuitare) ) 
+
+Belles vidéos du luthier breton Franck Chérubin sur la fabrication d'une Telecaster sans outils électriques [http://t.co/mW1oJdxh2X](http://t.co/mW1oJdxh2X) 
+
+HTTP Considered Unethical – Ou pourquoi il faudrait utiliser HTTPS partout #LetsEncryptTheWorld [https://t.co/RFT2AxFP5v](https://t.co/RFT2AxFP5v) 
+
+Après la pile LAMP, la pile LEMH ? [http://t.co/FSJJ5WmqW2](http://t.co/FSJJ5WmqW2) 
+
+
+
+Et si la légalisation du cannabis était la bonne solution ? [http://t.co/TR6F49p0EI](http://t.co/TR6F49p0EI) 
+
+Mozilla assume son besoin d'argent et ses choix pour en avoir [http://t.co/UaKhST69Tj](http://t.co/UaKhST69Tj) 
+
+Sea Shepherd en état d'alerte ! Des braconniers fonçent sur eux au sud de l'Australie [http://t.co/0vq9dJhSRw](http://t.co/0vq9dJhSRw) 
+
+Bons conseils pour les débutants en Python [http://t.co/rB8G5m5rjV](http://t.co/rB8G5m5rjV) 
+
+&#35;chocolatPourTous [http://t.co/e5kEV7ix8d](http://t.co/e5kEV7ix8d) 
+
+
+Ils ont pas un peu craqué à l'ANSSI hier ? X] [http://t.co/454yktjxaR](http://t.co/454yktjxaR) 
+
+Nice tool to test – Dshell, an extensible network forensic analysis framework [https://t.co/9v1AWqJKam](https://t.co/9v1AWqJKam) 
+
+
+
+
+Lou Reed, Green Day, Stevie Ray Vaughan, Bill Withers, Joan Jett admis au Rock&amp;Roll Hall of Fame [http://t.co/vKKIxq0ipP](http://t.co/vKKIxq0ipP) 
+
+
+
+Désormais, choisissez vos sites de porn en fonction de leur support d'SSL/TLS :) [https://t.co/3oQ18Z9nTi](https://t.co/3oQ18Z9nTi) (via [@aeris22](https://twitter.com/aeris22) [@Skhaen](https://twitter.com/Skhaen) ) 
+
+
+L'équipe de sécurité de Chromium propose d'informer que la connexion n'est pas sécurisée quand HTTP est utilisé [https://t.co/n3SnUsbBdz](https://t.co/n3SnUsbBdz) 
+
+Recette simple et rapide de fish &amp; chips :) [http://t.co/12Q2zKPYT5](http://t.co/12Q2zKPYT5) 
+
+Quand [@Zythom](https://twitter.com/Zythom) perquisitionne un informaticien, ça donne encore un bon article :) [http://t.co/9LD97kuQVo](http://t.co/9LD97kuQVo) 
+
+
+I'm supporting Making It [@Patreon](https://twitter.com/Patreon) [http://t.co/w8LFwzl9gg](http://t.co/w8LFwzl9gg) 
+
+Canal+ cachait de la drogue dans la marionnette de Jacques Chirac [http://t.co/ncyuefDEa0](http://t.co/ncyuefDEa0) 
+
+HSC et Deloitte France annoncent leur rapprochement [http://t.co/1yQbBcIHFB](http://t.co/1yQbBcIHFB) 
+
+
+
+Putty Rider, outil permettant d'hijacker des sessions Putty (en local sur le système uniquement) [https://t.co/emdqRb2WYh](https://t.co/emdqRb2WYh) 
+
+Note. Faire un `uniq` en se basant sur une colonne spécifique d'un fichier [http://t.co/ST6A2AFCq7](http://t.co/ST6A2AFCq7) 
+
+Pour bien commencer la journée, ne faites pas d’enfant [http://t.co/qWIEvbR65s](http://t.co/qWIEvbR65s) 
+
+.@brokep revient sur la fermeture de The Pirate Bay et aimerait (?) que TPB ne rouvre pas ses portes [http://t.co/yZ6CrCEPgP](http://t.co/yZ6CrCEPgP) 
+
+
+Note. Définir des alias pour git:
+$ git config --global alias.st 'status' [http://t.co/TsSg6GLgpE](http://t.co/TsSg6GLgpE) 
+
+&#35;DIY  Support pour téléphone portable (photo/caméra) [https://t.co/gFiPJQM3Cd](https://t.co/gFiPJQM3Cd) 
+
+Serge Lazarevic, dernier otage français à l'étranger, aurait donc été libéré aujourd'hui (ou hier) [http://t.co/vkhmhHm8GC](http://t.co/vkhmhHm8GC) 
+
+Paul Rosolie n'a finalement pas voulu se faire manger vivant par un anaconda. Au moins ça aura sauvé l'animal [http://t.co/t6oKnHOsJT](http://t.co/t6oKnHOsJT) 
 
 
 
