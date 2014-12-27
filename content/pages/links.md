@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-27 00:35
+Date: 2014-12-28 00:35
 Author: Quack1
 Slug: links
+
+
+J'ai une nouvelle guitare dans ma collection :D [http://t.co/8EyVhpmJxW](http://t.co/8EyVhpmJxW) 
 
 
 Nice talk by @jimmydiresta about creativity, breakthroughs and happy accidents. "Feed your mind!" [http://t.co/ZRAeQw1Tr2](http://t.co/ZRAeQw1Tr2) 
