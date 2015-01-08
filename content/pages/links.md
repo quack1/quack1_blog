@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-08 00:35
+Date: 2015-01-09 00:35
 Author: Quack1
 Slug: links
+
+
+&#35;JeSuisCharlie [http://t.co/KRysJYBXwf](http://t.co/KRysJYBXwf) 
+
+La conf. de rédaction de Charlie Hebdo au cours de laquell a été déssinée l’une de leurs meilleures couv [http://t.co/ZCPHsrunPM](http://t.co/ZCPHsrunPM) 
 
 
 Je me lasse pas de cette impro sur l'intro de Californication des RHCP [http://t.co/CO66H4hpqI](http://t.co/CO66H4hpqI) (à écouter au casque pour entendre la basse) 
