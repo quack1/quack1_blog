@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-09 00:35
+Date: 2015-01-10 00:35
 Author: Quack1
 Slug: links
+
+
+Le bloguer Raif Badawi reçoit 50 coups de fouets, encore 950 à venir [http://t.co/FfTW7DWbhx](http://t.co/FfTW7DWbhx) 
+
+Non, Apple, tu n’es pas Charlie – HTeuMeuLeu - [http://t.co/FPGrBn9ix9](http://t.co/FPGrBn9ix9) 
 
 
 &#35;JeSuisCharlie [http://t.co/KRysJYBXwf](http://t.co/KRysJYBXwf) 
