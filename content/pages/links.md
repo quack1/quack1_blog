@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-12 00:35
+Date: 2015-01-13 00:35
 Author: Quack1
 Slug: links
+
+
+Keysweeper, une « prise de courant » pour keylogguer les claviers sans-fil Microsoft [http://t.co/0pgO2Oh12y](http://t.co/0pgO2Oh12y) 
+
+La Une du Charlie Hebdo de mercredi, dessinée par Luz #jesuischarlie [http://t.co/bDeHtszymL](http://t.co/bDeHtszymL) 
+
+On est tous d’accord sur la liberté d’expression, bien sûr. [http://t.co/lpXuNjGH6u](http://t.co/lpXuNjGH6u) 
+
+Le site de Notepad++ se fait défacer à cause de leur version spéciale « Je suis Charlie » (via @mikko) [https://t.co/LVDoSPJ7G9](https://t.co/LVDoSPJ7G9) 
+
+Couverture des attentats : le CSA convoque télévisions et radios [http://t.co/d9h9HhjXRj](http://t.co/d9h9HhjXRj) 
+
+Tryo - "Charlie" (hommage à Tignous) - #JeSuisCharlie [http://t.co/1teR4HbdQm](http://t.co/1teR4HbdQm) 
 
 
 La Marseillaise jouée avant un match de hockey à Montréal [http://t.co/b7kFgA2iSO](http://t.co/b7kFgA2iSO) 
