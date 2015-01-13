@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-13 00:35
+Date: 2015-01-14 00:35
 Author: Quack1
 Slug: links
+
+
+« C’est Charlie, venez vite, ils sont tous morts » - Récit de la tuerie de Charlie Hebdo par Sigolene Vinson [http://t.co/iJ7nuboWXd](http://t.co/iJ7nuboWXd) 
+
+Les requins ne tuent pas les gens. Les gens qui tuent les requins, tuent les gens [http://t.co/krVRPYmoZu](http://t.co/krVRPYmoZu) 
+
+Il tente d'échapper à des zombies – Parkour en FPS [http://t.co/GDPJu414i9](http://t.co/GDPJu414i9) 
+
+L'hommage de Fluide Glacial à Charlie Hebdo [http://t.co/kaFbSvupDi](http://t.co/kaFbSvupDi) 
 
 
 Keysweeper, une « prise de courant » pour keylogguer les claviers sans-fil Microsoft [http://t.co/0pgO2Oh12y](http://t.co/0pgO2Oh12y) 
