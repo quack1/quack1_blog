@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-14 00:35
+Date: 2015-01-15 00:35
 Author: Quack1
 Slug: links
+
+
+Les réserves de sang de l'EFS sont très faibles en ce moment. Sauvez des vies, faites un don [http://t.co/xTJup2GJQT](http://t.co/xTJup2GJQT) 
 
 
 « C’est Charlie, venez vite, ils sont tous morts » - Récit de la tuerie de Charlie Hebdo par Sigolene Vinson [http://t.co/iJ7nuboWXd](http://t.co/iJ7nuboWXd) 
