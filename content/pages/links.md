@@ -1,7 +1,88 @@
 Title: Liens partagés sur Twitter
-Date: 2014-12-26 00:35
+Date: 2015-01-16 00:35
 Author: Quack1
 Slug: links
+
+
+Nouvelle vidéo de [@JimmyDiResta](https://twitter.com/JimmyDiResta) qui fabrique une clé en laiton pour un vieux cadenas [https://t.co/rsBKfKzNGb](https://t.co/rsBKfKzNGb) #diy 
+
+
+Les réserves de sang de l'EFS sont très faibles en ce moment. Sauvez des vies, faites un don [http://t.co/xTJup2GJQT](http://t.co/xTJup2GJQT) 
+
+
+« C’est Charlie, venez vite, ils sont tous morts » - Récit de la tuerie de Charlie Hebdo par Sigolene Vinson [http://t.co/iJ7nuboWXd](http://t.co/iJ7nuboWXd) 
+
+Les requins ne tuent pas les gens. Les gens qui tuent les requins, tuent les gens [http://t.co/krVRPYmoZu](http://t.co/krVRPYmoZu) 
+
+Il tente d'échapper à des zombies – Parkour en FPS [http://t.co/GDPJu414i9](http://t.co/GDPJu414i9) 
+
+L'hommage de Fluide Glacial à Charlie Hebdo [http://t.co/kaFbSvupDi](http://t.co/kaFbSvupDi) 
+
+
+Keysweeper, une « prise de courant » pour keylogguer les claviers sans-fil Microsoft [http://t.co/0pgO2Oh12y](http://t.co/0pgO2Oh12y) 
+
+La Une du Charlie Hebdo de mercredi, dessinée par Luz #jesuischarlie [http://t.co/bDeHtszymL](http://t.co/bDeHtszymL) 
+
+On est tous d’accord sur la liberté d’expression, bien sûr. [http://t.co/lpXuNjGH6u](http://t.co/lpXuNjGH6u) 
+
+Le site de Notepad++ se fait défacer à cause de leur version spéciale « Je suis Charlie » (via @mikko) [https://t.co/LVDoSPJ7G9](https://t.co/LVDoSPJ7G9) 
+
+Couverture des attentats : le CSA convoque télévisions et radios [http://t.co/d9h9HhjXRj](http://t.co/d9h9HhjXRj) 
+
+Tryo - "Charlie" (hommage à Tignous) - #JeSuisCharlie [http://t.co/1teR4HbdQm](http://t.co/1teR4HbdQm) 
+
+
+La Marseillaise jouée avant un match de hockey à Montréal [http://t.co/b7kFgA2iSO](http://t.co/b7kFgA2iSO) 
+
+
+La femme d'un otage annonce sur BFM que leurs infos diffusées à l'antenne ont failli les faire tuer.. [http://t.co/PPZBFauw7D](http://t.co/PPZBFauw7D) 
+
+
+Le bloguer Raif Badawi reçoit 50 coups de fouets, encore 950 à venir [http://t.co/FfTW7DWbhx](http://t.co/FfTW7DWbhx) 
+
+Non, Apple, tu n’es pas Charlie – HTeuMeuLeu - [http://t.co/FPGrBn9ix9](http://t.co/FPGrBn9ix9) 
+
+
+&#35;JeSuisCharlie [http://t.co/KRysJYBXwf](http://t.co/KRysJYBXwf) 
+
+La conf. de rédaction de Charlie Hebdo au cours de laquell a été déssinée l’une de leurs meilleures couv [http://t.co/ZCPHsrunPM](http://t.co/ZCPHsrunPM) 
+
+
+Je me lasse pas de cette impro sur l'intro de Californication des RHCP [http://t.co/CO66H4hpqI](http://t.co/CO66H4hpqI) (à écouter au casque pour entendre la basse) 
+
+Pyp, un mix de sed|awk en Python pour les shells Unix [http://t.co/eYUtx6WoLY](http://t.co/eYUtx6WoLY) 
+
+
+Oh le beau spam ! :) [http://t.co/6YcMGp17u0](http://t.co/6YcMGp17u0) 
+
+
+Time-lapse de la résolution d'un Rubik's Cube 17×17×17 [http://t.co/rcdRgEqf5F](http://t.co/rcdRgEqf5F) 
+
+Édito de 2015 du Cpt. Paul Watson, Fondateur de Sea Shepherd [http://t.co/LyYJMuv3il](http://t.co/LyYJMuv3il) 
+
+BrowserLeaks — Outils de tests de la sécurité et de la protection de la vie privée apportée par votre navigateur [https://t.co/hrBQ4qaDZ1](https://t.co/hrBQ4qaDZ1) 
+
+
+
+Quelqu'un a un bon plan pour commander des vis pour micro de basse Precision sans se taper 10€ de fdp ? (les vis : [http://t.co/HFVyHM0Rwj](http://t.co/HFVyHM0Rwj) ) 
+
+
+
+Lego party! [http://t.co/bxqKs96K8V](http://t.co/bxqKs96K8V) 
+
+
+
+
+
+Je reçoit ces spams pas bloqués par Gmail depuis ce matin. Je suis le seul ? [http://t.co/fZDGrPdn9g](http://t.co/fZDGrPdn9g) 
+
+
+J'ai une nouvelle guitare dans ma collection :D [http://t.co/8EyVhpmJxW](http://t.co/8EyVhpmJxW) 
+
+
+Nice talk by @jimmydiresta about creativity, breakthroughs and happy accidents. "Feed your mind!" [http://t.co/ZRAeQw1Tr2](http://t.co/ZRAeQw1Tr2) 
+
+Pour éviter les disputes pendant les repas de famille : comment bien couper le fromage [http://t.co/1zQ6AX5CIE](http://t.co/1zQ6AX5CIE) 
 
 
 Utilisation des licences Creative Commons en 2014 [https://t.co/yGcCUbF7To](https://t.co/yGcCUbF7To) 
