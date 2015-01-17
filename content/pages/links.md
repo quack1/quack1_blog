@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-17 00:35
+Date: 2015-01-18 00:35
 Author: Quack1
 Slug: links
+
+
+Vous êtes sérieux [@BFMTV](https://twitter.com/BFMTV) ?? RT [@Dr_Turfu](https://twitter.com/Dr_Turfu) “Ah... BFMTV... [http://t.co/RGBCEgiGqh“](http://t.co/RGBCEgiGqh“) 
+
+Dérapage raciste chez Morandini : heureusement, Porte était là ! (trouvé via [@jcfrog](https://twitter.com/jcfrog) ) [http://t.co/oJ1VUUeT5W](http://t.co/oJ1VUUeT5W) 
 
 
 Problème de masse sur la basse... On répare et let's rock ! \m/ [http://t.co/l0BdGWuXBY](http://t.co/l0BdGWuXBY) 
