@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-18 00:35
+Date: 2015-01-19 00:35
 Author: Quack1
 Slug: links
+
+
+Les Black Keys annoncent la couleur [http://t.co/OWbnunuP8o](http://t.co/OWbnunuP8o) 
+
+Speed up your guitar tuning! [http://t.co/bjkezlOGId](http://t.co/bjkezlOGId) 
+
+&#35;IlEstCharlie ? RT [@infos140](https://twitter.com/infos140) PAPE-PHILIPPINES Près de 6 millions de fidèles à Manille pour la messe du pape François [http://t.co/ga4AepjRyw](http://t.co/ga4AepjRyw) 
 
 
 Vous êtes sérieux [@BFMTV](https://twitter.com/BFMTV) ?? RT [@Dr_Turfu](https://twitter.com/Dr_Turfu) “Ah... BFMTV... [http://t.co/RGBCEgiGqh“](http://t.co/RGBCEgiGqh“) 
