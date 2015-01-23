@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-23 00:35
+Date: 2015-01-24 00:35
 Author: Quack1
 Slug: links
+
+
+Les Foo Fighters reprennent un chant scandé par la foule au Chili [http://t.co/zLojoaBqGH](http://t.co/zLojoaBqGH) 
+
+Je suis une développeuse Ninja. Et vous ? Faites-le test ! #Killbill #dev #Shinobi #furtif [http://t.co/iFbjh0ELpr](http://t.co/iFbjh0ELpr) 
+
+&#35;FIC2015 Challenge Writup par [@newsoft](https://twitter.com/newsoft) [http://t.co/arIWZpSq60](http://t.co/arIWZpSq60) 
+
+L'ANSSI publie un guide de déploiement sécurisé de Mozilla Firefox en entreprise [http://t.co/Eh3O7WZYAS](http://t.co/Eh3O7WZYAS) 
+
+Les télés et Charlie Hebdo : devoir d’informer ? Mon cul ! [http://t.co/wWcBN2n35E](http://t.co/wWcBN2n35E) 
+
+Les serveurs de Silk Road 2 découverts grâce à des relais Tor « malveillants » exploitant une vuln. de l'an dernier [http://t.co/ucdK9bFOjQ](http://t.co/ucdK9bFOjQ) 
+
+Les "gens comme Sea Shepherd" réussissent là où la marine échoue [http://t.co/1RQEdQCggP](http://t.co/1RQEdQCggP) 
 
 
 Si vous voulez embêter vos potes, voilà une bonne liste de domaines ;) [http://t.co/cRPBjbqfx3](http://t.co/cRPBjbqfx3) 
