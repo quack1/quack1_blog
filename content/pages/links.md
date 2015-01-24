@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-24 00:35
+Date: 2015-01-25 00:35
 Author: Quack1
 Slug: links
+
+
+Joe Satrinani designing his 25th Anniversary Ibanez JS Signature guitar [http://t.co/tZmFqMG6fi](http://t.co/tZmFqMG6fi) 
+
+À cause de [@Serianox_](https://twitter.com/Serianox_) je suis en train de passer 1/2h à regarder un tuto d'un mec qui coud une peluche de Yoshi &gt;&lt; [http://t.co/ZFGzsKnLRE](http://t.co/ZFGzsKnLRE) 
 
 
 Les Foo Fighters reprennent un chant scandé par la foule au Chili [http://t.co/zLojoaBqGH](http://t.co/zLojoaBqGH) 
