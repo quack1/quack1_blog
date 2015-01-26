@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-26 00:35
+Date: 2015-01-27 00:35
 Author: Quack1
 Slug: links
+
+
+Des retraités jouent à GTA V pour la première fois (et trouvent ça cool) [http://t.co/jZl9QHOoW8](http://t.co/jZl9QHOoW8) 
 
 
 Ancient speed-shooting archery technique revived by amazing LARPer whose videos will blow your mind - Boing Boing - [http://t.co/elcAdMUl5u](http://t.co/elcAdMUl5u) 
