@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-27 00:35
+Date: 2015-01-28 00:35
 Author: Quack1
 Slug: links
+
+
+C'est pour [@Sniperovitch](https://twitter.com/Sniperovitch) ça :p RT [@doctorow](https://twitter.com/doctorow) “3D printed fingernails [2014] [http://t.co/A6KfPShulU](http://t.co/A6KfPShulU) [http://t.co/vBy3TYq3IA“](http://t.co/vBy3TYq3IA“) 
 
 
 Des retraités jouent à GTA V pour la première fois (et trouvent ça cool) [http://t.co/jZl9QHOoW8](http://t.co/jZl9QHOoW8) 
