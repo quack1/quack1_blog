@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-29 00:35
+Date: 2015-01-30 00:35
 Author: Quack1
 Slug: links
+
+
+Nouvelle série de vidéos par @jimmydiresta : « Jimmy Tips » ! Partie 1 : Colle à chaud ! #DIY [https://t.co/h11l0FVKaE](https://t.co/h11l0FVKaE) 
 
 
 How To Make A Laser Guided Blowgun  [http://t.co/vyimYU3eRP](http://t.co/vyimYU3eRP) #TheKingOfRandom 
