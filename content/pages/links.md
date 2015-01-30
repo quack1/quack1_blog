@@ -1,7 +1,11 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-30 00:35
+Date: 2015-01-31 00:35
 Author: Quack1
 Slug: links
+
+
+Apple a donc $178Mds de trésorerie... RT [@CommitStrip_fr](https://twitter.com/CommitStrip_fr) “Trop de cash tue le cash
+ #Apple [http://t.co/pjxn6C6v4G](http://t.co/pjxn6C6v4G) [http://t.co/zd0VM62MVf“](http://t.co/zd0VM62MVf“) 
 
 
 Nouvelle série de vidéos par @jimmydiresta : « Jimmy Tips » ! Partie 1 : Colle à chaud ! #DIY [https://t.co/h11l0FVKaE](https://t.co/h11l0FVKaE) 
