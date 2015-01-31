@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-01-31 00:35
+Date: 2015-02-01 00:35
 Author: Quack1
 Slug: links
+
+
+Je devrais pas regarder des mecs se fabriquer des longboards. J'ai envie de m'en faire un maintenant ! [http://t.co/0NYRjzcapD](http://t.co/0NYRjzcapD) 
 
 
 Apple a donc $178Mds de trésorerie... RT [@CommitStrip_fr](https://twitter.com/CommitStrip_fr) “Trop de cash tue le cash
