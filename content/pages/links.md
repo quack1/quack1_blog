@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-03 00:35
+Date: 2015-02-04 00:35
 Author: Quack1
 Slug: links
+
+
+Tristan @nitot, fondateur de Mozilla Europe, quitte Mozilla [http://t.co/aw8ZKisfXe](http://t.co/aw8ZKisfXe) 
 
 
 MalwareViz - Visualiser graphiquement des malwares analysés par [http://t.co/oCsB3AmCCc](http://t.co/oCsB3AmCCc) - [https://t.co/xp5wGT23u2](https://t.co/xp5wGT23u2) 
