@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-04 00:35
+Date: 2015-02-05 00:35
 Author: Quack1
 Slug: links
+
+
+Putain, les razmokets ont 24 ans... #vieux [http://t.co/H5c14BoUjD](http://t.co/H5c14BoUjD) 
+
+Ça aurait été sympa s'ils avaient pas demandé de jeter les cadenas dans la Seine :( RT [@furrtek](https://twitter.com/furrtek) [https://t.co/uY01bf3Rpm](https://t.co/uY01bf3Rpm) &lt;3“ 
 
 
 Tristan @nitot, fondateur de Mozilla Europe, quitte Mozilla [http://t.co/aw8ZKisfXe](http://t.co/aw8ZKisfXe) 
