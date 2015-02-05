@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-05 00:35
+Date: 2015-02-06 00:35
 Author: Quack1
 Slug: links
+
+
+La communauté [...] c’est la somme de milliers petites choses qui amène le mouvement dans la bonne direction. [http://t.co/yjGF9Rb6sx](http://t.co/yjGF9Rb6sx) 
 
 
 Putain, les razmokets ont 24 ans... #vieux [http://t.co/H5c14BoUjD](http://t.co/H5c14BoUjD) 
