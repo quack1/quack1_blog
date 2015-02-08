@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-08 00:35
+Date: 2015-02-09 00:35
 Author: Quack1
 Slug: links
+
+
+J'ai cru que j'allais rien comprendre aux tétrades, mais la synthèse à 10'00" synthétise tout bien (à peu près) :) [http://t.co/pjRaN6uvSc](http://t.co/pjRaN6uvSc) 
 
 
 
