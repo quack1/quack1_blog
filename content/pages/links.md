@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-09 00:35
+Date: 2015-02-10 00:35
 Author: Quack1
 Slug: links
+
+
+Hearing Tarantino, ou « De l’importance des bruitages dans les films de Quentin Tarantino » [http://t.co/fETrERCqli](http://t.co/fETrERCqli) 
 
 
 J'ai cru que j'allais rien comprendre aux tétrades, mais la synthèse à 10'00" synthétise tout bien (à peu près) :) [http://t.co/pjRaN6uvSc](http://t.co/pjRaN6uvSc) 
