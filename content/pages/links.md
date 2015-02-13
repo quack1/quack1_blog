@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-13 00:35
+Date: 2015-02-14 00:35
 Author: Quack1
 Slug: links
+
+
+Analyse technique du dropper de CTB-Locker [http://t.co/AOyegjtfOy](http://t.co/AOyegjtfOy) 
 
 
 So [@FiloSottile](https://twitter.com/FiloSottile) lost his NAS password... and pown'd it ~:) [http://t.co/5Px4rEJTHK](http://t.co/5Px4rEJTHK) 
