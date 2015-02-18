@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-18 00:35
+Date: 2015-02-19 00:35
 Author: Quack1
 Slug: links
+
+
+C'est pas le bordel chez moi, c'est pour développer ma créativité ! (par @bouletcorp) [http://t.co/eloNONOvz0](http://t.co/eloNONOvz0) 
+
+Aller « 235x » plus vite que des outils de Big Data en utilisant....des commandes Shell (grep/awk/sort/...) :) [http://t.co/623xTgNoxW](http://t.co/623xTgNoxW) 
+
+Trend Micro dénonce des "agresseurs arabes" contre Israël [http://t.co/nSj66jJmhU](http://t.co/nSj66jJmhU) 
+
+VirusTotal s'associe à des (gros) éditeurs de logiciels pour établir des whitelists et supprimer des faux-positifs [http://t.co/otKb3YSNij](http://t.co/otKb3YSNij) 
 
 
 Après la Useless Machine, voici The Annoying Machine [http://t.co/VG1jcNh38E](http://t.co/VG1jcNh38E) 
