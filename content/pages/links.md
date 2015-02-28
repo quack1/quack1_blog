@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-02-28 00:35
+Date: 2015-03-01 00:35
 Author: Quack1
 Slug: links
+
+
+Le prochain (premier ?) vrai smartphone Ubuntu a l'air sympa niveau specs [http://t.co/TXOlo8DTcX](http://t.co/TXOlo8DTcX) #ubuntu [http://t.co/i1cFtDVOIk“](http://t.co/i1cFtDVOIk“) 
 
 
 Je crois que le chat de @jimmydiresta a quand même un super maître :) [https://t.co/BfF6MLnXmK](https://t.co/BfF6MLnXmK) 
