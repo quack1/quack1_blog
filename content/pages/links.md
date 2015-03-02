@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-02 00:35
+Date: 2015-03-03 00:35
 Author: Quack1
 Slug: links
+
+
+WTF ? RT [@brainmagazine](https://twitter.com/brainmagazine) “Les femmes rondes selon Cristina Cordula. [http://t.co/mcV09gmcCk](http://t.co/mcV09gmcCk) [http://t.co/xuga4aZaLJ“](http://t.co/xuga4aZaLJ“) 
 
 
 &#35;diy #guitar [https://t.co/qwE8vTjiak](https://t.co/qwE8vTjiak) 
