@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-06 00:35
+Date: 2015-03-07 00:35
 Author: Quack1
 Slug: links
+
+
+Des fois le mode aléatoire de Spotify est pas con ! \m/ [http://t.co/bAypmpXZHt](http://t.co/bAypmpXZHt) 
 
 
 Really enjoyed this (old) interview of [@kauerguitars](https://twitter.com/kauerguitars) by @lachaineguitare! 
