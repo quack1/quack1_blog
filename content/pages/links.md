@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-12 00:35
+Date: 2015-03-13 00:35
 Author: Quack1
 Slug: links
+
+
+Avec l'outil Inception on peut dumper (et modifier) la RAM d'un PC via le port #Firewire [http://t.co/30ePkCeYCb](http://t.co/30ePkCeYCb) #SecurityDay 
+
+L'@ESGI est une école de geek #SecurityDay [http://t.co/1ENdO8KeD2](http://t.co/1ENdO8KeD2) 
+
+Le journaliste de MetroNews essaie de trolley Noël Gallagher [http://t.co/aMEXnputWK](http://t.co/aMEXnputWK) 
 
 
 C'est sérieux ça ? (par [@fr_citoyen](https://twitter.com/fr_citoyen) ) [http://t.co/l08IPhEMNF](http://t.co/l08IPhEMNF) 
