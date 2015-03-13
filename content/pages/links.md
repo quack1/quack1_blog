@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-13 00:35
+Date: 2015-03-14 00:35
 Author: Quack1
 Slug: links
+
+
+J'avais ce truc ouvert dans mon Firefox, je sais pas d'où ça sort, ni qui l'a partagé à la base... O_o #nsfw [https://t.co/ezul6doHiX](https://t.co/ezul6doHiX) 
 
 
 Avec l'outil Inception on peut dumper (et modifier) la RAM d'un PC via le port #Firewire [http://t.co/30ePkCeYCb](http://t.co/30ePkCeYCb) #SecurityDay 
