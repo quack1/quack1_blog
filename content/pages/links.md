@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-21 00:35
+Date: 2015-03-22 00:35
 Author: Quack1
 Slug: links
+
+
+Je découvre cette étrange Gibson Reverse Flying V sur l'(excellent) blog de [@beurks](https://twitter.com/beurks) [http://t.co/WAD3w2ToAH](http://t.co/WAD3w2ToAH) 
+
+Logguer ses conversations IRC avec irssi [http://t.co/HNCwxfElMH](http://t.co/HNCwxfElMH) 
 
 
 
