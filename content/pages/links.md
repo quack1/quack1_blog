@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-22 00:35
+Date: 2015-03-23 00:35
 Author: Quack1
 Slug: links
+
+
+Completely \m/ RT [@TheGuitarChnnl](https://twitter.com/TheGuitarChnnl) “Gotta agree with this, right? [http://t.co/kA8JDVt63k“](http://t.co/kA8JDVt63k“) 
+
+Average American Female mannequin vs. Average American Female [http://t.co/yDjgCuN2jF](http://t.co/yDjgCuN2jF) 
 
 
 Je découvre cette étrange Gibson Reverse Flying V sur l'(excellent) blog de [@beurks](https://twitter.com/beurks) [http://t.co/WAD3w2ToAH](http://t.co/WAD3w2ToAH) 
