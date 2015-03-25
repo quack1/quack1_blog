@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-25 00:35
+Date: 2015-03-26 00:35
 Author: Quack1
 Slug: links
+
+
+Créer une partition de 3To en ext4 (spoil: choisir une table de partitions "gpt") [http://t.co/QsIKI7IrIA](http://t.co/QsIKI7IrIA) 
 
 
 Comment sont créés les zombies de "The Walking Dead" [http://t.co/yCgaUYPoeZ](http://t.co/yCgaUYPoeZ) 
