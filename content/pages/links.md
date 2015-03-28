@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-03-28 00:35
+Date: 2015-03-29 00:35
 Author: Quack1
 Slug: links
+
+
+CERTitude : outil de détection de compromission large échelle du CERT-Solucom [http://t.co/eU4Y58RKwl](http://t.co/eU4Y58RKwl) 
 
 
 SANS - Poster Memory Forensics [http://t.co/cBvCW0hUI1](http://t.co/cBvCW0hUI1) 
