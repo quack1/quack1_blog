@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-04-05 00:35
+Date: 2015-04-06 00:35
 Author: Quack1
 Slug: links
+
+
+Vu sur [http://t.co/WfVDXaI5jt](http://t.co/WfVDXaI5jt) :  « Est ce Dieu ou le diable qui a mis 6 cordes aux guitares et seulement 5 doigts aux mains ? » (par fidler) 
 
 
 
