@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-04-09 00:35
+Date: 2015-04-10 00:35
 Author: Quack1
 Slug: links
+
+
+Dat troll — « La fille de Kurt Cobain préfère Oasis à Nirvana » [http://t.co/GFvHLckSHU](http://t.co/GFvHLckSHU) 
+
+La Waukesha de Pierre-Marie Chateauneuf dans le dernier Guitar Part \o/ [http://t.co/qcx7vGR5Ak](http://t.co/qcx7vGR5Ak) 
 
 
 
