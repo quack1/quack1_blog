@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-04-19 00:35
+Date: 2015-04-20 00:35
 Author: Quack1
 Slug: links
+
+
+Bonne musique pour dessiner des guitares :) [https://t.co/FFCTe8RPhj](https://t.co/FFCTe8RPhj) 
+
+Mes quatre prochains projets lutherie. Laquelle sera la prochaine ? ~:) [https://t.co/zaluYOxBfY](https://t.co/zaluYOxBfY) 
 
 
 
