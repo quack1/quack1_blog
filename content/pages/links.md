@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-04-27 00:35
+Date: 2015-04-28 00:35
 Author: Quack1
 Slug: links
+
+
+Pathétique Emma… » DiY Vape [https://t.co/b06BftQY7c](https://t.co/b06BftQY7c) 
+
+« [...] dont 1,7 million sous forme de lingots et de pièces d'or » O_o [http://t.co/9Kly0DzPLr](http://t.co/9Kly0DzPLr) 
+
+2015 Honeynet Project Annual Workshop - The Cédric Blancher Memorial Scholarship (via @newsoft) [http://t.co/a6PLjuv95c](http://t.co/a6PLjuv95c) 
 
 
 Pourquoi le Pastis mélangé avec de l’eau devient opaque [http://t.co/daHKYlsxiu](http://t.co/daHKYlsxiu) 
