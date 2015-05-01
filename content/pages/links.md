@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-01 00:35
+Date: 2015-05-02 00:35
 Author: Quack1
 Slug: links
+
+
+Paris : on refuse de lui louer un appartement à cause de son "profil internet" #rienacacher [http://t.co/wFntYf9hgd](http://t.co/wFntYf9hgd) 
 
 
 Un hélicoptère au sommet de l’Everest [http://t.co/islRnkNnWL](http://t.co/islRnkNnWL) 
