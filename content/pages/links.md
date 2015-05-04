@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-04 00:35
+Date: 2015-05-05 00:35
 Author: Quack1
 Slug: links
+
+
+It's "May-tallica" | Metallica - Enter Sandman (BACKWARDS cover) [http://t.co/JzrDoGbO7W](http://t.co/JzrDoGbO7W) 
+
+Très belle Gretsch Custom Shop Masterbuilt ‘59 Penguin Black (via @beurks) [http://t.co/FLuxya60vz](http://t.co/FLuxya60vz) [http://t.co/l69bhJZIeS](http://t.co/l69bhJZIeS) 
+
+Guide du Vapoteur Confirmé (plus technique) [https://t.co/OFTVV0vEeV](https://t.co/OFTVV0vEeV) 
+
+Guide du Vapoteur Débutant [https://t.co/bD0uDYfTca](https://t.co/bD0uDYfTca) 
 
 
 &#35;NowPlaying This Suffering par Billy Talent ♫ [http://t.co/zHRGuYfL1f](http://t.co/zHRGuYfL1f) 
