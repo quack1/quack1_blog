@@ -1,7 +1,23 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-07 00:35
+Date: 2015-05-08 00:35
 Author: Quack1
 Slug: links
+
+
+MISP - Malware Information Sharing Platform &amp; Threat Sharing  [https://t.co/h21sTwPlPP](https://t.co/h21sTwPlPP) 
+
+Comment voler du temps pour écrire | [http://t.co/j5NxlVkyG7](http://t.co/j5NxlVkyG7) [http://t.co/dKVUGUmoFv](http://t.co/dKVUGUmoFv) 
+
+La Réunion : le strip-tease en boîte de nuit tourne au viol collectif [http://t.co/VxoxLS7gmC](http://t.co/VxoxLS7gmC) 
+
+.@beurks a raison. Ça doit être rigolo de brancher la guitare Loog électrique sur une fuzz \o/ [http://t.co/Xn6D7EnJDs](http://t.co/Xn6D7EnJDs) 
+
+PoC de sonde IDS durcie par l'ANSSI
+Slides : [http://t.co/eiNsBdYAOt](http://t.co/eiNsBdYAOt) : [http://t.co/vRbSYez7Uq](http://t.co/vRbSYez7Uq) 
+
+Ça veut dire qu'il est pour ou contre le revenu de base ? :] [https://t.co/j7MyFGceqn](https://t.co/j7MyFGceqn) 
+
+Colorizing `cat` with `ccat` [https://t.co/ygfmaph1HS](https://t.co/ygfmaph1HS) 
 
 
 America’s Literary Elite Takes a Bold Stand Against Dead Journalists [http://t.co/7tP6ThIwWG](http://t.co/7tP6ThIwWG) 
