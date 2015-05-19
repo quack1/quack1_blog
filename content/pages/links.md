@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-19 00:35
+Date: 2015-05-20 00:35
 Author: Quack1
 Slug: links
+
+
+Luz écrit une lettre (en dessins) à Stephen King pour adapter Shining : Stephen King France [http://t.co/0nSIGxmHJY](http://t.co/0nSIGxmHJY) 
+
+Jamie Oliver doesn't care that he gave you malware [https://t.co/AN1OsxIPxf](https://t.co/AN1OsxIPxf) 
+
+«Elle avait 17 ans et elle a été violée par 40 soldats» [http://t.co/rBOnAtLCqy](http://t.co/rBOnAtLCqy) 
+
+Bulletin d'actualité CERTFR-2015-ACT-020 [http://t.co/cK6lfF0V5p](http://t.co/cK6lfF0V5p) 
+
+&#35;ecig Petit annuaire des modeurs [https://t.co/ONVHApEaul](https://t.co/ONVHApEaul) 
+
+Bonne vidéo d'intro à la crypto (si on passe outre l'utilisation de "code secret" et "crypter"..) [https://t.co/JCfARWPrj2](https://t.co/JCfARWPrj2) 
+
+Placebo Blocker [http://t.co/OWtCSultts](http://t.co/OWtCSultts) 
+
+Luz : «Je ne serai plus Charlie Hebdo mais je serai toujours Charlie» [http://t.co/jDob24nVdW](http://t.co/jDob24nVdW) 
 
 
 Randall Munroe d'xkcd vous explique des trucs simplement [http://t.co/oLWRHJojES](http://t.co/oLWRHJojES) 
