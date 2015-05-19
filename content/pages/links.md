@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-18 00:35
+Date: 2015-05-19 00:35
 Author: Quack1
 Slug: links
+
+
+Randall Munroe d'xkcd vous explique des trucs simplement [http://t.co/oLWRHJojES](http://t.co/oLWRHJojES) 
+
+Le spot CHOC de la police suisse: de l’humour noir pour appeler les piétons à la vigilance (vidéo) [http://t.co/aUJnGGymSe](http://t.co/aUJnGGymSe) 
 
 
 
