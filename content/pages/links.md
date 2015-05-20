@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-20 00:35
+Date: 2015-05-21 00:35
 Author: Quack1
 Slug: links
+
+
+Passage en revue des érables par le luthier Pierre-Marie de @ChateauneufPM - La Chaîne Guitare [http://t.co/YsMZE3XWKb](http://t.co/YsMZE3XWKb) 
+
+La résistance numérique s'organise \o/ #macarons [http://t.co/aoS8FkdeKK](http://t.co/aoS8FkdeKK) 
+
+La réponse fulgurante de Taubira à une députée UMP sur les enfants nés sous GPA - Les Inrocks [http://t.co/ePUHd6JG4Z](http://t.co/ePUHd6JG4Z) 
+
+TLDRLegal - Software Licenses Explained in Plain English [https://t.co/MvvK3Ox95H](https://t.co/MvvK3Ox95H) 
+
+Israël : 1 million de vues pour la photo d’un professeur qui comprend ce qu’est le féminisme [http://t.co/Gosz3q7GYJ](http://t.co/Gosz3q7GYJ) 
 
 
 Luz écrit une lettre (en dessins) à Stephen King pour adapter Shining : Stephen King France [http://t.co/0nSIGxmHJY](http://t.co/0nSIGxmHJY) 
