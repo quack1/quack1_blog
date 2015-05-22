@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2015-05-22 00:35
+Date: 2015-05-23 00:35
 Author: Quack1
 Slug: links
+
+
+Truth Happens - Publicité de RedHat Linux [http://t.co/FqacqZJIUT](http://t.co/FqacqZJIUT) 
+
+Inexactitudes, fakes et plagiats : que cachent ces comptes twitter que tout le monde suit ? | Roxane [http://t.co/I6K3h7xiGd](http://t.co/I6K3h7xiGd) 
+
+Fabrication d'une voiture ballon [https://t.co/2tRdKjUtqC](https://t.co/2tRdKjUtqC) 
+
+AirBnB à Paris, ça suffit à la fin ! [http://t.co/PfzlOIyET9](http://t.co/PfzlOIyET9) 
+
+L'eau de javel sur les invendus des supermarchés, c'est fini [http://t.co/RDXHCskoLm](http://t.co/RDXHCskoLm) 
+
+Après 84  exécutions cette année, l'Arabie saoudite voudrait être à la tête du Conseil des Droits de l'Homme de l'ONU [http://t.co/Zu48gChO0l](http://t.co/Zu48gChO0l) 
+
+Aggressive Mode VPN -- IKE-Scan, PSK-Crack, and Cain [http://t.co/rNU0s9tYSb](http://t.co/rNU0s9tYSb) 
+
+Le syndrome de l'imposteur dans la DFIR (TL;DR, non, vous n'êtes pas seul ;) ) [http://t.co/WCgwGYbznL](http://t.co/WCgwGYbznL) 
 
 
 Ransomware Removal Kit [https://t.co/T0DebTDBVD](https://t.co/T0DebTDBVD) 
