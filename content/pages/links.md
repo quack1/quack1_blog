@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-01 00:35
+Date: 2015-06-02 00:35
 Author: Quack1
 Slug: links
+
+
+Il y en avait pas assez, alors je me suis mise à écrire | davidbosman.fr [http://t.co/f5ToszonnF](http://t.co/f5ToszonnF) 
+
+Disturbing (But Amazing) Pictures Expose The Absurdities Of Modern Culture *Warning: Graphic Images* [http://t.co/6Dt4OZAvHC](http://t.co/6Dt4OZAvHC) 
+
+Congrats @jimmydiresta for your 200k subscribers :) [https://t.co/SnimEOrvZo](https://t.co/SnimEOrvZo) 
+
+Congrats @àjimmydiresta for your 200k subscribers :) [http://t.co/wRhYYsJrVS](http://t.co/wRhYYsJrVS) 
+
+« Who said you need to buy a guitar ? » [http://t.co/CMtetPGbDp](http://t.co/CMtetPGbDp) 
 
 
 Ressortir les ciseaux à bois à 22h30 : ☑ [https://t.co/Qk9iIpHMOO](https://t.co/Qk9iIpHMOO) 
