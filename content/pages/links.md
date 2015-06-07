@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-07 00:35
+Date: 2015-06-08 00:35
 Author: Quack1
 Slug: links
+
+
+Les deux nouvelles copines à la maison [https://t.co/p41akXhZ4E](https://t.co/p41akXhZ4E) 
+
+Les mécaniques une fois montées. Bon, elles sont pas symétriques, mais on va dire que c'est une… [https://t.co/Pl3Vxn6JEc](https://t.co/Pl3Vxn6JEc) 
+
+Les mécaniques avant montage [https://t.co/xEfV7VJ9Zm](https://t.co/xEfV7VJ9Zm) 
+
+Et couic les mécaniques [https://t.co/x4cSwZWBm8](https://t.co/x4cSwZWBm8) 
 
 
 Mad Max Doof Warrior Inspired Flamethrower Ukulele [https://t.co/cyi7ljXile](https://t.co/cyi7ljXile) 
