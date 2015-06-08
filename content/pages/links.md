@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-08 00:35
+Date: 2015-06-09 00:35
 Author: Quack1
 Slug: links
+
+
+Valise et pardon... [http://t.co/5WhUwQrKth](http://t.co/5WhUwQrKth) 
+
+Résumé du #SSTIC 2015 par [@nolimitsecu](https://twitter.com/nolimitsecu) [http://t.co/Dj8J463DAU](http://t.co/Dj8J463DAU) 
+
+Homemade 40W LASER SHOTGUN! [https://t.co/8jcDuHaGQD](https://t.co/8jcDuHaGQD) 
+
+Out-of-control Texas cop pulls gun on children [http://t.co/ZF33SyCGWx](http://t.co/ZF33SyCGWx) 
 
 
 Les deux nouvelles copines à la maison [https://t.co/p41akXhZ4E](https://t.co/p41akXhZ4E) 
