@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-09 00:35
+Date: 2015-06-10 00:35
 Author: Quack1
 Slug: links
+
+
+Les Paul 100th birthday tribute by Bruce Kunkel [https://t.co/X9Lgv6Kxr4](https://t.co/X9Lgv6Kxr4) 
+
+Bikers Against Child Abuse France [http://t.co/mVR4poDjmK](http://t.co/mVR4poDjmK) 
 
 
 Valise et pardon... [http://t.co/5WhUwQrKth](http://t.co/5WhUwQrKth) 
