@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-10 00:35
+Date: 2015-06-11 00:35
 Author: Quack1
 Slug: links
+
+
+A Faster Way to Identify High Risk Windows Assets [https://t.co/4riwh3OuLk](https://t.co/4riwh3OuLk) 
 
 
 Les Paul 100th birthday tribute by Bruce Kunkel [https://t.co/X9Lgv6Kxr4](https://t.co/X9Lgv6Kxr4) 
