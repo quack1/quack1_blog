@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-13 00:35
+Date: 2015-06-14 00:35
 Author: Quack1
 Slug: links
+
+
+Dave Ghrol (@foofighters) se casse une jambe en concert et revient finir le show avec une jambe dans le plâtre [http://t.co/BYFixe5Gl4](http://t.co/BYFixe5Gl4) 
 
 
 
