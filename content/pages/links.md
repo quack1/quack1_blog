@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-16 00:35
+Date: 2015-06-17 00:35
 Author: Quack1
 Slug: links
+
+
+Sortie du moteur de blog léger Pélican 3.6 [http://t.co/1vHDXZiFfp](http://t.co/1vHDXZiFfp) 
+
+L'équipe du [@hellfestopenair](https://twitter.com/hellfestopenair) fait visiter le site du festival aux retraités de Clisson.Et ça a l'air d'être un succès [http://t.co/snWDnezPTJ](http://t.co/snWDnezPTJ) 
+
+Flippant... RT [@Clyne](https://twitter.com/Clyne) “Les mecs qui confondent Leboncoin avec Meetic... [http://t.co/7ylzpgsRWC“](http://t.co/7ylzpgsRWC“) 
+
+Game of Thrones S05E10 - Reaction to Jon's Betrayal at The Burlington Bar [http://t.co/Jg3pOOIGJK](http://t.co/Jg3pOOIGJK) 
+
+How Well Can You Hear Audio Quality? [http://t.co/UkkjGUUhHz](http://t.co/UkkjGUUhHz) 
+
+LastPass Security Notice - Credentials database compromised [https://t.co/NACTdzQIi8](https://t.co/NACTdzQIi8) 
 
 
 Donc ça vient de Fahrenheit 451 [http://t.co/ZBIL6C4b7u](http://t.co/ZBIL6C4b7u) 
