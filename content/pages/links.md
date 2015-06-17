@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-17 00:35
+Date: 2015-06-18 00:35
 Author: Quack1
 Slug: links
+
+
+Cover de Billie Jean (Michael Jackson) par 5 grands musiciens [https://t.co/252sf1CUa0](https://t.co/252sf1CUa0) Très belle version de la chanson 
+
+Sympa la pub sexiste au dos du [@metronews](https://twitter.com/metronews) d'aujourd'hui [http://t.co/gdlMGLNTvY](http://t.co/gdlMGLNTvY) 
+
+Une photo qui done envie pour bien commencer la journée (photo Mark Keraly pour Fender sur IG) [https://t.co/R0tNNSV26R](https://t.co/R0tNNSV26R) 
 
 
 Sortie du moteur de blog léger Pélican 3.6 [http://t.co/1vHDXZiFfp](http://t.co/1vHDXZiFfp) 
