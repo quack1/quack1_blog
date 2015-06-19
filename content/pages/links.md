@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-19 00:35
+Date: 2015-06-20 00:35
 Author: Quack1
 Slug: links
+
+
+Evolution of Dridex « Threat Research | FireEye Inc [https://t.co/paliCB2tov](https://t.co/paliCB2tov) 
+
+Une fillette de 12 ans meurt sur le tournage d'une émission de France 2 [http://t.co/VpPVyiWTVo](http://t.co/VpPVyiWTVo) 
 
 
 On peut jouer à HearthStone au @hellfestopenair. Je savais que j'aurais dû y aller #wowathellfest #hellfest [http://t.co/evKQOAGxmd](http://t.co/evKQOAGxmd) 
