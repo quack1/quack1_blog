@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-23 00:35
+Date: 2015-06-24 00:35
 Author: Quack1
 Slug: links
+
+
+UberPop vs. taxis : 5 contre-vérités passées au crible [http://t.co/R28vTlVile](http://t.co/R28vTlVile) 
 
 
 Uber VS Taxis, un problème de riches [http://t.co/JLtQfLO0EQ](http://t.co/JLtQfLO0EQ) 
