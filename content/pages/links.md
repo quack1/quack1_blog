@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-24 00:35
+Date: 2015-06-25 00:35
 Author: Quack1
 Slug: links
+
+
+Nutella maison (via [@sam_et_max](https://twitter.com/sam_et_max) ) [http://t.co/OVJ6uHA1KE](http://t.co/OVJ6uHA1KE) 
+
+Que font les metalleux du Hellfest dans la vie ? [http://t.co/fve2xtvr0s](http://t.co/fve2xtvr0s) 
+
+Top 20 des spécialités bretonnes o/ [http://t.co/LF3i2KgFOE](http://t.co/LF3i2KgFOE) 
+
+The condom that changes colour when it comes into contact with STIs - Telegraph [http://t.co/xRl9geTbVo](http://t.co/xRl9geTbVo) 
+
+Un proche de François Hollande demande l'asile politique pour Snowden et Assange [http://t.co/gUHquIaouB](http://t.co/gUHquIaouB) 
 
 
 UberPop vs. taxis : 5 contre-vérités passées au crible [http://t.co/R28vTlVile](http://t.co/R28vTlVile) 
