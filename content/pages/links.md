@@ -1,7 +1,20 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-26 00:35
+Date: 2015-06-27 00:35
 Author: Quack1
 Slug: links
+
+
+La classe, y'a [@Bouletcorp](https://twitter.com/Bouletcorp) sur les pubs du Dernier Bar ! [http://t.co/2rKlnbontu](http://t.co/2rKlnbontu) 
+
+Attentat de Daesh à Saint-Quentin-Fallavier : un homme interpellé [http://t.co/lbiu3wHRLx](http://t.co/lbiu3wHRLx) 
+
+PEOPLE ARE AWESOME 2014 [http://t.co/9dUofQteO0](http://t.co/9dUofQteO0) 
+
+« Compilations reproductibles : permettre le lien entre un binaire et sa source » par Lunar de Debian/Tor [http://t.co/grstYOiw69](http://t.co/grstYOiw69) 
+
+Vieillir est-il une maladie ? [http://t.co/INMwRUN8ax](http://t.co/INMwRUN8ax) 
+
+Deux ados nées par GPA témoignent pour la première fois [http://t.co/yw2nieeWrv](http://t.co/yw2nieeWrv) 
 
 
 Le fameux hoverboard de "Retour vers le futur" existe enfin - Les Inrocks [http://t.co/8lQ3DboiNM](http://t.co/8lQ3DboiNM) 
