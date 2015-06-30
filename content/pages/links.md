@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-06-30 00:35
+Date: 2015-07-01 00:35
 Author: Quack1
 Slug: links
+
+
+Amazon publie son implémentation "légère et rapide" de TLS : s2n [http://t.co/4lnj24JS76](http://t.co/4lnj24JS76) 
+
+Schémas techniques de guitares (Gibson) détaillés en PDF [http://t.co/VCAecYeYxI](http://t.co/VCAecYeYxI) 
+
+"La priorité c'est d'éviter que le geste de fumer soit banalisé [...] " C'est pas déjà le cas avec la clope ?! #ecig [http://t.co/gfcwoxZ1PP](http://t.co/gfcwoxZ1PP) 
+
+Examen SANS cet après-midi. Il faut pas que j'oublie de laisser mes armes chez moi #USAStyle [http://t.co/2VAuxutmgb](http://t.co/2VAuxutmgb) 
+
+AC/DC arrive — enfin — sur Spotify, Apple Music et Rdio [http://t.co/0C4oDqissF](http://t.co/0C4oDqissF) 
 
 
 The Spring Dragon APT - Securelist [https://t.co/uUOmehpFRK](https://t.co/uUOmehpFRK) 
