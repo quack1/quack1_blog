@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-02 00:35
+Date: 2015-07-03 00:35
 Author: Quack1
 Slug: links
+
+
+Les Inrocks - La Route du Rock a 25 ans: "Placebo, c'était nanas à poil et cocaïne dans la piscine" [http://t.co/t1JdFnfYuc](http://t.co/t1JdFnfYuc) 
+
+Ubuntu semble vouloir passer au FlatDesign pour la 15.10... (via @sam_et_max) [http://t.co/Klcue5RtR8](http://t.co/Klcue5RtR8) 
+
+Jolie, une Telecaster Double Cut :) [https://t.co/wtq1z55G7k](https://t.co/wtq1z55G7k) ça va donner des envies à [@beurks](https://twitter.com/beurks) tout ça 
+
+Lego gets feminist with its new line of characters [http://t.co/b6Zv6Xa9kf](http://t.co/b6Zv6Xa9kf) 
 
 
 
