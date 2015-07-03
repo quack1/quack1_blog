@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-03 00:35
+Date: 2015-07-04 00:35
 Author: Quack1
 Slug: links
+
+
+A propos des attributs préfixés de deux underscores [http://t.co/g7tdO0up82](http://t.co/g7tdO0up82) 
+
+L’Elysée rejette la demande d’asile de Julian Assange [http://t.co/itquHRTY4g](http://t.co/itquHRTY4g) 
+
+Julian Assange : « En m’accueillant, la France accomplirait un geste humanitaire » [http://t.co/FOWVci72Hb](http://t.co/FOWVci72Hb) 
+
+Cover d'“Highway To Hell” d'AC/DC par les gratteux du [@hellfestopenair](https://twitter.com/hellfestopenair) dans le bug @gibsonfr @ Hellfest 2015 [http://t.co/lvXWTkhatp](http://t.co/lvXWTkhatp) 
+
+Joe Bonamassa, juste « quelques » amplis dans sa maison *_* [https://t.co/QeqNSNLYKF](https://t.co/QeqNSNLYKF) 
 
 
 Les Inrocks - La Route du Rock a 25 ans: "Placebo, c'était nanas à poil et cocaïne dans la piscine" [http://t.co/t1JdFnfYuc](http://t.co/t1JdFnfYuc) 
