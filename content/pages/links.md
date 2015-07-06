@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-06 00:35
+Date: 2015-07-07 00:35
 Author: Quack1
 Slug: links
+
+
+Putain ils l'ont vraiment fait... La classe chez [@ParisZigZag](https://twitter.com/ParisZigZag) .... :'( [https://t.co/MHzQfc6M2D](https://t.co/MHzQfc6M2D) [http://t.co/tJjtBgvD1w](http://t.co/tJjtBgvD1w) 
+
+Première fournée #heisenbergStyle #diy #vape [https://t.co/4CnGR1r8MV](https://t.co/4CnGR1r8MV) 
+
+Apprenti chimiste #diy #vape [https://t.co/g8mJrE7mEa](https://t.co/g8mJrE7mEa) 
 
 
 
