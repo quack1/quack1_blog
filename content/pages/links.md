@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-07 00:35
+Date: 2015-07-08 00:35
 Author: Quack1
 Slug: links
+
+
+What a wonderful world… [http://t.co/xGqVjzGu3A](http://t.co/xGqVjzGu3A) 
+
+Hacking Team Asks Customers to Stop Using Its Software After Hack [http://t.co/Q00RcYVNV9](http://t.co/Q00RcYVNV9) 
 
 
 Putain ils l'ont vraiment fait... La classe chez [@ParisZigZag](https://twitter.com/ParisZigZag) .... :'( [https://t.co/MHzQfc6M2D](https://t.co/MHzQfc6M2D) [http://t.co/tJjtBgvD1w](http://t.co/tJjtBgvD1w) 
