@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-08 00:35
+Date: 2015-07-09 00:35
 Author: Quack1
 Slug: links
+
+
+« Elle est bonne », message à ceux qui camouflent leur sexisme dans l' « humour » [http://t.co/uM3u7N2h0w](http://t.co/uM3u7N2h0w) 
+
+L'équipe du [@zoothoiry](https://twitter.com/zoothoiry) utilise un drone Parrot Bebop pour aller filmer ses animaux de (très) près [http://t.co/iyBPRVbrZC](http://t.co/iyBPRVbrZC) 
+
+Hearthstotne —  Top 10 des cartes neutres à crafter (poke [@This_is_Ezay](https://twitter.com/This_is_Ezay) [@sweatorment](https://twitter.com/sweatorment) ) [http://t.co/juVlTdsVgR](http://t.co/juVlTdsVgR) 
 
 
 What a wonderful world… [http://t.co/xGqVjzGu3A](http://t.co/xGqVjzGu3A) 
