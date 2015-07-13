@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-13 00:35
+Date: 2015-07-14 00:35
 Author: Quack1
 Slug: links
+
+
+Renaud va sortir un nouvel album (via @jcfrog) [http://t.co/qTDcu0Agow](http://t.co/qTDcu0Agow) 
+
+Guy goes in wave, maybe never comes out. Amazing tube!! [http://t.co/0uDSpavSN2](http://t.co/0uDSpavSN2) 
 
 
 Little baby girl with weak eyesight sees through prescription glasses for the first time [http://t.co/S0Vl84NjK6](http://t.co/S0Vl84NjK6) 
