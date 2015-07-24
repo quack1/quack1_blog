@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-24 00:35
+Date: 2015-07-25 00:35
 Author: Quack1
 Slug: links
+
+
+Sea Shepherd: 5 militants arrêtés pour avoir tenté d'empêcher un massacre de dauphins - [http://t.co/lp8b7FGrm3](http://t.co/lp8b7FGrm3) 
+
+Honte sur la France : le Conseil Constitutionnel valide largement la loi Renseignement ! [http://t.co/AFq9TdK74s](http://t.co/AFq9TdK74s) 
 
 
 
