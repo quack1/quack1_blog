@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-25 00:35
+Date: 2015-07-26 00:35
 Author: Quack1
 Slug: links
+
+
+VUPEN Launches New Zero-Day Acquisition Firm Zerodium - Threatpost [http://t.co/4tO7VWr3N3](http://t.co/4tO7VWr3N3) 
 
 
 Sea Shepherd: 5 militants arrêtés pour avoir tenté d'empêcher un massacre de dauphins - [http://t.co/lp8b7FGrm3](http://t.co/lp8b7FGrm3) 
