@@ -1,7 +1,22 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-27 00:35
+Date: 2015-07-28 00:35
 Author: Quack1
 Slug: links
+
+
+Le coup de pute du jeudi | Ou comment faire chier les collègues qui ne verrouillent pas leur session [http://t.co/21juOnGvdo](http://t.co/21juOnGvdo) 
+
+Un élu Les Républicains de Levallois-Perret relaie un dessin raciste [http://t.co/I6xqqQdKsY](http://t.co/I6xqqQdKsY) via [@jcfrog](https://twitter.com/jcfrog) 
+
+Websites, Please Stop Blocking Password Managers. It's 2015 [http://t.co/hRhpvrVcSa](http://t.co/hRhpvrVcSa) 
+
+Antoine de Maximy pris dans une fusillade dans "J'irai dormir chez vous" - Les Inrocks [http://t.co/iNTmksXVvQ](http://t.co/iNTmksXVvQ) 
+
+Jacques Séguéla: "Même si on est clochard, on peut arriver à mettre de côté 1 500 euros" | euh.... wtf ?! [http://t.co/K7Rtu4PzLV](http://t.co/K7Rtu4PzLV) 
+
+Pourquoi reprendre le contrôle de nos données [http://t.co/ZcBsFCk0jC](http://t.co/ZcBsFCk0jC) 
+
+6ft Man in 6ft Giant Water Balloon - 4K - The Slow Mo Guys [https://t.co/uwnBPKuVDb](https://t.co/uwnBPKuVDb) 
 
 
 
