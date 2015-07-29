@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-29 00:35
+Date: 2015-07-30 00:35
 Author: Quack1
 Slug: links
+
+
+J'ai repris les maths. [http://t.co/EErBGB2xy3](http://t.co/EErBGB2xy3) 
+
+31 Songs in 1 Minute [https://t.co/ppgzwg2GmB](https://t.co/ppgzwg2GmB) 
 
 
 Les Inrocks - Lamya Essemlali (Sea Shepherd) : "Le grind est le plus grand massacre de mammifères marins en Europe" [http://t.co/PrB8ofryVy](http://t.co/PrB8ofryVy) 
