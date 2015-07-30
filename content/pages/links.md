@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-30 00:35
+Date: 2015-07-31 00:35
 Author: Quack1
 Slug: links
+
+
+&#35;StandUp250 Corsica (France) - Xavier Figarella [http://t.co/LOeilRmsco](http://t.co/LOeilRmsco) 
+
+Xavier Figarella au secours des dauphins aux Iles Féroé : Il risque 2 à 10 ans de prison… [http://t.co/XrSoZ8oerb](http://t.co/XrSoZ8oerb) 
 
 
 J'ai repris les maths. [http://t.co/EErBGB2xy3](http://t.co/EErBGB2xy3) 
