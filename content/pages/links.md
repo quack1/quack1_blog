@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-07-31 00:35
+Date: 2015-08-01 00:35
 Author: Quack1
 Slug: links
+
+
+Finally! Audio indicators and muting arrives in Firefox Nightly [http://t.co/aNIqA3cXLN](http://t.co/aNIqA3cXLN) 
+
+1000 musicians play Learn to Fly by Foo Fighters to ask Dave Grohl to come and play in Cesena, Italy (via @paingout) [http://t.co/cHJEgqJOIE](http://t.co/cHJEgqJOIE) 
 
 
 &#35;StandUp250 Corsica (France) - Xavier Figarella [http://t.co/LOeilRmsco](http://t.co/LOeilRmsco) 
