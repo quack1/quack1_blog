@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-02 00:35
+Date: 2015-08-03 00:35
 Author: Quack1
 Slug: links
+
+
+Comment enseigner dans les quartiers nord de Marseille a changé ma vision de la société [http://t.co/Z178YHdtbL](http://t.co/Z178YHdtbL) via @vicefr 
 
 
 
