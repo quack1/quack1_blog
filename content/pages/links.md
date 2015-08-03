@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-03 00:35
+Date: 2015-08-04 00:35
 Author: Quack1
 Slug: links
+
+
+En Finlande, travailler pourrait devenir un choix [http://t.co/5E5zcEJRnc](http://t.co/5E5zcEJRnc) 
+
+Moralité, laissez les animaux tranquilles |Texas gentleman shot by bullet that ricocheted off armadillo [http://t.co/8zGxWBqG5s](http://t.co/8zGxWBqG5s) 
+
+Nerf Wars Are About to Get Real with these Guns That Shoot 70MPH  [http://t.co/Cs74KCQf7Y](http://t.co/Cs74KCQf7Y) 
 
 
 Comment enseigner dans les quartiers nord de Marseille a changé ma vision de la société [http://t.co/Z178YHdtbL](http://t.co/Z178YHdtbL) via @vicefr 
