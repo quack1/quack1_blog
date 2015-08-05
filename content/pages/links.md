@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-05 00:35
+Date: 2015-08-06 00:35
 Author: Quack1
 Slug: links
+
+
+Coup de fil musclé entre le député Meyer Habib et un policier au commissariat du 19e [http://t.co/AiUHW7n5qN](http://t.co/AiUHW7n5qN) 
 
 
 
