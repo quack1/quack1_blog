@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-10 00:35
+Date: 2015-08-11 00:35
 Author: Quack1
 Slug: links
+
+
+Woman who had 5-6 spontaneous orgasms a day in her foot via [@BoingBoing](https://twitter.com/BoingBoing) [http://t.co/kSdrQJ6BU1](http://t.co/kSdrQJ6BU1) 
+
+Texas cops smell weed in black woman's car so they stick hand up her vagina in public - Boing Boing - [http://t.co/2WZIDLVa6s](http://t.co/2WZIDLVa6s) 
+
+Guitar body after paint-cleaning with a heatgun, and after a light hand sanding. Still have a lot of… [https://t.co/aJyOrdcnHo](https://t.co/aJyOrdcnHo) 
+
+Fusillade d'Aurora: un juré opposé à la peine de mort a permis à James Holmes de sauver sa tête [http://t.co/hK9b0hRuKy](http://t.co/hK9b0hRuKy) 
+
+Water Phase Diagram #underPressure [http://t.co/PHRVQKncrd](http://t.co/PHRVQKncrd) 
 
 
 Moi vapoteur, j'aurais jamais dû arrêter de fumer ! [http://t.co/bJ1CA3YCi5](http://t.co/bJ1CA3YCi5) 
