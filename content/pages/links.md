@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-13 00:35
+Date: 2015-08-14 00:35
 Author: Quack1
 Slug: links
+
+
+Un créatif parodie les logos de grandes marques (via @sniperovitch) [http://t.co/YkvytgTsEw](http://t.co/YkvytgTsEw) 
+
+Mark Knopfler - Sultans of Swing  (Fender Stratocaster '61) [https://t.co/OCHhqE2TrF](https://t.co/OCHhqE2TrF) 
+
+[server] Ubuntu 15.04 after installing MariaDB can't login with password.. [http://t.co/ci7n6GbjJV](http://t.co/ci7n6GbjJV) 
 
 
 Quand on sort du placard… – Le dessin de Mr Q. [http://t.co/dZSy0B1KuC](http://t.co/dZSy0B1KuC) 
