@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-14 00:35
+Date: 2015-08-15 00:35
 Author: Quack1
 Slug: links
+
+
+Mike Snowden builds and plays a cigar box guitar [https://t.co/p5XMNJudVA](https://t.co/p5XMNJudVA) 
+
+La réponse géniale d'une mamie à un homme sexiste dans le métro (via @VInvin) [http://t.co/qK9kaSjP6X](http://t.co/qK9kaSjP6X) 
+
+Le plan de [@Vinvin](https://twitter.com/Vinvin) pour la Révolution [http://t.co/5cOYc2yVjj](http://t.co/5cOYc2yVjj) 
 
 
 Un créatif parodie les logos de grandes marques (via @sniperovitch) [http://t.co/YkvytgTsEw](http://t.co/YkvytgTsEw) 
