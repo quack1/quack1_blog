@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-08-19 00:35
+Date: 2015-08-20 00:35
 Author: Quack1
 Slug: links
+
+
+Making of the first 3D printed violin - 3Dvarius - N°1 named Pauline [https://t.co/gyeax48U8E](https://t.co/gyeax48U8E) 
+
+Supercut : les armes les plus improbables au cinéma - Les Inrocks [http://t.co/mjHBiHRxXz](http://t.co/mjHBiHRxXz) 
+
+Quand un robot passe au McDrive.. [http://t.co/IVpsNiIwrd](http://t.co/IVpsNiIwrd) 
+
+Cigarette. La cigarette électronique 95% moins nocive que le tabac [http://t.co/fQLOSn7xcX](http://t.co/fQLOSn7xcX) 
 
 
 Clap de départ pour Les animaux fantastiques ! - Tous les livres et la littérature jeunesse [http://t.co/30uKOkkSgr](http://t.co/30uKOkkSgr) 
