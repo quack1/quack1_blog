@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-09-04 00:35
+Date: 2015-09-05 00:35
 Author: Quack1
 Slug: links
+
+
+Non, les migrants ne sont pas un fardeau ! [http://t.co/3E5jyLPffw](http://t.co/3E5jyLPffw) 
+
+16-year-old girl who took nude selfie photos faces adult sex charges [https://t.co/4gZLq9Ti34](https://t.co/4gZLq9Ti34) 
 
 
 
