@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-09-08 00:35
+Date: 2015-09-09 00:35
 Author: Quack1
 Slug: links
+
+
+Se prêter des livres entre particuliers, une fraude pour l'industrie du livre [https://t.co/tamthTmrLV](https://t.co/tamthTmrLV) 
+
+Allégorie de la perfection #guitarporn [https://t.co/SQZDW2ClGa](https://t.co/SQZDW2ClGa) 
+
+On a demandé à un expert ce qu'il se passerait si tous les immigrés quittaient la France du jour au lendemain  [http://t.co/DqqJhxBySd](http://t.co/DqqJhxBySd) 
+
+Bon anniversaire, Monsieur. - Maître Mô, chronique judiciaire [http://t.co/Ce2sxJpIgM](http://t.co/Ce2sxJpIgM) 
 
 
 
