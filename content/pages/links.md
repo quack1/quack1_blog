@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-09-29 00:35
+Date: 2015-09-30 00:35
 Author: Quack1
 Slug: links
+
+
+"On ne regrette jamais d’avoir un bébé, tu m’entends ?" : on a appelé [http://t.co/HWmmzrY7gt](http://t.co/HWmmzrY7gt) [http://t.co/7Gshzvu4LT](http://t.co/7Gshzvu4LT) 
 
 
 Dans le plus grand des calmes, il décide de construire un bunker dans son jardin [https://t.co/v2lBmbVPqA](https://t.co/v2lBmbVPqA) 
