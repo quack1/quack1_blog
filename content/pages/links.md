@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-01 00:35
+Date: 2015-10-02 00:35
 Author: Quack1
 Slug: links
+
+
+When a Brazilian string smells bad… ‹ The Cybersecurity &amp; FastForensic Blog [http://t.co/kFjb3Fs6uO](http://t.co/kFjb3Fs6uO) 
 
 
 Refaire fonctionner Hearthstone sous Wine après la MAJ du 30-09 [http://t.co/ENIziZxkcJ](http://t.co/ENIziZxkcJ) 
