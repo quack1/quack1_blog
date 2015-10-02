@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-02 00:35
+Date: 2015-10-03 00:35
 Author: Quack1
 Slug: links
+
+
+Tarte au citron déstructurée du [@DernierBar](https://twitter.com/DernierBar) [http://t.co/qOjFx0rBi2](http://t.co/qOjFx0rBi2) 
+
+Petite soirée au [@DernierBar](https://twitter.com/DernierBar) (cc [@This_is_Ezay](https://twitter.com/This_is_Ezay) [@sweatorment](https://twitter.com/sweatorment) ) [http://t.co/83f85yVocC](http://t.co/83f85yVocC) 
+
+Bernard Werber : "Le fait que des fourmis ne fassent rien, c'est normal" [http://t.co/9MXXE8NrTQ](http://t.co/9MXXE8NrTQ) 
 
 
 When a Brazilian string smells bad… ‹ The Cybersecurity &amp; FastForensic Blog [http://t.co/kFjb3Fs6uO](http://t.co/kFjb3Fs6uO) 
