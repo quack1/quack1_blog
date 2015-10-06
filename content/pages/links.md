@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-06 00:35
+Date: 2015-10-07 00:35
 Author: Quack1
 Slug: links
+
+
+Linux kernel dev Sarah Sharp quits, citing ‘brutal’ communications style [http://t.co/RRYIsR4yQB](http://t.co/RRYIsR4yQB) 
+
+Pimpe tes coquillettes en cinq recettes #PastaWeek [http://t.co/7aDQBkXXG6](http://t.co/7aDQBkXXG6) 
 
 
 
