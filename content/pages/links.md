@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-07 00:35
+Date: 2015-10-08 00:35
 Author: Quack1
 Slug: links
+
+
+Motivation de fin de journée avec un bon solo guitare/basse \m/  [https://t.co/MKNk3RlZeK](https://t.co/MKNk3RlZeK) 
+
+Break The Internet - Nicolas Hulot [http://t.co/CylqzFThnQ](http://t.co/CylqzFThnQ) 
 
 
 Linux kernel dev Sarah Sharp quits, citing ‘brutal’ communications style [http://t.co/RRYIsR4yQB](http://t.co/RRYIsR4yQB) 
