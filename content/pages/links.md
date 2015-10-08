@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-08 00:35
+Date: 2015-10-09 00:35
 Author: Quack1
 Slug: links
+
+
+"Je n'aime pas les Arabes. Alors fais gaffe à toi, hein !": une caméra cachée hallucinante dans Complément d'Enquêtes [http://t.co/pLSKJeCfAk](http://t.co/pLSKJeCfAk) 
+
+Nous rendons le Journal d’Anne Frank au domaine public ! [http://t.co/G1MJYRpwYz](http://t.co/G1MJYRpwYz) 
+
+La liberté d'informer sacrifiée sur l'autel du secret-défense [http://t.co/woTOOkmLXS](http://t.co/woTOOkmLXS) 
+
+Priest suspended after defending pedophilia in TV interview [http://t.co/Wsv2v2URi8](http://t.co/Wsv2v2URi8) 
 
 
 Motivation de fin de journée avec un bon solo guitare/basse \m/  [https://t.co/MKNk3RlZeK](https://t.co/MKNk3RlZeK) 
