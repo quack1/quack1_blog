@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-22 00:35
+Date: 2015-10-23 00:35
 Author: Quack1
 Slug: links
+
+
+Leroy Merlin ouvre le TechShop, un FabLab géant en région parisienne *_* [https://t.co/EbtWUAZfKi](https://t.co/EbtWUAZfKi) -- [https://t.co/5vb0mbOXhF](https://t.co/5vb0mbOXhF) #DIY 
+
+DiResta: Plastic Pumpkins - YouTube [https://t.co/sStfxGXagi](https://t.co/sStfxGXagi) 
+
+Le tourisme est devenu un truc de gros cons narcissiques  [https://t.co/68MWAdUn0I](https://t.co/68MWAdUn0I) 
 
 
 
