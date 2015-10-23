@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-23 00:35
+Date: 2015-10-24 00:35
 Author: Quack1
 Slug: links
+
+
+"The Hero's Journey", expliqué en une vidéo d'une minute trente [https://t.co/60t7c8RQVU](https://t.co/60t7c8RQVU) 
 
 
 Leroy Merlin ouvre le TechShop, un FabLab géant en région parisienne *_* [https://t.co/EbtWUAZfKi](https://t.co/EbtWUAZfKi) -- [https://t.co/5vb0mbOXhF](https://t.co/5vb0mbOXhF) #DIY 
