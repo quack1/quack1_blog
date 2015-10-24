@@ -1,7 +1,8 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-24 00:35
+Date: 2015-10-25 00:35
 Author: Quack1
 Slug: links
+
 
 
 "The Hero's Journey", expliqué en une vidéo d'une minute trente [https://t.co/60t7c8RQVU](https://t.co/60t7c8RQVU) 
