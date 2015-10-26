@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-26 00:35
+Date: 2015-10-27 00:35
 Author: Quack1
 Slug: links
+
+
+La finition relic sur la #strat est terminée ! Petit avant/après #diy #lutherie [https://t.co/fJWapefJ3t](https://t.co/fJWapefJ3t) 
 
 
 
