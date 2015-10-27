@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-27 00:35
+Date: 2015-10-28 00:35
 Author: Quack1
 Slug: links
+
+
+Des vidéoprojections interactives sur des tatouages. Sympa [https://t.co/8IVgr8kUYT](https://t.co/8IVgr8kUYT) 
+
+Dans l’ombre trash de l’auteur anonyme de Bourbon Kid [https://t.co/acnCHrxYag](https://t.co/acnCHrxYag) 
+
+NO LIFE | solangeteparle [https://t.co/anhEIBKv6R](https://t.co/anhEIBKv6R) via [@YouTube](https://twitter.com/YouTube) 
 
 
 La finition relic sur la #strat est terminée ! Petit avant/après #diy #lutherie [https://t.co/fJWapefJ3t](https://t.co/fJWapefJ3t) 
