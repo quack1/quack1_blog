@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-28 00:35
+Date: 2015-10-29 00:35
 Author: Quack1
 Slug: links
+
+
+"97%", le court-métrage qui résume parfaitement les appli de rencontre - Les Inrocks [https://t.co/4qe5saUgus](https://t.co/4qe5saUgus) 
 
 
 Des vidéoprojections interactives sur des tatouages. Sympa [https://t.co/8IVgr8kUYT](https://t.co/8IVgr8kUYT) 
