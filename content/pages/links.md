@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-10-30 00:35
+Date: 2015-10-31 00:35
 Author: Quack1
 Slug: links
+
+
+Très bonne vidéo d'introduction au réglage de sa guitare (électrique) [https://t.co/zYXLrQ58rv](https://t.co/zYXLrQ58rv) 
 
 
 
