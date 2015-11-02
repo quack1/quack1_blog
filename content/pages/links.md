@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-02 00:35
+Date: 2015-11-03 00:35
 Author: Quack1
 Slug: links
+
+
+Les hommes, tous des connards [https://t.co/QdtPd3wtks](https://t.co/QdtPd3wtks) 
 
 
 
