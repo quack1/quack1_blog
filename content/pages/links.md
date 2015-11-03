@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-03 00:35
+Date: 2015-11-04 00:35
 Author: Quack1
 Slug: links
+
+
+Des "coeurs" sur Twitter | Twitter Blogs [https://t.co/U9UruHYDtl](https://t.co/U9UruHYDtl) 
+
+KeeFarce, extracts passwords from a KeePass 2.x database, directly from memory.  [https://t.co/0UsvQBnLGh](https://t.co/0UsvQBnLGh) 
 
 
 Les hommes, tous des connards [https://t.co/QdtPd3wtks](https://t.co/QdtPd3wtks) 
