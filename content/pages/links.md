@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-13 00:35
+Date: 2015-11-14 00:35
 Author: Quack1
 Slug: links
+
+
+♫ Jack White - Temporary Ground ♫ #NP [https://t.co/qvDUiy0YOS](https://t.co/qvDUiy0YOS) 
+
+JSSI 2016 - Appel à communications [https://t.co/wCiPYto7y0](https://t.co/wCiPYto7y0) 
 
 
 Pedalboard #diy [https://t.co/eBh1KsOrCz](https://t.co/eBh1KsOrCz) 
