@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-16 00:35
+Date: 2015-11-17 00:35
 Author: Quack1
 Slug: links
+
+
+Les Inrocks - Emmanuel Wino: “J’ai eu envie qu’on se souvienne des sourires et du rock” [https://t.co/2lgyIHkMIA](https://t.co/2lgyIHkMIA) 
+
+SSH - A brief analysis of the internet [https://t.co/E12UDFnhBz](https://t.co/E12UDFnhBz) 
 
 
 Première couche de peinture sur le pedalboard #diy #guitar [https://t.co/EY4qELGLbv](https://t.co/EY4qELGLbv) 
