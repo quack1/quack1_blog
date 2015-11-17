@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-17 00:35
+Date: 2015-11-18 00:35
 Author: Quack1
 Slug: links
+
+
+VIDEO. Etats-Unis: Une première greffe complète du visage réalisée sans cicatrice apparente [https://t.co/YuBdfdJcey](https://t.co/YuBdfdJcey) 
+
+Giant Lightsabers (Star Wars) // GG [@iliketomakestuf](https://twitter.com/iliketomakestuf)  ! [https://t.co/DgUPRuSn8B](https://t.co/DgUPRuSn8B) 
+
+One Fret Song (and a lot of bends) [https://t.co/XVERVTbBKn](https://t.co/XVERVTbBKn) 
 
 
 Les Inrocks - Emmanuel Wino: “J’ai eu envie qu’on se souvienne des sourires et du rock” [https://t.co/2lgyIHkMIA](https://t.co/2lgyIHkMIA) 
