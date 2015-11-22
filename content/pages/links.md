@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-22 00:35
+Date: 2015-11-23 00:35
 Author: Quack1
 Slug: links
+
+
+Coming Soon: Eagles of Death Metal Speak Out for the First Time Since the Paris Attacks | VICE | United States [https://t.co/c6aYBIl0iX](https://t.co/c6aYBIl0iX) 
 
 
 
