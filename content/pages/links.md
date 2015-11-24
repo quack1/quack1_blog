@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-11-24 00:35
+Date: 2015-11-25 00:35
 Author: Quack1
 Slug: links
+
+
+Les Inrocks - Les Foo Fighters offrent leur dernier EP en hommage aux victimes des attentats [https://t.co/3ZsmHJEaA9](https://t.co/3ZsmHJEaA9) 
 
 
 Riffstation affiche la tablature pour guitare ou piano d'une vidéo YouTube - Pop culture - Numerama [https://t.co/1lcK704bD8](https://t.co/1lcK704bD8) 
