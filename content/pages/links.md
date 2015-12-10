@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-10 00:35
+Date: 2015-12-11 00:35
 Author: Quack1
 Slug: links
+
+
+Cigarette électronique : "Ce qui tue c'est le tabac, pas la cigarette électronique"  [https://t.co/rMKTwiNyBD](https://t.co/rMKTwiNyBD) 
 
 
 
