@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-15 00:35
+Date: 2015-12-16 00:35
 Author: Quack1
 Slug: links
+
+
+La stabilisation du faucon Crécerelle [https://t.co/1zYdM8mT2a](https://t.co/1zYdM8mT2a) 
+
+Grub2 Authentication Bypass 0-Day [https://t.co/O1uZAMOppS](https://t.co/O1uZAMOppS) 
 
 
 Une tornade de feu au ralenti [https://t.co/leOzjE2JOs](https://t.co/leOzjE2JOs) 
