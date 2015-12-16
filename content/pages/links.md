@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-16 00:35
+Date: 2015-12-17 00:35
 Author: Quack1
 Slug: links
+
+
+Bravo les magasins U :D [https://t.co/ji6YHiIk4f](https://t.co/ji6YHiIk4f) 
+
+Les conseils d'une YouTubeuse pour une première fois: maquillage, sexe propre et “se faire violence” [https://t.co/YHzFbzxNLy](https://t.co/YHzFbzxNLy) 
 
 
 La stabilisation du faucon Crécerelle [https://t.co/1zYdM8mT2a](https://t.co/1zYdM8mT2a) 
