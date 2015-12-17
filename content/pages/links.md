@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-17 00:35
+Date: 2015-12-18 00:35
 Author: Quack1
 Slug: links
+
+
+A practical cryptanalysis of the Telegram messaging protocol [https://t.co/VM67IVX3y6](https://t.co/VM67IVX3y6) 
+
+La voiture autonome de Geohot [https://t.co/kN2GNVL7Y4](https://t.co/kN2GNVL7Y4) 
 
 
 Bravo les magasins U :D [https://t.co/ji6YHiIk4f](https://t.co/ji6YHiIk4f) 
