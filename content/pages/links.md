@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-18 00:35
+Date: 2015-12-19 00:35
 Author: Quack1
 Slug: links
+
+
+La toute première fois — Le dessin de Cy.(prine) [https://t.co/opH37wXW0i](https://t.co/opH37wXW0i) 
+
+La première erreur c'est de ne pas en mettre [https://t.co/09NzkTG1Ic](https://t.co/09NzkTG1Ic) 
 
 
 A practical cryptanalysis of the Telegram messaging protocol [https://t.co/VM67IVX3y6](https://t.co/VM67IVX3y6) 
