@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-21 00:35
+Date: 2015-12-22 00:35
 Author: Quack1
 Slug: links
+
+
+Everything Telegram Has That WhatsApp Doesn’t [https://t.co/ZTLILuHWnu](https://t.co/ZTLILuHWnu) 
 
 
 
