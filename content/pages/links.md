@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2015-12-31 00:35
+Date: 2016-01-01 00:35
 Author: Quack1
 Slug: links
+
+
+Recommandations de sécurité de l'ANSSI relatives à un système GNU/Linux [https://t.co/bGmvI4V85T](https://t.co/bGmvI4V85T) 
+
+In memoriam : Ian Murdock (1973-2015) - [https://t.co/YAtoOZ4tOm](https://t.co/YAtoOZ4tOm) [https://t.co/dF4TUOQ7JU](https://t.co/dF4TUOQ7JU) 
 
 
 &#35;DIY guitar case #lutherie [https://t.co/UQVgoXtaYY](https://t.co/UQVgoXtaYY) 
