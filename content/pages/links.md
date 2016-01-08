@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-01-08 00:35
+Date: 2016-01-09 00:35
 Author: Quack1
 Slug: links
+
+
+How to Pirate a Vinyl Record The Hard Way [https://t.co/r5mNREIS4M](https://t.co/r5mNREIS4M) 
+
+Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull - YouTube [https://t.co/1bpvLZhnKH](https://t.co/1bpvLZhnKH) 
 
 
 Ubuntu 14.04 LTS, 15.10 overlayfs - Local Root Exploit - Exploits Database [https://t.co/wJqvK2nMrS](https://t.co/wJqvK2nMrS) 
