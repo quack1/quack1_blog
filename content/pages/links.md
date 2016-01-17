@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-01-17 00:35
+Date: 2016-01-18 00:35
 Author: Quack1
 Slug: links
+
+
+Un enregistrement clandestin pourrait faire basculer l’affaire Kerviel–Société générale [https://t.co/fophbgKvmD](https://t.co/fophbgKvmD) 
+
+Just finished my cigarbox guitar \o/ #diy #cbg #guitar [https://t.co/pbj70URJz1](https://t.co/pbj70URJz1) 
+
+Quand est-ce qu'une femme vous doit du sexe ? [https://t.co/ozSMT2aIaA](https://t.co/ozSMT2aIaA) 
 
 
 
