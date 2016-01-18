@@ -1,7 +1,8 @@
 Title: Liens partagés sur Twitter
-Date: 2016-01-18 00:35
+Date: 2016-01-19 00:35
 Author: Quack1
 Slug: links
+
 
 
 Un enregistrement clandestin pourrait faire basculer l’affaire Kerviel–Société générale [https://t.co/fophbgKvmD](https://t.co/fophbgKvmD) 
