@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-02-09 00:35
+Date: 2016-02-10 00:35
 Author: Quack1
 Slug: links
+
+
+Programme prévisionnel de la JSSI 2016 [https://t.co/dYzYwKM6ph](https://t.co/dYzYwKM6ph) 
+
+La qualification d'audit PASSI - Compte-rendu du groupe de travail de l'@OSSIRFrance [https://t.co/Yl91lD2fHW](https://t.co/Yl91lD2fHW) 
+
+Erreur 53 sur les iPhone 6 et plus, le prix de la sécurité ? | Slice42 [https://t.co/IDToxEK1b7](https://t.co/IDToxEK1b7) 
 
 
 
