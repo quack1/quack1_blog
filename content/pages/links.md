@@ -1,7 +1,8 @@
 Title: Liens partagés sur Twitter
-Date: 2016-02-16 00:35
+Date: 2016-02-17 00:35
 Author: Quack1
 Slug: links
+
 
 
 Audit Purple Team, voir la vie en violet - Solucom SecurityInsider [https://t.co/PBT5zpIFgk](https://t.co/PBT5zpIFgk) 
