@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-02-25 00:35
+Date: 2016-02-26 00:35
 Author: Quack1
 Slug: links
+
+
+Univers Parallèles et Révolution Quantique | Christophe Galfard | TEDxParis [https://t.co/lXAEZNo9Ws](https://t.co/lXAEZNo9Ws) 
 
 
 
