@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-03-02 00:35
+Date: 2016-03-03 00:35
 Author: Quack1
 Slug: links
+
+
+Incident Response Methodologies by [@CertSG](https://twitter.com/CertSG) [https://t.co/lnskHlDNQc](https://t.co/lnskHlDNQc) 
+
+Wintergatan - Marble Machine (music instrument using 2000 marbles) [https://t.co/GyXRLmyIZc](https://t.co/GyXRLmyIZc) 
 
 
 [Réaction] J’ai mangé la moitié de son goûter | Ou l'entrepreneuriat vs les impôts [https://t.co/YXQGGsve5Z](https://t.co/YXQGGsve5Z) 
