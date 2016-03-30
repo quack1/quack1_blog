@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-03-30 00:35
+Date: 2016-03-31 00:35
 Author: Quack1
 Slug: links
+
+
+Activer les réglages manuels en mode Vidéo sur un Nikon D5300 [https://t.co/NJliEVDmNH](https://t.co/NJliEVDmNH) 
 
 
 L’intelligence artificielle de Google s’intéresse à Hearthstone - [https://t.co/vtGLLfFoV0](https://t.co/vtGLLfFoV0) [https://t.co/TMl7tSG7Jr](https://t.co/TMl7tSG7Jr) 
