@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-04-06 00:35
+Date: 2016-04-07 00:35
 Author: Quack1
 Slug: links
+
+
+madmoiZelle recherche sa-son Lead Développeuse-eur ! [https://t.co/9BFGal4RZp](https://t.co/9BFGal4RZp) 
+
+Tin-Tin : « M Pokora a eu raison, ses tatouages étaient très moches» [https://t.co/1jkX4YdRLy](https://t.co/1jkX4YdRLy) 
+
+Guy Throws Spray Paint Cans into Lawnmower, Makes Art and Fire [https://t.co/PC7zrTx3vv](https://t.co/PC7zrTx3vv) 
 
 
 Eh mais ouais, mettons des tronçonneuses sur des drones ! | Motherboard [https://t.co/eSBGLQeLyJ](https://t.co/eSBGLQeLyJ) 
