@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-04-19 00:35
+Date: 2016-04-20 00:35
 Author: Quack1
 Slug: links
+
+
+[INFO] Jigsaw, un ransomware de plus qui supprime des fichiers chiffrés toutes les heures - Blog CERT-XMCO [https://t.co/jpRIrIIJAi](https://t.co/jpRIrIIJAi) 
+
+The problems with forcing regular password expiry | CESG Site [https://t.co/Xx5vhU5iG9](https://t.co/Xx5vhU5iG9) 
+
+Bulletin d'actualité CERTFR-2016-ACT-016 - Rançongiciels : état des lieux [https://t.co/lrDbWu9Tqv](https://t.co/lrDbWu9Tqv) 
 
 
 
