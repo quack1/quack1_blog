@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-04-28 00:35
+Date: 2016-04-29 00:35
 Author: Quack1
 Slug: links
+
+
+De la nécessité du consentement dans notre société [https://t.co/ro2Ay4oZoL](https://t.co/ro2Ay4oZoL) 
 
 
 
