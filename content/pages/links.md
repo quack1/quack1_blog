@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-05-18 00:35
+Date: 2016-05-19 00:35
 Author: Quack1
 Slug: links
+
+
+Blizzard parle du racisme dans Hearthstone et sur Twitch - [https://t.co/vtGLLfFoV0](https://t.co/vtGLLfFoV0) [https://t.co/gViteakud4](https://t.co/gViteakud4) 
+
+La Quadrature du Net sort de l'état d'urgence | La Quadrature du Net [https://t.co/iko191RiPM](https://t.co/iko191RiPM) 
 
 
 
