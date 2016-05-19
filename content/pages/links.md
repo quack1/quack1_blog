@@ -1,7 +1,8 @@
 Title: Liens partagés sur Twitter
-Date: 2016-05-19 00:35
+Date: 2016-05-20 00:35
 Author: Quack1
 Slug: links
+
 
 
 Blizzard parle du racisme dans Hearthstone et sur Twitch - [https://t.co/vtGLLfFoV0](https://t.co/vtGLLfFoV0) [https://t.co/gViteakud4](https://t.co/gViteakud4) 
