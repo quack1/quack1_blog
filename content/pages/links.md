@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-06-14 00:35
+Date: 2016-06-15 00:35
 Author: Quack1
 Slug: links
+
+
+Flaw in maps app Waze lets hackers track you - Blog Sopra Steria [https://t.co/6rC4UPX0Xh](https://t.co/6rC4UPX0Xh) 
+
+Le nouveau Red Dead confirmé par un insider - News RUMEUR | JVL [https://t.co/GyDypWfgcq](https://t.co/GyDypWfgcq) 
 
 
 
