@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-06-17 00:35
+Date: 2016-06-18 00:35
 Author: Quack1
 Slug: links
+
+
+Béatrice Martin alias Coeur de Pirate fait un coming-out émouvant [https://t.co/GWYWzuHDyQ](https://t.co/GWYWzuHDyQ) 
 
 
 
