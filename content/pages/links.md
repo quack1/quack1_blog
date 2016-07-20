@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-07-20 00:35
+Date: 2016-07-21 00:35
 Author: Quack1
 Slug: links
+
+
+Mais wtf ?! [https://t.co/gduWevw9c0](https://t.co/gduWevw9c0) 
+
+Legion Pre-Expansion Patch Notes - World of Warcraft [https://t.co/QcgaUf2Ush](https://t.co/QcgaUf2Ush) 
 
 
 L’ANSSI publie les premiers arrêtés sectoriels relatifs aux OIV - Lexsi Security Hub [https://t.co/pZc82JliWy](https://t.co/pZc82JliWy) 
