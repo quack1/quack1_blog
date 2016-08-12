@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-08-12 00:35
+Date: 2016-08-13 00:35
 Author: Quack1
 Slug: links
+
+
+Billie Joe Armstrong on Green Day's Provocative New LP - Rolling Stone [https://t.co/Kb8BW4TdWq](https://t.co/Kb8BW4TdWq) 
 
 
 &#35;NowPlaying Bang Bang by Green Day ♫ [https://t.co/d510bprepl](https://t.co/d510bprepl) 
