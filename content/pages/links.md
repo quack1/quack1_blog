@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-08-28 00:35
+Date: 2016-08-29 00:35
 Author: Quack1
 Slug: links
+
+
+Allez, le dernier est passé niveau 100, on est prêt pour #Legion demain soir :D [@Warcraft_FR](https://twitter.com/Warcraft_FR) [https://t.co/ViyPSsxor5](https://t.co/ViyPSsxor5) 
 
 
 
