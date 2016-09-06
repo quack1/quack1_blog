@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-09-06 00:35
+Date: 2016-09-07 00:35
 Author: Quack1
 Slug: links
+
+
+Les « Nouvelles de Poudlard » sont sorties ! [https://t.co/IA5sX6qDdg](https://t.co/IA5sX6qDdg) 
+
+Green Day le 2 mars prochain à Paris \o/ [https://t.co/na5go2DJH4](https://t.co/na5go2DJH4) 
 
 
 
