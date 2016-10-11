@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-11 00:35
+Date: 2016-10-12 00:35
 Author: Quack1
 Slug: links
+
+
+Here's the story of how we blew up a Samsung Galaxy Note7 [https://t.co/hMWKK3oIwa](https://t.co/hMWKK3oIwa) via [@mashable](https://twitter.com/mashable) 
+
+Khalil, héros marocain [https://t.co/daOxZYPoqb](https://t.co/daOxZYPoqb) 
 
 
 BBC News - How France's TV5 was almost destroyed by 'Russian hackers' [https://t.co/KyqHaB1Iw1](https://t.co/KyqHaB1Iw1) 
