@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-12 00:35
+Date: 2016-10-13 00:35
 Author: Quack1
 Slug: links
+
+
+Paris : OpenClassrooms et Ornikar offrent le code de la route aux demandeurs d’emploi | Le journal de l'éco [https://t.co/btGTFNTv8t](https://t.co/btGTFNTv8t) 
+
+Donc [@orangebusiness](https://twitter.com/orangebusiness) invente le « CyberSOC », qui n'est en fait rien de plus que du SOC bien fait [https://t.co/mDCJaD49mb](https://t.co/mDCJaD49mb) 
+
+Common Red Team Techniques vs Blue Team Controls [https://t.co/QWvotpWwH3](https://t.co/QWvotpWwH3) 
+
+Overwatch, 15 millions de joueurs - Overwatch [https://t.co/qYMXNxnaaB](https://t.co/qYMXNxnaaB) 
+
+Spotify, distributeur de malwares ? [https://t.co/yIvAZkvrmJ](https://t.co/yIvAZkvrmJ) via [@kasperskyfrance](https://twitter.com/kasperskyfrance) 
 
 
 Here's the story of how we blew up a Samsung Galaxy Note7 [https://t.co/hMWKK3oIwa](https://t.co/hMWKK3oIwa) via [@mashable](https://twitter.com/mashable) 
