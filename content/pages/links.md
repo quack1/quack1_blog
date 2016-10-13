@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-13 00:35
+Date: 2016-10-14 00:35
 Author: Quack1
 Slug: links
+
+
+Metal without Distortion A.K.A. Surf Music from Hell [https://t.co/ethqYBJdAk](https://t.co/ethqYBJdAk) 
+
+Crypto : le webdoc’, par @anssi_fr [https://t.co/RaRw3cZWnZ](https://t.co/RaRw3cZWnZ) 
 
 
 Paris : OpenClassrooms et Ornikar offrent le code de la route aux demandeurs d’emploi | Le journal de l'éco [https://t.co/btGTFNTv8t](https://t.co/btGTFNTv8t) 
