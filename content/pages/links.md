@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-14 00:35
+Date: 2016-10-15 00:35
 Author: Quack1
 Slug: links
+
+
+A New Linux Trojan Called NyaDrop Threatens the IoT Landscape [https://t.co/snGJMR4YFW](https://t.co/snGJMR4YFW) 
+
+The Effect of DNS on Tor’s Anonymity [https://t.co/v1ZNTh5i7L](https://t.co/v1ZNTh5i7L) 
 
 
 Metal without Distortion A.K.A. Surf Music from Hell [https://t.co/ethqYBJdAk](https://t.co/ethqYBJdAk) 
