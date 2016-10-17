@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-17 00:35
+Date: 2016-10-18 00:35
 Author: Quack1
 Slug: links
+
+
+Scotland Yard charge: teaching people to use crypto is an act of terrorism / Boing Boing [https://t.co/Nn1DJBOFJQ](https://t.co/Nn1DJBOFJQ) 
 
 
 
