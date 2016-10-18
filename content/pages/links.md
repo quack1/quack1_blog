@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-18 00:35
+Date: 2016-10-19 00:35
 Author: Quack1
 Slug: links
+
+
+Extracting LastPass Site Credentials from Memory | Tech Anarchy [https://t.co/z77xJazFx1](https://t.co/z77xJazFx1) 
+
+Google Pixel Review: The Android iPhone You’ve Been Waiting For - WSJ [https://t.co/9euqYHQS6e](https://t.co/9euqYHQS6e) 
+
+The VeraCrypt Audit Results – [https://t.co/j0b1dXxkcZ](https://t.co/j0b1dXxkcZ) [https://t.co/a5fR6DJxvQ](https://t.co/a5fR6DJxvQ) 
 
 
 Scotland Yard charge: teaching people to use crypto is an act of terrorism / Boing Boing [https://t.co/Nn1DJBOFJQ](https://t.co/Nn1DJBOFJQ) 
