@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-19 00:35
+Date: 2016-10-20 00:35
 Author: Quack1
 Slug: links
+
+
+SHA3-256 is quantum-proof, should last BEELLIONS of years, say boffins • The Register [https://t.co/Hm2nzPBM7b](https://t.co/Hm2nzPBM7b) 
 
 
 Extracting LastPass Site Credentials from Memory | Tech Anarchy [https://t.co/z77xJazFx1](https://t.co/z77xJazFx1) 
