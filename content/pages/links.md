@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-24 00:35
+Date: 2016-10-25 00:35
 Author: Quack1
 Slug: links
+
+
+La branlette sur les mailings-lists du [@sansforensics](https://twitter.com/sansforensics) [https://t.co/1bvRUYdahl](https://t.co/1bvRUYdahl) 
+
+Exploring CLI Best Practices // Localytics Engineering Blog [https://t.co/JxJ45W9yHp](https://t.co/JxJ45W9yHp) 
 
 
 
