@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-25 00:35
+Date: 2016-10-26 00:35
 Author: Quack1
 Slug: links
+
+
+Researchers Leverage Voicemail Flaw to Compromise Messaging Apps | [https://t.co/5p9PE5UOqZ](https://t.co/5p9PE5UOqZ) [https://t.co/QwFnwuvWMC](https://t.co/QwFnwuvWMC) 
+
+Digitally Signed Malware Targeting Gaming Companies [https://t.co/3tvANyk5YO](https://t.co/3tvANyk5YO) 
+
+Securing Windows Workstations: Developing a Secure Baseline » Active Directory Security [https://t.co/sxQR0Gj0Ta](https://t.co/sxQR0Gj0Ta) 
 
 
 La branlette sur les mailings-lists du [@sansforensics](https://twitter.com/sansforensics) [https://t.co/1bvRUYdahl](https://t.co/1bvRUYdahl) 
