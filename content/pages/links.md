@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-10-26 00:35
+Date: 2016-10-27 00:35
 Author: Quack1
 Slug: links
+
+
+J. K. Rowling aurait demandé à ce qu'Harry Potter et l'enfant maudits soit disponible sans DRM en version numérique [https://t.co/p2XxhUwNvc](https://t.co/p2XxhUwNvc) 
+
+The Global Impact Of Ransomware | Malwarebytes Labs [https://t.co/Kvpjt1HSs0](https://t.co/Kvpjt1HSs0) 
 
 
 Researchers Leverage Voicemail Flaw to Compromise Messaging Apps | [https://t.co/5p9PE5UOqZ](https://t.co/5p9PE5UOqZ) [https://t.co/QwFnwuvWMC](https://t.co/QwFnwuvWMC) 
