@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-02 00:35
+Date: 2016-11-03 00:35
 Author: Quack1
 Slug: links
+
+
+A study of the TLS ecosystem [https://t.co/kP8kk4X9XL](https://t.co/kP8kk4X9XL) 
+
+Google discloses Critical Windows Zero-Day that makes all Windows Users Vulnerable [https://t.co/PI6XDf1SQn](https://t.co/PI6XDf1SQn) 
 
 
 
