@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-07 00:35
+Date: 2016-11-08 00:35
 Author: Quack1
 Slug: links
+
+
+Résumé de la Blizzcon 2016 par [@NotPatrick](https://twitter.com/NotPatrick) et plein d'invités [https://t.co/Z14p7lWh3R](https://t.co/Z14p7lWh3R) 
+
+Google DeepMind announces a major new project with 'StarCraft II' [https://t.co/IXJln8NYdt](https://t.co/IXJln8NYdt) 
 
 
 
