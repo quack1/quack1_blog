@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-08 00:35
+Date: 2016-11-09 00:35
 Author: Quack1
 Slug: links
+
+
+(1) La manif pour tous est-elle homophobe ? - Libération [https://t.co/t98cFQJfvw](https://t.co/t98cFQJfvw) 
 
 
 Résumé de la Blizzcon 2016 par [@NotPatrick](https://twitter.com/NotPatrick) et plein d'invités [https://t.co/Z14p7lWh3R](https://t.co/Z14p7lWh3R) 
