@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-09 00:35
+Date: 2016-11-10 00:35
 Author: Quack1
 Slug: links
+
+
+Taxi Girl [https://t.co/ICsm3wgONp](https://t.co/ICsm3wgONp) 
+
+Quite usefull :) [https://t.co/XiBHBuHf0E](https://t.co/XiBHBuHf0E) 
+
+The first cryptor to exploit Telegram - Securelist [https://t.co/6WWMYNlWup](https://t.co/6WWMYNlWup) 
 
 
 (1) La manif pour tous est-elle homophobe ? - Libération [https://t.co/t98cFQJfvw](https://t.co/t98cFQJfvw) 
