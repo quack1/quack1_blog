@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-10 00:35
+Date: 2016-11-11 00:35
 Author: Quack1
 Slug: links
+
+
+Emma Watson part à New York pour distribuer des livres dans le métro suite à l'élection de Trump [https://t.co/T2lY6Ohxa5](https://t.co/T2lY6Ohxa5) 
+
+Election de Donald Trump : l'opéra rock Starmania avait tout prédit - SudOuest.fr [https://t.co/di6568WSuo](https://t.co/di6568WSuo) 
 
 
 Taxi Girl [https://t.co/ICsm3wgONp](https://t.co/ICsm3wgONp) 
