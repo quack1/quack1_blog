@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-15 00:35
+Date: 2016-11-16 00:35
 Author: Quack1
 Slug: links
+
+
+LSASS SMB NTLM Exchange Remote Memory Corruption - [https://t.co/4xqj3rURMX](https://t.co/4xqj3rURMX) [https://t.co/M2PQUOaECh](https://t.co/M2PQUOaECh) 
+
+Major Linux security hole found in Cryptsetup script for LUKS disk encryption [https://t.co/bYvyxGypAU](https://t.co/bYvyxGypAU) 
 
 
 Une super-Lune cela n’existe pas ! | Autour du Ciel [https://t.co/pl5zVqpzEy](https://t.co/pl5zVqpzEy) 
