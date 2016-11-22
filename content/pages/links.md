@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-22 00:35
+Date: 2016-11-23 00:35
 Author: Quack1
 Slug: links
+
+
+[0day] [exploit] Advancing exploitation: a scriptless 0day exploit against Linux desktops [https://t.co/71Qg4ZZFxf](https://t.co/71Qg4ZZFxf) 
+
+KeePass audit: no critical security vulnerabilities found - gHacks Tech News [https://t.co/tmpWPdE4z8](https://t.co/tmpWPdE4z8) 
+
+L'histoire du mec avec une prothèse qui fait machine à tatouer | The Creators Project [https://t.co/y0NTaNitDZ](https://t.co/y0NTaNitDZ) 
 
 
 
