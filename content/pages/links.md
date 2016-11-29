@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-29 00:35
+Date: 2016-11-30 00:35
 Author: Quack1
 Slug: links
+
+
+Abusing MySQL string arithmetic for tiny SQL injections [https://t.co/gZfmgImoJT](https://t.co/gZfmgImoJT) 
+
+Win-Fu Official Blog: Every Windows 10 in-place Upgrade is a SEVERE Security risk [https://t.co/yiYpjc4VUF](https://t.co/yiYpjc4VUF) 
+
+Un CRS condamné à 11 ans de prison pour des viols et des agressions sexuelles sur dix femmes [https://t.co/SOum0fLtd7](https://t.co/SOum0fLtd7) 
+
+Pwning coworkers thanks to LaTeX · scumjr [https://t.co/HHUc6qocpd](https://t.co/HHUc6qocpd) 
+
+How I Bypassed Apple's Most Secure iCloud Activation Lock | Hemanth Joseph [https://t.co/1AnVhrdChe](https://t.co/1AnVhrdChe) 
 
 
 FLARE IDA Pro Script Series: Automatic Recovery of Constructed Strings in Malware « Threat Research Blog [https://t.co/H1I1yOACJ3](https://t.co/H1I1yOACJ3) 
