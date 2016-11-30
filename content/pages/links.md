@@ -1,7 +1,16 @@
 Title: Liens partagés sur Twitter
-Date: 2016-11-30 00:35
+Date: 2016-12-01 00:35
 Author: Quack1
 Slug: links
+
+
+50 Best Albums of 2016 | Rolling Stone [https://t.co/xk65H27jiO](https://t.co/xk65H27jiO) 
+
+Watch This Guy Steal Bucket With $1.6 Million In Gold Flakes From Armored Truck: Gothamist [https://t.co/UFtU7c2mvD](https://t.co/UFtU7c2mvD) 
+
+«Partouze-porno» : La Manif pour Tous fait la pub du film «Sausage Party» - Culture / Next [https://t.co/YzdHmgVkQw](https://t.co/YzdHmgVkQw) 
+
+Firefox Zero-Day Exploit to Unmask Tor Users Released Online [https://t.co/TwxcwJC05y](https://t.co/TwxcwJC05y) 
 
 
 Abusing MySQL string arithmetic for tiny SQL injections [https://t.co/gZfmgImoJT](https://t.co/gZfmgImoJT) 
