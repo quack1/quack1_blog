@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-01 00:35
+Date: 2016-12-02 00:35
 Author: Quack1
 Slug: links
+
+
+Les gens de chez [@firefox](https://twitter.com/firefox) ne nous avaient pas dit qu'ils se lançaient dans l'équipement pour le tir à l'arc :)… [https://t.co/bxWtzUlXEN](https://t.co/bxWtzUlXEN) 
+
+Machine Learning for Everyday Tasks [https://t.co/udzquumZQ6](https://t.co/udzquumZQ6) 
 
 
 50 Best Albums of 2016 | Rolling Stone [https://t.co/xk65H27jiO](https://t.co/xk65H27jiO) 
