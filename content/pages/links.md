@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-02 00:35
+Date: 2016-12-03 00:35
 Author: Quack1
 Slug: links
+
+
+Suricata 3.2 available! | Suricata on [https://t.co/BOS1KqE0s0](https://t.co/BOS1KqE0s0) [https://t.co/uG0XzgdHiV](https://t.co/uG0XzgdHiV) 
+
+IA : Après les échecs et le Go, Starcraft comme nouvel horizon ? - ZDNet [https://t.co/Ag8QJ68mGT](https://t.co/Ag8QJ68mGT) 
 
 
 Les gens de chez [@firefox](https://twitter.com/firefox) ne nous avaient pas dit qu'ils se lançaient dans l'équipement pour le tir à l'arc :)… [https://t.co/bxWtzUlXEN](https://t.co/bxWtzUlXEN) 
