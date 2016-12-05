@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-05 00:35
+Date: 2016-12-06 00:35
 Author: Quack1
 Slug: links
+
+
+380,000 Hacked xHamster Accounts for Sale Online, US Army Emails Included [https://t.co/HwWrRJHck2](https://t.co/HwWrRJHck2) 
+
+An introduction of Use-After-Free detection in binary code by static analysis [https://t.co/6Lem5DIs0r](https://t.co/6Lem5DIs0r) 
 
 
 
