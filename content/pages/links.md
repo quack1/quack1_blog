@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-06 00:35
+Date: 2016-12-07 00:35
 Author: Quack1
 Slug: links
+
+
+Aggressive design caused Samsung Galaxy Note 7 battery explosions — Instrumental Millions of Things [https://t.co/WBbGRlKcXU](https://t.co/WBbGRlKcXU) 
+
+Apple releases macOS 10.12 Sierra Darwin source code - [https://t.co/1vMjtrXYXM](https://t.co/1vMjtrXYXM) [https://t.co/iMNHnEFjk5](https://t.co/iMNHnEFjk5) 
 
 
 380,000 Hacked xHamster Accounts for Sale Online, US Army Emails Included [https://t.co/HwWrRJHck2](https://t.co/HwWrRJHck2) 
