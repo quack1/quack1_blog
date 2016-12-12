@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-12 00:35
+Date: 2016-12-13 00:35
 Author: Quack1
 Slug: links
+
+
+New Stegano Exploit Kit Hides Malvertising Code in Image Pixels [https://t.co/hBIHZ7k569](https://t.co/hBIHZ7k569) 
+
+Pokemon Starters in real life [https://t.co/X39fSMh6G2](https://t.co/X39fSMh6G2) 
+
+Mermaid: Generation of diagram and flowchart from text in a similar manner as markdown [https://t.co/zuoKvDoZxl](https://t.co/zuoKvDoZxl) 
 
 
 
