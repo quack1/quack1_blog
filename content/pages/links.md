@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-13 00:35
+Date: 2016-12-14 00:35
 Author: Quack1
 Slug: links
+
+
+Pour récupérer vos données, ce ransomware vous demande d’infecter d’autres victimes [https://t.co/jsdtNCg3bh](https://t.co/jsdtNCg3bh) 
+
+Resolve simple merge conflicts on GitHub · GitHub [https://t.co/ejuaL2mL3T](https://t.co/ejuaL2mL3T) 
 
 
 New Stegano Exploit Kit Hides Malvertising Code in Image Pixels [https://t.co/hBIHZ7k569](https://t.co/hBIHZ7k569) 
