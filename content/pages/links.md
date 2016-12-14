@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-14 00:35
+Date: 2016-12-15 00:35
 Author: Quack1
 Slug: links
+
+
+Joue la comme Clever Cloud : comment nous avons survécu à un redressement judiciaire [https://t.co/g2RBuTYrE5](https://t.co/g2RBuTYrE5) 
 
 
 Pour récupérer vos données, ce ransomware vous demande d’infecter d’autres victimes [https://t.co/jsdtNCg3bh](https://t.co/jsdtNCg3bh) 
