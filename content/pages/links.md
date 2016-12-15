@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-15 00:35
+Date: 2016-12-16 00:35
 Author: Quack1
 Slug: links
+
+
+Reliably compromising Ubuntu desktops by attacking the crash reporter | Donncha O'Cearbhaill [https://t.co/Xmmv8iSrQD](https://t.co/Xmmv8iSrQD) 
+
+Tails - Tails 2.9.1 is out [https://t.co/sPJlxuRrq6](https://t.co/sPJlxuRrq6) 
 
 
 Joue la comme Clever Cloud : comment nous avons survécu à un redressement judiciaire [https://t.co/g2RBuTYrE5](https://t.co/g2RBuTYrE5) 
