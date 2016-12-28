@@ -1,7 +1,24 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-28 00:35
+Date: 2016-12-29 00:35
 Author: Quack1
 Slug: links
+
+
+Fabrication d'un lit pour enfant à la manière de Jory Brigham - YouTube [https://t.co/HB9YjyVOAA](https://t.co/HB9YjyVOAA) 
+
+François Hollande accorde une grâce totale à Jacqueline Sauvage [https://t.co/gBchsJ8NhZ](https://t.co/gBchsJ8NhZ) 
+
+Docker Internals -- A Deep Dive Into Docker For Engineers Interested In The Gritty Details. [https://t.co/29fhbsXSXa](https://t.co/29fhbsXSXa) 
+
+GitHub - google/wycheproof: Project Wycheproof tests crypto libraries against known attacks. [https://t.co/gUpKuauDr9](https://t.co/gUpKuauDr9) 
+
+La vidéo du jour : l'Autopilot d'une Tesla prévoit et évite un accident de la route [https://t.co/bBHoeOdcMc](https://t.co/bBHoeOdcMc) 
+
+PHPMailer-Exploit-Remote-Code-Exec-CVE-2016-10045-Vuln-Patch-Bypass [https://t.co/jFWNUXiOBY](https://t.co/jFWNUXiOBY) 
+
+GitHub - lk-geimfari/elizabeth: Elizabeth is a fast Python library for generating dummy data. [https://t.co/pZqod8e2y4](https://t.co/pZqod8e2y4) 
+
+Financement du FN : des hackers russes dévoilent des échanges au Kremlin [https://t.co/Zo3ue9c1zq](https://t.co/Zo3ue9c1zq) 
 
 
 
