@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2016-12-29 00:35
+Date: 2016-12-30 00:35
 Author: Quack1
 Slug: links
+
+
+Amilitants [https://t.co/hBZII1wuDC](https://t.co/hBZII1wuDC) 
+
+Tor Browser 6.5a6 is released | The Tor Blog [https://t.co/TIffGtnNC6](https://t.co/TIffGtnNC6) 
+
+Facebook Certificate Transparency | Log and monitor all publicly-trusted TLS certs on the Internet. [https://t.co/G9NlbusoiQ](https://t.co/G9NlbusoiQ) (via @waxzce) 
 
 
 Fabrication d'un lit pour enfant à la manière de Jory Brigham - YouTube [https://t.co/HB9YjyVOAA](https://t.co/HB9YjyVOAA) 
