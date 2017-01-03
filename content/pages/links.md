@@ -1,7 +1,18 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-03 00:35
+Date: 2017-01-04 00:35
 Author: Quack1
 Slug: links
+
+
+Unsend Messages, Network Usage, and More [https://t.co/SuAYYXsW5x](https://t.co/SuAYYXsW5x) 
+
+Ce financier va confier la direction de son entreprise à une machine [https://t.co/ROXMlEk8qZ](https://t.co/ROXMlEk8qZ) 
+
+Vatican : un McDonald's ouvre ses portes malgré l'opposition de certains cardinaux — RT en français [https://t.co/wIHN8YKxAE](https://t.co/wIHN8YKxAE) 
+
+Donald Trump Blasts GM for Tax-Free Imports of Mexican-Made Cars | The Daily Dot [https://t.co/y94Ftb1UM2](https://t.co/y94Ftb1UM2) 
+
+Efficient Encryption from Random Quasi-Cyclic Codes [https://t.co/HwGn0BnS7C](https://t.co/HwGn0BnS7C) 
 
 
 
