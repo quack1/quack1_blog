@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-06 00:35
+Date: 2017-01-07 00:35
 Author: Quack1
 Slug: links
+
+
+How Twitter Handles 3,000 Images Per Second - High Scalability - [https://t.co/VtIdEp5XVa](https://t.co/VtIdEp5XVa) 
+
+Comment j'ai appris à ne plus m'en faire et à soumettre au SSTIC ? · SSTIC - Blog [https://t.co/9AbyFkD8i6](https://t.co/9AbyFkD8i6) 
 
 
 [CES 2017] Renault crée la surprise avec une voiture open source [https://t.co/J5KTgpK8la](https://t.co/J5KTgpK8la) 
