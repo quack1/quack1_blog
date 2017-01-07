@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-07 00:35
+Date: 2017-01-08 00:35
 Author: Quack1
 Slug: links
+
+
+Whisky Bottle lamp - YouTube [https://t.co/tBz1fIUDCM](https://t.co/tBz1fIUDCM) 
 
 
 How Twitter Handles 3,000 Images Per Second - High Scalability - [https://t.co/VtIdEp5XVa](https://t.co/VtIdEp5XVa) 
