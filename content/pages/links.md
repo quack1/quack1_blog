@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-10 00:35
+Date: 2017-01-11 00:35
 Author: Quack1
 Slug: links
+
+
+Named and optional function arguments in C11 [https://t.co/leb03igFiu](https://t.co/leb03igFiu) 
+
+Secure Messaging Apps Comparison | Privacy Matters [https://t.co/n8ggzmQ4yz](https://t.co/n8ggzmQ4yz) 
+
+TV anchor says live on-air 'Alexa, order me a dollhouse' – guess what happens next • The Register [https://t.co/DLUhNzJqwA](https://t.co/DLUhNzJqwA) 
 
 
 Un Airbus A-320 télécommandé d’une envergure de 5 mètres pour 350 grammes à peine, qui dit mieux ? [https://t.co/N3L1pFf9Xc](https://t.co/N3L1pFf9Xc) 
