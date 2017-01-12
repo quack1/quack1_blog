@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-12 00:35
+Date: 2017-01-13 00:35
 Author: Quack1
 Slug: links
+
+
+Poste de RSSI ouvert chez [@Blizzard_Ent](https://twitter.com/Blizzard_Ent) à Versailles :) [https://t.co/2td96mgSsx](https://t.co/2td96mgSsx) 
 
 
 La République de Star Wars a-t-elle été détruite par l'absence de bons gynécos ? [https://t.co/hru3CE6zWG](https://t.co/hru3CE6zWG) via @motherboardfr 
