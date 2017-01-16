@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-16 00:35
+Date: 2017-01-17 00:35
 Author: Quack1
 Slug: links
+
+
+Petit clin d'oeil, [@Spotify](https://twitter.com/Spotify) remplace la barre de lecture par un sabre laser quand tu écoute la BO de #RogueOne [https://t.co/EjCpJoPZLp](https://t.co/EjCpJoPZLp) 
+
+Stealing passwords from McDonald's users [https://t.co/3WUJv4juU9](https://t.co/3WUJv4juU9) 
 
 
 
