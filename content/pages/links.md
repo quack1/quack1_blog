@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2017-01-31 00:35
+Date: 2017-02-01 00:35
 Author: Quack1
 Slug: links
+
+
+Photoshop Fun: Rockers With Donald Trump Hair [https://t.co/ggNog624zu](https://t.co/ggNog624zu) 
+
+DeepTraffic | 6.S094: Deep Learning for Self-Driving Cars [https://t.co/734nI5B48Z](https://t.co/734nI5B48Z) 
 
 
 
