@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2017-02-03 00:35
+Date: 2017-02-04 00:35
 Author: Quack1
 Slug: links
+
+
+Installing latest PowerShell Core 6.0 Release on Linux just got easier! | Windows PowerShell Blog [https://t.co/qNThQbUpCN](https://t.co/qNThQbUpCN) 
+
+Blizzard CEO Mike Morhaime says Trump travel ban is 'troubling' | PC Gamer [https://t.co/TE1XePjnCz](https://t.co/TE1XePjnCz) 
 
 
 
