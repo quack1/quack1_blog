@@ -1,7 +1,12 @@
 Title: Liens partagés sur Twitter
-Date: 2017-02-09 00:35
+Date: 2017-02-10 00:35
 Author: Quack1
 Slug: links
+
+
+Activision dévoile ses résultats financiers et tout va bien, Blizzard engrange les milliards [https://t.co/IS4XGAHlIC](https://t.co/IS4XGAHlIC) 
+
+ANSSI Security Recommendations for TLS [https://t.co/iMtB4e3ogv](https://t.co/iMtB4e3ogv) 
 
 
 
