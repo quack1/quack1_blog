@@ -1,7 +1,14 @@
 Title: Liens partagés sur Twitter
-Date: 2017-02-23 00:35
+Date: 2017-02-24 00:35
 Author: Quack1
 Slug: links
+
+
+« We have broken SHA-1 in practice » [https://t.co/I4wlQ42XBa](https://t.co/I4wlQ42XBa) 
+
+Linux kernel: CVE-2017-6074 - local privilege escalation in DCCP [https://t.co/Mv5RUoXbt3](https://t.co/Mv5RUoXbt3) 
+
+Sept planètes rocheuses découvertes autour d’une étoile naine [https://t.co/4RkBrVG3by](https://t.co/4RkBrVG3by) 
 
 
 
