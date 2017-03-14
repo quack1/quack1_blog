@@ -1,7 +1,10 @@
 Title: Liens partagés sur Twitter
-Date: 2017-03-14 00:35
+Date: 2017-03-15 00:35
 Author: Quack1
 Slug: links
+
+
+Password Rules Are Bullshit [https://t.co/D7FCj820sV](https://t.co/D7FCj820sV) 
 
 
 
